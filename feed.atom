@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T01:03:55.026Z</id>
+    <id>urn:2022-10-06T00:58:52.836Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T01:03:55.026Z</updated>
+    <updated>2022-10-06T00:58:52.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -109,7 +109,13 @@ Windows, Windows, Mac OS X]]></summary>
         <id>1d1e54c0-4082-4e64-9d65-4998513f927e</id>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-6-2-39/1d1e54c0-4082-4e64-9d65-4998513f927e"/>
         <updated>2022-09-27T07:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Bugfixes
+        <summary type="html"><![CDATA[Overview
+* This release is available on the official/stable release channel for the following models:
+
+Gen 6: all models
+
+* It's still a release candidate for all other AP models.
+Bugfixes
 
 [UAP] Fix devices getting stuck when rebooting (eg: after a firmware update, restart, factory reset).
 [UAP] Fix APs going offline in the Network Application device list while continuing to function otherwise.
@@ -117,25 +123,7 @@ Windows, Windows, Mac OS X]]></summary>
 [UAP-Gen2/Gen3] Fix false DFS radar hits in a high channel utilization environment.
 [UAP-Gen2/Gen3/Gen6] Fix nightly DFS reset occasionally causing the 5GHz radio to stop broadcasting.
 [UAP-Gen2/Gen3/Gen6] Fix wireless adoption occasionally taking longer than expected, introduced in 6.2.37.
-[UAP-Gen4] Fix 5GHz radio occasionally not broadcasting after temporarily losing its wired uplink when meshing is enabled.
-[UAP-Gen6] Fix wireless clients on APs with management VLANs not being able to SSH into the AP they are connected to.
-[UAP-Gen6] Fix incorrect TX retry measurement, leading to mcad log of 'TX data retries is bigger than total TX tries'.
-[U6-Mesh] Fix Network application sending low performance mode alerts for U6-Mesh when powered with PoE.
-
-Additional information
-
-U6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.
-Instead of using the manual links, you can also subscribe to your desired firmware channel, as described here.
-Please refer to this article to find more details on how to identify your Access Point generation.
-Your device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.
-All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
-
- 
-Any and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:
-
-Network Application version.
-Firmware version (previous and current). 
-Device model(s).]]></summary>
+[UAP-Gen4] Fix 5GHz radio occasional…]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
