@@ -8,7 +8,7 @@
         {
           "id": "1d1e54c0-4082-4e64-9d65-4998513f927e",
           "author": "UI-Glenn",
-          "description": "Overview\n* This release is available on the official/stable release channel for the following models:\n\nGen 6: all models\n\n* It's still a release candidate for all other AP models.\nBugfixes\n\n[UAP] Fix devices getting stuck when rebooting (eg: after a firmware update, restart, factory reset).\n[UAP] Fix APs going offline in the Network Application device list while continuing to function otherwise.\n[UAP] Fix devices occasionally going offline in the Network Application.\n[UAP-Gen2/Gen3] Fix false DFS radar hits in a high channel utilization environment.\n[UAP-Gen2/Gen3/Gen6] Fix nightly DFS reset occasionally causing the 5GHz radio to stop broadcasting.\n[UAP-Gen2/Gen3/Gen6] Fix wireless adoption occasionally taking longer than expected, introduced in 6.2.37.\n[UAP-Gen4] Fix 5GHz radio occasional…",
+          "description": "Bugfixes\n\n[UAP] Fix devices getting stuck when rebooting (eg: after a firmware update, restart, factory reset).\n[UAP] Fix APs going offline in the Network Application device list while continuing to function otherwise.\n[UAP] Fix devices occasionally going offline in the Network Application.\n[UAP-Gen2/Gen3] Fix false DFS radar hits in a high channel utilization environment.\n[UAP-Gen2/Gen3/Gen6] Fix nightly DFS reset occasionally causing the 5GHz radio to stop broadcasting.\n[UAP-Gen2/Gen3/Gen6] Fix wireless adoption occasionally taking longer than expected, introduced in 6.2.37.\n[UAP-Gen4] Fix 5GHz radio occasionally not broadcasting after temporarily losing its wired uplink when meshing is enabled.\n[UAP-Gen6] Fix wireless clients on APs with management VLANs not being able to SSH into the AP they are connected to.\n[UAP-Gen6] Fix incorrect TX retry measurement, leading to mcad log of 'TX data retries is bigger than total TX tries'.\n[U6-Mesh] Fix Network application sending low performance mode alerts for U6-Mesh when powered with PoE.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-39/1d1e54c0-4082-4e64-9d65-4998513f927e",
           "publishedOn": "2022-09-27T07:57:36.000Z",
           "wordCount": 5,
@@ -23,16 +23,6 @@
           "publishedOn": "2022-09-22T08:01:00.000Z",
           "wordCount": 5,
           "title": "UniFi Switch 6.3.13",
-          "imageUrl": null
-        },
-        {
-          "id": "c14eb29b-da1b-400c-9b61-1df76fb5b89f",
-          "author": "UI-Glenn",
-          "description": "Improvements\n\n[UAP] Improve wireless uplink and device adoption.\n[UAP] Improve RSTP/STP/MSTP loop detection to avoid erroneous switch port blocks in some cases.\n[UAP] Ensure TKIP cannot be configured when WPA3 is enabled. A Network application bug allowed this to be provisioned to APs, leading to lack of connectivity.\n\nBugfixes\n\n[UAP] Fix some devices going into an 'Offline' state on the Network Application after some time of use.\n[UAP] Fix a number of kernel crashes leading to unexpected reboots.\n[UAP] Fix intermittent UniFi Protect wireless camera disconnections when band steering is enabled.\n[UAP] Fix devices occasionally not resetting when they are forgotten from the Network Application.\n[UAP] Fix APs intermittently getting stuck after a configuration change (eg: UAPSD) or RF scan.\n[UA…",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-37/c14eb29b-da1b-400c-9b61-1df76fb5b89f",
-          "publishedOn": "2022-09-06T22:04:04.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.2.37",
           "imageUrl": null
         }
       ]
@@ -69,6 +59,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 6 Oct 2022 21:21:38 GMT",
+          "author": null,
+          "description": "FortiOS 7.0.7 B0367 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFWF_81F_2R_POE, FGT_ARM64_AWS, FGT_1800F,\nFOS_VM64, FGT_VM64_HV, FGT_90E,\nFGT_3501F, FGT_400E_BP, FGT_3401E,\nFGT_4201F, FGT_2600F, FGT_2500E,\nFGT_140E, FOS_VM64_HV, FWF_61F,\nFGT_VM64_OPC, FGT_200E, FGR_60F,\nFGT_401E, FGT_80E, FGT_201E,\nFGT_VM64_ALI, FGT_3200D, FGT_3000D,\nFGT_VM64_GCP, FGT_601E, FGT_100EF,\nFGT_5001E1, FGT_3400E, FGT_VM64_IBM,\nFGT_140E_POE, FGT_VM64_SVM, FGT_VM64_VMX,\nFGT_3300E, FGT_VM64_AWS, FGT_101F,\nFWF_81F_2R, FGT_3301E, FGR_60F_3G4G,\nFGT_3600E, FGT_VM64_RAXONDEMAND, FGT_40F_3G4G,\nFGT_60E_DSLJ, FGT_61F, FGT_81E_POE,\nFWF_61E, FGT_3601E, FGT_1500D,\nFGT_3100D, FGT_3960E, FGT_501E,\nFGT_200F, FWF_60E_DSL, FGT_5001E,\nFWF_60E, FGT_81E, FGT_301E,\nFGT_4200F, FGT_100F, FGT_2000E,\nFWF_40F, FGT_800D, FGT_3700D,\nFGT_3980E, FGT_61E, FOS_VM64_KVM,\nFGT_3800D, FGT_60E_POE, FGT_81F_POE,\nFGT_1801F, FWF_40F_3G4G, FGT_80E_POE,\nFGT_60E, FWF_81F_2R_3G4G_POE, FGT_300E,\nFWF_60E_DSLJ, FGT_80F, FGT_VM64_AZURE,\nFGT_1500DT, FGT_101E, FGT_91E,\nFGT_1100E, FGT_VM64_XEN, FGT_500E,\nFGT_100E, FGT_81F, FGT_1000D,\nFWF_80F_2R, FGT_2601F, FGT_ARM64_KVM,\nFGT_60F, FGT_400E, FGT_4401F,\nFGT_4400F, FGT_201F, FGT_60E_DSL,\nFGT_VM64, FGT_80F_POE, FGT_1101E,\nFGT_1200D, FGT_2201E, FOS_VM64_XEN,\nFGT_900D, FGT_600E, FGT_VM64_KVM,\nFGT_80F_BP, FGT_40F, FWF_60F,\nFGT_2200E, FGT_3500F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-10-06T21:21:38.000Z",
+          "wordCount": 2590,
+          "title": "FortiOS 7.0.7",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 4 Oct 2022 03:28:24 GMT",
           "author": null,
@@ -267,16 +267,6 @@
           "publishedOn": "2022-09-08T20:03:15.000Z",
           "wordCount": 2590,
           "title": "FortiOS 6.0.15",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 6 Sep 2022 18:33:22 GMT",
-          "author": null,
-          "description": "FortiADC 7.0.3 B0039 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAD_400F, FAD_AZURE, FAD_1500D,\nFAD_AZURE_ONDEMAND, FAD_ALI_ONDEMAND, FAD_1000F,\nFAD_120F, FAD_XENOPEN, FAD_220F,\nFAD_KVM, FAD_GCP_ONDEMAND, FAD_4000D,\nFAD_400D, FAD_200D, FAD_VM,\nFAD_4200F, FAD_2000D, FAD_300D,\nFAD_4000F, FAD_XENSERVER, FAD_200F,\nFAD_100F, FAD_XENAWS_ONDEMAND, FAD_5000F,\nFAD_2000F, FAD_OCI, FAD_2200F,\nFAD_1200F, FAD_300F, FAD_700D,\nFAD_HYPERV, FAD_ALI, FAD_GCP,\nFAD_XENAWS",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-09-06T18:33:22.000Z",
-          "wordCount": 2590,
-          "title": "FortiADC 7.0.3",
           "imageUrl": null
         }
       ]
