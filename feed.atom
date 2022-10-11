@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T01:01:48.546Z</id>
+    <id>urn:2022-10-11T00:56:06.970Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T01:01:48.546Z</updated>
+    <updated>2022-10-11T00:56:06.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiNDR 7.0.4]]></title>
+        <id>Mon, 10 Oct 2022 17:30:22 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-10-10T17:30:22.000Z</updated>
+        <summary type="html"><![CDATA[FortiNDR 7.0.4 B0027 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FNDR_3500F, FNDR_VMKV, FNDR_VM]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiProxy 7.2.1]]></title>
+        <id>Mon, 10 Oct 2022 17:22:42 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-10-10T17:22:42.000Z</updated>
+        <summary type="html"><![CDATA[FortiProxy 7.2.1 B0300 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FPX_KVM_AWS, FPX_XEN, FPX_400E,
+FPX_HY, FPX_2000E, FPX_KVM,
+FPX_KVM_OPC, FPX_KVM_GCP, FPX_AZURE,
+FPX_VMWARE, FPX_4000E]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiProxy 7.0.7]]></title>
         <id>Fri, 7 Oct 2022 16:29:33 GMT</id>
@@ -154,6 +181,66 @@ FGT_60E_DSL, FGT_91E, FGT_90E,
 FOS_VM64_KVM, FWF_40F_3G4G]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1856 (important): xorg-x11-server]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1856.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1856.html"/>
+        <updated>2022-09-30T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-2319, CVE-2022-2320]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1855 (important): thunderbird]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1855.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1855.html"/>
+        <updated>2022-09-30T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-2505, CVE-2022-36318, CVE-2022-36319, CVE-2022-38472, CVE-2022-38473, CVE-2022-38476, CVE-2022-38477, CVE-2022-38478]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1854 (important): systemd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1854.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1854.html"/>
+        <updated>2022-09-30T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2019-3842, CVE-2020-13529, CVE-2020-13776, CVE-2022-2526]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1853 (medium): ruby]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1853.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1853.html"/>
+        <updated>2022-09-30T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-28739]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1852 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1852.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1852.html"/>
+        <updated>2022-09-30T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-33655, CVE-2021-4159, CVE-2022-1462, CVE-2022-1679, CVE-2022-2153, CVE-2022-2588, CVE-2022-2663, CVE-2022-3028, CVE-2022-36123, CVE-2022-36879, CVE-2022-36946, CVE-2022-40307]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1851 (medium): golang]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1851.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1851.html"/>
+        <updated>2022-09-30T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-27664]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -344,6 +431,56 @@ FML_3000E, FML_VMAZ, FML_60D,
 FML_1000D]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1850 (important): aide]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1850.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1850.html"/>
+        <updated>2022-09-15T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-45417]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1849 (medium): zlib]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1849.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1849.html"/>
+        <updated>2022-09-15T04:54:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-37434]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1848 (medium): libxml2]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1848.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1848.html"/>
+        <updated>2022-09-15T04:46:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-29824]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1847 (important): golist]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1847.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1847.html"/>
+        <updated>2022-09-15T04:46:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1846 (important): golang]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1846.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1846.html"/>
+        <updated>2022-09-15T04:46:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148, CVE-2022-32189]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>

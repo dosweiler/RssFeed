@@ -31,13 +31,144 @@
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1856.html",
+          "author": null,
+          "description": "CVE-2022-2319, CVE-2022-2320",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1856.html",
+          "publishedOn": "2022-09-30T07:04:00.000Z",
+          "wordCount": 243,
+          "title": "ALAS-2022-1856 (important): xorg-x11-server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1855.html",
+          "author": null,
+          "description": "CVE-2022-2505, CVE-2022-36318, CVE-2022-36319, CVE-2022-38472, CVE-2022-38473, CVE-2022-38476, CVE-2022-38477, CVE-2022-38478",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1855.html",
+          "publishedOn": "2022-09-30T07:04:00.000Z",
+          "wordCount": 514,
+          "title": "ALAS-2022-1855 (important): thunderbird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1854.html",
+          "author": null,
+          "description": "CVE-2019-3842, CVE-2020-13529, CVE-2020-13776, CVE-2022-2526",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1854.html",
+          "publishedOn": "2022-09-30T07:04:00.000Z",
+          "wordCount": 383,
+          "title": "ALAS-2022-1854 (important): systemd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1853.html",
+          "author": null,
+          "description": "CVE-2022-28739",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1853.html",
+          "publishedOn": "2022-09-30T07:04:00.000Z",
+          "wordCount": 205,
+          "title": "ALAS-2022-1853 (medium): ruby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1852.html",
+          "author": null,
+          "description": "CVE-2021-33655, CVE-2021-4159, CVE-2022-1462, CVE-2022-1679, CVE-2022-2153, CVE-2022-2588, CVE-2022-2663, CVE-2022-3028, CVE-2022-36123, CVE-2022-36879, CVE-2022-36946, CVE-2022-40307",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1852.html",
+          "publishedOn": "2022-09-30T07:04:00.000Z",
+          "wordCount": 700,
+          "title": "ALAS-2022-1852 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1851.html",
+          "author": null,
+          "description": "CVE-2022-27664",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1851.html",
+          "publishedOn": "2022-09-30T07:04:00.000Z",
+          "wordCount": 173,
+          "title": "ALAS-2022-1851 (medium): golang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1850.html",
+          "author": null,
+          "description": "CVE-2021-45417",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1850.html",
+          "publishedOn": "2022-09-15T04:55:00.000Z",
+          "wordCount": 170,
+          "title": "ALAS-2022-1850 (important): aide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1849.html",
+          "author": null,
+          "description": "CVE-2022-37434",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1849.html",
+          "publishedOn": "2022-09-15T04:54:00.000Z",
+          "wordCount": 182,
+          "title": "ALAS-2022-1849 (medium): zlib",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1848.html",
+          "author": null,
+          "description": "CVE-2022-29824",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1848.html",
+          "publishedOn": "2022-09-15T04:46:00.000Z",
+          "wordCount": 179,
+          "title": "ALAS-2022-1848 (medium): libxml2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1847.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1847.html",
+          "publishedOn": "2022-09-15T04:46:00.000Z",
+          "wordCount": 695,
+          "title": "ALAS-2022-1847 (important): golist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1846.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148, CVE-2022-32189",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1846.html",
+          "publishedOn": "2022-09-15T04:46:00.000Z",
+          "wordCount": 741,
+          "title": "ALAS-2022-1846 (important): golang",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Fortinet Firmware Updates",
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 10 Oct 2022 17:30:22 GMT",
+          "author": null,
+          "description": "FortiNDR 7.0.4 B0027 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFNDR_3500F, FNDR_VMKV, FNDR_VM",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-10-10T17:30:22.000Z",
+          "wordCount": 2590,
+          "title": "FortiNDR 7.0.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 10 Oct 2022 17:22:42 GMT",
+          "author": null,
+          "description": "FortiProxy 7.2.1 B0300 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPX_KVM_AWS, FPX_XEN, FPX_400E,\nFPX_HY, FPX_2000E, FPX_KVM,\nFPX_KVM_OPC, FPX_KVM_GCP, FPX_AZURE,\nFPX_VMWARE, FPX_4000E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-10-10T17:22:42.000Z",
+          "wordCount": 2590,
+          "title": "FortiProxy 7.2.1",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 7 Oct 2022 16:29:33 GMT",
           "author": null,
