@@ -1,10 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T01:00:49.021Z</id>
+    <id>urn:2022-10-14T01:08:26.774Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T01:00:49.021Z</updated>
+    <updated>2022-10-14T01:08:26.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiManager 7.0.5]]></title>
+        <id>Fri, 14 Oct 2022 00:50:26 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-10-14T00:50:26.000Z</updated>
+        <summary type="html"><![CDATA[FortiManager 7.0.5 B0365 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FMG_2000E, FMG_300F, FMG_3900E,
+FMG_VM64_HV, FMG_3700G, FMG_VM64_AZURE,
+FMG_VM64_KVM, FMG_3700F, FMG_3000F,
+FMG_400E, FMG_VM64_OPC, FMG_VM64_AWS,
+FMG_3000G, FMG_VM64, FMG_VM64_GCP,
+FMG_VM64_AWSOnDemand, FMG_VM64_ALI, FMG_1000F,
+FMG_VM64_XEN, FMG_VM64_IBM, FMG_400G,
+FMG_200G, FMG_200F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer 7.0.5]]></title>
+        <id>Fri, 14 Oct 2022 00:41:20 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-10-14T00:41:20.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer 7.0.5 B0365 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAZ_VM64_ALI, FAZ_VM64_HV, FAZ_3000F,
+FAZ_1000F, FAZ_VM64_AWS, FAZ_3500F,
+FAZ_VM64_IBM, FAZ_VM64_XEN, FAZ_400E,
+FAZ_VM64_AZURE, FAZ_3000G, FAZ_200F,
+FAZ_3500E, FAZ_VM64_AWSOnDemand, FAZ_3500G,
+FAZ_VM64, FAZ_3900E, FAZ_800F,
+FAZ_VM64_KVM, FAZ_150G, FAZ_VM64_OPC,
+FAZ_2000E, FAZ_3700F, FAZ_300G,
+FAZ_300F, FAZ_3700G, FAZ_VM64_GCP,
+FAZ_800G]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiOS 7.0.8]]></title>
+        <id>Thu, 13 Oct 2022 18:27:44 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-10-13T18:27:44.000Z</updated>
+        <summary type="html"><![CDATA[FortiOS 7.0.8 B0418 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FGT_40F, FGT_500E, FGT_81E,
+FGT_1800F, FGT_81F_POE, FWF_61F,
+FGT_61F, FGT_ARM64_AWS, FGT_VM64_AZURE,
+FGT_201E, FGT_81F, FGT_2200E,
+FGT_3600E, FGT_600E, FGT_81E_POE,
+FGT_301E, FGT_VM64, FGT_5001E,
+FGT_1101E, FGT_VM64_VMX, FGT_3100D,
+FGT_140E_POE, FGR_60F, FGT_3000D,
+FGT_VM64_OPC, FGT_ARM64_KVM, FGT_4400F,
+FGT_401E, FGT_101E, FGT_2000E,
+FWF_60E_DSLJ, FGT_1500DT, FGT_4200F,
+FGT_3960E, FGT_3980E, FGT_501E,
+FGT_61E, FGT_3601E, FGT_3301E,
+FGT_200F, FGT_100E, FGT_900D,
+FWF_81F_2R_3G4G_POE, FGT_ARM64_OCI, FGT_2201E,
+FGT_601E, FGT_100EF, FGT_90E,
+FGT_3700D, FGT_3401E, FWF_61E,
+FGT_VM64_ALI, FGT_3400E, FGT_3800D,
+FGT_4401F, FGT_80F, FGT_1500D,
+FGT_3300E, FGT_3500F, FWF_60F,
+FWF_60E_DSL, FGT_400E_BP, FGT_5001E1,
+FGT_3200D, FGT_4201F, FGT_60F,
+FGT_60E, FGT_400E, FGT_1100E,
+FGT_VM64_HV, FGT_60E_DSL, FGT_VM64_SVM,
+FGT_201F, FGT_40F_3G4G, FGT_VM64_IBM,
+FGT_101F, FGT_2600F, FGT_2601F,
+FGT_140E, FWF_40F_3G4G, FGT_800D,
+FWF_80F_2R, FGT_VM64_KVM, FGT_VM64_RAXONDEMAND,
+FGT_91E, FOS_VM64_HV, FOS_VM64_XEN,
+FWF_81F_2R_POE, FGT_1000D, FGT_1200D,
+FOS_VM64, FGT_80E, FGT_60E_POE,
+FGR_60F_3G4G, FWF_60E, FWF_81F_2R,
+FGT_2500E, FGT_1801F, FGT_200E,
+FOS_VM64_KVM, FWF_40F, FGT_100F,
+FGT_60E_DSLJ, FGT_3501F, FGT_80E_POE,
+FGT_300E, FGT_VM64_AWS, FGT_VM64_GCP,
+FGT_80F_POE, FGT_80F_BP, FGT_VM64_XEN,
+FGT_71F, FGT_70F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UniFi Access Point 6.2.41]]></title>
         <id>6878748e-cc4d-4f80-bfb1-52df5af20a90</id>
@@ -240,6 +329,56 @@ FGT_60E_DSL, FGT_91E, FGT_90E,
 FOS_VM64_KVM, FWF_40F_3G4G]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2022-021 (medium): containerd, docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-021.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-021.html"/>
+        <updated>2022-10-03T19:35:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-27664]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2022-020 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-020.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-020.html"/>
+        <updated>2022-09-30T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-1679, CVE-2022-2153, CVE-2022-2585, CVE-2022-2586, CVE-2022-2588, CVE-2022-26373, CVE-2022-2663, CVE-2022-2905, CVE-2022-3028, CVE-2022-39190, CVE-2022-40307, CVE-2022-41222]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2022-008 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2022-008.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2022-008.html"/>
+        <updated>2022-09-30T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-1679, CVE-2022-2585, CVE-2022-2586, CVE-2022-2588, CVE-2022-26373, CVE-2022-2663, CVE-2022-2905, CVE-2022-3028, CVE-2022-3176, CVE-2022-3303, CVE-2022-39189, CVE-2022-39190, CVE-2022-40307]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2022-036 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-036.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-036.html"/>
+        <updated>2022-09-30T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-4159, CVE-2022-1679, CVE-2022-20369, CVE-2022-2153, CVE-2022-2586, CVE-2022-2588, CVE-2022-26373, CVE-2022-2663, CVE-2022-3028, CVE-2022-40307, CVE-2022-41222]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2022-020 (important): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-020.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-020.html"/>
+        <updated>2022-09-30T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -548,29 +687,6 @@ FML_1000D]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2022-09-14T19:29:38.000Z</updated>
         <summary type="html"><![CDATA[FortiSIEM 6.6.1 B1636 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiWeb 7.0.3]]></title>
-        <id>Tue, 13 Sep 2022 16:13:37 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2022-09-13T16:13:37.000Z</updated>
-        <summary type="html"><![CDATA[FortiWeb 7.0.3 B0111 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FWB_DOCKER, FWB_GCP, FWB_1000D,
-FWB_4000E, FWB_3000D, FWB_VBOX,
-FWB_100E, FWB_2000F, FWB_3000DFSX,
-FWB_600D, FWB_400C, FWB_AZURE_ONDEMAND,
-FWB_1000E, FWB_VM_PAYG, FWB_XENAWS_ONDEMAND,
-FWB_400E, FWB_4000F, FWB_KVM_PAYG,
-FWB_3000F, FWB_HYPERV, FWB_4000D,
-FWB_3000E, FWB_XENAWS, FWB_100D,
-FWB_600E, FWB_3010E, FWB_KVM,
-FWB_2000E, FWB_XENSERVER, FWB_OCI,
-FWB_400D, FWB_VM, FWB_XENOPEN,
-FWB_ALI, FWB_AZURE]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
