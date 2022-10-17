@@ -30,8 +30,8 @@
       <ul>
 
             {{#each articles}}
-            {{#ifContainsStr article "ForticlientEMS", "Fortilclient", "Access Point", "Fortigate"}}
             <article>
+            {{#ifContainsStr article "ForticlientEMS", "Fortilclient", "Access Point", "Fortigate"}}
                 <h3><a href={{link}}>{{title}}</a></h3>
                 <div>
                   <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
@@ -42,8 +42,8 @@
                 {{/if}}
                 <p>{{description}}</p>
               </details>
+              {{/ifContainsStr}}
             </article>
-            {{/ifContainsStr}}
             {{/each}}
 
           </section>
