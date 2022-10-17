@@ -31,7 +31,7 @@
 
             {{#each articles}}
             <article>
-            {{#ifContainsStr article "ForticlientEMS", "Fortilclient", "Access Point", "Fortigate"}}
+            {{#ifContainsStr article "ForticlientEMS"}}
                 <h3><a href={{link}}>{{title}}</a></h3>
                 <div>
                   <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
