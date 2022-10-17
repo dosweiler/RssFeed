@@ -31,6 +31,7 @@
 
             {{#each articles}}
             <article>
+            {{ifContainsStr article.title "Forticlient"}}
                 <h3><a href={{link}}>{{title}}</a></h3>
                 <div>
                   <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
@@ -41,6 +42,7 @@
                 {{/if}}
                 <p>{{description}}</p>
               </details>
+              {{/ifContainsStr}}
             </article>
             {{/each}}
 
