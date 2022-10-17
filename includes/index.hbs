@@ -30,6 +30,7 @@
       <ul>
 
             {{#each articles}}
+            {{#ifContainsStr article "ForticlientEMS", "Fortilclient", "Access Point", "Fortigate"}}
             <article>
                 <h3><a href={{link}}>{{title}}</a></h3>
                 <div>
