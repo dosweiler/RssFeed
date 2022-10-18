@@ -12,13 +12,6 @@
   <link href="index.css" rel="stylesheet" />
   <script src="index.js"></script>
 </head>
-<script>
-  Handlebars.registerHelper('contains', function(needle, haystack, options) {
-   needle = Handlebars.escapeExpression(needle);
-   haystack = Handlebars.escapeExpression(haystack);
-   return (haystack.indexOf(needle) > -1) ? options.fn(this) : options.inverse(this);
-});
-</script
 
 <body>
 
