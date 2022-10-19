@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T15:05:12.098Z</id>
+    <id>urn:2022-10-19T01:03:00.459Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T15:05:12.098Z</updated>
+    <updated>2022-10-19T01:03:00.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiADC 7.1.1]]></title>
+        <id>Tue, 18 Oct 2022 16:26:51 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-10-18T16:26:51.000Z</updated>
+        <summary type="html"><![CDATA[FortiADC 7.1.1 B0117 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAD_OCI, FAD_XENOPEN, FAD_ALI,
+FAD_XENAWS, FAD_700D, FAD_220F,
+FAD_4200F, FAD_2000D, FAD_300D,
+FAD_XENAWS_ONDEMAND, FAD_100F, FAD_4000D,
+FAD_HYPERV, FAD_120F, FAD_4000F,
+FAD_300F, FAD_KVM, FAD_XENSERVER,
+FAD_5000F, FAD_1200F, FAD_GCP,
+FAD_GCP_ONDEMAND, FAD_VM, FAD_AZURE,
+FAD_ALI_ONDEMAND, FAD_1000F, FAD_1500D,
+FAD_400F, FAD_400D, FAD_AZURE_ONDEMAND,
+FAD_2000F, FAD_2200F, FAD_200D,
+FAD_200F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiProxy 2.0.11]]></title>
         <id>Mon, 17 Oct 2022 17:16:34 GMT</id>
@@ -114,9 +137,7 @@ FGT_71F, FGT_70F]]></summary>
         <id>6878748e-cc4d-4f80-bfb1-52df5af20a90</id>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-6-2-41/6878748e-cc4d-4f80-bfb1-52df5af20a90"/>
         <updated>2022-10-12T17:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-* This release is currently a Release Candidate and is only for Gen2/3/4/5 (excluding Gen6).
-Improvements
+        <summary type="html"><![CDATA[Improvements
 
 [UAP] Improve overall stability by fixing kernel crashes.
 
@@ -126,7 +147,6 @@ Bugfixes
 [UAP-Gen4/Gen5] Fix nightly DFS reset not working.
 [UAP-Gen4/Gen5] Skip U-NII-3 channels in UK and Latvia when auto channel is configured. Latvia regulatory allows low power only; UK has a lot of outdoor interference on these channels.
 [UAP-Gen4/Gen5] Fix 5GHz radio broadcasting before DFS CAC occasionally without allowing new connections.
-
 
 Additional information
 
