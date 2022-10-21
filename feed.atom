@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-20T00:58:29.012Z</id>
+    <id>urn:2022-10-21T00:58:09.974Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T00:58:29.012Z</updated>
+    <updated>2022-10-21T00:58:09.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAP 7.0.5]]></title>
+        <id>Thu, 20 Oct 2022 21:07:39 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-10-20T21:07:39.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP 7.0.5 B0093 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAP_432F, FAP_23JF, FAP_231F,
+FAP_831F, FAP_433F, FAP_234F,
+FAP_431F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSwitchManager 7.0.1]]></title>
         <id>Thu, 20 Oct 2022 00:46:33 GMT</id>
@@ -645,32 +659,6 @@ Firmware version (previous and current). 
 Device model(s).]]></summary>
         <author>
             <name>UI-Glenn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSIEM 6.6.2]]></title>
-        <id>Tue, 20 Sep 2022 17:12:29 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2022-09-20T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[FortiSIEM 6.6.2 B1637 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiProxy 7.2.0]]></title>
-        <id>Tue, 20 Sep 2022 16:16:58 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2022-09-20T16:16:58.000Z</updated>
-        <summary type="html"><![CDATA[FortiProxy 7.2.0 B0298 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FPX_KVM_AWS, FPX_XEN, FPX_KVM,
-FPX_400G, FPX_2000G, FPX_KVM_GCP,
-FPX_KVM_OPC, FPX_VMWARE, FPX_400E,
-FPX_AZURE, FPX_2000E, FPX_4000G,
-FPX_4000E, FPX_HY]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
         </author>
     </entry>
 </feed>
