@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "d4cdfeaa-b64b-4a68-b963-1d69ab1b82df",
+          "author": "UI-Glenn",
+          "description": "Overview\n* This release is currently a Release candidate.\nImprovements\n\n[LTE] Update LCM messages.\n[LTE] Improve LTE module firmware update process.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "link": "https://community.ui.com/releases/UniFi-LTE-6-2-43/d4cdfeaa-b64b-4a68-b963-1d69ab1b82df",
+          "publishedOn": "2022-10-21T14:57:50.000Z",
+          "wordCount": 5,
+          "title": "UniFi LTE 6.2.43",
+          "imageUrl": null
+        },
+        {
           "id": "6878748e-cc4d-4f80-bfb1-52df5af20a90",
           "author": "UI-Glenn",
           "description": "Improvements\n\n[UAP] Improve overall stability by fixing kernel crashes.\n\nBugfixes\n\n[UAP] Fix band steering causing certain clients to disconnect and reconnect to 2.4GHz in a loop.\n[UAP-Gen4/Gen5] Fix nightly DFS reset not working.\n[UAP-Gen4/Gen5] Skip U-NII-3 channels in UK and Latvia when auto channel is configured. Latvia regulatory allows low power only; UK has a lot of outdoor interference on these channels.\n[UAP-Gen4/Gen5] Fix 5GHz radio broadcasting before DFS CAC occasionally without allowing new connections.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
@@ -24,16 +34,6 @@
           "wordCount": 5,
           "title": "UniFi Access Point 6.2.39",
           "imageUrl": null
-        },
-        {
-          "id": "7bde49e8-390c-4468-a223-8360d75dc63f",
-          "author": "UI-Glenn",
-          "description": "Bugfixes\n\n[USW-Enterprise-8-PoE] Fix issue where the switch loses it's experience score Experience occasionally.\n[USW-Enterprise24/48 PoE] Force 1G makes the 2.5G port anomalous.\n[USW-Pro] Fix issue where Fixed IP does not work properly in some L3 Networks.\n[USW-Mission-Critical] Fix doesn't display estimated run time when AC is unplugged.\n[USW-24/48] Fix LCM upgrade failure.\n\nAdditional information\n\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
-          "link": "https://community.ui.com/releases/UniFi-Switch-6-3-13/7bde49e8-390c-4468-a223-8360d75dc63f",
-          "publishedOn": "2022-09-22T08:01:00.000Z",
-          "wordCount": 5,
-          "title": "UniFi Switch 6.3.13",
-          "imageUrl": null
         }
       ]
     },
@@ -42,6 +42,126 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1868.html",
+          "author": null,
+          "description": "CVE-2022-2257, CVE-2022-2264, CVE-2022-2284, CVE-2022-2285, CVE-2022-2286, CVE-2022-2287, CVE-2022-2288, CVE-2022-2289, CVE-2022-2304, CVE-2022-2343, CVE-2022-2344, CVE-2022-2345, CVE-2022-2816, CVE-2022-2817, CVE-2022-2819, CVE-2022-2845, CVE-2022-2849, CVE-2022-2862, CVE-2022-2889, CVE-2022-2923, CVE-2022-2946, CVE-2022-2980, CVE-2022-2982, CVE-2022-3016, CVE-2022-3037, CVE-2022-3099",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1868.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 1149,
+          "title": "ALAS-2022-1868 (low): vim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1867.html",
+          "author": null,
+          "description": "CVE-2022-21618, CVE-2022-21619, CVE-2022-21624, CVE-2022-21626, CVE-2022-21628, CVE-2022-39399",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1867.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 298,
+          "title": "ALAS-2022-1867 (medium): java-11-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1866.html",
+          "author": null,
+          "description": "CVE-2022-21618, CVE-2022-21619, CVE-2022-21624, CVE-2022-21626, CVE-2022-21628, CVE-2022-39399",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1866.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 302,
+          "title": "ALAS-2022-1866 (medium): java-17-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1865.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1865.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 727,
+          "title": "ALAS-2022-1865 (important): golang-github-syndtr-gocapability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1864.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1864.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 727,
+          "title": "ALAS-2022-1864 (important): golang-github-kr-pty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1863.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1863.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 731,
+          "title": "ALAS-2022-1863 (important): go-rpm-macros",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1862.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1862.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 727,
+          "title": "ALAS-2022-1862 (important): golang-googlecode-sqlite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1861.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1861.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 726,
+          "title": "ALAS-2022-1861 (important): golang-googlecode-net",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1860.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1860.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 726,
+          "title": "ALAS-2022-1860 (important): golang-github-gorilla-mux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1859.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1859.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 727,
+          "title": "ALAS-2022-1859 (important): golang-github-gorilla-context",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1858.html",
+          "author": null,
+          "description": "CVE-2022-1705, CVE-2022-1962, CVE-2022-1996, CVE-2022-24675, CVE-2022-27191, CVE-2022-27664, CVE-2022-28131, CVE-2022-28327, CVE-2022-29526, CVE-2022-30629, CVE-2022-30630, CVE-2022-30631, CVE-2022-30632, CVE-2022-30633, CVE-2022-30635, CVE-2022-32148",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1858.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 726,
+          "title": "ALAS-2022-1858 (important): golang-github-godbus-dbus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1857.html",
+          "author": null,
+          "description": "CVE-2021-3999",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1857.html",
+          "publishedOn": "2022-10-17T21:46:00.000Z",
+          "wordCount": 793,
+          "title": "ALAS-2022-1857 (medium): glibc",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-021.html",
           "author": null,
@@ -159,6 +279,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Sat, 22 Oct 2022 00:52:48 GMT",
+          "author": null,
+          "description": "FortiNDR 7.1.0 B0249 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFNDR_VMKV, FNDR_VM, FNDR_3500F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-10-22T00:52:48.000Z",
+          "wordCount": 2590,
+          "title": "FortiNDR 7.1.0",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 20 Oct 2022 21:07:39 GMT",
           "author": null,
