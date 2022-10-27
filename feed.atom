@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-26T00:53:44.602Z</id>
+    <id>urn:2022-10-27T00:54:08.887Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-26T00:53:44.602Z</updated>
+    <updated>2022-10-27T00:54:08.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UniFi Access Point 6.2.44]]></title>
+        <id>949e1fc8-9c92-4b36-8c1e-2e7546d3b245</id>
+        <link href="https://community.ui.com/releases/UniFi-Access-Point-6-2-44/949e1fc8-9c92-4b36-8c1e-2e7546d3b245"/>
+        <updated>2022-10-26T18:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+* This release is only for Gen2/Gen3/Gen4/Gen5.
+Improvements
+
+[UAP] Make band steering less strict.
+[UAP] Improve overall stability.
+
+Bugfixes
+
+[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).
+[UAP-Gen2/3] Fix incorrect TX Retries being reported by UAPs. More fixes coming in future Network application releases.
+
+Additional information
+
+U6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.
+Instead of using the manual links, you can also subscribe to your desired firmware channel, as described here.
+Please refer to this article to find more details on how to identify your Access Point generation.
+All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
+
+ 
+Any and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:
+
+Network Application version.
+Firmware version (previous and current). 
+Device model(s).]]></summary>
+        <author>
+            <name>UI-Glenn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiAnalyzer-BigData 7.2.0]]></title>
         <id>Mon, 24 Oct 2022 23:50:40 GMT</id>
@@ -749,54 +783,6 @@ FOS_VM64_KVM, FWF_40F_3G4G]]></summary>
         <summary type="html"><![CDATA[FortiVoiceUCDesktop 3.0.12 B0171 and release notes are available for download from the Support site : https://support.fortinet.com
 This concerns the following models:
 Windows, Windows, Mac OS X]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point 6.2.39]]></title>
-        <id>1d1e54c0-4082-4e64-9d65-4998513f927e</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-6-2-39/1d1e54c0-4082-4e64-9d65-4998513f927e"/>
-        <updated>2022-09-27T07:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Bugfixes
-
-[UAP] Fix devices getting stuck when rebooting (eg: after a firmware update, restart, factory reset).
-[UAP] Fix APs going offline in the Network Application device list while continuing to function otherwise.
-[UAP] Fix devices occasionally going offline in the Network Application.
-[UAP-Gen2/Gen3] Fix false DFS radar hits in a high channel utilization environment.
-[UAP-Gen2/Gen3/Gen6] Fix nightly DFS reset occasionally causing the 5GHz radio to stop broadcasting.
-[UAP-Gen2/Gen3/Gen6] Fix wireless adoption occasionally taking longer than expected, introduced in 6.2.37.
-[UAP-Gen4] Fix 5GHz radio occasionally not broadcasting after temporarily losing its wired uplink when meshing is enabled.
-[UAP-Gen6] Fix wireless clients on APs with management VLANs not being able to SSH into the AP they are connected to.
-[UAP-Gen6] Fix incorrect TX retry measurement, leading to mcad log of 'TX data retries is bigger than total TX tries'.
-[U6-Mesh] Fix Network application sending low performance mode alerts for U6-Mesh when powered with PoE.
-
-Additional information
-
-U6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.
-Instead of using the manual links, you can also subscribe to your desired firmware channel, as described here.
-Please refer to this article to find more details on how to identify your Access Point generation.
-Your device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.
-All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
-
- 
-Any and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:
-
-Network Application version.
-Firmware version (previous and current). 
-Device model(s).]]></summary>
-        <author>
-            <name>UI-Glenn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiOS-6K7K 7.0.5]]></title>
-        <id>Mon, 26 Sep 2022 22:29:02 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2022-09-26T22:29:02.000Z</updated>
-        <summary type="html"><![CDATA[FortiOS-6K7K 7.0.5 B0057 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FGT_7000E, FGT_7000F, FGT_6000F]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>

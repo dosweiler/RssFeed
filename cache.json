@@ -1,10 +1,20 @@
 {
   "sources": [
     {
-      "title": "UniFi Access Point/Switch | Releases | Ubiquiti Community",
+      "title": "UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
       "articles": [
+        {
+          "id": "949e1fc8-9c92-4b36-8c1e-2e7546d3b245",
+          "author": "UI-Glenn",
+          "description": "Overview\n* This release is only for Gen2/Gen3/Gen4/Gen5.\nImprovements\n\n[UAP] Make band steering less strict.\n[UAP] Improve overall stability.\n\nBugfixes\n\n[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).\n[UAP-Gen2/3] Fix incorrect TX Retries being reported by UAPs. More fixes coming in future Network application releases.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-44/949e1fc8-9c92-4b36-8c1e-2e7546d3b245",
+          "publishedOn": "2022-10-26T18:58:48.000Z",
+          "wordCount": 5,
+          "title": "UniFi Access Point 6.2.44",
+          "imageUrl": null
+        },
         {
           "id": "d4cdfeaa-b64b-4a68-b963-1d69ab1b82df",
           "author": "UI-Glenn",
@@ -23,16 +33,6 @@
           "publishedOn": "2022-10-12T17:43:10.000Z",
           "wordCount": 5,
           "title": "UniFi Access Point 6.2.41",
-          "imageUrl": null
-        },
-        {
-          "id": "1d1e54c0-4082-4e64-9d65-4998513f927e",
-          "author": "UI-Glenn",
-          "description": "Bugfixes\n\n[UAP] Fix devices getting stuck when rebooting (eg: after a firmware update, restart, factory reset).\n[UAP] Fix APs going offline in the Network Application device list while continuing to function otherwise.\n[UAP] Fix devices occasionally going offline in the Network Application.\n[UAP-Gen2/Gen3] Fix false DFS radar hits in a high channel utilization environment.\n[UAP-Gen2/Gen3/Gen6] Fix nightly DFS reset occasionally causing the 5GHz radio to stop broadcasting.\n[UAP-Gen2/Gen3/Gen6] Fix wireless adoption occasionally taking longer than expected, introduced in 6.2.37.\n[UAP-Gen4] Fix 5GHz radio occasionally not broadcasting after temporarily losing its wired uplink when meshing is enabled.\n[UAP-Gen6] Fix wireless clients on APs with management VLANs not being able to SSH into the AP they are connected to.\n[UAP-Gen6] Fix incorrect TX retry measurement, leading to mcad log of 'TX data retries is bigger than total TX tries'.\n[U6-Mesh] Fix Network application sending low performance mode alerts for U6-Mesh when powered with PoE.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-39/1d1e54c0-4082-4e64-9d65-4998513f927e",
-          "publishedOn": "2022-09-27T07:57:36.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.2.39",
           "imageUrl": null
         }
       ]
@@ -527,16 +527,6 @@
           "publishedOn": "2022-09-29T19:50:40.000Z",
           "wordCount": 2590,
           "title": "FortiVoiceUCDesktop 3.0.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 26 Sep 2022 22:29:02 GMT",
-          "author": null,
-          "description": "FortiOS-6K7K 7.0.5 B0057 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_7000E, FGT_7000F, FGT_6000F",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-09-26T22:29:02.000Z",
-          "wordCount": 2590,
-          "title": "FortiOS-6K7K 7.0.5",
           "imageUrl": null
         }
       ]
