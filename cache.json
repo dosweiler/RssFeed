@@ -201,16 +201,6 @@
           "wordCount": 811,
           "title": "ALAS-2022-1857 (medium): glibc",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-021.html",
-          "author": null,
-          "description": "CVE-2022-27664",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-021.html",
-          "publishedOn": "2022-10-03T19:35:00.000Z",
-          "wordCount": 200,
-          "title": "ALASDOCKER-2022-021 (medium): containerd, docker",
-          "imageUrl": null
         }
       ]
     },
@@ -219,6 +209,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 2 Nov 2022 18:27:44 GMT",
+          "author": null,
+          "description": "FortiAnalyzer-BigData 7.0.5 B0146 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAZBD_4500F_Bootloader, FAZBD_VM64",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-11-02T18:27:44.000Z",
+          "wordCount": 2590,
+          "title": "FortiAnalyzer-BigData 7.0.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 2 Nov 2022 16:35:38 GMT",
+          "author": null,
+          "description": "FortiExtender 7.2.2 B0148 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFEXT_200F, FEXT_201E, FEV_211F_AM,\nFEXT_212F, FEXT_101F_AM, FEXT_311F,\nFEXT_101F_EA, FEV_211F, FEXT_201F_EA,\nFEXT_211E, FEXT_201F_AM, FEXT_511F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-11-02T16:35:38.000Z",
+          "wordCount": 2590,
+          "title": "FortiExtender 7.2.2",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 1 Nov 2022 19:14:51 GMT",
           "author": null,
@@ -437,36 +447,6 @@
           "publishedOn": "2022-10-06T21:21:38.000Z",
           "wordCount": 2590,
           "title": "FortiOS 7.0.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 4 Oct 2022 03:28:24 GMT",
-          "author": null,
-          "description": "FortiAuthenticator 6.4.6 B1043 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAC_300F, FAC_VM_OPC, FAC_VM_HV,\nFAC_200D, FAC_VM_XEN, FAC_400E,\nFAC_3000F, FAC_2000E, FAC_400C,\nFAC_800F, FAC_3000D, FAC_VM_AZURE,\nFAC_1000D, FAC_VM, FAC_200E,\nFAC_3000E, FAC_VM_KVM",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-10-04T03:28:24.000Z",
-          "wordCount": 2590,
-          "title": "FortiAuthenticator 6.4.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 4 Oct 2022 02:36:53 GMT",
-          "author": null,
-          "description": "FortiWeb 6.3.21 B1229 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFWB_400C, FWB_XENSERVER, FWB_HYPERV,\nFWB_400D, FWB_AZURE, FWB_KVM_PAYG,\nFWB_VBOX, FWB_3000DFSX, FWB_4000E,\nFWB_KVM, FWB_GCP, FWB_3010E,\nFWB_AZURE_ONDEMAND, FWB_100E, FWB_2000E,\nFWB_VM, FWB_4000D, FWB_3000D,\nFWB_ALI, FWB_600D, FWB_1000D,\nFWB_600E, FWB_XENOPEN, FWB_XENAWS_ONDEMAND,\nFWB_DOCKER, FWB_100D, FWB_3000E,\nFWB_OCI, FWB_XENAWS, FWB_1000E,\nFWB_VM_PAYG, FWB_400E",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-10-04T02:36:53.000Z",
-          "wordCount": 2590,
-          "title": "FortiWeb 6.3.21",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 3 Oct 2022 21:27:42 GMT",
-          "author": null,
-          "description": "FortiOS 7.2.2 B1255 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_VM64_OPC, FGT_3000D, FGT_100F,\nFGT_81F, FGT_2500E, FGT_301E,\nFWF_81F_2R, FGT_60E, FWF_81F_2R_POE,\nFGT_40F, FWF_60E_DSLJ, FGT_500E,\nFGT_140E_POE, FGT_2601F, FGT_80F_BP,\nFGT_ARM64_KVM, FGT_100E, FGT_200F,\nFGT_3700D, FGT_4401F, FGT_80E,\nFGT_200E, FGT_400E, FGT_140E,\nFGT_1200D, FWF_80F_2R, FGT_3980E,\nFGT_60E_POE, FGT_4400F, FGT_300E,\nFGT_401E, FGR_60F, FGT_1100E,\nFGT_501E, FGT_VM64_RAXONDEMAND, FGT_2200E,\nFGT_2201E, FGT_VM64, FGT_ARM64_AWS,\nFGT_80F_POE, FWF_60E_DSL, FGT_3501F,\nFGT_VM64_HV, FWF_81F_2R_3G4G_POE, FGT_VM64_SVM,\nFGT_5001E1, FGT_100EF, FGT_3401E,\nFGT_80F, FGT_5001E, FGT_40F_3G4G,\nFOS_VM64_HV, FWF_40F, FGT_900D,\nFGT_60E_DSLJ, FWF_60E, FGT_2600F,\nFGT_1800F, FOS_VM64_XEN, FGT_1101E,\nFGT_1500D, FWF_61E, FGT_3200D,\nFGT_3301E, FWF_61F, FGT_601E,\nFGT_VM64_XEN, FGT_3100D, FGT_1500DT,\nFGT_81F_POE, FGR_60F_3G4G, FGT_81E_POE,\nFOS_VM64, FGT_101E, FGT_3800D,\nFGT_600E, FGT_61E, FGT_201F,\nFGT_1801F, FGT_VM64_IBM, FGT_3600E,\nFGT_VM64_AZURE, FGT_3960E, FGT_3500F,\nFGT_3400E, FGT_VM64_ALI, FGT_800D,\nFGT_60F, FGT_81E, FGT_2000E,\nFGT_61F, FGT_VM64_KVM, FGT_3300E,\nFWF_60F, FGT_400E_BP, FGT_80E_POE,\nFGT_4200F, FGT_3601E, FGT_VM64_VMX,\nFGT_VM64_AWS, FGT_1000D, FGT_4201F,\nFGT_VM64_GCP, FGT_201E, FGT_101F,\nFGT_60E_DSL, FGT_91E, FGT_90E,\nFOS_VM64_KVM, FWF_40F_3G4G",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-10-03T21:27:42.000Z",
-          "wordCount": 2590,
-          "title": "FortiOS 7.2.2",
           "imageUrl": null
         }
       ]

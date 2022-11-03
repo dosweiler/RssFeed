@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T00:57:20.023Z</id>
+    <id>urn:2022-11-03T00:54:01.809Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T00:57:20.023Z</updated>
+    <updated>2022-11-03T00:54:01.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer-BigData 7.0.5]]></title>
+        <id>Wed, 2 Nov 2022 18:27:44 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-11-02T18:27:44.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer-BigData 7.0.5 B0146 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAZBD_4500F_Bootloader, FAZBD_VM64]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiExtender 7.2.2]]></title>
+        <id>Wed, 2 Nov 2022 16:35:38 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-11-02T16:35:38.000Z</updated>
+        <summary type="html"><![CDATA[FortiExtender 7.2.2 B0148 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FEXT_200F, FEXT_201E, FEV_211F_AM,
+FEXT_212F, FEXT_101F_AM, FEXT_311F,
+FEXT_101F_EA, FEV_211F, FEXT_201F_EA,
+FEXT_211E, FEXT_201F_AM, FEXT_511F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiOS 6.4.11]]></title>
         <id>Tue, 1 Nov 2022 19:14:51 GMT</id>
@@ -676,103 +703,6 @@ FGT_80F_BP, FGT_40F, FWF_60F,
 FGT_2200E, FGT_3500F]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAuthenticator 6.4.6]]></title>
-        <id>Tue, 4 Oct 2022 03:28:24 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2022-10-04T03:28:24.000Z</updated>
-        <summary type="html"><![CDATA[FortiAuthenticator 6.4.6 B1043 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAC_300F, FAC_VM_OPC, FAC_VM_HV,
-FAC_200D, FAC_VM_XEN, FAC_400E,
-FAC_3000F, FAC_2000E, FAC_400C,
-FAC_800F, FAC_3000D, FAC_VM_AZURE,
-FAC_1000D, FAC_VM, FAC_200E,
-FAC_3000E, FAC_VM_KVM]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiWeb 6.3.21]]></title>
-        <id>Tue, 4 Oct 2022 02:36:53 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2022-10-04T02:36:53.000Z</updated>
-        <summary type="html"><![CDATA[FortiWeb 6.3.21 B1229 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FWB_400C, FWB_XENSERVER, FWB_HYPERV,
-FWB_400D, FWB_AZURE, FWB_KVM_PAYG,
-FWB_VBOX, FWB_3000DFSX, FWB_4000E,
-FWB_KVM, FWB_GCP, FWB_3010E,
-FWB_AZURE_ONDEMAND, FWB_100E, FWB_2000E,
-FWB_VM, FWB_4000D, FWB_3000D,
-FWB_ALI, FWB_600D, FWB_1000D,
-FWB_600E, FWB_XENOPEN, FWB_XENAWS_ONDEMAND,
-FWB_DOCKER, FWB_100D, FWB_3000E,
-FWB_OCI, FWB_XENAWS, FWB_1000E,
-FWB_VM_PAYG, FWB_400E]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiOS 7.2.2]]></title>
-        <id>Mon, 3 Oct 2022 21:27:42 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2022-10-03T21:27:42.000Z</updated>
-        <summary type="html"><![CDATA[FortiOS 7.2.2 B1255 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FGT_VM64_OPC, FGT_3000D, FGT_100F,
-FGT_81F, FGT_2500E, FGT_301E,
-FWF_81F_2R, FGT_60E, FWF_81F_2R_POE,
-FGT_40F, FWF_60E_DSLJ, FGT_500E,
-FGT_140E_POE, FGT_2601F, FGT_80F_BP,
-FGT_ARM64_KVM, FGT_100E, FGT_200F,
-FGT_3700D, FGT_4401F, FGT_80E,
-FGT_200E, FGT_400E, FGT_140E,
-FGT_1200D, FWF_80F_2R, FGT_3980E,
-FGT_60E_POE, FGT_4400F, FGT_300E,
-FGT_401E, FGR_60F, FGT_1100E,
-FGT_501E, FGT_VM64_RAXONDEMAND, FGT_2200E,
-FGT_2201E, FGT_VM64, FGT_ARM64_AWS,
-FGT_80F_POE, FWF_60E_DSL, FGT_3501F,
-FGT_VM64_HV, FWF_81F_2R_3G4G_POE, FGT_VM64_SVM,
-FGT_5001E1, FGT_100EF, FGT_3401E,
-FGT_80F, FGT_5001E, FGT_40F_3G4G,
-FOS_VM64_HV, FWF_40F, FGT_900D,
-FGT_60E_DSLJ, FWF_60E, FGT_2600F,
-FGT_1800F, FOS_VM64_XEN, FGT_1101E,
-FGT_1500D, FWF_61E, FGT_3200D,
-FGT_3301E, FWF_61F, FGT_601E,
-FGT_VM64_XEN, FGT_3100D, FGT_1500DT,
-FGT_81F_POE, FGR_60F_3G4G, FGT_81E_POE,
-FOS_VM64, FGT_101E, FGT_3800D,
-FGT_600E, FGT_61E, FGT_201F,
-FGT_1801F, FGT_VM64_IBM, FGT_3600E,
-FGT_VM64_AZURE, FGT_3960E, FGT_3500F,
-FGT_3400E, FGT_VM64_ALI, FGT_800D,
-FGT_60F, FGT_81E, FGT_2000E,
-FGT_61F, FGT_VM64_KVM, FGT_3300E,
-FWF_60F, FGT_400E_BP, FGT_80E_POE,
-FGT_4200F, FGT_3601E, FGT_VM64_VMX,
-FGT_VM64_AWS, FGT_1000D, FGT_4201F,
-FGT_VM64_GCP, FGT_201E, FGT_101F,
-FGT_60E_DSL, FGT_91E, FGT_90E,
-FOS_VM64_KVM, FWF_40F_3G4G]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2022-021 (medium): containerd, docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-021.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2022-021.html"/>
-        <updated>2022-10-03T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-27664]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
 </feed>
