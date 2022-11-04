@@ -1,10 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-03T00:54:01.809Z</id>
+    <id>urn:2022-11-04T00:53:37.512Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T00:54:01.809Z</updated>
+    <updated>2022-11-04T00:53:37.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiManager 6.4.10]]></title>
+        <id>Fri, 4 Nov 2022 00:30:23 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-11-04T00:30:23.000Z</updated>
+        <summary type="html"><![CDATA[FortiManager 6.4.10 B2549 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FMG_300F, FMG_3900E, FMG_1000F,
+FMG_3700G, FMG_VM64_AZURE, FMG_4000E,
+FMG_400E, FMG_VM64_HV, FMG_3000F,
+FMG_2000E, FMG_VM64_XEN, FMG_3000G,
+FMG_200G, FMG_200F, FMG_3700F,
+FMG_VM64_OPC, FMG_VM64_KVM, FMG_VM64_GCP,
+FMG_VM64_ALI, FMG_VM64, FMG_VM64_AWS,
+FMG_400G, FMG_VM64_AWSOnDemand, FMG_300E]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer 6.4.10]]></title>
+        <id>Thu, 3 Nov 2022 23:54:03 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-11-03T23:54:03.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer 6.4.10 B2549 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAZ_3000E, FAZ_800F, FAZ_VM64_AZURE,
+FAZ_400E, FAZ_3900E, FAZ_1000F,
+FAZ_3700F, FAZ_200F, FAZ_1000E,
+FAZ_2000E, FAZ_3500F, FAZ_VM64_AWSOnDemand,
+FAZ_800G, FAZ_3700G, FAZ_VM64_AWS,
+FAZ_VM64_HV, FAZ_300G, FAZ_300F,
+FAZ_VM64_OPC, FAZ_3500G, FAZ_VM64_GCP,
+FAZ_3000F, FAZ_3500E, FAZ_150G,
+FAZ_3000G, FAZ_VM64_ALI, FAZ_VM64,
+FAZ_VM64_KVM, FAZ_VM64_XEN]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiOS 6.2.12]]></title>
+        <id>Thu, 3 Nov 2022 18:48:53 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-11-03T18:48:53.000Z</updated>
+        <summary type="html"><![CDATA[FortiOS 6.2.12 B1319 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FOS_VM64_HV, FGT_3600E, FGT_2000E,
+FGR_60F, FGT_1100E, FGT_3400E,
+FWF_50E, FWF_61F, FGT_401E,
+FGT_601E, FGT_VM64, FGT_60E_DSLJ,
+FGT_81E_POE, FGT_VM64_AWSONDEMAND, FWF_60E,
+FGT_VM64_ALI, FGT_VM64_GCPONDEMAND, FGT_3000D,
+FGT_600E, FGT_3300E, FGT_VM64_RAXONDEMAND,
+FGT_30E_MN, FGT_900D, FGT_100D,
+FGT_60E_POE, FGT_VM64_ALIONDEMAND, FGT_1000D,
+FGT_100EF, FGT_VM64_OPC, FGT_400E,
+FWF_81F_2R_POE, FGT_3401E, FWF_60F,
+FOS_VM64_XEN, FGT_5001D, FGT_80E,
+FGT_100E, FWF_50E_2R, FGT_VM64_XEN,
+FWF_30E_MN, FGT_3800D, FGT_300E,
+FGT_VM64_VMX, FGT_5001E1, FWF_60E_DSL,
+FGT_100F, FGT_1500DT, FGR_30D,
+FGT_60E, FGT_1500D, FWF_61E,
+FWF_40F_3G4G, FGT_50E, FGR_60F_3G4G,
+FOS_VM64, FGT_5001E, FGT_80E_POE,
+FGT_VM64_AZURE, FGT_81E, FGT_2201E,
+FGT_201E, FGT_52E, FWF_80F_2R,
+FGT_3700D, FGT_3601E, FGT_61F,
+FGT_500D, FGT_30E_MI, FGT_VM64_SVM,
+FFW_3980E, FGT_40F, FGT_80F_POE,
+FGT_30E_MG, FGT_92D, FGT_101E,
+FGT_140D, FGT_VM64_GCP, FWF_81F_2R,
+FGT_101F, FGT_90E, FGT_2500E,
+FGT_140D_POE, FGT_81F, FGT_301E,
+FGT_3200D, FGT_3980E, FGT_40F_3G4G,
+FWF_60E_DSLJ, FGT_3815D, FGT_80F_BP,
+FGT_200E, FGT_1101E, FGT_300D,
+FGT_140E, FGT_1200D, FGT_51E,
+FGT_400E_BP, FGT_60F, FOS_VM64_KVM,
+FGT_400D, FGT_81F_POE, FGT_501E,
+FGR_90D, FGT_140E_POE, FGT_600D,
+FGT_60E_DSL, FGT_VM64_HV, FGT_2200E,
+FGT_3810D, FGT_3100D, FGT_VM64_KVM,
+FGT_80F, FWF_40F, FGT_91E,
+FWF_30E, FGT_61E, FWF_51E,
+FGT_3301E, FGT_VM64_AZUREONDEMAND, FGT_30E,
+FGT_VM64_AWS, FGT_800D, FWF_30E_MI,
+FGR_35D, FGT_3960E, FGT_201F,
+FGT_200F, FGT_80D]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiMail 7.2.2]]></title>
+        <id>Thu, 3 Nov 2022 18:32:10 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-11-03T18:32:10.000Z</updated>
+        <summary type="html"><![CDATA[FortiMail 7.2.2 B0380 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FML_VMKV, FML_400F, FML_2000F,
+FML_200F, FML_VMOC, FML_2000E,
+FML_VMAW, FML_VMGC, FML_3000E,
+FML_VM, FML_3200E, FML_900F,
+FML_VMHV, FML_3000F, FML_VMXE,
+FML_VMAZ]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiADC 6.2.5]]></title>
+        <id>Thu, 3 Nov 2022 01:17:09 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-11-03T01:17:09.000Z</updated>
+        <summary type="html"><![CDATA[FortiADC 6.2.5 B0244 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAD_HYPERV, FAD_ALI_ONDEMAND, FAD_220F,
+FAD_ALI, FAD_2000D, FAD_200D,
+FAD_700D, FAD_300F, FAD_AZURE,
+FAD_4000F, FAD_4200F, FAD_200F,
+FAD_100F, FAD_120F, FAD_XENSERVER,
+FAD_1000F, FAD_XENOPEN, FAD_4000D,
+FAD_XENAWS, FAD_300D, FAD_2200F,
+FAD_1500D, FAD_1200F, FAD_VM,
+FAD_OCI, FAD_AZURE_ONDEMAND, FAD_GCP_ONDEMAND,
+FAD_KVM, FAD_5000F, FAD_XENAWS_ONDEMAND,
+FAD_400D, FAD_400F, FAD_GCP,
+FAD_2000F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiAnalyzer-BigData 7.0.5]]></title>
         <id>Wed, 2 Nov 2022 18:27:44 GMT</id>
