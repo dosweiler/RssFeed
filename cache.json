@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "e50b2cdc-cf2e-428f-a3be-d54cec125041",
+          "author": "UI-Glenn",
+          "description": "Overview\n* This release is only for Gen6 Access Points\nBugfixes\n\n[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.\n[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.\n[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-47/e50b2cdc-cf2e-428f-a3be-d54cec125041",
+          "publishedOn": "2022-11-18T10:01:57.000Z",
+          "wordCount": 5,
+          "title": "UniFi Access Point 6.2.47",
+          "imageUrl": null
+        },
+        {
           "id": "949e1fc8-9c92-4b36-8c1e-2e7546d3b245",
           "author": "UI-Glenn",
           "description": "Overview\n* This release is only for Gen2/Gen3/Gen4/Gen5.\nImprovements\n\n[UAP] Make band steering less strict.\n[UAP] Improve overall stability.\n\nBugfixes\n\n[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).\n[UAP-Gen2/3] Fix incorrect TX Retries being reported by UAPs. More fixes coming in future Network application releases.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
@@ -377,26 +387,6 @@
           "publishedOn": "2022-10-20T21:07:39.000Z",
           "wordCount": 2927,
           "title": "FortiAP 7.0.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 20 Oct 2022 00:46:33 GMT",
-          "author": null,
-          "description": "FortiSwitchManager 7.0.1 B0035 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFSWM_VM64_HV, FSWM_VM64_VMWARE, FSWM_VM64_KVM",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-10-20T00:46:33.000Z",
-          "wordCount": 2927,
-          "title": "FortiSwitchManager 7.0.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 20 Oct 2022 00:36:07 GMT",
-          "author": null,
-          "description": "FortiSwitchManager 7.2.1 B0093 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFSWM_VM64_KVM, FSWM_VM64_VMWARE, FSWM_VM64_HV",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-10-20T00:36:07.000Z",
-          "wordCount": 2927,
-          "title": "FortiSwitchManager 7.2.1",
           "imageUrl": null
         }
       ]
