@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-29T00:43:37.312Z</id>
+    <id>urn:2022-11-30T00:43:34.485Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-29T00:43:37.312Z</updated>
+    <updated>2022-11-30T00:43:34.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -115,6 +115,9 @@ Bugfixes
 [UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.
 [UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).
 
+Known issues
+We have discovered an issue that causes APs to cycle between 'Getting Ready' and 'Online' repeatedly if Lock to AP is in-use, causing unstable client connectivity.
+This version is being pulled from the Official release channel while we fix this.
 Additional information
 
 U6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.
