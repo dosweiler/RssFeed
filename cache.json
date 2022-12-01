@@ -21,134 +21,23 @@
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
-      "articles": [
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-022.html",
-          "author": null,
-          "description": "CVE-2022-3621, CVE-2022-3646, CVE-2022-3649, CVE-2022-40768",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-022.html",
-          "publishedOn": "2022-10-31T21:49:00.000Z",
-          "wordCount": 389,
-          "title": "ALASKERNEL-5.10-2022-022 (critical): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2022-010.html",
-          "author": null,
-          "description": "CVE-2022-40768",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2022-010.html",
-          "publishedOn": "2022-10-31T21:49:00.000Z",
-          "wordCount": 204,
-          "title": "ALASKERNEL-5.15-2022-010 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-038.html",
-          "author": null,
-          "description": "CVE-2022-3621, CVE-2022-3646, CVE-2022-40768",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-038.html",
-          "publishedOn": "2022-10-31T21:49:00.000Z",
-          "wordCount": 325,
-          "title": "ALASKERNEL-5.4-2022-038 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1877.html",
-          "author": null,
-          "description": "CVE-2022-40674",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1877.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 272,
-          "title": "ALAS-2022-1877 (important): expat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1876.html",
-          "author": null,
-          "description": "CVE-2022-3594, CVE-2022-3621, CVE-2022-3646, CVE-2022-3649, CVE-2022-39842, CVE-2022-40768",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1876.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 503,
-          "title": "ALAS-2022-1876 (critical): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1875.html",
-          "author": null,
-          "description": "CVE-2022-32205, CVE-2022-32206, CVE-2022-32207, CVE-2022-32208, CVE-2022-35252",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1875.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 446,
-          "title": "ALAS-2022-1875 (medium): curl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1874.html",
-          "author": null,
-          "description": "CVE-2022-2928, CVE-2022-2929",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1874.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 400,
-          "title": "ALAS-2022-1874 (medium): dhcp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1873.html",
-          "author": null,
-          "description": "CVE-2022-29154",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1873.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 219,
-          "title": "ALAS-2022-1873 (important): rsync",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1872.html",
-          "author": null,
-          "description": "CVE-2022-2867",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1872.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 206,
-          "title": "ALAS-2022-1872 (important): libtiff",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1871.html",
-          "author": null,
-          "description": "CVE-2022-1586",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1871.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 212,
-          "title": "ALAS-2022-1871 (medium): pcre2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1870.html",
-          "author": null,
-          "description": "CVE-2019-12749, CVE-2020-12049",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1870.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 321,
-          "title": "ALAS-2022-1870 (important): dbus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1869.html",
-          "author": null,
-          "description": "CVE-2009-5155, CVE-2015-8985",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2022-1869.html",
-          "publishedOn": "2022-10-31T19:40:00.000Z",
-          "wordCount": 826,
-          "title": "ALAS-2022-1869 (medium): glibc",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Fortinet Firmware Updates",
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 30 Nov 2022 23:20:46 GMT",
+          "author": null,
+          "description": "FortiOS-6K7K 6.0.15 B0405 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_7000E, FGT_6000F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-11-30T23:20:46.000Z",
+          "wordCount": 2927,
+          "title": "FortiOS-6K7K 6.0.15",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 24 Nov 2022 17:26:03 GMT",
           "author": null,
@@ -327,16 +216,6 @@
           "publishedOn": "2022-11-01T19:14:51.000Z",
           "wordCount": 2927,
           "title": "FortiOS 6.4.11",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 31 Oct 2022 16:29:11 GMT",
-          "author": null,
-          "description": "FortiFone 3.0.15 B0251 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFON_380, FON_380B, FON_480B,\nFON_580, FON_480",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-10-31T16:29:11.000Z",
-          "wordCount": 2927,
-          "title": "FortiFone 3.0.15",
           "imageUrl": null
         }
       ]
