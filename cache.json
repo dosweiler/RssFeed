@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "3984bf80-12f1-4c8e-babd-8ab6f7e64118",
+          "author": "UI-Glenn",
+          "description": "Improvements\n\n[LTE] Update LTE module.\n[LTE] Update LCM messages.\n[LTE] Improve LTE module firmware update process.\n\nAdditional information\n\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "link": "https://community.ui.com/releases/UniFi-LTE-6-2-48/3984bf80-12f1-4c8e-babd-8ab6f7e64118",
+          "publishedOn": "2022-12-03T13:07:17.000Z",
+          "wordCount": 5,
+          "title": "UniFi LTE 6.2.48",
+          "imageUrl": null
+        },
+        {
           "id": "e50b2cdc-cf2e-428f-a3be-d54cec125041",
           "author": "UI-Glenn",
           "description": "Overview\n* This release is only for Gen6 Access Points\nBugfixes\n\n[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.\n[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.\n[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).\n\nKnown issues\nWe have discovered an issue that causes APs to cycle between 'Getting Ready' and 'Online' repeatedly if Lock to AP is in-use, causing unstable client connectivity.\nThis version is being pulled from the Official release channel while we fix this.\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
@@ -136,46 +146,6 @@
           "publishedOn": "2022-11-09T00:40:36.000Z",
           "wordCount": 2927,
           "title": "FortiSOAR 7.3.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 4 Nov 2022 00:30:23 GMT",
-          "author": null,
-          "description": "FortiManager 6.4.10 B2549 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFMG_300F, FMG_3900E, FMG_1000F,\nFMG_3700G, FMG_VM64_AZURE, FMG_4000E,\nFMG_400E, FMG_VM64_HV, FMG_3000F,\nFMG_2000E, FMG_VM64_XEN, FMG_3000G,\nFMG_200G, FMG_200F, FMG_3700F,\nFMG_VM64_OPC, FMG_VM64_KVM, FMG_VM64_GCP,\nFMG_VM64_ALI, FMG_VM64, FMG_VM64_AWS,\nFMG_400G, FMG_VM64_AWSOnDemand, FMG_300E",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-11-04T00:30:23.000Z",
-          "wordCount": 2927,
-          "title": "FortiManager 6.4.10",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 3 Nov 2022 23:54:03 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 6.4.10 B2549 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAZ_3000E, FAZ_800F, FAZ_VM64_AZURE,\nFAZ_400E, FAZ_3900E, FAZ_1000F,\nFAZ_3700F, FAZ_200F, FAZ_1000E,\nFAZ_2000E, FAZ_3500F, FAZ_VM64_AWSOnDemand,\nFAZ_800G, FAZ_3700G, FAZ_VM64_AWS,\nFAZ_VM64_HV, FAZ_300G, FAZ_300F,\nFAZ_VM64_OPC, FAZ_3500G, FAZ_VM64_GCP,\nFAZ_3000F, FAZ_3500E, FAZ_150G,\nFAZ_3000G, FAZ_VM64_ALI, FAZ_VM64,\nFAZ_VM64_KVM, FAZ_VM64_XEN",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-11-03T23:54:03.000Z",
-          "wordCount": 2927,
-          "title": "FortiAnalyzer 6.4.10",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 3 Nov 2022 18:48:53 GMT",
-          "author": null,
-          "description": "FortiOS 6.2.12 B1319 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFOS_VM64_HV, FGT_3600E, FGT_2000E,\nFGR_60F, FGT_1100E, FGT_3400E,\nFWF_50E, FWF_61F, FGT_401E,\nFGT_601E, FGT_VM64, FGT_60E_DSLJ,\nFGT_81E_POE, FGT_VM64_AWSONDEMAND, FWF_60E,\nFGT_VM64_ALI, FGT_VM64_GCPONDEMAND, FGT_3000D,\nFGT_600E, FGT_3300E, FGT_VM64_RAXONDEMAND,\nFGT_30E_MN, FGT_900D, FGT_100D,\nFGT_60E_POE, FGT_VM64_ALIONDEMAND, FGT_1000D,\nFGT_100EF, FGT_VM64_OPC, FGT_400E,\nFWF_81F_2R_POE, FGT_3401E, FWF_60F,\nFOS_VM64_XEN, FGT_5001D, FGT_80E,\nFGT_100E, FWF_50E_2R, FGT_VM64_XEN,\nFWF_30E_MN, FGT_3800D, FGT_300E,\nFGT_VM64_VMX, FGT_5001E1, FWF_60E_DSL,\nFGT_100F, FGT_1500DT, FGR_30D,\nFGT_60E, FGT_1500D, FWF_61E,\nFWF_40F_3G4G, FGT_50E, FGR_60F_3G4G,\nFOS_VM64, FGT_5001E, FGT_80E_POE,\nFGT_VM64_AZURE, FGT_81E, FGT_2201E,\nFGT_201E, FGT_52E, FWF_80F_2R,\nFGT_3700D, FGT_3601E, FGT_61F,\nFGT_500D, FGT_30E_MI, FGT_VM64_SVM,\nFFW_3980E, FGT_40F, FGT_80F_POE,\nFGT_30E_MG, FGT_92D, FGT_101E,\nFGT_140D, FGT_VM64_GCP, FWF_81F_2R,\nFGT_101F, FGT_90E, FGT_2500E,\nFGT_140D_POE, FGT_81F, FGT_301E,\nFGT_3200D, FGT_3980E, FGT_40F_3G4G,\nFWF_60E_DSLJ, FGT_3815D, FGT_80F_BP,\nFGT_200E, FGT_1101E, FGT_300D,\nFGT_140E, FGT_1200D, FGT_51E,\nFGT_400E_BP, FGT_60F, FOS_VM64_KVM,\nFGT_400D, FGT_81F_POE, FGT_501E,\nFGR_90D, FGT_140E_POE, FGT_600D,\nFGT_60E_DSL, FGT_VM64_HV, FGT_2200E,\nFGT_3810D, FGT_3100D, FGT_VM64_KVM,\nFGT_80F, FWF_40F, FGT_91E,\nFWF_30E, FGT_61E, FWF_51E,\nFGT_3301E, FGT_VM64_AZUREONDEMAND, FGT_30E,\nFGT_VM64_AWS, FGT_800D, FWF_30E_MI,\nFGR_35D, FGT_3960E, FGT_201F,\nFGT_200F, FGT_80D",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-11-03T18:48:53.000Z",
-          "wordCount": 2927,
-          "title": "FortiOS 6.2.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 3 Nov 2022 18:32:10 GMT",
-          "author": null,
-          "description": "FortiMail 7.2.2 B0380 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFML_VMKV, FML_400F, FML_2000F,\nFML_200F, FML_VMOC, FML_2000E,\nFML_VMAW, FML_VMGC, FML_3000E,\nFML_VM, FML_3200E, FML_900F,\nFML_VMHV, FML_3000F, FML_VMXE,\nFML_VMAZ",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-11-03T18:32:10.000Z",
-          "wordCount": 2927,
-          "title": "FortiMail 7.2.2",
           "imageUrl": null
         }
       ]
