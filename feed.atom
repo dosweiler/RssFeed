@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T00:44:07.644Z</id>
+    <id>urn:2022-12-14T00:40:28.624Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T00:44:07.644Z</updated>
+    <updated>2022-12-14T00:40:28.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,16 @@ FSR_124D, FSW_448E_POE, FSW_248E_FPOE,
 FSW_424E_FIBER, FSW_1024E, FSW_T1024E]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2022-1903 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2022-1903.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2022-1903.html"/>
+        <updated>2022-12-09T20:58:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-3524, CVE-2022-42896]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -122,9 +132,20 @@ FGT_7000E, FGT_7000F, FGT_6000F]]></summary>
         <id>a0339e83-45ee-40a8-9774-c76273d0806e</id>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-6-2-49/a0339e83-45ee-40a8-9774-c76273d0806e"/>
         <updated>2022-12-05T19:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Bugfixes
+        <summary type="html"><![CDATA[Overview
+* This release is stable for Gen6 APs, it's still a RC for all other models (changelog includes changes from 6.2.44 and 6.2.47).
+Improvements
+
+[UAP] Make band steering less strict.
+[UAP] Improve overall stability.
+
+Bugfixes
 
 [UAP] Fix APs cycling between 'Getting Ready' and 'Online' continuously when Lock to AP is in-use and any AP goes down (e.g. for a firmware update). This led to all clients getting disconnected randomly.
+[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.
+[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).
+[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.
+[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).
 
 Additional information
 
