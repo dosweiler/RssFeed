@@ -8,7 +8,7 @@
         {
           "id": "a0339e83-45ee-40a8-9774-c76273d0806e",
           "author": "UI-Glenn",
-          "description": "Overview\n* This release is stable for Gen6 APs, it's still a RC for all other models (changelog includes changes from 6.2.44 and 6.2.47).\nImprovements\n\n[UAP] Make band steering less strict.\n[UAP] Improve overall stability.\n\nBugfixes\n\n[UAP] Fix APs cycling between 'Getting Ready' and 'Online' continuously when Lock to AP is in-use and any AP goes down (e.g. for a firmware update). This led to all clients getting disconnected randomly.\n[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.\n[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).\n[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.\n[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application (enable Early Access Release Channels)\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "description": "Improvements\n\n[UAP] Make band steering less strict.\n[UAP] Improve overall stability.\n\nBugfixes\n\n[UAP] Fix APs cycling between 'Getting Ready' and 'Online' continuously when Lock to AP is in-use and any AP goes down (e.g. for a firmware update). This led to all clients getting disconnected randomly.\n[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.\n[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).\n[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.\n[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application (enable Early Access Release Channels)\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-49/a0339e83-45ee-40a8-9774-c76273d0806e",
           "publishedOn": "2022-12-05T19:30:27.000Z",
           "wordCount": 5,
@@ -42,6 +42,26 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-040.html",
+          "author": null,
+          "description": "CVE-2022-3169",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-040.html",
+          "publishedOn": "2022-12-12T20:05:00.000Z",
+          "wordCount": 216,
+          "title": "ALASKERNEL-5.4-2022-040 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-024.html",
+          "author": null,
+          "description": "CVE-2022-3169",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-024.html",
+          "publishedOn": "2022-12-12T19:59:00.000Z",
+          "wordCount": 218,
+          "title": "ALASKERNEL-5.10-2022-024 (medium): kernel",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2022-1903.html",
           "author": null,
@@ -313,6 +333,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-039.html",
+          "author": null,
+          "description": "CVE-2021-3759, CVE-2022-2602, CVE-2022-3524, CVE-2022-3535, CVE-2022-3542, CVE-2022-3564, CVE-2022-3565, CVE-2022-3594, CVE-2022-3649, CVE-2022-41849, CVE-2022-41850",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-039.html",
+          "publishedOn": "2022-12-01T18:21:00.000Z",
+          "wordCount": 740,
+          "title": "ALASKERNEL-5.4-2022-039 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2022-094.html",
           "author": null,
           "description": "CVE-2022-2588",
@@ -349,6 +379,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 14 Dec 2022 23:53:09 GMT",
+          "author": null,
+          "description": "FortiDeceptor 5.0.0 B0046 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFDC_100G, FDC_1000F, FDC_1000G,\nFDC_VM, FDR_100G",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-12-14T23:53:09.000Z",
+          "wordCount": 2927,
+          "title": "FortiDeceptor 5.0.0",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 12 Dec 2022 23:01:21 GMT",
           "author": null,

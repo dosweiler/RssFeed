@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T00:40:28.624Z</id>
+    <id>urn:2022-12-15T00:42:32.122Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T00:40:28.624Z</updated>
+    <updated>2022-12-15T00:42:32.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiDeceptor 5.0.0]]></title>
+        <id>Wed, 14 Dec 2022 23:53:09 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2022-12-14T23:53:09.000Z</updated>
+        <summary type="html"><![CDATA[FortiDeceptor 5.0.0 B0046 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FDC_100G, FDC_1000F, FDC_1000G,
+FDC_VM, FDR_100G]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSwitch 7.2.3]]></title>
         <id>Mon, 12 Dec 2022 23:01:21 GMT</id>
@@ -53,6 +66,26 @@ FSR_124D, FSW_448E_POE, FSW_248E_FPOE,
 FSW_424E_FIBER, FSW_1024E, FSW_T1024E]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2022-040 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-040.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-040.html"/>
+        <updated>2022-12-12T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-3169]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2022-024 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-024.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2022-024.html"/>
+        <updated>2022-12-12T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-3169]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -132,9 +165,7 @@ FGT_7000E, FGT_7000F, FGT_6000F]]></summary>
         <id>a0339e83-45ee-40a8-9774-c76273d0806e</id>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-6-2-49/a0339e83-45ee-40a8-9774-c76273d0806e"/>
         <updated>2022-12-05T19:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-* This release is stable for Gen6 APs, it's still a RC for all other models (changelog includes changes from 6.2.44 and 6.2.47).
-Improvements
+        <summary type="html"><![CDATA[Improvements
 
 [UAP] Make band steering less strict.
 [UAP] Improve overall stability.
@@ -447,6 +478,16 @@ Device model(s).]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2022-011.html"/>
         <updated>2022-12-01T18:21:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-3543, CVE-2022-3564, CVE-2022-3619, CVE-2022-3623]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2022-039 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-039.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2022-039.html"/>
+        <updated>2022-12-01T18:21:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-3759, CVE-2022-2602, CVE-2022-3524, CVE-2022-3535, CVE-2022-3542, CVE-2022-3564, CVE-2022-3565, CVE-2022-3594, CVE-2022-3649, CVE-2022-41849, CVE-2022-41850]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
