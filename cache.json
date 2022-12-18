@@ -24,16 +24,6 @@
           "wordCount": 5,
           "title": "UniFi LTE 6.2.48",
           "imageUrl": null
-        },
-        {
-          "id": "e50b2cdc-cf2e-428f-a3be-d54cec125041",
-          "author": "UI-Glenn",
-          "description": "Overview\n* This release is only for Gen6 Access Points\nBugfixes\n\n[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.\n[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.\n[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).\n\nKnown issues\nWe have discovered an issue that causes APs to cycle between 'Getting Ready' and 'Online' repeatedly if Lock to AP is in-use, causing unstable client connectivity.\nThis version is being pulled from the Official release channel while we fix this.\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-47/e50b2cdc-cf2e-428f-a3be-d54cec125041",
-          "publishedOn": "2022-11-18T10:01:57.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.2.47",
-          "imageUrl": null
         }
       ]
     },
@@ -369,6 +359,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Sat, 17 Dec 2022 02:34:06 GMT",
+          "author": null,
+          "description": "FortiWeb 7.2.0 B0311 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFWB_3010E, FWB_VM, FWB_1000F,\nFWB_GCP_ONDEMAND, FWB_2000F, FWB_DOCKER,\nFWB_KVM_PAYG, FWB_3000F, FWB_600D,\nFWB_4000E, FWB_XENAWS, FWB_VBOX,\nFWB_KVM, FWB_3000DFSX, FWB_4000F,\nFWB_2000E, FWB_3000E, FWB_400C,\nFWB_AZURE_ONDEMAND, FWB_100D, FWB_GCP,\nFWB_3000D, FWB_XENSERVER, FWB_400D,\nFWB_400E, FWB_XENAWS_ONDEMAND, FWB_600E,\nFWB_OCI, FWB_1000D, FWB_1000E,\nFWB_4000D, FWB_VM_PAYG, FWB_HYPERV,\nFWB_ALI, FWB_100E, FWB_AZURE,\nFWB_XENOPEN",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2022-12-17T02:34:06.000Z",
+          "wordCount": 2927,
+          "title": "FortiWeb 7.2.0",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 16 Dec 2022 18:28:19 GMT",
           "author": null,
