@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-26T00:39:36.725Z</id>
+    <id>urn:2022-12-27T00:39:18.970Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T00:39:36.725Z</updated>
+    <updated>2022-12-27T00:39:18.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -37,7 +37,13 @@ FPX_2000E, FPX_KVM_OPC, FPX_KVM]]></summary>
         <id>75009803-7d15-4f94-ba2e-e6d3764da54b</id>
         <link href="https://community.ui.com/releases/UniFi-Switch-6-4-18/75009803-7d15-4f94-ba2e-e6d3764da54b"/>
         <updated>2022-12-21T13:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
+        <summary type="html"><![CDATA[Overview
+* This release has been promoted to Official/Stable for the following model(s):
+
+USW-Flex
+
+It's still an Release Candidate for all other models.
+Improvements
 
 [USW] Add PoE fault event in syslog.
 [USW] Improve device inform scheduling.
@@ -52,26 +58,7 @@ Bugfixes
 [USW-PoE] Fix can't unblock a port after disable port-security.
 [USW-PoE] Fix incorrect port speed if LAG member port not used.
 [USW-PoE] Fix missing TX/RX error counter reading.
-[USW-Pro] Fix incorrect RPS Activated screen when no RPS connected.
-[USW-Pro] Fix DHCP snooping issue with Logitech Harmony Hub in 6.3.14.
-[USW-Flex] Fix PoE output budget is only 5W if powered via PoE+.
-[USW-Flex] Fix AP getting into low performance mode when connected to PoE+ port.
-[USW-Lite-8-PoE] Fix PDs do not turn back on when you choose "Cycle PoE" during switch restart.
-[USW-Enterprise-8-PoE] Fix device offline after update native VLAN in switch port profile of uplink port.
-
-Additional information
-Please report any issues you encounter with this release using the Report Bug form.
-
-Instead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application (enable Early Access Release Channels)
-Your device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.
-All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
-
- 
-Any and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:
-
-Network Application version.
-Firmware version (previous and current). 
-Device model(s).]]></summary>
+[USW-Pro] Fix incorrect RPS Activated screen when no RPS c…]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
