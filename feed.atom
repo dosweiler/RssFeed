@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-02T00:39:58.237Z</id>
+    <id>urn:2023-01-03T00:39:20.773Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T00:39:58.237Z</updated>
+    <updated>2023-01-03T00:39:20.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -393,32 +393,6 @@ U6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.
 Instead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application (enable Early Access Release Channels)
 Please refer to this article to find more details on how to identify your Access Point generation.
 Your device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.
-All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
-
- 
-Any and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:
-
-Network Application version.
-Firmware version (previous and current). 
-Device model(s).]]></summary>
-        <author>
-            <name>UI-Glenn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi LTE 6.2.48]]></title>
-        <id>3984bf80-12f1-4c8e-babd-8ab6f7e64118</id>
-        <link href="https://community.ui.com/releases/UniFi-LTE-6-2-48/3984bf80-12f1-4c8e-babd-8ab6f7e64118"/>
-        <updated>2022-12-03T13:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
-
-[LTE] Update LTE module.
-[LTE] Update LCM messages.
-[LTE] Improve LTE module firmware update process.
-
-Additional information
-
-Instead of using the manual links, you can also subscribe to your desired firmware channel, as described here.
 All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
 
  
