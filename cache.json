@@ -14,16 +14,6 @@
           "wordCount": 5,
           "title": "UniFi Switch 6.4.18",
           "imageUrl": null
-        },
-        {
-          "id": "a0339e83-45ee-40a8-9774-c76273d0806e",
-          "author": "UI-Glenn",
-          "description": "Improvements\n\n[UAP] Make band steering less strict.\n[UAP] Improve overall stability.\n\nBugfixes\n\n[UAP] Fix APs cycling between 'Getting Ready' and 'Online' continuously when Lock to AP is in-use and any AP goes down (e.g. for a firmware update). This led to all clients getting disconnected randomly.\n[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.\n[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).\n[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.\n[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application (enable Early Access Release Channels)\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-2-49/a0339e83-45ee-40a8-9774-c76273d0806e",
-          "publishedOn": "2022-12-05T19:30:27.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.2.49",
-          "imageUrl": null
         }
       ]
     },

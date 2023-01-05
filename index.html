@@ -501,51 +501,6 @@ Bugfixes
           </section>
         </li>
 
-        <li>
-      <section>
-      <h1>2022-12-05</h1>
-
-      <ul>
-
-            <article>
-                <h3><a href=https://community.ui.com/releases/UniFi-Access-Point-6-2-49/a0339e83-45ee-40a8-9774-c76273d0806e>UniFi Access Point 6.2.49</a></h3>
-                <div>
-                  <span>Source: <a href=https://community.ui.com>UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a></span> | 
-                  <span>Date: <time>2022-12-05</time></span> |
-                </div>
-                <p>Improvements
-
-[UAP] Make band steering less strict.
-[UAP] Improve overall stability.
-
-Bugfixes
-
-[UAP] Fix APs cycling between &#x27;Getting Ready&#x27; and &#x27;Online&#x27; continuously when Lock to AP is in-use and any AP goes down (e.g. for a firmware update). This led to all clients getting disconnected randomly.
-[UAP] Fix incorrect manual firmware update URL leading to the AP going offline in the Network Application.
-[UAP] Fix IPv6 inform address resolution not working (affects L3 adoptions).
-[UAP-Gen6] Fix AP getting stuck when rebooting after a firmware update.
-[UAP-Gen6] Fix Error-A12 state on APs after a firmware update, leading to various side-effects (AP getting stuck randomly, firmware updates failing, etc.).
-
-Additional information
-
-U6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.
-Instead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application (enable Early Access Release Channels)
-Please refer to this article to find more details on how to identify your Access Point generation.
-Your device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.
-All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device&#x27;s date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can&#x27;t reach a NTP server).
-
- 
-Any and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:
-
-Network Application version.
-Firmware version (previous and current). 
-Device model(s).</p>
-              </details>
-            </article>
-
-          </section>
-        </li>
-
       </ul>
 
       </section>
