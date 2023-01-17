@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-16T00:41:00.799Z</id>
+    <id>urn:2023-01-17T00:41:31.909Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T00:41:00.799Z</updated>
+    <updated>2023-01-17T00:41:31.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UniFi LTE 6.2.52]]></title>
+        <id>ccaa9ee0-9ea2-4dff-a883-7dcdf09b0d91</id>
+        <link href="https://community.ui.com/releases/UniFi-LTE-6-2-52/ccaa9ee0-9ea2-4dff-a883-7dcdf09b0d91"/>
+        <updated>2023-01-16T12:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Improvements
+
+[U-LTE] Fix incorrect APN parameters in some cases.
+
+Additional information
+
+Instead of using the manual links, you can also subscribe to your desired firmware channel, as described here.
+All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
+
+ 
+All feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:
+
+Network Application version.
+Firmware version (previous and current). 
+Device model(s).]]></summary>
+        <author>
+            <name>UI-Glenn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiWebManager 7.0.3]]></title>
         <id>Sat, 14 Jan 2023 00:20:43 GMT</id>
