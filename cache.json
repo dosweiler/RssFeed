@@ -14,16 +14,6 @@
           "wordCount": 5,
           "title": "UniFi LTE 6.2.52",
           "imageUrl": null
-        },
-        {
-          "id": "75009803-7d15-4f94-ba2e-e6d3764da54b",
-          "author": "UI-Glenn",
-          "description": "Improvements\n\n[USW] Add PoE fault event in syslog.\n[USW] Improve device inform scheduling.\n[USW] Improve inform URL resolving for IPv6 domain name.\n[USP-RPS] improve the RPS power activate detection.\n[USW-Flex] Enable PoE-injector mode by default.\n[USW-Pro-Aggregation] Enlarge message queue and improve the critical section handling.\n\nBugfixes\n\n[USW] Fix inform URL override with default URL in a rare case.\n[USW-PoE] Fix can't unblock a port after disable port-security.\n[USW-PoE] Fix incorrect port speed if LAG member port not used.\n[USW-PoE] Fix missing TX/RX error counter reading.\n[USW-Pro] Fix incorrect RPS Activated screen when no RPS connected.\n[USW-Pro] Fix DHCP snooping issue with Logitech Harmony Hub in 6.3.14.\n[USW-Flex] Fix PoE output budget is only 5W if powered via PoE+.\n[USW-Flex] Fix AP getting into low performance mode when connected to PoE+ port.\n[USW-Lite-8-PoE] Fix PDs do not turn back on when you choose \"Cycle PoE\" during switch restart.\n[USW-Enterprise-8-PoE] Fix device offline after update native VLAN in switch port profile of uplink port.\n\nAdditional information\nPlease report any issues you encounter with this release using the Report Bug form.\n\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application (enable Early Access Release Channels)\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAny and all feedback is welcome, including lettings us know about successful device upgrades. When reporting an issue, please ensure that you include the following information:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
-          "link": "https://community.ui.com/releases/UniFi-Switch-6-4-18/75009803-7d15-4f94-ba2e-e6d3764da54b",
-          "publishedOn": "2022-12-21T13:01:34.000Z",
-          "wordCount": 5,
-          "title": "UniFi Switch 6.4.18",
-          "imageUrl": null
         }
       ]
     },
@@ -146,26 +136,6 @@
           "publishedOn": "2022-12-28T18:22:48.000Z",
           "wordCount": 2927,
           "title": "FortiWan 4.5.10",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 22 Dec 2022 01:05:30 GMT",
-          "author": null,
-          "description": "FortiOS-6K7K 6.2.12 B1248 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_6000F, FGT_7000E, FGT_7000F",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-12-22T01:05:30.000Z",
-          "wordCount": 2927,
-          "title": "FortiOS-6K7K 6.2.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 21 Dec 2022 18:01:53 GMT",
-          "author": null,
-          "description": "FortiProxy 7.2.2 B0333 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPX_KVM_GCP, FPX_AZURE, FPX_HY,\nFPX_4000E, FPX_VMWARE, FPX_400E,\nFPX_XEN, FPX_KVM_ALI, FPX_KVM_AWS,\nFPX_2000E, FPX_KVM_OPC, FPX_KVM",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2022-12-21T18:01:53.000Z",
-          "wordCount": 2927,
-          "title": "FortiProxy 7.2.2",
           "imageUrl": null
         }
       ]
