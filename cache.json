@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313",
+          "author": "UI-Glenn",
+          "description": "Overview\n* This release only only for the Gen2/Gen3/Gen4 and Gen6 AP's, it currently is not avaialble for Gen5.\nImprovements\n\n[UAP] Speed up adoption time significantly. Eliminate rare cases of long adoption times.\n[UAP] Improve UAP<->Network Application connection stability to avoid devices going offline randomly.\n[UAP] Speed up wireless uplink connections after a configuration change/reboot on APs with ethernet ports if there is no active link on the ethernet port.\n[UAP] Eliminate client connectivity downtime when device name (hostname) is changed.\n[UAP] Make band steering less strict.\n[UAP] Improve device resiliency by handling special characters in device hostname configured by mobile apps.\n[UAP] Improve overall stability by fixing kernel crashes.\n[UAP] Update lldpd package to version …",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-26/99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313",
+          "publishedOn": "2023-01-25T19:21:52.000Z",
+          "wordCount": 5,
+          "title": "UniFi Access Point 6.5.26",
+          "imageUrl": null
+        },
+        {
           "id": "ccaa9ee0-9ea2-4dff-a883-7dcdf09b0d91",
           "author": "UI-Glenn",
           "description": "Improvements\n\n[U-LTE] Fix incorrect APN parameters in some cases.\n\nAdditional information\n\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
@@ -309,6 +319,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 25 Jan 2023 19:55:22 GMT",
+          "author": null,
+          "description": "FortiSOAR 7.3.1 B2105 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-01-25T19:55:22.000Z",
+          "wordCount": 2927,
+          "title": "FortiSOAR 7.3.1",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 23 Jan 2023 19:45:18 GMT",
           "author": null,
