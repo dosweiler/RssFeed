@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "0c150c98-7187-4a75-b957-ad47f36fe7d2",
+          "author": "UI-Glenn",
+          "description": "Overview\n* This release only for Gen2/Gen3/Gen4 and Gen6 APs. It is currently not available for Gen5.\n* Please also review the 6.5.26 (RC) changes here.\nImprovements\n\n[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.\n\nBugfixes\n\n[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.\n[UAP] Fix device config application occasionally taking longer than usual.\n[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.\n[UAP-Gen4/Gen5] Fix idle clients disconnecting after 5 minutes of inactivity.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-28/0c150c98-7187-4a75-b957-ad47f36fe7d2",
+          "publishedOn": "2023-02-07T18:11:52.000Z",
+          "wordCount": 5,
+          "title": "UniFi Access Point 6.5.28",
+          "imageUrl": null
+        },
+        {
           "id": "99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313",
           "author": "UI-Glenn",
           "description": "Overview\n* This release only only for the Gen2/Gen3/Gen4 and Gen6 AP's, it currently is not available for Gen5.\nImprovements\n\n[UAP] Speed up adoption time significantly. Eliminate rare cases of long adoption times.\n[UAP] Improve UAP<->Network Application connection stability to avoid devices going offline randomly.\n[UAP] Speed up wireless uplink connections after a configuration change/reboot on APs with ethernet ports if there is no active link on the ethernet port.\n[UAP] Eliminate client connectivity downtime when device name (hostname) is changed.\n[UAP] Make band steering less strict.\n[UAP] Improve device resiliency by handling special characters in device hostname configured by mobile apps.\n[UAP] Improve overall stability by fixing kernel crashes.\n[UAP] Update lldpd package to version …",
