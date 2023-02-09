@@ -43,13 +43,33 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1931.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1935.html",
           "author": null,
-          "description": "CVE-2021-22570",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1931.html",
+          "description": "CVE-2022-4304, CVE-2023-0215, CVE-2023-0286",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1935.html",
           "publishedOn": "2023-02-03T19:19:00.000Z",
-          "wordCount": 234,
-          "title": "ALAS-2023-1931 (medium): protobuf",
+          "wordCount": 527,
+          "title": "ALAS-2023-1935 (important): openssl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1934.html",
+          "author": null,
+          "description": "CVE-2022-4304, CVE-2022-4450, CVE-2023-0215, CVE-2023-0286",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1934.html",
+          "publishedOn": "2023-02-03T19:19:00.000Z",
+          "wordCount": 669,
+          "title": "ALAS-2023-1934 (important): openssl11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1932.html",
+          "author": null,
+          "description": "CVE-2022-3643, CVE-2022-45934, CVE-2022-47929, CVE-2023-0394, CVE-2023-23455",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1932.html",
+          "publishedOn": "2023-02-03T19:19:00.000Z",
+          "wordCount": 440,
+          "title": "ALAS-2023-1932 (important): kernel",
           "imageUrl": null
         },
         {
@@ -449,6 +469,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 8 Feb 2023 22:08:29 GMT",
+          "author": null,
+          "description": "FortiVoice 6.4.7 B0477 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFVE_200F, FVE_100F, FVE_2000E,\nFVG_GS16, FVE_500F, FVE_VMXE,\nFVE_300E, FVE_1000E, FVE_VMAZ,\nFVE_100E, FVE_VMHV, FVE_VMGC,\nFVE_VM, FVE_VMKV_CLD, FVE_50E,\nFVG_GO08, FVE_3000E, FVE_VMKV,\nFVE_VMAW, FVE_2000F, FVG_GT,\nFVE_500E, FVE_20E, FVE_5000F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-08T22:08:29.000Z",
+          "wordCount": 2927,
+          "title": "FortiVoice 6.4.7",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 6 Feb 2023 18:57:32 GMT",
           "author": null,
