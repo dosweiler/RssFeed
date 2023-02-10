@@ -8,7 +8,7 @@
         {
           "id": "0c150c98-7187-4a75-b957-ad47f36fe7d2",
           "author": "UI-Glenn",
-          "description": "Overview\n* This release only for Gen2/Gen3/Gen4 and Gen6 APs. It is currently not available for Gen5.\n* Please also review the 6.5.26 (RC) changes here.\nImprovements\n\n[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.\n\nBugfixes\n\n[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.\n[UAP] Fix device config application occasionally taking longer than usual.\n[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.\n[UAP-Gen4/Gen5] Fix idle clients disconnecting after 5 minutes of inactivity.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "description": "Overview\n* This release only for Gen2/Gen3/Gen4 and Gen6 APs. It is currently not available for Gen5.\n* Please also review the 6.5.26 (RC) changes here.\nImprovements\n\n[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.\n\nBugfixes\n\n[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.\n[UAP] Fix device config application occasionally taking longer than usual.\n[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.\n\nAdditional information\n\nU6-Pro/Mesh needs to be upgraded to 5.67.0 first before upgrading to 5.68.0+.\nInstead of using the manual links, you can also subscribe to your desired firmware channel, as described here.\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nAll URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-28/0c150c98-7187-4a75-b957-ad47f36fe7d2",
           "publishedOn": "2023-02-07T18:11:52.000Z",
           "wordCount": 5,
@@ -43,6 +43,56 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-107.html",
+          "author": null,
+          "description": "CVE-2022-3623, CVE-2022-4378",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-107.html",
+          "publishedOn": "2023-02-03T20:56:00.000Z",
+          "wordCount": 253,
+          "title": "ALASLIVEPATCH-2023-107 (important): kernel-livepatch-5.10.157-139.675",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-106.html",
+          "author": null,
+          "description": "CVE-2022-3623, CVE-2022-4378",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-106.html",
+          "publishedOn": "2023-02-03T20:56:00.000Z",
+          "wordCount": 253,
+          "title": "ALASLIVEPATCH-2023-106 (important): kernel-livepatch-5.10.155-138.670",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-105.html",
+          "author": null,
+          "description": "CVE-2022-3524, CVE-2022-3594, CVE-2022-3623, CVE-2022-4378",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-105.html",
+          "publishedOn": "2023-02-03T20:56:00.000Z",
+          "wordCount": 378,
+          "title": "ALASLIVEPATCH-2023-105 (important): kernel-livepatch-5.10.149-133.644",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-104.html",
+          "author": null,
+          "description": "CVE-2022-3524, CVE-2022-3594, CVE-2022-3621, CVE-2022-3623, CVE-2022-3649",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-104.html",
+          "publishedOn": "2023-02-03T20:56:00.000Z",
+          "wordCount": 469,
+          "title": "ALASLIVEPATCH-2023-104 (important): kernel-livepatch-5.10.144-127.601",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-103.html",
+          "author": null,
+          "description": "CVE-2022-3524, CVE-2022-3594, CVE-2022-3621, CVE-2022-3623, CVE-2022-3649, CVE-2022-4378",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-103.html",
+          "publishedOn": "2023-02-03T20:56:00.000Z",
+          "wordCount": 502,
+          "title": "ALASLIVEPATCH-2023-103 (important): kernel-livepatch-5.10.147-133.644",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1935.html",
           "author": null,
           "description": "CVE-2022-4304, CVE-2023-0215, CVE-2023-0286",
@@ -70,6 +120,26 @@
           "publishedOn": "2023-02-03T19:19:00.000Z",
           "wordCount": 440,
           "title": "ALAS-2023-1932 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-026.html",
+          "author": null,
+          "description": "CVE-2022-47929, CVE-2023-0179, CVE-2023-0394, CVE-2023-23454, CVE-2023-23455",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-026.html",
+          "publishedOn": "2023-01-31T20:02:00.000Z",
+          "wordCount": 378,
+          "title": "ALASKERNEL-5.10-2023-026 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-013.html",
+          "author": null,
+          "description": "CVE-2022-47929, CVE-2022-4842, CVE-2023-0179, CVE-2023-0394, CVE-2023-23454, CVE-2023-23455",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-013.html",
+          "publishedOn": "2023-01-31T20:02:00.000Z",
+          "wordCount": 411,
+          "title": "ALASKERNEL-5.15-2023-013 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -469,6 +539,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 9 Feb 2023 23:20:47 GMT",
+          "author": null,
+          "description": "FortiPortal 7.0.3 B164 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-09T23:20:47.000Z",
+          "wordCount": 2927,
+          "title": "FortiPortal 7.0.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 9 Feb 2023 20:25:01 GMT",
+          "author": null,
+          "description": "FortiPolicy 7.2.2 B0033 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-09T20:25:01.000Z",
+          "wordCount": 2927,
+          "title": "FortiPolicy 7.2.2",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 8 Feb 2023 22:08:29 GMT",
           "author": null,
