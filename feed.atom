@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T00:42:49.671Z</id>
+    <id>urn:2023-02-15T00:42:37.742Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T00:42:49.671Z</updated>
+    <updated>2023-02-15T00:42:37.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAP 7.2.2]]></title>
+        <id>Tue, 14 Feb 2023 20:09:11 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-02-14T20:09:11.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP 7.2.2 B0318 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAP_432F, FAP_433F, FAP_831F,
+FAP_23JF, FAP_231F, FAP_234F,
+FAP_431F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAuthenticator 6.5.0]]></title>
+        <id>Tue, 14 Feb 2023 01:15:13 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-02-14T01:15:13.000Z</updated>
+        <summary type="html"><![CDATA[FortiAuthenticator 6.5.0 B1286 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAC_800F, FAC_VM_AZURE, FAC_300F,
+FAC_200E, FAC_VM_XEN, FAC_3000E,
+FAC_3000F, FAC_400E, FAC_VM_OPC,
+FAC_VM_KVM, FAC_2000E, FAC_VM,
+FAC_VM_HV]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSIEM 6.7.1]]></title>
         <id>Mon, 13 Feb 2023 23:19:23 GMT</id>
@@ -54,6 +84,26 @@ FAD_AZURE_ONDEMAND]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS-2023-1937 (critical): apr-util]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-1937.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-1937.html"/>
+        <updated>2023-02-13T16:57:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-25147]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-1936 (critical): apr]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-1936.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-1936.html"/>
+        <updated>2023-02-13T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-35940, CVE-2022-24963]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FortiPortal 7.0.3]]></title>
         <id>Thu, 9 Feb 2023 23:20:47 GMT</id>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
@@ -98,7 +148,13 @@ FVE_500E, FVE_20E, FVE_5000F]]></summary>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-6-5-28/0c150c98-7187-4a75-b957-ad47f36fe7d2"/>
         <updated>2023-02-07T18:11:52.000Z</updated>
         <summary type="html"><![CDATA[Overview
-* This release only for Gen2/Gen3/Gen4 and Gen6 APs. It is currently not available for Gen5.
+* This release is currently stable/official for the following models, it's still an RC for all other models:
+
+AC-Lite
+AC-SHD
+IW-HD
+U6-Enterprise
+
 * Please also review the 6.5.26 (RC) changes here.
 Improvements
 
@@ -928,30 +984,6 @@ FEXT_101F_EA, FEXT_201F_AM]]></summary>
         <summary type="html"><![CDATA[FortiNAC 9.2.7 B0463 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi LTE 6.2.52]]></title>
-        <id>ccaa9ee0-9ea2-4dff-a883-7dcdf09b0d91</id>
-        <link href="https://community.ui.com/releases/UniFi-LTE-6-2-52/ccaa9ee0-9ea2-4dff-a883-7dcdf09b0d91"/>
-        <updated>2023-01-16T12:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
-
-[U-LTE] Fix incorrect APN parameters in some cases.
-
-Additional information
-
-Instead of using the manual links, you can also subscribe to your desired firmware channel, as described here.
-All URLs use HTTPS. This assumes your device(s) are running 3.7.56 or later and that the device's date is properly set. Please change URLs to HTTP for device(s) running earlier firmware or if the date is incorrect (e.g. if device can't reach a NTP server).
-
- 
-All feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:
-
-Network Application version.
-Firmware version (previous and current). 
-Device model(s).]]></summary>
-        <author>
-            <name>UI-Glenn</name>
         </author>
     </entry>
 </feed>
