@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "2fd8f3a6-f393-4294-bf36-6cad47ad12ef",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Access Point 6.5.33 addresses issues with meshing while also improving the channel selection after an RF Scan.\nThis release is currently a Release Candidate for the Generation 2/3/4/6 models.\nImprovements\n\nAutomatically pick the best channel after a RF Scan if the AP Radio Channel is set to Auto.\nSpeed up the meshing reconnection after the uplink goes through a provision/reboot/firmware update.\n\nBugfixes\n\nFix wired APs occasionally meshing with each other instead of relying on wired uplinks when SFP connections are used between switches.\n[Gen2/Gen3/Gen6 models] Fix WiFi not broadcasting after boot intermittently.\n[Gen4 models] Fix 5GHz WiFi disappearing occasionally after a DFS radar hit when broadcasting at 160MHz.\n[Gen6 models] Fix kernel crash to improve overall stability.\n[Gen6 models] Fix incorrect channel width being applied occasionally.\n\nAdditional information\n\nPlease refer to this article to find more details on how to identify your Access Point generation.\nYou can update your devices by changing the Device Firmware Release Channel on the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-33/2fd8f3a6-f393-4294-bf36-6cad47ad12ef",
+          "publishedOn": "2023-02-22T16:48:39.000Z",
+          "wordCount": 5,
+          "title": "UniFi Access Point 6.5.33",
+          "imageUrl": null
+        },
+        {
           "id": "0c150c98-7187-4a75-b957-ad47f36fe7d2",
           "author": "UI-Glenn",
           "description": "Overview\n* This release is currently stable/official for the following models, it's still an RC for all other models:\n\nAC-Lite/AC-IW\nAC-HD/SHD\nIW-HD\nU6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW\n\n* Please also review the 6.5.26 (RC) changes here.\nImprovements\n\n[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.\n\nBugfixes\n\n[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.\n[UAP] Fix device config application occasionally taking longer than usual.\n[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.\n\nAdditional information\n\nPlease refer to this article to find more details on how to identify your Access Point generation.\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application.\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
@@ -33,12 +43,282 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1964.html",
+          "author": null,
+          "description": "CVE-2023-20032, CVE-2023-20052",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1964.html",
+          "publishedOn": "2023-02-20T18:42:00.000Z",
+          "wordCount": 232,
+          "title": "ALAS-2023-1964 (critical): clamav",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1963.html",
+          "author": null,
+          "description": "CVE-2023-21830",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1963.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 212,
+          "title": "ALAS-2023-1963 (medium): java-1.8.0-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1962.html",
+          "author": null,
+          "description": "CVE-2022-44617, CVE-2022-46285, CVE-2022-4883",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1962.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 309,
+          "title": "ALAS-2023-1962 (important): libXpm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1961.html",
+          "author": null,
+          "description": "CVE-2022-44267, CVE-2022-44268",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1961.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 242,
+          "title": "ALAS-2023-1961 (medium): ImageMagick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1960.html",
+          "author": null,
+          "description": "CVE-2022-42823",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1960.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 210,
+          "title": "ALAS-2023-1960 (important): webkitgtk4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1959.html",
+          "author": null,
+          "description": "CVE-2022-36113, CVE-2022-36114",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1959.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 861,
+          "title": "ALAS-2023-1959 (medium): rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1958.html",
+          "author": null,
+          "description": "CVE-2022-29155",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1958.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 222,
+          "title": "ALAS-2023-1958 (critical): openldap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1957.html",
+          "author": null,
+          "description": "CVE-2022-23491",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1957.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 237,
+          "title": "ALAS-2023-1957 (important): ca-certificates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1956.html",
+          "author": null,
+          "description": "CVE-2021-43818",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1956.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 255,
+          "title": "ALAS-2023-1956 (important): python-lxml",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1955.html",
+          "author": null,
+          "description": "CVE-2021-43527",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1955.html",
+          "publishedOn": "2023-02-17T00:12:00.000Z",
+          "wordCount": 293,
+          "title": "ALAS-2023-1955 (critical): nss-softokn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1954.html",
+          "author": null,
+          "description": "CVE-2021-43527",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1954.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 287,
+          "title": "ALAS-2023-1954 (critical): nss-util",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1953.html",
+          "author": null,
+          "description": "CVE-2021-43527",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1953.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 287,
+          "title": "ALAS-2023-1953 (critical): nspr",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1952.html",
+          "author": null,
+          "description": "CVE-2021-43527",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1952.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 296,
+          "title": "ALAS-2023-1952 (critical): nss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1951.html",
+          "author": null,
+          "description": "CVE-2021-4127, CVE-2021-4129, CVE-2022-2200, CVE-2022-3266, CVE-2022-34468, CVE-2022-34470, CVE-2022-34472, CVE-2022-34479, CVE-2022-34481, CVE-2022-34484, CVE-2022-40961, CVE-2022-45414, CVE-2022-46871, CVE-2022-46872, CVE-2022-46874, CVE-2022-46877, CVE-2022-46878, CVE-2022-46880, CVE-2022-46881, CVE-2022-46882, CVE-2023-23598, CVE-2023-23599, CVE-2023-23601, CVE-2023-23602, CVE-2023-23603, CVE-2023-23605",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1951.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 1334,
+          "title": "ALAS-2023-1951 (important): thunderbird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1950.html",
+          "author": null,
+          "description": "CVE-2021-28651, CVE-2021-28652, CVE-2021-31806, CVE-2021-31807, CVE-2021-31808, CVE-2021-33620, CVE-2022-41317",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1950.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 508,
+          "title": "ALAS-2023-1950 (medium): squid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1949.html",
+          "author": null,
+          "description": "CVE-2021-23214",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1949.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 234,
+          "title": "ALAS-2023-1949 (medium): postgresql",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1948.html",
+          "author": null,
+          "description": "CVE-2021-22570",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1948.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 239,
+          "title": "ALAS-2023-1948 (medium): protobuf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1947.html",
+          "author": null,
+          "description": "CVE-2020-27792",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1947.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 216,
+          "title": "ALAS-2023-1947 (important): ghostscript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1946.html",
+          "author": null,
+          "description": "CVE-2020-13956",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1946.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 189,
+          "title": "ALAS-2023-1946 (medium): httpcomponents-client",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1945.html",
+          "author": null,
+          "description": "CVE-2020-12417, CVE-2020-12418, CVE-2020-12419, CVE-2020-12420, CVE-2020-12421",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1945.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 349,
+          "title": "ALAS-2023-1945 (important): thunderbird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1944.html",
+          "author": null,
+          "description": "CVE-2019-19126, CVE-2020-10029, CVE-2020-1752",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1944.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 943,
+          "title": "ALAS-2023-1944 (medium): glibc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1943.html",
+          "author": null,
+          "description": "CVE-2019-1348, CVE-2019-1349, CVE-2019-1350, CVE-2019-1351, CVE-2019-1352, CVE-2019-1353, CVE-2019-1354, CVE-2019-1387, CVE-2019-19604",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1943.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 642,
+          "title": "ALAS-2023-1943 (important): git",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1942.html",
+          "author": null,
+          "description": "CVE-2019-11729, CVE-2019-11745",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1942.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 262,
+          "title": "ALAS-2023-1942 (important): nss-util",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1941.html",
+          "author": null,
+          "description": "CVE-2018-11577, CVE-2018-11684, CVE-2018-11685, CVE-2018-12085",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1941.html",
+          "publishedOn": "2023-02-17T00:11:00.000Z",
+          "wordCount": 232,
+          "title": "ALAS-2023-1941 (medium): liblouis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1940.html",
+          "author": null,
+          "description": "CVE-2018-10893",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1940.html",
+          "publishedOn": "2023-02-17T00:10:00.000Z",
+          "wordCount": 185,
+          "title": "ALAS-2023-1940 (medium): spice-protocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1939.html",
+          "author": null,
+          "description": "CVE-2018-10893",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1939.html",
+          "publishedOn": "2023-02-17T00:10:00.000Z",
+          "wordCount": 193,
+          "title": "ALAS-2023-1939 (medium): libgovirt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1938.html",
+          "author": null,
+          "description": "CVE-2006-20001, CVE-2022-36760, CVE-2022-37436",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1938.html",
+          "publishedOn": "2023-02-17T00:10:00.000Z",
+          "wordCount": 322,
+          "title": "ALAS-2023-1938 (important): httpd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1937.html",
           "author": null,
           "description": "CVE-2022-25147",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1937.html",
           "publishedOn": "2023-02-13T16:57:00.000Z",
-          "wordCount": 224,
+          "wordCount": 223,
           "title": "ALAS-2023-1937 (critical): apr-util",
           "imageUrl": null
         },
@@ -48,7 +328,7 @@
           "description": "CVE-2021-35940, CVE-2022-24963",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1936.html",
           "publishedOn": "2023-02-13T15:40:00.000Z",
-          "wordCount": 250,
+          "wordCount": 249,
           "title": "ALAS-2023-1936 (critical): apr",
           "imageUrl": null
         },
@@ -58,7 +338,7 @@
           "description": "CVE-2022-3623, CVE-2022-4378",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-107.html",
           "publishedOn": "2023-02-03T20:56:00.000Z",
-          "wordCount": 259,
+          "wordCount": 258,
           "title": "ALASLIVEPATCH-2023-107 (important): kernel-livepatch-5.10.157-139.675",
           "imageUrl": null
         },
@@ -68,7 +348,7 @@
           "description": "CVE-2022-3623, CVE-2022-4378",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-106.html",
           "publishedOn": "2023-02-03T20:56:00.000Z",
-          "wordCount": 259,
+          "wordCount": 258,
           "title": "ALASLIVEPATCH-2023-106 (important): kernel-livepatch-5.10.155-138.670",
           "imageUrl": null
         },
@@ -78,7 +358,7 @@
           "description": "CVE-2022-3524, CVE-2022-3594, CVE-2022-3623, CVE-2022-4378",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-105.html",
           "publishedOn": "2023-02-03T20:56:00.000Z",
-          "wordCount": 384,
+          "wordCount": 383,
           "title": "ALASLIVEPATCH-2023-105 (important): kernel-livepatch-5.10.149-133.644",
           "imageUrl": null
         },
@@ -88,7 +368,7 @@
           "description": "CVE-2022-3524, CVE-2022-3594, CVE-2022-3621, CVE-2022-3623, CVE-2022-3649",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-104.html",
           "publishedOn": "2023-02-03T20:56:00.000Z",
-          "wordCount": 475,
+          "wordCount": 474,
           "title": "ALASLIVEPATCH-2023-104 (important): kernel-livepatch-5.10.144-127.601",
           "imageUrl": null
         },
@@ -98,7 +378,7 @@
           "description": "CVE-2022-3524, CVE-2022-3594, CVE-2022-3621, CVE-2022-3623, CVE-2022-3649, CVE-2022-4378",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-103.html",
           "publishedOn": "2023-02-03T20:56:00.000Z",
-          "wordCount": 508,
+          "wordCount": 507,
           "title": "ALASLIVEPATCH-2023-103 (important): kernel-livepatch-5.10.147-133.644",
           "imageUrl": null
         },
@@ -138,7 +418,7 @@
           "description": "CVE-2022-47929, CVE-2023-0179, CVE-2023-0394, CVE-2023-23454, CVE-2023-23455",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-026.html",
           "publishedOn": "2023-01-31T20:02:00.000Z",
-          "wordCount": 384,
+          "wordCount": 383,
           "title": "ALASKERNEL-5.10-2023-026 (medium): kernel",
           "imageUrl": null
         },
@@ -148,7 +428,7 @@
           "description": "CVE-2022-47929, CVE-2022-4842, CVE-2023-0179, CVE-2023-0394, CVE-2023-23454, CVE-2023-23455",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-013.html",
           "publishedOn": "2023-01-31T20:02:00.000Z",
-          "wordCount": 417,
+          "wordCount": 416,
           "title": "ALASKERNEL-5.15-2023-013 (medium): kernel",
           "imageUrl": null
         },
@@ -158,7 +438,7 @@
           "description": "CVE-2022-39282, CVE-2022-39283, CVE-2022-39316, CVE-2022-39317, CVE-2022-39318, CVE-2022-39319, CVE-2022-39320, CVE-2022-39347, CVE-2022-41877",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1930.html",
           "publishedOn": "2023-01-31T19:55:00.000Z",
-          "wordCount": 751,
+          "wordCount": 750,
           "title": "ALAS-2023-1930 (important): freerdp",
           "imageUrl": null
         },
@@ -168,7 +448,7 @@
           "description": "CVE-2016-7392, CVE-2019-19004, CVE-2019-19005",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1929.html",
           "publishedOn": "2023-01-31T19:19:00.000Z",
-          "wordCount": 252,
+          "wordCount": 251,
           "title": "ALAS-2023-1929 (medium): autotrace",
           "imageUrl": null
         },
@@ -178,7 +458,7 @@
           "description": "CVE-2022-45939",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1928.html",
           "publishedOn": "2023-01-30T16:03:00.000Z",
-          "wordCount": 239,
+          "wordCount": 238,
           "title": "ALAS-2023-1928 (important): emacs",
           "imageUrl": null
         },
@@ -188,7 +468,7 @@
           "description": "CVE-2022-4292, CVE-2023-0049",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1927.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 194,
+          "wordCount": 193,
           "title": "ALAS-2023-1927 (medium): vim",
           "imageUrl": null
         },
@@ -198,7 +478,7 @@
           "description": "CVE-2022-41717",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1926.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 223,
+          "wordCount": 222,
           "title": "ALAS-2023-1926 (medium): golang",
           "imageUrl": null
         },
@@ -208,7 +488,7 @@
           "description": "CVE-2022-39377",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1925.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 234,
+          "wordCount": 233,
           "title": "ALAS-2023-1925 (medium): sysstat",
           "imageUrl": null
         },
@@ -218,7 +498,7 @@
           "description": "CVE-2022-27781, CVE-2022-43551, CVE-2022-43552",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1924.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 418,
+          "wordCount": 417,
           "title": "ALAS-2023-1924 (medium): curl",
           "imageUrl": null
         },
@@ -228,7 +508,7 @@
           "description": "CVE-2022-23521, CVE-2022-41903",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1923.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 547,
+          "wordCount": 546,
           "title": "ALAS-2023-1923 (important): git",
           "imageUrl": null
         },
@@ -238,7 +518,7 @@
           "description": "CVE-2022-21619, CVE-2022-21624, CVE-2022-21626, CVE-2022-21628",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1922.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 853,
+          "wordCount": 852,
           "title": "ALAS-2023-1922 (medium): java-1.8.0-openjdk",
           "imageUrl": null
         },
@@ -248,7 +528,7 @@
           "description": "CVE-2021-3802",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1921.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 207,
+          "wordCount": 206,
           "title": "ALAS-2023-1921 (low): udisks2",
           "imageUrl": null
         },
@@ -258,7 +538,7 @@
           "description": "CVE-2021-37600",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1920.html",
           "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 253,
+          "wordCount": 252,
           "title": "ALAS-2023-1920 (low): util-linux",
           "imageUrl": null
         }
@@ -497,16 +777,6 @@
           "publishedOn": "2023-01-25T19:55:22.000Z",
           "wordCount": 2938,
           "title": "FortiSOAR 7.3.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 23 Jan 2023 19:45:18 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 4.4.0 B315 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-01-23T19:45:18.000Z",
-          "wordCount": 2938,
-          "title": "FortiSIEMWindowsAgent 4.4.0",
           "imageUrl": null
         }
       ]

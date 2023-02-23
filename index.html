@@ -19,6 +19,138 @@
     <li>
           <section>
             <h2>
+              <a href="https://community.ui.com">UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a>
+            </h2>
+        <li>
+      <section>
+      <h1>2023-02-22</h1>
+
+      <ul>
+
+            <article>
+                <h3><a href=https://community.ui.com/releases/UniFi-Access-Point-6-5-33/2fd8f3a6-f393-4294-bf36-6cad47ad12ef>UniFi Access Point 6.5.33</a></h3>
+                <div>
+                  <span>Source: <a href=https://community.ui.com>UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a></span> | 
+                  <span>Date: <time>2023-02-22</time></span> |
+                </div>
+                <p>Overview
+UniFi Access Point 6.5.33 addresses issues with meshing while also improving the channel selection after an RF Scan.
+This release is currently a Release Candidate for the Generation 2/3/4/6 models.
+Improvements
+
+Automatically pick the best channel after a RF Scan if the AP Radio Channel is set to Auto.
+Speed up the meshing reconnection after the uplink goes through a provision/reboot/firmware update.
+
+Bugfixes
+
+Fix wired APs occasionally meshing with each other instead of relying on wired uplinks when SFP connections are used between switches.
+[Gen2/Gen3/Gen6 models] Fix WiFi not broadcasting after boot intermittently.
+[Gen4 models] Fix 5GHz WiFi disappearing occasionally after a DFS radar hit when broadcasting at 160MHz.
+[Gen6 models] Fix kernel crash to improve overall stability.
+[Gen6 models] Fix incorrect channel width being applied occasionally.
+
+Additional information
+
+Please refer to this article to find more details on how to identify your Access Point generation.
+You can update your devices by changing the Device Firmware Release Channel on the UniFi Network application to Release Candidate.
+If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
+
+ 
+All feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:
+
+Network Application version.
+Firmware version (previous and current). 
+Device model(s).</p>
+              </details>
+            </article>
+
+          </section>
+        </li>
+
+        <li>
+      <section>
+      <h1>2023-02-07</h1>
+
+      <ul>
+
+            <article>
+                <h3><a href=https://community.ui.com/releases/UniFi-Access-Point-6-5-28/0c150c98-7187-4a75-b957-ad47f36fe7d2>UniFi Access Point 6.5.28</a></h3>
+                <div>
+                  <span>Source: <a href=https://community.ui.com>UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a></span> | 
+                  <span>Date: <time>2023-02-07</time></span> |
+                </div>
+                <p>Overview
+* This release is currently stable/official for the following models, it&#x27;s still an RC for all other models:
+
+AC-Lite/AC-IW
+AC-HD/SHD
+IW-HD
+U6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW
+
+* Please also review the 6.5.26 (RC) changes here.
+Improvements
+
+[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.
+
+Bugfixes
+
+[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.
+[UAP] Fix device config application occasionally taking longer than usual.
+[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.
+
+Additional information
+
+Please refer to this article to find more details on how to identify your Access Point generation.
+Instead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application.
+
+ 
+All feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:
+
+Network Application version.
+Firmware version (previous and current). 
+Device model(s).</p>
+              </details>
+            </article>
+
+          </section>
+        </li>
+
+        <li>
+      <section>
+      <h1>2023-01-25</h1>
+
+      <ul>
+
+            <article>
+                <h3><a href=https://community.ui.com/releases/UniFi-Access-Point-6-5-26/99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313>UniFi Access Point 6.5.26</a></h3>
+                <div>
+                  <span>Source: <a href=https://community.ui.com>UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a></span> | 
+                  <span>Date: <time>2023-01-25</time></span> |
+                </div>
+                <p>Overview
+* This release only only for the Gen2/Gen3/Gen4 and Gen6 AP&#x27;s, it currently is not available for Gen5.
+Improvements
+
+[UAP] Speed up adoption time significantly. Eliminate rare cases of long adoption times.
+[UAP] Improve UAPNetwork Application connection stability to avoid devices going offline randomly.
+[UAP] Speed up wireless uplink connections after a configuration change/reboot on APs with ethernet ports if there is no active link on the ethernet port.
+[UAP] Eliminate client connectivity downtime when device name (hostname) is changed.
+[UAP] Make band steering less strict.
+[UAP] Improve device resiliency by handling special characters in device hostname configured by mobile apps.
+[UAP] Improve overall stability by fixing kernel crashes.
+[UAP] Update lldpd package to version …</p>
+              </details>
+            </article>
+
+          </section>
+        </li>
+
+      </ul>
+
+      </section>
+    <li>
+          <section>
+            <h2>
               <a href="http://support.fortinet.com/">Fortinet Firmware Updates</a>
             </h2>
         <li>
@@ -513,25 +645,6 @@ FSW_108E_POE, FSW_148F</p>
           </section>
         </li>
 
-        <li>
-      <section>
-      <h1>2023-01-23</h1>
-
-      <ul>
-
-            <article>
-                <h3><a href=https://support.fortinet.com/EndUser/FirmwareImages.aspx>FortiSIEMWindowsAgent 4.4.0</a></h3>
-                <div>
-                  <span>Source: <a href=http://support.fortinet.com/>Fortinet Firmware Updates</a></span> | 
-                  <span>Date: <time>2023-01-23</time></span> |
-                </div>
-                <p>FortiSIEMWindowsAgent 4.4.0 B315 and release notes are available for download from the Support site : https://support.fortinet.com</p>
-              </details>
-            </article>
-
-          </section>
-        </li>
-
       </ul>
 
       </section>
@@ -540,6 +653,269 @@ FSW_108E_POE, FSW_148F</p>
             <h2>
               <a href="https://alas.aws.amazon.com">Amazon Linux AMI Security Bulletins</a>
             </h2>
+        <li>
+      <section>
+      <h1>2023-02-20</h1>
+
+      <ul>
+
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1964.html>ALAS-2023-1964 (critical): clamav</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-20</time></span> |
+                </div>
+                <p>CVE-2023-20032, CVE-2023-20052</p>
+              </details>
+            </article>
+
+          </section>
+        </li>
+
+        <li>
+      <section>
+      <h1>2023-02-17</h1>
+
+      <ul>
+
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1963.html>ALAS-2023-1963 (medium): java-1.8.0-openjdk</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2023-21830</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1962.html>ALAS-2023-1962 (important): libXpm</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2022-44617, CVE-2022-46285, CVE-2022-4883</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1961.html>ALAS-2023-1961 (medium): ImageMagick</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2022-44267, CVE-2022-44268</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1960.html>ALAS-2023-1960 (important): webkitgtk4</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2022-42823</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1959.html>ALAS-2023-1959 (medium): rust</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2022-36113, CVE-2022-36114</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1958.html>ALAS-2023-1958 (critical): openldap</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2022-29155</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1957.html>ALAS-2023-1957 (important): ca-certificates</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2022-23491</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1956.html>ALAS-2023-1956 (important): python-lxml</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-43818</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1955.html>ALAS-2023-1955 (critical): nss-softokn</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-43527</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1954.html>ALAS-2023-1954 (critical): nss-util</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-43527</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1953.html>ALAS-2023-1953 (critical): nspr</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-43527</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1952.html>ALAS-2023-1952 (critical): nss</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-43527</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1951.html>ALAS-2023-1951 (important): thunderbird</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-4127, CVE-2021-4129, CVE-2022-2200, CVE-2022-3266, CVE-2022-34468, CVE-2022-34470, CVE-2022-34472, CVE-2022-34479, CVE-2022-34481, CVE-2022-34484, CVE-2022-40961, CVE-2022-45414, CVE-2022-46871, CVE-2022-46872, CVE-2022-46874, CVE-2022-46877, CVE-2022-46878, CVE-2022-46880, CVE-2022-46881, CVE-2022-46882, CVE-2023-23598, CVE-2023-23599, CVE-2023-23601, CVE-2023-23602, CVE-2023-23603, CVE-2023-23605</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1950.html>ALAS-2023-1950 (medium): squid</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-28651, CVE-2021-28652, CVE-2021-31806, CVE-2021-31807, CVE-2021-31808, CVE-2021-33620, CVE-2022-41317</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1949.html>ALAS-2023-1949 (medium): postgresql</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-23214</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1948.html>ALAS-2023-1948 (medium): protobuf</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2021-22570</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1947.html>ALAS-2023-1947 (important): ghostscript</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2020-27792</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1946.html>ALAS-2023-1946 (medium): httpcomponents-client</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2020-13956</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1945.html>ALAS-2023-1945 (important): thunderbird</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2020-12417, CVE-2020-12418, CVE-2020-12419, CVE-2020-12420, CVE-2020-12421</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1944.html>ALAS-2023-1944 (medium): glibc</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2019-19126, CVE-2020-10029, CVE-2020-1752</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1943.html>ALAS-2023-1943 (important): git</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2019-1348, CVE-2019-1349, CVE-2019-1350, CVE-2019-1351, CVE-2019-1352, CVE-2019-1353, CVE-2019-1354, CVE-2019-1387, CVE-2019-19604</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1942.html>ALAS-2023-1942 (important): nss-util</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2019-11729, CVE-2019-11745</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1941.html>ALAS-2023-1941 (medium): liblouis</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2018-11577, CVE-2018-11684, CVE-2018-11685, CVE-2018-12085</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1940.html>ALAS-2023-1940 (medium): spice-protocol</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2018-10893</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1939.html>ALAS-2023-1939 (medium): libgovirt</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2018-10893</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALAS-2023-1938.html>ALAS-2023-1938 (important): httpd</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2023-02-17</time></span> |
+                </div>
+                <p>CVE-2006-20001, CVE-2022-36760, CVE-2022-37436</p>
+              </details>
+            </article>
+
+          </section>
+        </li>
+
         <li>
       <section>
       <h1>2023-02-13</h1>
@@ -781,92 +1157,6 @@ FSW_108E_POE, FSW_148F</p>
                   <span>Date: <time>2023-01-30</time></span> |
                 </div>
                 <p>CVE-2021-37600</p>
-              </details>
-            </article>
-
-          </section>
-        </li>
-
-      </ul>
-
-      </section>
-    <li>
-          <section>
-            <h2>
-              <a href="https://community.ui.com">UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a>
-            </h2>
-        <li>
-      <section>
-      <h1>2023-02-07</h1>
-
-      <ul>
-
-            <article>
-                <h3><a href=https://community.ui.com/releases/UniFi-Access-Point-6-5-28/0c150c98-7187-4a75-b957-ad47f36fe7d2>UniFi Access Point 6.5.28</a></h3>
-                <div>
-                  <span>Source: <a href=https://community.ui.com>UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a></span> | 
-                  <span>Date: <time>2023-02-07</time></span> |
-                </div>
-                <p>Overview
-* This release is currently stable/official for the following models, it&#x27;s still an RC for all other models:
-
-AC-Lite/AC-IW
-AC-HD/SHD
-IW-HD
-U6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW
-
-* Please also review the 6.5.26 (RC) changes here.
-Improvements
-
-[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.
-
-Bugfixes
-
-[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.
-[UAP] Fix device config application occasionally taking longer than usual.
-[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.
-
-Additional information
-
-Please refer to this article to find more details on how to identify your Access Point generation.
-Instead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application.
-
- 
-All feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:
-
-Network Application version.
-Firmware version (previous and current). 
-Device model(s).</p>
-              </details>
-            </article>
-
-          </section>
-        </li>
-
-        <li>
-      <section>
-      <h1>2023-01-25</h1>
-
-      <ul>
-
-            <article>
-                <h3><a href=https://community.ui.com/releases/UniFi-Access-Point-6-5-26/99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313>UniFi Access Point 6.5.26</a></h3>
-                <div>
-                  <span>Source: <a href=https://community.ui.com>UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community</a></span> | 
-                  <span>Date: <time>2023-01-25</time></span> |
-                </div>
-                <p>Overview
-* This release only only for the Gen2/Gen3/Gen4 and Gen6 AP&#x27;s, it currently is not available for Gen5.
-Improvements
-
-[UAP] Speed up adoption time significantly. Eliminate rare cases of long adoption times.
-[UAP] Improve UAPNetwork Application connection stability to avoid devices going offline randomly.
-[UAP] Speed up wireless uplink connections after a configuration change/reboot on APs with ethernet ports if there is no active link on the ethernet port.
-[UAP] Eliminate client connectivity downtime when device name (hostname) is changed.
-[UAP] Make band steering less strict.
-[UAP] Improve device resiliency by handling special characters in device hostname configured by mobile apps.
-[UAP] Improve overall stability by fixing kernel crashes.
-[UAP] Update lldpd package to version …</p>
               </details>
             </article>
 
