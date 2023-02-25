@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T00:41:50.248Z</id>
+    <id>urn:2023-02-25T00:42:37.868Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T00:41:50.248Z</updated>
+    <updated>2023-02-25T00:42:37.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiDDoS 5.7.0]]></title>
+        <id>Fri, 24 Feb 2023 22:24:58 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-02-24T22:24:58.000Z</updated>
+        <summary type="html"><![CDATA[FortiDDoS 5.7.0 B0367 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FDD_600B, FDD_400B, FDD_CM_KVM,
+FDD_800B, FDD_1000B, FDD_1200B,
+FDD_CM_HYPERV, FDD_2000E, FDD_2000B,
+FDD_CM_VMWARE, FDD_900B, FDD_1500E,
+FDD_CM_XENOPEN, FDD_CM_XENSERVER, FDD_200B]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiExtender 4.2.5]]></title>
+        <id>Fri, 24 Feb 2023 19:08:12 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-02-24T19:08:12.000Z</updated>
+        <summary type="html"><![CDATA[FortiExtender 4.2.5 B0519 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FEXT_211E, FEXT_201E]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiSOAR 7.3.2]]></title>
+        <id>Fri, 24 Feb 2023 18:32:34 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-02-24T18:32:34.000Z</updated>
+        <summary type="html"><![CDATA[FortiSOAR 7.3.2 B2150 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Switch 6.5.32]]></title>
+        <id>529e0dbe-1a74-4210-b097-f947d3855f2d</id>
+        <link href="https://community.ui.com/releases/UniFi-Switch-6-5-32/529e0dbe-1a74-4210-b097-f947d3855f2d"/>
+        <updated>2023-02-24T11:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Improvements
+
+Update the boot animation logo for USW-Pro, USW-Enterprise and USW-PoE, USW-MC, USP-RPS, and USP-PDU-Pro models.
+[USW-Flex] Add support for "Cycle PoE Power" during restarts.
+[USW-Flex-XG] Improve compatibility with particular client NICs.
+[USW-Pro] Filter out invalid temperature sensor readings.
+
+Bugfixes
+
+Fix incorrect requested RPS power on USW-Pro-Aggregation and USW-Enterprise-24-PoE.
+Fix incorrect RPS power warning on the LCM when AC power is recovered.
+[USW-Flex-XG] Fix the issue that resulted in packet loss and unstable network connectivity.
+[USW-Enterprise-8-PoE] Fix device going offline due to tons of oops files.
+[USW-Enterprise-8-PoE] Fix client MAC address in the whitelist cannot get access to the internet when connecting to other ports on the switch.
+
+Additional information
+
+Your device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.
+Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
+If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
+
+ 
+If you encounter any issues with this release, please provide us some details on your setup and include the below information:
+
+Switch model(s)
+Previous Switch release version
+UniFi Network application version]]></summary>
+        <author>
+            <name>UI-Glenn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiWeb 7.0.6]]></title>
+        <id>Fri, 24 Feb 2023 04:14:48 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-02-24T04:14:48.000Z</updated>
+        <summary type="html"><![CDATA[FortiWeb 7.0.6 B0140 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FWB_3010E, FWB_VM, FWB_GCP_ONDEMAND,
+FWB_3000DFSX, FWB_3000D, FWB_KVM_PAYG,
+FWB_2000E, FWB_XENSERVER, FWB_AZURE_ONDEMAND,
+FWB_600D, FWB_4000E, FWB_100D,
+FWB_3000F, FWB_1000E, FWB_4000F,
+FWB_600E, FWB_400C, FWB_VBOX,
+FWB_VM_PAYG, FWB_GCP, FWB_ALI,
+FWB_AZURE, FWB_XENOPEN, FWB_4000D,
+FWB_HYPERV, FWB_KVM, FWB_OCI,
+FWB_400E, FWB_XENAWS, FWB_3000E,
+FWB_100E, FWB_2000F, FWB_DOCKER,
+FWB_XENAWS_ONDEMAND, FWB_1000D, FWB_400D]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiNAC 9.1.9]]></title>
         <id>Thu, 23 Feb 2023 21:44:13 GMT</id>
@@ -298,16 +395,6 @@ FNAC_AWS, FNAC_AZU]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-1959.html"/>
         <updated>2023-02-17T00:12:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-36113, CVE-2022-36114]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS-2023-1958 (critical): openldap]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-1958.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-1958.html"/>
-        <updated>2023-02-17T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-29155]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1151,37 +1238,6 @@ FSW_448D_FPOE, FSW_124E_POE, FSW_108F_FPOE,
 FSW_108E_POE, FSW_148F]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSOAR 7.3.1]]></title>
-        <id>Wed, 25 Jan 2023 19:55:22 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-01-25T19:55:22.000Z</updated>
-        <summary type="html"><![CDATA[FortiSOAR 7.3.1 B2105 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point 6.5.26]]></title>
-        <id>99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-6-5-26/99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313"/>
-        <updated>2023-01-25T19:21:52.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-* This release only only for the Gen2/Gen3/Gen4 and Gen6 AP's, it currently is not available for Gen5.
-Improvements
-
-[UAP] Speed up adoption time significantly. Eliminate rare cases of long adoption times.
-[UAP] Improve UAP<->Network Application connection stability to avoid devices going offline randomly.
-[UAP] Speed up wireless uplink connections after a configuration change/reboot on APs with ethernet ports if there is no active link on the ethernet port.
-[UAP] Eliminate client connectivity downtime when device name (hostname) is changed.
-[UAP] Make band steering less strict.
-[UAP] Improve device resiliency by handling special characters in device hostname configured by mobile apps.
-[UAP] Improve overall stability by fixing kernel crashes.
-[UAP] Update lldpd package to version …]]></summary>
-        <author>
-            <name>UI-Glenn</name>
         </author>
     </entry>
 </feed>

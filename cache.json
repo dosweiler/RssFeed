@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "529e0dbe-1a74-4210-b097-f947d3855f2d",
+          "author": "UI-Glenn",
+          "description": "Improvements\n\nUpdate the boot animation logo for USW-Pro, USW-Enterprise and USW-PoE, USW-MC, USP-RPS, and USP-PDU-Pro models.\n[USW-Flex] Add support for \"Cycle PoE Power\" during restarts.\n[USW-Flex-XG] Improve compatibility with particular client NICs.\n[USW-Pro] Filter out invalid temperature sensor readings.\n\nBugfixes\n\nFix incorrect requested RPS power on USW-Pro-Aggregation and USW-Enterprise-24-PoE.\nFix incorrect RPS power warning on the LCM when AC power is recovered.\n[USW-Flex-XG] Fix the issue that resulted in packet loss and unstable network connectivity.\n[USW-Enterprise-8-PoE] Fix device going offline due to tons of oops files.\n[USW-Enterprise-8-PoE] Fix client MAC address in the whitelist cannot get access to the internet when connecting to other ports on the switch.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade LCM firmware.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Switch-6-5-32/529e0dbe-1a74-4210-b097-f947d3855f2d",
+          "publishedOn": "2023-02-24T11:59:58.000Z",
+          "wordCount": 5,
+          "title": "UniFi Switch 6.5.32",
+          "imageUrl": null
+        },
+        {
           "id": "2fd8f3a6-f393-4294-bf36-6cad47ad12ef",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 6.5.33 addresses issues with meshing while also improving the channel selection after an RF Scan.\nThis release is currently a Release Candidate for the Generation 2/3/4/6 models.\nImprovements\n\nAutomatically pick the best channel after an RF Scan if the AP Radio Channel is set to Auto.\nSpeed up the meshing reconnection after the uplink goes through a provision/reboot/firmware update.\n\nBugfixes\n\nFix wired APs occasionally meshing with each other instead of relying on wired uplinks when SFP connections are used between switches.\n[Gen2/Gen3/Gen6 models] Fix WiFi not broadcasting after boot intermittently.\n[Gen4 models] Fix 5GHz WiFi disappearing occasionally after a DFS radar hit when broadcasting at 160MHz.\n[Gen6 models] Fix kernel crash to improve overall stability.\n[Gen6 models] Fix incorrect channel width being applied occasionally.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -23,16 +33,6 @@
           "publishedOn": "2023-02-07T18:11:52.000Z",
           "wordCount": 5,
           "title": "UniFi Access Point 6.5.28",
-          "imageUrl": null
-        },
-        {
-          "id": "99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313",
-          "author": "UI-Glenn",
-          "description": "Overview\n* This release only only for the Gen2/Gen3/Gen4 and Gen6 AP's, it currently is not available for Gen5.\nImprovements\n\n[UAP] Speed up adoption time significantly. Eliminate rare cases of long adoption times.\n[UAP] Improve UAP<->Network Application connection stability to avoid devices going offline randomly.\n[UAP] Speed up wireless uplink connections after a configuration change/reboot on APs with ethernet ports if there is no active link on the ethernet port.\n[UAP] Eliminate client connectivity downtime when device name (hostname) is changed.\n[UAP] Make band steering less strict.\n[UAP] Improve device resiliency by handling special characters in device hostname configured by mobile apps.\n[UAP] Improve overall stability by fixing kernel crashes.\n[UAP] Update lldpd package to version …",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-26/99dda8ad-0a0c-4c2c-8d9b-d1ca692ef313",
-          "publishedOn": "2023-01-25T19:21:52.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.5.26",
           "imageUrl": null
         }
       ]
@@ -100,16 +100,6 @@
           "publishedOn": "2023-02-17T00:12:00.000Z",
           "wordCount": 861,
           "title": "ALAS-2023-1959 (medium): rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1958.html",
-          "author": null,
-          "description": "CVE-2022-29155",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1958.html",
-          "publishedOn": "2023-02-17T00:12:00.000Z",
-          "wordCount": 222,
-          "title": "ALAS-2023-1958 (critical): openldap",
           "imageUrl": null
         },
         {
@@ -570,6 +560,46 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Fri, 24 Feb 2023 22:24:58 GMT",
+          "author": null,
+          "description": "FortiDDoS 5.7.0 B0367 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFDD_600B, FDD_400B, FDD_CM_KVM,\nFDD_800B, FDD_1000B, FDD_1200B,\nFDD_CM_HYPERV, FDD_2000E, FDD_2000B,\nFDD_CM_VMWARE, FDD_900B, FDD_1500E,\nFDD_CM_XENOPEN, FDD_CM_XENSERVER, FDD_200B",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-24T22:24:58.000Z",
+          "wordCount": 2938,
+          "title": "FortiDDoS 5.7.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 24 Feb 2023 19:08:12 GMT",
+          "author": null,
+          "description": "FortiExtender 4.2.5 B0519 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFEXT_211E, FEXT_201E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-24T19:08:12.000Z",
+          "wordCount": 2938,
+          "title": "FortiExtender 4.2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 24 Feb 2023 18:32:34 GMT",
+          "author": null,
+          "description": "FortiSOAR 7.3.2 B2150 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-24T18:32:34.000Z",
+          "wordCount": 2938,
+          "title": "FortiSOAR 7.3.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 24 Feb 2023 04:14:48 GMT",
+          "author": null,
+          "description": "FortiWeb 7.0.6 B0140 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFWB_3010E, FWB_VM, FWB_GCP_ONDEMAND,\nFWB_3000DFSX, FWB_3000D, FWB_KVM_PAYG,\nFWB_2000E, FWB_XENSERVER, FWB_AZURE_ONDEMAND,\nFWB_600D, FWB_4000E, FWB_100D,\nFWB_3000F, FWB_1000E, FWB_4000F,\nFWB_600E, FWB_400C, FWB_VBOX,\nFWB_VM_PAYG, FWB_GCP, FWB_ALI,\nFWB_AZURE, FWB_XENOPEN, FWB_4000D,\nFWB_HYPERV, FWB_KVM, FWB_OCI,\nFWB_400E, FWB_XENAWS, FWB_3000E,\nFWB_100E, FWB_2000F, FWB_DOCKER,\nFWB_XENAWS_ONDEMAND, FWB_1000D, FWB_400D",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-24T04:14:48.000Z",
+          "wordCount": 2938,
+          "title": "FortiWeb 7.0.6",
+          "imageUrl": null
+        },
+        {
           "id": "Thu, 23 Feb 2023 21:44:13 GMT",
           "author": null,
           "description": "FortiNAC 9.1.9 B0179 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -837,16 +867,6 @@
           "publishedOn": "2023-01-27T00:18:56.000Z",
           "wordCount": 2938,
           "title": "FortiSwitch 7.0.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 25 Jan 2023 19:55:22 GMT",
-          "author": null,
-          "description": "FortiSOAR 7.3.1 B2105 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-01-25T19:55:22.000Z",
-          "wordCount": 2938,
-          "title": "FortiSOAR 7.3.1",
           "imageUrl": null
         }
       ]
