@@ -28,7 +28,7 @@
         {
           "id": "0c150c98-7187-4a75-b957-ad47f36fe7d2",
           "author": "UI-Glenn",
-          "description": "Overview\n* This release is currently stable/official for the following models, it's still an RC for all other models:\n\nAC-Lite/AC-IW\nAC-HD/SHD\nIW-HD\nU6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW\n\n* Please also review the 6.5.26 (RC) changes here.\nImprovements\n\n[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.\n\nBugfixes\n\n[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.\n[UAP] Fix device config application occasionally taking longer than usual.\n[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.\n\nAdditional information\n\nPlease refer to this article to find more details on how to identify your Access Point generation.\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application.\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
+          "description": "Overview\n* This release is currently stable/official for the following models, it's still an RC for all other models:\n\nAC-Lite/LR/Pro/M/M-PRO/IW\nAC-HD/SHD/XG/BaseStationXG\nIW-HD\nU6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW\n\n* Please also review the 6.5.26 (RC) changes here.\nImprovements\n\n[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.\n\nBugfixes\n\n[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.\n[UAP] Fix device config application occasionally taking longer than usual.\n[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.\n\nAdditional information\n\nPlease refer to this article to find more details on how to identify your Access Point generation.\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application.\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-28/0c150c98-7187-4a75-b957-ad47f36fe7d2",
           "publishedOn": "2023-02-07T18:11:52.000Z",
           "wordCount": 5,
@@ -559,6 +559,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 27 Feb 2023 20:41:54 GMT",
+          "author": null,
+          "description": "FortiRecorder 6.0.12 B0171 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFRC_VMKV, FRC_VMAW_ONDEMAND, FRC_400D,\nFRC_VMKI, FRC_100D, FRC_200D,\nFRC_400F, FRC_VM, FRC_VMHV,\nFRC_VMXE",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-02-27T20:41:54.000Z",
+          "wordCount": 2938,
+          "title": "FortiRecorder 6.0.12",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 24 Feb 2023 22:24:58 GMT",
           "author": null,

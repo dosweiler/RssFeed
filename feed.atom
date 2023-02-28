@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T00:43:13.636Z</id>
+    <id>urn:2023-02-28T00:42:56.097Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T00:43:13.636Z</updated>
+    <updated>2023-02-28T00:42:56.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiRecorder 6.0.12]]></title>
+        <id>Mon, 27 Feb 2023 20:41:54 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-02-27T20:41:54.000Z</updated>
+        <summary type="html"><![CDATA[FortiRecorder 6.0.12 B0171 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FRC_VMKV, FRC_VMAW_ONDEMAND, FRC_400D,
+FRC_VMKI, FRC_100D, FRC_200D,
+FRC_400F, FRC_VM, FRC_VMHV,
+FRC_VMXE]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiDDoS 5.7.0]]></title>
         <id>Fri, 24 Feb 2023 22:24:58 GMT</id>
@@ -764,8 +779,8 @@ FVE_500E, FVE_20E, FVE_5000F]]></summary>
         <summary type="html"><![CDATA[Overview
 * This release is currently stable/official for the following models, it's still an RC for all other models:
 
-AC-Lite/AC-IW
-AC-HD/SHD
+AC-Lite/LR/Pro/M/M-PRO/IW
+AC-HD/SHD/XG/BaseStationXG
 IW-HD
 U6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW
 
