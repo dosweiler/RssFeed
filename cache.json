@@ -351,96 +351,6 @@
           "wordCount": 251,
           "title": "ALAS-2023-1929 (medium): autotrace",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1928.html",
-          "author": null,
-          "description": "CVE-2022-45939",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1928.html",
-          "publishedOn": "2023-01-30T16:03:00.000Z",
-          "wordCount": 238,
-          "title": "ALAS-2023-1928 (important): emacs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1927.html",
-          "author": null,
-          "description": "CVE-2022-4292, CVE-2023-0049",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1927.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 193,
-          "title": "ALAS-2023-1927 (medium): vim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1926.html",
-          "author": null,
-          "description": "CVE-2022-41717",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1926.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 222,
-          "title": "ALAS-2023-1926 (medium): golang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1925.html",
-          "author": null,
-          "description": "CVE-2022-39377",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1925.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 233,
-          "title": "ALAS-2023-1925 (medium): sysstat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1924.html",
-          "author": null,
-          "description": "CVE-2022-27781, CVE-2022-43551, CVE-2022-43552",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1924.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 417,
-          "title": "ALAS-2023-1924 (medium): curl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1923.html",
-          "author": null,
-          "description": "CVE-2022-23521, CVE-2022-41903",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1923.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 546,
-          "title": "ALAS-2023-1923 (important): git",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1922.html",
-          "author": null,
-          "description": "CVE-2022-21619, CVE-2022-21624, CVE-2022-21626, CVE-2022-21628",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1922.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 852,
-          "title": "ALAS-2023-1922 (medium): java-1.8.0-openjdk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1921.html",
-          "author": null,
-          "description": "CVE-2021-3802",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1921.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 206,
-          "title": "ALAS-2023-1921 (low): udisks2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1920.html",
-          "author": null,
-          "description": "CVE-2021-37600",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-1920.html",
-          "publishedOn": "2023-01-30T16:02:00.000Z",
-          "wordCount": 252,
-          "title": "ALAS-2023-1920 (low): util-linux",
-          "imageUrl": null
         }
       ]
     },
@@ -449,6 +359,46 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 1 Mar 2023 22:11:41 GMT",
+          "author": null,
+          "description": "FortiADC 7.0.5 B0053 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAD_1000F, FAD_700D, FAD_400F,\nFAD_GCP, FAD_120F, FAD_ALI,\nFAD_XENAWS, FAD_100F, FAD_4000F,\nFAD_GCP_ONDEMAND, FAD_2000D, FAD_300D,\nFAD_KVM, FAD_400D, FAD_OCI,\nFAD_4200F, FAD_VM, FAD_300F,\nFAD_AZURE, FAD_200D, FAD_XENSERVER,\nFAD_1200F, FAD_5000F, FAD_4000D,\nFAD_2200F, FAD_XENOPEN, FAD_ALI_ONDEMAND,\nFAD_XENAWS_ONDEMAND, FAD_AZURE_ONDEMAND, FAD_1500D,\nFAD_2000F, FAD_HYPERV, FAD_220F,\nFAD_200F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-01T22:11:41.000Z",
+          "wordCount": 2938,
+          "title": "FortiADC 7.0.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 1 Mar 2023 21:45:33 GMT",
+          "author": null,
+          "description": "FortiDDoS-F 6.3.4 B0331 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFDD_2000F, FDD_VMWARE, FDD_1500F,\nFDD_KVM, FDD_200F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-01T21:45:33.000Z",
+          "wordCount": 2938,
+          "title": "FortiDDoS-F 6.3.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 1 Mar 2023 20:04:00 GMT",
+          "author": null,
+          "description": "FortiMonitorOnSight 7.2.1 B0003 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFMN_100F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-01T20:04:00.000Z",
+          "wordCount": 2938,
+          "title": "FortiMonitorOnSight 7.2.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 1 Mar 2023 19:35:08 GMT",
+          "author": null,
+          "description": "FortiSandbox 4.2.4 B0261 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFSA_2000E, FSA_HYPERV, FSA_KVM,\nFSA_AZURE, FSA_3000E, FSA_1000F,\nFSA_500F, FSA_VM, FSA_3000F,\nFSA_AWS",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-01T19:35:08.000Z",
+          "wordCount": 2938,
+          "title": "FortiSandbox 4.2.4",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 28 Feb 2023 23:44:39 GMT",
           "author": null,
@@ -787,16 +737,6 @@
           "publishedOn": "2023-01-31T18:09:26.000Z",
           "wordCount": 2938,
           "title": "FortiMonitorOnSight 7.2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 30 Jan 2023 19:08:12 GMT",
-          "author": null,
-          "description": "FortiExtender 7.0.4 B0057 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFEXT_511F, FEXT_200F, FEXT_211E,\nFEXT_201E",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-01-30T19:08:12.000Z",
-          "wordCount": 2938,
-          "title": "FortiExtender 7.0.4",
           "imageUrl": null
         }
       ]
