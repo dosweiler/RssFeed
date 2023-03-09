@@ -263,6 +263,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-110.html",
+          "author": null,
+          "description": "CVE-2023-0179",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-110.html",
+          "publishedOn": "2023-03-02T18:07:00.000Z",
+          "wordCount": 205,
+          "title": "ALASLIVEPATCH-2023-110 (important): kernel-livepatch-5.10.162-141.675",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-109.html",
+          "author": null,
+          "description": "CVE-2023-0179",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-109.html",
+          "publishedOn": "2023-03-02T18:07:00.000Z",
+          "wordCount": 205,
+          "title": "ALASLIVEPATCH-2023-109 (important): kernel-livepatch-5.10.157-139.675",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-108.html",
+          "author": null,
+          "description": "CVE-2023-0179",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-108.html",
+          "publishedOn": "2023-03-02T18:07:00.000Z",
+          "wordCount": 205,
+          "title": "ALASLIVEPATCH-2023-108 (important): kernel-livepatch-5.10.155-138.670",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-1964.html",
           "author": null,
           "description": "CVE-2023-20032, CVE-2023-20052",
@@ -459,6 +489,46 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 8 Mar 2023 19:51:11 GMT",
+          "author": null,
+          "description": "FortiAuthenticator 6.3.4 B0694 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAC_2000E, FAC_300F, FAC_VM_AZURE,\nFAC_VM_OPC, FAC_400C, FAC_3000D,\nFAC_VM_KVM, FAC_3000E, FAC_VM_XEN,\nFAC_200D, FAC_VM_HV, FAC_400E,\nFAC_200E, FAC_VM, FAC_800F,\nFAC_1000D",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-08T19:51:11.000Z",
+          "wordCount": 2938,
+          "title": "FortiAuthenticator 6.3.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 8 Mar 2023 19:34:20 GMT",
+          "author": null,
+          "description": "FortiAuthenticator 6.2.2 B0554 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAC_3000E, FAC_VM_OPC, FAC_400E,\nFAC_VM_HV, FAC_200D, FAC_2000E,\nFAC_400C, FAC_800F, FAC_3000D,\nFAC_VM, FAC_VM_AZURE, FAC_VM_XEN,\nFAC_1000D, FAC_200E, FAC_VM_KVM,\nFAC_300F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-08T19:34:20.000Z",
+          "wordCount": 2938,
+          "title": "FortiAuthenticator 6.2.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 8 Mar 2023 19:20:54 GMT",
+          "author": null,
+          "description": "FortiAuthenticator 6.1.3 B0422 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAC_2000E, FAC_400C, FAC_3000D,\nFAC_VM_XEN, FAC_VM_AZURE, FAC_400E,\nFAC_1000D, FAC_VM_KVM, FAC_VM,\nFAC_200E, FAC_VM_OPC, FAC_VM_HV,\nFAC_200D, FAC_3000E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-08T19:20:54.000Z",
+          "wordCount": 2938,
+          "title": "FortiAuthenticator 6.1.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 8 Mar 2023 17:36:12 GMT",
+          "author": null,
+          "description": "FortiIsolator 2.4.3 B0549 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFIS_VM_Upgrade, FIS_3000F, FIS_1000G,\nFIS_1000F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-08T17:36:12.000Z",
+          "wordCount": 2938,
+          "title": "FortiIsolator 2.4.3",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 7 Mar 2023 19:20:20 GMT",
           "author": null,
@@ -857,16 +927,6 @@
           "publishedOn": "2023-02-08T22:08:29.000Z",
           "wordCount": 2938,
           "title": "FortiVoice 6.4.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 6 Feb 2023 18:57:32 GMT",
-          "author": null,
-          "description": "FortiAnalyzer-BigData 7.0.6 B0153 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAZBD_VM64, FAZBD_4500F_Bootloader",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-02-06T18:57:32.000Z",
-          "wordCount": 2938,
-          "title": "FortiAnalyzer-BigData 7.0.6",
           "imageUrl": null
         }
       ]
