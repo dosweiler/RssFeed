@@ -24,16 +24,6 @@
           "wordCount": 5,
           "title": "UniFi Access Point 6.5.33",
           "imageUrl": null
-        },
-        {
-          "id": "0c150c98-7187-4a75-b957-ad47f36fe7d2",
-          "author": "UI-Glenn",
-          "description": "Overview\n* This release is currently stable/official for the following models, it's still an RC for all other models:\n\nAC-Lite/LR/Pro/M/M-PRO/IW\nAC-HD/SHD/XG/BaseStationXG\nIW-HD\nU6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW\n\n* Please also review the 6.5.26 (RC) changes here.\nImprovements\n\n[UAP] Improve RF Scan accuracy for channel widths greater than 20MHz.\n\nBugfixes\n\n[UAP] Fix radios selecting overlapping 2.4GHz channels after an RF scan.\n[UAP] Fix device config application occasionally taking longer than usual.\n[UAP-Gen2/Gen3/Gen6] Fix WPA3 fast roaming not working intermittently.\n\nAdditional information\n\nPlease refer to this article to find more details on how to identify your Access Point generation.\nInstead of using the manual links, you can also configure the Device Firmware Release Channel in the Network Application.\n\n \nAll feedback is welcome, including lettings us know about successful device upgrades. Please ensure that you include the following information at a minimum:\n\nNetwork Application version.\nFirmware version (previous and current). \nDevice model(s).",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-28/0c150c98-7187-4a75-b957-ad47f36fe7d2",
-          "publishedOn": "2023-02-07T18:11:52.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.5.28",
-          "imageUrl": null
         }
       ]
     },
@@ -489,6 +479,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 9 Mar 2023 19:35:35 GMT",
+          "author": null,
+          "description": "FortiCamera 1.1.1 B0136 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-09T19:35:35.000Z",
+          "wordCount": 2938,
+          "title": "FortiCamera 1.1.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 9 Mar 2023 01:25:41 GMT",
+          "author": null,
+          "description": "FortiAuthenticator 6.0.8 B0073 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAC_200E, FAC_3000D, FAC_400C,\nFAC_VM_KVM, FAC_1000D, FAC_VM,\nFAC_3000E, FAC_VM_HV, FAC_200D,\nFAC_VM_XEN, FAC_400E, FAC_VM_AZURE,\nFAC_2000E, FAC_VM_OPC",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-09T01:25:41.000Z",
+          "wordCount": 2938,
+          "title": "FortiAuthenticator 6.0.8",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 8 Mar 2023 19:51:11 GMT",
           "author": null,
