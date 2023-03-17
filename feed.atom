@@ -1,10 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T00:43:28.293Z</id>
+    <id>urn:2023-03-17T00:41:18.479Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T00:43:28.293Z</updated>
+    <updated>2023-03-17T00:41:18.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiDDoS-F 6.2.3]]></title>
+        <id>Thu, 16 Mar 2023 22:19:19 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-03-16T22:19:19.000Z</updated>
+        <summary type="html"><![CDATA[FortiDDoS-F 6.2.3 B0230 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FDD_VMWARE, FDD_1500F, FDD_200F,
+FDD_KVM]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiOS 7.0.11]]></title>
+        <id>Thu, 16 Mar 2023 21:29:44 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-03-16T21:29:44.000Z</updated>
+        <summary type="html"><![CDATA[FortiOS 7.0.11 B0489 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FGT_80F_BP, FGT_VM64_SVM, FWF_40F,
+FGT_VM64_GCP, FGT_3001F, FGT_3501F,
+FGT_61F, FGT_3601E, FGT_91E,
+FGT_71F, FGT_3700D, FGT_2000E,
+FFW_VM64, FGT_1101E, FGT_1000D,
+FGT_3500F, FGT_3400E, FGT_3200D,
+FWF_60E, FOS_VM64, FGR_60F_3G4G,
+FGT_81F, FGT_1801F, FGT_1100E,
+FGT_5001E, FGT_300E, FGT_140E_POE,
+FGT_80E, FGT_60F, FGT_200F,
+FGT_2600F, FGT_2200E, FGT_3100D,
+FGT_90E, FGT_400E, FWF_81F_2R_3G4G_POE,
+FGT_1200D, FGT_VM64, FGT_4200F,
+FGT_301E, FGT_401E, FGT_60E_POE,
+FGT_61E, FWF_61F, FGT_VM64_AWS,
+FGT_70F, FGT_VM64_AZURE, FFW_VM64_KVM,
+FOS_VM64_KVM, FGT_60E, FGT_100F,
+FGT_ARM64_KVM, FGT_400E_BP, FGT_5001E1,
+FWF_60F, FGT_VM64_VMX, FGT_VM64_ALI,
+FWF_60E_DSL, FGT_3000F, FWF_40F_3G4G,
+FWF_80F_2R, FGT_100EF, FGT_VM64_HV,
+FGT_81E_POE, FGT_60E_DSLJ, FGT_VM64_KVM,
+FGT_3960E, FGT_1500DT, FGT_400F,
+FGT_81F_POE, FOS_VM64_XEN, FGT_81E,
+FGT_2500E, FGT_VM64_OPC, FGT_80F,
+FGT_401F, FGT_2601F, FGT_1800F,
+FGT_ARM64_AWS, FGT_1500D, FWF_61E,
+FWF_81F_2R, FGT_101F, FGT_VM64_XEN,
+FGT_VM64_RAXONDEMAND, FWF_81F_2R_POE, FGT_501E,
+FGT_VM64_IBM, FGT_60E_DSL, FGT_4400F,
+FGT_201F, FGT_140E, FGT_80F_POE,
+FGT_500E, FGT_3401E, FGT_600E,
+FOS_VM64_HV, FGT_40F_3G4G, FGT_900D,
+FGT_100E, FWF_60E_DSLJ, FGT_ARM64_OCI,
+FGT_2201E, FFW_3980E, FGT_3000D,
+FGT_201E, FGT_600F, FGT_80E_POE,
+FGT_3800D, FGT_40F, FGT_800D,
+FGT_200E, FGT_3301E, FGT_601F,
+FGT_4401F, FGR_60F, FGT_3300E,
+FGT_3980E, FGT_3600E, FGT_101E,
+FGT_601E, FGT_4201F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Access Point 6.5.37]]></title>
+        <id>47d3fe53-b201-42bf-bd36-a4d90ee2351e</id>
+        <link href="https://community.ui.com/releases/UniFi-Access-Point-6-5-37/47d3fe53-b201-42bf-bd36-a4d90ee2351e"/>
+        <updated>2023-03-16T19:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+UniFi Access Point 6.5.37 provides better roaming for Gen2/Gen3/Gen6 APs. In this release, we have added improvements to Neighbor Report functionality for Gen2/Gen3/Gen6 APs. This new method significantly improves performance and reliability, including roaming between bands.
+ 
+Your feedback about roaming performance specifically is appreciated as we continue work on these improvements for other AP generations. For additional changes for these and other generations, see the release post for UniFi Access Point 6.5.33.
+
+
+This release is currently a Release Candidate for the Generation 2/3/4/6 models.
+Improvements
+
+Improved stability of wireless uplinks.
+[UAP-Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.
+[Gen2/Gen3/Gen6] Improved neighbor report reliability …]]></summary>
+        <author>
+            <name>UI-Glenn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiVoice 6.0.12]]></title>
+        <id>Thu, 16 Mar 2023 19:02:43 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-03-16T19:02:43.000Z</updated>
+        <summary type="html"><![CDATA[FortiVoice 6.0.12 B0294 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FVE_500E, FVE_VMAZ, FVG_GO08,
+FVE_VM, FVE_5000F, FVE_500F,
+FVE_200D, FVE_20E, FVE_300E,
+FVE_VMHV, FVE_2000E, FVE_3000E,
+FVG_GS16, FVE_VMXE, FVE_2000F,
+FVE_1000E, FVE_200F, FVG_GT,
+FVE_VMKV, FVE_100E, FVE_VMAW,
+FVE_50E]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiCentral 7.0.0]]></title>
         <id>Tue, 14 Mar 2023 19:57:53 GMT</id>
@@ -1250,20 +1355,6 @@ FNAC_AWS, FNAC_AZU]]></summary>
         <summary type="html"><![CDATA[CVE-2022-4129, CVE-2022-47929, CVE-2023-0045, CVE-2023-0394, CVE-2023-23454, CVE-2023-23455]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAP 7.2.2]]></title>
-        <id>Tue, 14 Feb 2023 20:09:11 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-02-14T20:09:11.000Z</updated>
-        <summary type="html"><![CDATA[FortiAP 7.2.2 B0318 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAP_432F, FAP_433F, FAP_831F,
-FAP_23JF, FAP_231F, FAP_234F,
-FAP_431F]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
         </author>
     </entry>
 </feed>
