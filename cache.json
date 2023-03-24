@@ -8,7 +8,7 @@
         {
           "id": "47d3fe53-b201-42bf-bd36-a4d90ee2351e",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.5.37 provides better roaming for Gen2/Gen3/Gen6 APs. In this release, we have added improvements to Neighbor Report functionality for Gen2/Gen3/Gen6 APs. This new method significantly improves performance and reliability, including roaming between bands.\n \nYour feedback about roaming performance specifically is appreciated as we continue work on these improvements for other AP generations. For additional changes for these and other generations, see the release post for UniFi Access Point 6.5.33.\n\n\nThis release is currently a Release Candidate for the Generation 2/3/4/6 models.\nImprovements\n\nImproved stability of wireless uplinks.\n[UAP-Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.\n[Gen2/Gen3/Gen6] Improved neighbor report reliability …",
+          "description": "Overview\nUniFi Access Point 6.5.37 provides better roaming for Gen2/Gen3/Gen6 APs. In this release, we have added improvements to Neighbor Report functionality for Gen2/Gen3/Gen6 APs. This new method significantly improves performance and reliability, including roaming between bands.\n\n\nYour feedback about roaming performance specifically is appreciated as we continue work on these improvements for other AP generations. For additional changes for these and other generations, see the release post for UniFi Access Point 6.5.33.\n\n\nThis release is currently a Release Candidate.\nImprovements\n\nImproved stability of wireless uplinks.\n[Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.\n[Gen2/Gen3/Gen6] Improved neighbor report reliability to reflect neighboring AP channel chan…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-37/47d3fe53-b201-42bf-bd36-a4d90ee2351e",
           "publishedOn": "2023-03-16T19:22:19.000Z",
           "wordCount": 5,
@@ -519,6 +519,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 23 Mar 2023 22:32:15 GMT",
+          "author": null,
+          "description": "FortiPortal 6.0.13 B0372 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPC_VM64",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-23T22:32:15.000Z",
+          "wordCount": 2938,
+          "title": "FortiPortal 6.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 23 Mar 2023 20:40:37 GMT",
+          "author": null,
+          "description": "FortiAP 7.0.6 B0127 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAP_23JF, FAP_431F, FAP_433F,\nFAP_831F, FAP_432F, FAP_231F,\nFAP_234F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-23T20:40:37.000Z",
+          "wordCount": 2938,
+          "title": "FortiAP 7.0.6",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 23 Mar 2023 00:07:53 GMT",
           "author": null,
@@ -1097,16 +1117,6 @@
           "publishedOn": "2023-02-23T18:02:05.000Z",
           "wordCount": 2938,
           "title": "FortiRecorder 6.4.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 21 Feb 2023 20:36:53 GMT",
-          "author": null,
-          "description": "FortiNAC-F 7.2.1 B0051 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFNAC_VHD, FNAC_ESX, FNAC_KVM,\nFNAC_AWS, FNAC_AZU",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-02-21T20:36:53.000Z",
-          "wordCount": 2938,
-          "title": "FortiNAC-F 7.2.1",
           "imageUrl": null
         }
       ]

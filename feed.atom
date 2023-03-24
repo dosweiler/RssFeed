@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T00:40:01.719Z</id>
+    <id>urn:2023-03-24T00:39:05.002Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T00:40:01.719Z</updated>
+    <updated>2023-03-24T00:39:05.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiPortal 6.0.13]]></title>
+        <id>Thu, 23 Mar 2023 22:32:15 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-03-23T22:32:15.000Z</updated>
+        <summary type="html"><![CDATA[FortiPortal 6.0.13 B0372 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FPC_VM64]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAP 7.0.6]]></title>
+        <id>Thu, 23 Mar 2023 20:40:37 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-03-23T20:40:37.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP 7.0.6 B0127 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FAP_23JF, FAP_431F, FAP_433F,
+FAP_831F, FAP_432F, FAP_231F,
+FAP_234F]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiTester 7.2.2]]></title>
         <id>Thu, 23 Mar 2023 00:07:53 GMT</id>
@@ -523,16 +549,17 @@ FGT_601E, FGT_4201F]]></summary>
         <updated>2023-03-16T19:22:19.000Z</updated>
         <summary type="html"><![CDATA[Overview
 UniFi Access Point 6.5.37 provides better roaming for Gen2/Gen3/Gen6 APs. In this release, we have added improvements to Neighbor Report functionality for Gen2/Gen3/Gen6 APs. This new method significantly improves performance and reliability, including roaming between bands.
- 
+
+
 Your feedback about roaming performance specifically is appreciated as we continue work on these improvements for other AP generations. For additional changes for these and other generations, see the release post for UniFi Access Point 6.5.33.
 
 
-This release is currently a Release Candidate for the Generation 2/3/4/6 models.
+This release is currently a Release Candidate.
 Improvements
 
 Improved stability of wireless uplinks.
-[UAP-Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.
-[Gen2/Gen3/Gen6] Improved neighbor report reliability …]]></summary>
+[Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.
+[Gen2/Gen3/Gen6] Improved neighbor report reliability to reflect neighboring AP channel chan…]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
@@ -1618,19 +1645,6 @@ Previous AP release version
 UniFi Network application version]]></summary>
         <author>
             <name>UI-Glenn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiNAC-F 7.2.1]]></title>
-        <id>Tue, 21 Feb 2023 20:36:53 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-02-21T20:36:53.000Z</updated>
-        <summary type="html"><![CDATA[FortiNAC-F 7.2.1 B0051 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FNAC_VHD, FNAC_ESX, FNAC_KVM,
-FNAC_AWS, FNAC_AZU]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
         </author>
     </entry>
 </feed>
