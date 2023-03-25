@@ -24,16 +24,6 @@
           "wordCount": 5,
           "title": "UniFi Switch 6.5.32",
           "imageUrl": null
-        },
-        {
-          "id": "2fd8f3a6-f393-4294-bf36-6cad47ad12ef",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.5.33 addresses issues with meshing while also improving the channel selection after an RF Scan.\nThis release is currently a Release Candidate for the Generation 2/3/4/6 models.\nImprovements\n\nAutomatically pick the best channel after an RF Scan if the AP Radio Channel is set to Auto.\nSpeed up the meshing reconnection after the uplink goes through a provision/reboot/firmware update.\n\nBugfixes\n\nFix wired APs occasionally meshing with each other instead of relying on wired uplinks when SFP connections are used between switches.\n[Gen2/Gen3/Gen6 models] Fix WiFi not broadcasting after boot intermittently.\n[Gen4 models] Fix 5GHz WiFi disappearing occasionally after a DFS radar hit when broadcasting at 160MHz.\n[Gen6 models] Fix kernel crash to improve overall stability.\n[Gen6 models] Fix incorrect channel width being applied occasionally.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-33/2fd8f3a6-f393-4294-bf36-6cad47ad12ef",
-          "publishedOn": "2023-02-22T16:48:39.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.5.33",
-          "imageUrl": null
         }
       ]
     },
@@ -519,6 +509,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 24 Mar 2023 19:21:28 GMT",
+          "author": null,
+          "description": "FortiAuthenticator 6.4.7 B1054 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAC_VM_AZURE, FAC_VM_HV, FAC_200D,\nFAC_1000D, FAC_2000E, FAC_200E,\nFAC_800F, FAC_VM, FAC_300F,\nFAC_3000D, FAC_3000F, FAC_400E,\nFAC_VM_KVM, FAC_400C, FAC_VM_XEN,\nFAC_3000E, FAC_VM_OPC",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-24T19:21:28.000Z",
+          "wordCount": 2938,
+          "title": "FortiAuthenticator 6.4.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 24 Mar 2023 17:59:14 GMT",
+          "author": null,
+          "description": "FortiPresence 2.0.0 B0008 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-03-24T17:59:14.000Z",
+          "wordCount": 2938,
+          "title": "FortiPresence 2.0.0",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 23 Mar 2023 22:32:15 GMT",
           "author": null,
