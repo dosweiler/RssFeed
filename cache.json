@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "6f5f7e61-8cf1-4953-8548-2b0ceb8152c1",
+          "author": "UI-Glenn",
+          "description": "Improvements\n\nImproved automatic APN detection.\nPrevent SNMP service listening on the LTE interface.\n\nAdditional information\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nU-LTE model(s)\nPrevious LTE release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-LTE-6-2-55/6f5f7e61-8cf1-4953-8548-2b0ceb8152c1",
+          "publishedOn": "2023-03-27T18:46:48.000Z",
+          "wordCount": 5,
+          "title": "UniFi LTE 6.2.55",
+          "imageUrl": null
+        },
+        {
           "id": "47d3fe53-b201-42bf-bd36-a4d90ee2351e",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 6.5.37 provides better roaming for Gen2/Gen3/Gen6 APs. In this release, we have added improvements to Neighbor Report functionality for Gen2/Gen3/Gen6 APs. This new method significantly improves performance and reliability, including roaming between bands.\n\n\nYour feedback about roaming performance specifically is appreciated as we continue work on these improvements for other AP generations. For additional changes for these and other generations, see the release post for UniFi Access Point 6.5.33.\n\n\nThis release is currently a Release Candidate.\nImprovements\n\nImproved stability of wireless uplinks.\n[Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.\n[Gen2/Gen3/Gen6] Improved neighbor report reliability to reflect neighboring AP channel chan…",
