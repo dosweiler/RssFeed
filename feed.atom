@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T00:40:29.762Z</id>
+    <id>urn:2023-04-01T00:39:53.001Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T00:40:29.762Z</updated>
+    <updated>2023-04-01T00:39:53.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiNDR 7.2.1]]></title>
+        <id>Fri, 31 Mar 2023 23:37:04 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-03-31T23:37:04.000Z</updated>
+        <summary type="html"><![CDATA[FortiNDR 7.2.1 B0404 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FNDR_3500F, FNDR_VMGC, FNDR_VMAZ,
+FNDR_VMAW, FNDR_VMKV, FNDR_VM]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiAP-W2 7.0.6]]></title>
         <id>Thu, 30 Mar 2023 18:33:34 GMT</id>
@@ -1209,188 +1222,6 @@ FPX_4000G, FPX_XEN, FPX_KVM_OPC,
 FPX_HY, FPX_400G, FPX_2000G,
 FPX_AZURE, FPX_400E, FPX_KVM_ALI,
 FPX_KVM_GCP, FPX_KVM_AWS, FPX_VMWARE]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiManager 7.0.6]]></title>
-        <id>Thu, 2 Mar 2023 02:11:27 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-02T02:11:27.000Z</updated>
-        <summary type="html"><![CDATA[FortiManager 7.0.6 B0372 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FMG_3900E, FMG_300F, FMG_VM64_OPC,
-FMG_3700G, FMG_3000F, FMG_3700F,
-FMG_VM64_AZURE, FMG_3000G, FMG_400G,
-FMG_VM64_ALI, FMG_VM64, FMG_VM64_AWS,
-FMG_VM64_AWSOnDemand, FMG_VM64_GCP, FMG_200F,
-FMG_400E, FMG_VM64_IBM, FMG_1000F,
-FMG_VM64_KVM, FMG_200G, FMG_VM64_XEN,
-FMG_VM64_HV, FMG_2000E]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAnalyzer 7.0.6]]></title>
-        <id>Thu, 2 Mar 2023 01:59:49 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-02T01:59:49.000Z</updated>
-        <summary type="html"><![CDATA[FortiAnalyzer 7.0.6 B0372 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAZ_VM64_ALI, FAZ_3700F, FAZ_VM64_OPC,
-FAZ_VM64_AZURE, FAZ_3500F, FAZ_3700G,
-FAZ_VM64_IBM, FAZ_3000G, FAZ_VM64,
-FAZ_3000F, FAZ_VM64_XEN, FAZ_VM64_GCP,
-FAZ_VM64_AWSOnDemand, FAZ_1000F, FAZ_VM64_HV,
-FAZ_3900E, FAZ_2000E, FAZ_400E,
-FAZ_150G, FAZ_VM64_KVM, FAZ_300F,
-FAZ_3500E, FAZ_300G, FAZ_800F,
-FAZ_200F, FAZ_3500G, FAZ_VM64_AWS,
-FAZ_800G]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiManager 6.4.11]]></title>
-        <id>Thu, 2 Mar 2023 01:36:31 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-02T01:36:31.000Z</updated>
-        <summary type="html"><![CDATA[FortiManager 6.4.11 B2581 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FMG_1000F, FMG_VM64_OPC, FMG_VM64,
-FMG_3700F, FMG_3000G, FMG_300E,
-FMG_4000E, FMG_VM64_ALI, FMG_200F,
-FMG_400G, FMG_300F, FMG_3900E,
-FMG_VM64_AWSOnDemand, FMG_VM64_AZURE, FMG_VM64_GCP,
-FMG_400E, FMG_2000E, FMG_3700G,
-FMG_VM64_KVM, FMG_3000F, FMG_200G,
-FMG_VM64_AWS, FMG_VM64_XEN, FMG_VM64_HV]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAnalyzer 6.4.11]]></title>
-        <id>Thu, 2 Mar 2023 01:25:02 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-02T01:25:02.000Z</updated>
-        <summary type="html"><![CDATA[FortiAnalyzer 6.4.11 B2581 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAZ_VM64_AZURE, FAZ_1000F, FAZ_400E,
-FAZ_3500F, FAZ_3900E, FAZ_200F,
-FAZ_1000E, FAZ_2000E, FAZ_VM64_AWS,
-FAZ_VM64_ALI, FAZ_150G, FAZ_800F,
-FAZ_3700G, FAZ_VM64_HV, FAZ_800G,
-FAZ_3000F, FAZ_3500G, FAZ_VM64_KVM,
-FAZ_300F, FAZ_3700F, FAZ_3000G,
-FAZ_3000E, FAZ_3500E, FAZ_300G,
-FAZ_VM64_XEN, FAZ_VM64_OPC, FAZ_VM64,
-FAZ_VM64_AWSOnDemand, FAZ_VM64_GCP]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiManager 6.2.10]]></title>
-        <id>Thu, 2 Mar 2023 01:12:47 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-02T01:12:47.000Z</updated>
-        <summary type="html"><![CDATA[FortiManager 6.2.10 B1496 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FMG_VM64_OPC, FMG_VM64_KVM, FMG_3000F,
-FMG_VM64_AWS, FMG_VM64_GCP, FMG_VM64_ALI,
-FMG_300E, FMG_VM64, FMG_400E,
-FMG_200F, FMG_VM64_AZURE, FMG_4000E,
-FMG_VM64_XEN, FMG_1000F, FMG_VM64_HV,
-FMG_200D, FMG_300F, FMG_3900E,
-FMG_VM64_AWSOnDemand, FMG_2000E, FMG_3000G,
-FMG_3700F]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAnalyzer 6.2.10]]></title>
-        <id>Thu, 2 Mar 2023 01:04:56 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-02T01:04:56.000Z</updated>
-        <summary type="html"><![CDATA[FortiAnalyzer 6.2.10 B1496 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAZ_VM64_KVM, FAZ_300F, FAZ_VM64,
-FAZ_VM64_AWSOnDemand, FAZ_3500F, FAZ_1000E,
-FAZ_3000E, FAZ_VM64_ALI, FAZ_VM64_AZURE,
-FAZ_VM64_OPC, FAZ_3700F, FAZ_3900E,
-FAZ_VM64_HV, FAZ_1000F, FAZ_VM64_AWS,
-FAZ_3500E, FAZ_2000E, FAZ_3000F,
-FAZ_800F, FAZ_VM64_XEN, FAZ_VM64_GCP,
-FAZ_200F, FAZ_3000G, FAZ_3500G,
-FAZ_400E]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiADC 7.0.5]]></title>
-        <id>Wed, 1 Mar 2023 22:11:41 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-01T22:11:41.000Z</updated>
-        <summary type="html"><![CDATA[FortiADC 7.0.5 B0053 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAD_1000F, FAD_700D, FAD_400F,
-FAD_GCP, FAD_120F, FAD_ALI,
-FAD_XENAWS, FAD_100F, FAD_4000F,
-FAD_GCP_ONDEMAND, FAD_2000D, FAD_300D,
-FAD_KVM, FAD_400D, FAD_OCI,
-FAD_4200F, FAD_VM, FAD_300F,
-FAD_AZURE, FAD_200D, FAD_XENSERVER,
-FAD_1200F, FAD_5000F, FAD_4000D,
-FAD_2200F, FAD_XENOPEN, FAD_ALI_ONDEMAND,
-FAD_XENAWS_ONDEMAND, FAD_AZURE_ONDEMAND, FAD_1500D,
-FAD_2000F, FAD_HYPERV, FAD_220F,
-FAD_200F]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiDDoS-F 6.3.4]]></title>
-        <id>Wed, 1 Mar 2023 21:45:33 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-01T21:45:33.000Z</updated>
-        <summary type="html"><![CDATA[FortiDDoS-F 6.3.4 B0331 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FDD_2000F, FDD_VMWARE, FDD_1500F,
-FDD_KVM, FDD_200F]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiMonitorOnSight 7.2.1]]></title>
-        <id>Wed, 1 Mar 2023 20:04:00 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-01T20:04:00.000Z</updated>
-        <summary type="html"><![CDATA[FortiMonitorOnSight 7.2.1 B0003 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FMN_100F]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSandbox 4.2.4]]></title>
-        <id>Wed, 1 Mar 2023 19:35:08 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-01T19:35:08.000Z</updated>
-        <summary type="html"><![CDATA[FortiSandbox 4.2.4 B0261 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FSA_2000E, FSA_HYPERV, FSA_KVM,
-FSA_AZURE, FSA_3000E, FSA_1000F,
-FSA_500F, FSA_VM, FSA_3000F,
-FSA_AWS]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
