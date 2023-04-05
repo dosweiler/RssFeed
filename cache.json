@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "d0febc78-00ff-4c6f-b884-e7c33ed44522",
+          "author": "UI-Glenn",
+          "description": "Overview\nThis release includes changes from prior release candidate builds, a full changelog will be available at general release.\nThis release has prioritized roaming performance for Gen2/Gen3/Gen6 APs, as well as improved topology reporting for Gen6 IW APs.\nImprovements\n\n[Gen2/Gen3/Gen6] Improved neighbor report accuracy.\n[U6-IW/U6-Enterprise-IW] Improved topology reporting for wired clients.\n\nBugfixes\n\nFixed neighbor reports occasionally not being populated when APs are configured with a static IP.\nFixed wireless downlinks configured to broadcast on DFS channels disconnecting every night at 2AM local time.\nFixed an issue with guest client authorization after disabling and reenabling the guest hotspot landing page.\n[Gen2/Gen3] Fixed neighbor reports not updating on other APs when Gen2/Gen3 APs change channels because of a DFS radar hit.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-40/d0febc78-00ff-4c6f-b884-e7c33ed44522",
+          "publishedOn": "2023-04-04T08:53:25.000Z",
+          "wordCount": 5,
+          "title": "UniFi Access Point 6.5.40",
+          "imageUrl": null
+        },
+        {
           "id": "6f5f7e61-8cf1-4953-8548-2b0ceb8152c1",
           "author": "UI-Glenn",
           "description": "Improvements\n\nImproved automatic APN detection.\nPrevent SNMP service listening on the LTE interface.\n\nAdditional information\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nU-LTE model(s)\nPrevious LTE release version\nUniFi Network application version",
@@ -259,6 +269,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 4 Apr 2023 16:26:48 GMT",
+          "author": null,
+          "description": "FortiNAC 9.4.3 B0752 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-04-04T16:26:48.000Z",
+          "wordCount": 2938,
+          "title": "FortiNAC 9.4.3",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 3 Apr 2023 23:57:29 GMT",
           "author": null,
