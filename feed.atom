@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T00:38:39.275Z</id>
+    <id>urn:2023-04-12T00:37:39.271Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T00:38:39.275Z</updated>
+    <updated>2023-04-12T00:37:39.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSIEM 6.7.4]]></title>
+        <id>Tue, 11 Apr 2023 21:59:39 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-04-11T21:59:39.000Z</updated>
+        <summary type="html"><![CDATA[FortiSIEM 6.7.4 B1733 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiVoiceUCDesktop 3.0.14]]></title>
         <id>Wed, 5 Apr 2023 20:14:17 GMT</id>
@@ -389,8 +399,6 @@ Prevent SNMP service listening on the LTE interface.
 
 Additional information
 
-Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
-If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
 
 
 If you encounter any issues with this release, please provide us some details on your setup and include the below information:
