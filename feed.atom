@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T00:37:39.271Z</id>
+    <id>urn:2023-04-13T00:36:53.945Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T00:37:39.271Z</updated>
+    <updated>2023-04-13T00:36:53.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiProxy 7.0.10]]></title>
+        <id>Wed, 12 Apr 2023 20:13:05 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-04-12T20:13:05.000Z</updated>
+        <summary type="html"><![CDATA[FortiProxy 7.0.10 B0153 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FPX_4000E, FPX_AZURE, FPX_KVM_ALI,
+FPX_400G, FPX_2000E, FPX_2000G,
+FPX_HY, FPX_XEN, FPX_KVM_GCP,
+FPX_KVM, FPX_400E, FPX_KVM_OPC,
+FPX_KVM_AWS, FPX_VMWARE, FPX_4000G]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSIEM 6.7.4]]></title>
         <id>Tue, 11 Apr 2023 21:59:39 GMT</id>
@@ -60,32 +76,20 @@ FML_900F, FML_VMAZ, FML_2000F]]></summary>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-6-5-40/d0febc78-00ff-4c6f-b884-e7c33ed44522"/>
         <updated>2023-04-04T08:53:25.000Z</updated>
         <summary type="html"><![CDATA[Overview
-This release includes changes from prior release candidate builds, a full changelog will be available at general release.
 This release has prioritized roaming performance for Gen2/Gen3/Gen6 APs, as well as improved topology reporting for Gen6 IW APs.
+This release is available on the Official release channel for the models listed below. It's still a Release Candidate for all other models.
+
+U6-Mesh/Enterprise
+
 Improvements
 
+Improved stability of wireless uplinks.
+Automatically pick the best channel after an RF Scan if the AP Radio Channel is set to Auto.
+Speed up the meshing reconnection after the uplink goes through a provision/reboot/firmware update.
 [Gen2/Gen3/Gen6] Improved neighbor report accuracy.
-[U6-IW/U6-Enterprise-IW] Improved topology reporting for wired clients.
-
-Bugfixes
-
-Fixed neighbor reports occasionally not being populated when APs are configured with a static IP.
-Fixed wireless downlinks configured to broadcast on DFS channels disconnecting every night at 2AM local time.
-Fixed an issue with guest client authorization after disabling and reenabling the guest hotspot landing page.
-[Gen2/Gen3] Fixed neighbor reports not updating on other APs when Gen2/Gen3 APs change channels because of a DFS radar hit.
-
-Additional information
-
-Refer to the Help Center article here to determine the UniFi Access Point generation.
-Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
-If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
-
-
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version]]></summary>
+[Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.
+[Gen2/Gen3/Gen6] Improved neighbor report reliability to reflect neighboring AP channel changes.
+[U6-IW/U6-Enterprise-IW] Improv…]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
@@ -1036,22 +1040,6 @@ FVE_50E]]></summary>
 This concerns the following models:
 Windows, Windows, Windows,
 Windows, Windows, Windows]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAuthenticator 6.5.1]]></title>
-        <id>Mon, 13 Mar 2023 16:55:14 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-13T16:55:14.000Z</updated>
-        <summary type="html"><![CDATA[FortiAuthenticator 6.5.1 B1295 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAC_VM_KVM, FAC_VM_AZURE, FAC_VM_HV,
-FAC_3000F, FAC_200E, FAC_3000E,
-FAC_400E, FAC_800F, FAC_VM_XEN,
-FAC_2000E, FAC_VM_OPC, FAC_VM,
-FAC_300F]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>

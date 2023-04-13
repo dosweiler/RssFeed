@@ -8,7 +8,7 @@
         {
           "id": "d0febc78-00ff-4c6f-b884-e7c33ed44522",
           "author": "UI-Glenn",
-          "description": "Overview\nThis release includes changes from prior release candidate builds, a full changelog will be available at general release.\nThis release has prioritized roaming performance for Gen2/Gen3/Gen6 APs, as well as improved topology reporting for Gen6 IW APs.\nImprovements\n\n[Gen2/Gen3/Gen6] Improved neighbor report accuracy.\n[U6-IW/U6-Enterprise-IW] Improved topology reporting for wired clients.\n\nBugfixes\n\nFixed neighbor reports occasionally not being populated when APs are configured with a static IP.\nFixed wireless downlinks configured to broadcast on DFS channels disconnecting every night at 2AM local time.\nFixed an issue with guest client authorization after disabling and reenabling the guest hotspot landing page.\n[Gen2/Gen3] Fixed neighbor reports not updating on other APs when Gen2/Gen3 APs change channels because of a DFS radar hit.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "description": "Overview\nThis release has prioritized roaming performance for Gen2/Gen3/Gen6 APs, as well as improved topology reporting for Gen6 IW APs.\nThis release is available on the Official release channel for the models listed below. It's still a Release Candidate for all other models.\n\nU6-Mesh/Enterprise\n\nImprovements\n\nImproved stability of wireless uplinks.\nAutomatically pick the best channel after an RF Scan if the AP Radio Channel is set to Auto.\nSpeed up the meshing reconnection after the uplink goes through a provision/reboot/firmware update.\n[Gen2/Gen3/Gen6] Improved neighbor report accuracy.\n[Gen2/Gen3/Gen6] Improve client connection and wireless uplink stability.\n[Gen2/Gen3/Gen6] Improved neighbor report reliability to reflect neighboring AP channel changes.\n[U6-IW/U6-Enterprise-IW] Improv…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-40/d0febc78-00ff-4c6f-b884-e7c33ed44522",
           "publishedOn": "2023-04-04T08:53:25.000Z",
           "wordCount": 5,
@@ -460,6 +460,16 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Wed, 12 Apr 2023 20:13:05 GMT",
+          "author": null,
+          "description": "FortiProxy 7.0.10 B0153 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPX_4000E, FPX_AZURE, FPX_KVM_ALI,\nFPX_400G, FPX_2000E, FPX_2000G,\nFPX_HY, FPX_XEN, FPX_KVM_GCP,\nFPX_KVM, FPX_400E, FPX_KVM_OPC,\nFPX_KVM_AWS, FPX_VMWARE, FPX_4000G",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-04-12T20:13:05.000Z",
+          "wordCount": 2938,
+          "title": "FortiProxy 7.0.10",
+          "imageUrl": null
+        },
+        {
           "id": "Tue, 11 Apr 2023 21:59:39 GMT",
           "author": null,
           "description": "FortiSIEM 6.7.4 B1733 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -817,16 +827,6 @@
           "publishedOn": "2023-03-14T19:57:53.000Z",
           "wordCount": 2938,
           "title": "FortiCentral 7.0.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 13 Mar 2023 16:55:14 GMT",
-          "author": null,
-          "description": "FortiAuthenticator 6.5.1 B1295 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAC_VM_KVM, FAC_VM_AZURE, FAC_VM_HV,\nFAC_3000F, FAC_200E, FAC_3000E,\nFAC_400E, FAC_800F, FAC_VM_XEN,\nFAC_2000E, FAC_VM_OPC, FAC_VM,\nFAC_300F",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-03-13T16:55:14.000Z",
-          "wordCount": 2938,
-          "title": "FortiAuthenticator 6.5.1",
           "imageUrl": null
         }
       ]
