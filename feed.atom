@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T00:37:06.839Z</id>
+    <id>urn:2023-04-19T00:39:35.086Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T00:37:06.839Z</updated>
+    <updated>2023-04-19T00:39:35.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiMail 7.2.3]]></title>
+        <id>Tue, 18 Apr 2023 22:45:16 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-04-18T22:45:16.000Z</updated>
+        <summary type="html"><![CDATA[FortiMail 7.2.3 B0395 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FML_VMOC, FML_VMAZ, FML_2000E,
+FML_400F, FML_3000F, FML_VMXE,
+FML_900F, FML_2000F, FML_VMHV,
+FML_3200E, FML_VM, FML_VMGC,
+FML_3000E, FML_VMKV, FML_200F,
+FML_VMAW]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiNDR 7.1.1]]></title>
+        <id>Tue, 18 Apr 2023 16:59:23 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-04-18T16:59:23.000Z</updated>
+        <summary type="html"><![CDATA[FortiNDR 7.1.1 B0250 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FNDR_3500F, FNDR_VM, FNDR_VMKV]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiNDR 7.0.5]]></title>
+        <id>Tue, 18 Apr 2023 16:53:26 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-04-18T16:53:26.000Z</updated>
+        <summary type="html"><![CDATA[FortiNDR 7.0.5 B0048 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FNDR_VM, FNDR_3500F, FNDR_VMKV]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiDDoS 5.5.2]]></title>
         <id>Mon, 17 Apr 2023 19:23:51 GMT</id>
@@ -98,6 +139,76 @@ This concerns the following models:
 FEXT_40D_AMEU]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2023-029 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-029.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-029.html"/>
+        <updated>2023-04-13T19:51:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-4379, CVE-2023-28466]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2023-030 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-030.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-030.html"/>
+        <updated>2023-04-13T19:51:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-28951]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2023-016 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-016.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-016.html"/>
+        <updated>2023-04-13T19:51:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-4269, CVE-2022-4379, CVE-2023-28466]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-121 (important): kernel-livepatch-5.10.162-141.675]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-121.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-121.html"/>
+        <updated>2023-04-13T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-1077, CVE-2023-28466]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-120 (important): kernel-livepatch-5.10.165-143.735]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-120.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-120.html"/>
+        <updated>2023-04-13T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-1077, CVE-2023-28466]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-119 (important): kernel-livepatch-5.10.167-147.601]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-119.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-119.html"/>
+        <updated>2023-04-13T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-1077, CVE-2023-28466]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-118 (important): kernel-livepatch-5.10.173-154.642]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-118.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-118.html"/>
+        <updated>2023-04-13T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-28466]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
