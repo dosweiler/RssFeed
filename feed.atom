@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T00:37:18.981Z</id>
+    <id>urn:2023-04-21T00:37:55.148Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T00:37:18.981Z</updated>
+    <updated>2023-04-21T00:37:55.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -220,6 +220,76 @@ FEXT_40D_AMEU]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-118.html"/>
         <updated>2023-04-13T19:50:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2023-28466]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2018 (important): jasper]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2018.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2018.html"/>
+        <updated>2023-04-13T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2020-27828, CVE-2021-26926, CVE-2021-26927, CVE-2021-3272, CVE-2021-3443, CVE-2021-3467]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2017 (medium): mysql-connector-java]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2017.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2017.html"/>
+        <updated>2023-04-13T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2020-2934]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2016 (important): pki-core]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2016.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2016.html"/>
+        <updated>2023-04-13T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-2414]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2015 (important): golang]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2015.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2015.html"/>
+        <updated>2023-04-13T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-2880, CVE-2022-30580, CVE-2022-30634, CVE-2022-41722, CVE-2022-41723, CVE-2022-41724, CVE-2022-41725, CVE-2023-24532, CVE-2023-24534, CVE-2023-24536, CVE-2023-24537, CVE-2023-24538]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2014 (medium): ImageMagick]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2014.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2014.html"/>
+        <updated>2023-04-13T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-1289]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2013 (important): liblouis]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2013.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2013.html"/>
+        <updated>2023-04-13T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-26767, CVE-2023-26768, CVE-2023-26769]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2012 (important): emacs]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2012.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2012.html"/>
+        <updated>2023-04-13T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-28617]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -776,46 +846,6 @@ FTS_VM, FTS_2000D, FTS_VM_AWS]]></summary>
         <summary type="html"><![CDATA[FortiSwitchManager 7.0.2 B0037 and release notes are available for download from the Support site : https://support.fortinet.com
 This concerns the following models:
 FSWM_VM64_KVM, FSWM_VM64_VMWARE, FSWM_VM64_HV]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiManager 7.0.7]]></title>
-        <id>Tue, 21 Mar 2023 21:08:53 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-21T21:08:53.000Z</updated>
-        <summary type="html"><![CDATA[FortiManager 7.0.7 B0419 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FMG_400G, FMG_200G, FMG_VM64_HV,
-FMG_VM64_XEN, FMG_VM64_GCP, FMG_VM64_IBM,
-FMG_3700G, FMG_3000G, FMG_3900E,
-FMG_VM64_OPC, FMG_VM64, FMG_3000F,
-FMG_VM64_AWS, FMG_VM64_AZURE, FMG_VM64_ALI,
-FMG_1000F, FMG_3700F, FMG_200F,
-FMG_VM64_AWSOnDemand, FMG_VM64_KVM, FMG_300F,
-FMG_400E, FMG_2000E]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAnalyzer 7.0.7]]></title>
-        <id>Tue, 21 Mar 2023 20:08:29 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-03-21T20:08:29.000Z</updated>
-        <summary type="html"><![CDATA[FortiAnalyzer 7.0.7 B0419 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAZ_VM64_ALI, FAZ_3000G, FAZ_150G,
-FAZ_VM64_OPC, FAZ_400E, FAZ_1000F,
-FAZ_VM64_AWS, FAZ_200F, FAZ_300F,
-FAZ_VM64_AWSOnDemand, FAZ_2000E, FAZ_VM64_HV,
-FAZ_3900E, FAZ_800G, FAZ_300G,
-FAZ_VM64, FAZ_VM64_KVM, FAZ_3500G,
-FAZ_VM64_GCP, FAZ_3700G, FAZ_VM64_IBM,
-FAZ_3500F, FAZ_3500E, FAZ_VM64_AZURE,
-FAZ_3700F, FAZ_3000F, FAZ_VM64_XEN,
-FAZ_800F]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
