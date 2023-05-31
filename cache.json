@@ -4,7 +4,18 @@
       "title": "UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "cf7e8c75-1737-4625-88fa-aca2ed0ece39",
+          "author": "UI-Glenn",
+          "description": "Overview\nThis release brings a significant improvement in latency for our Gen6 APs, including U6-Pro, as well as further roaming improvements and wireless meshing improvements for all APs.\nImprovements\n\nImproved wireless uplink stability when the downlink's ethernet port is being used.\n[Gen4/Gen5] Improve 2.4GHz latency.\n[Gen6] Set minimum firmware version to 6.2.49 to prevent unsupported downgrades.\n[Gen6] Improved latency at range.\n\nBugfixes\n\nFixed guest portal redirection not working when APs get a new IP on the guest VLAN (usually after 24 hours).\nFixed APs occasionally picking overlapping 2.4GHz and DFS channels after an RF Scan.\nFixed APs occasionally appearing 'Offline' in the Network Application while still serving WiFi properly, needing a power cycle to fix.\nFixed wirelessly meshe…",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-54/cf7e8c75-1737-4625-88fa-aca2ed0ece39",
+          "publishedOn": "2023-05-30T17:36:55.000Z",
+          "wordCount": 5,
+          "title": "UniFi Access Point 6.5.54",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
@@ -208,6 +219,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 30 May 2023 23:51:49 GMT",
+          "author": null,
+          "description": "FortiPortal 6.0.14 B0375 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPC_VM64",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-05-30T23:51:49.000Z",
+          "wordCount": 2998,
+          "title": "FortiPortal 6.0.14",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 25 May 2023 22:09:15 GMT",
           "author": null,
