@@ -8,7 +8,7 @@
         {
           "id": "cf7e8c75-1737-4625-88fa-aca2ed0ece39",
           "author": "UI-Glenn",
-          "description": "Overview\nThis release brings a significant improvement in latency for our Gen6 APs, including U6-Pro, as well as further roaming improvements and wireless meshing improvements for all APs.\nImprovements\n\nImproved wireless uplink stability when the downlink's ethernet port is being used.\n[Gen4/Gen5] Improve 2.4GHz latency.\n[Gen6] Set minimum firmware version to 6.2.49 to prevent unsupported downgrades.\n[Gen6] Improved latency at range.\n\nBugfixes\n\nFixed guest portal redirection not working when APs get a new IP on the guest VLAN (usually after 24 hours).\nFixed APs occasionally picking overlapping 2.4GHz and DFS channels after an RF Scan.\nFixed APs occasionally appearing 'Offline' in the Network Application while still serving WiFi properly, needing a power cycle to fix.\nFixed wirelessly meshe…",
+          "description": "Overview\nThis release brings a significant improvement in latency for our Gen6 APs, including U6-Pro, as well as further roaming improvements and wireless meshing improvements for all APs.\n \nIt's currently available for the following models on the Official release channel, it will be available for the other models on a later date.\n\nGen2: AC-LR\nGen3: SHD\nGen4: FlexHD\nGen5: U6-LR, U6+\nGen6: All\n\nImprovements\n\nImproved wireless uplink stability when the downlink's ethernet port is being used.\n[Gen4/Gen5] Improve 2.4GHz latency.\n[Gen6] Set minimum firmware version to 6.2.49 to prevent unsupported downgrades.\n[Gen6] Improved latency at range.\n\nBugfixes\n\nFixed guest portal redirection not working when APs get a new IP on the guest VLAN (usually after 24 hours).\nFixed APs occasionally picking ove…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-54/cf7e8c75-1737-4625-88fa-aca2ed0ece39",
           "publishedOn": "2023-05-30T17:36:55.000Z",
           "wordCount": 5,
@@ -22,6 +22,106 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-033.html",
+          "author": null,
+          "description": "CVE-2023-2269, CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-033.html",
+          "publishedOn": "2023-05-25T18:10:00.000Z",
+          "wordCount": 270,
+          "title": "ALASKERNEL-5.10-2023-033 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2023-004.html",
+          "author": null,
+          "description": "CVE-2023-21930, CVE-2023-21937, CVE-2023-21938, CVE-2023-21939, CVE-2023-21954, CVE-2023-21967, CVE-2023-21968",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2023-004.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 1379,
+          "title": "ALASJAVA-OPENJDK11-2023-004 (important): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-020.html",
+          "author": null,
+          "description": "CVE-2023-2269, CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-020.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 270,
+          "title": "ALASKERNEL-5.15-2023-020 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-046.html",
+          "author": null,
+          "description": "CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-046.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 236,
+          "title": "ALASKERNEL-5.4-2023-046 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-127.html",
+          "author": null,
+          "description": "CVE-2022-4379, CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-127.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 246,
+          "title": "ALASLIVEPATCH-2023-127 (important): kernel-livepatch-5.10.167-147.601",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-126.html",
+          "author": null,
+          "description": "CVE-2022-4379, CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-126.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 246,
+          "title": "ALASLIVEPATCH-2023-126 (important): kernel-livepatch-5.10.173-154.642",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-125.html",
+          "author": null,
+          "description": "CVE-2022-4379, CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-125.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 246,
+          "title": "ALASLIVEPATCH-2023-125 (important): kernel-livepatch-5.10.176-157.645",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-124.html",
+          "author": null,
+          "description": "CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-124.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 218,
+          "title": "ALASLIVEPATCH-2023-124 (important): kernel-livepatch-5.10.177-158.645",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-123.html",
+          "author": null,
+          "description": "CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-123.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 218,
+          "title": "ALASLIVEPATCH-2023-123 (important): kernel-livepatch-5.10.178-162.673",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-025.html",
+          "author": null,
+          "description": "CVE-2023-25809, CVE-2023-27561, CVE-2023-28642",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-025.html",
+          "publishedOn": "2023-05-25T17:42:00.000Z",
+          "wordCount": 434,
+          "title": "ALASDOCKER-2023-025 (important): runc",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2067.html",
           "author": null,
@@ -200,6 +300,36 @@
           "publishedOn": "2023-05-25T17:41:00.000Z",
           "wordCount": 233,
           "title": "ALAS-2023-2050 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-024.html",
+          "author": null,
+          "description": "CVE-2023-25809, CVE-2023-27561, CVE-2023-28642",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-024.html",
+          "publishedOn": "2023-05-25T17:41:00.000Z",
+          "wordCount": 434,
+          "title": "ALASNITRO-ENCLAVES-2023-024 (important): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-122.html",
+          "author": null,
+          "description": "CVE-2023-32233",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-122.html",
+          "publishedOn": "2023-05-25T17:41:00.000Z",
+          "wordCount": 218,
+          "title": "ALASLIVEPATCH-2023-122 (important): kernel-livepatch-5.10.179-166.674",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-019.html",
+          "author": null,
+          "description": "CVE-2023-2235",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-019.html",
+          "publishedOn": "2023-05-15T23:18:00.000Z",
+          "wordCount": 257,
+          "title": "ALASKERNEL-5.15-2023-019 (important): kernel",
           "imageUrl": null
         },
         {

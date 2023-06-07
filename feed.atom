@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T00:45:01.509Z</id>
+    <id>urn:2023-06-07T00:46:26.055Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T00:45:01.509Z</updated>
+    <updated>2023-06-07T00:46:26.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -247,6 +247,15 @@ FPC_VM64]]></summary>
         <updated>2023-05-30T17:36:55.000Z</updated>
         <summary type="html"><![CDATA[Overview
 This release brings a significant improvement in latency for our Gen6 APs, including U6-Pro, as well as further roaming improvements and wireless meshing improvements for all APs.
+ 
+It's currently available for the following models on the Official release channel, it will be available for the other models on a later date.
+
+Gen2: AC-LR
+Gen3: SHD
+Gen4: FlexHD
+Gen5: U6-LR, U6+
+Gen6: All
+
 Improvements
 
 Improved wireless uplink stability when the downlink's ethernet port is being used.
@@ -257,9 +266,7 @@ Improved wireless uplink stability when the downlink's ethernet port is being us
 Bugfixes
 
 Fixed guest portal redirection not working when APs get a new IP on the guest VLAN (usually after 24 hours).
-Fixed APs occasionally picking overlapping 2.4GHz and DFS channels after an RF Scan.
-Fixed APs occasionally appearing 'Offline' in the Network Application while still serving WiFi properly, needing a power cycle to fix.
-Fixed wirelessly meshe…]]></summary>
+Fixed APs occasionally picking ove…]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
@@ -279,6 +286,106 @@ FTS_VM_ALI_BYOL, FTS_100F, FTS_VM_OCI_BYOL,
 FTS_2000E]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2023-033 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-033.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-033.html"/>
+        <updated>2023-05-25T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-2269, CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASJAVA-OPENJDK11-2023-004 (important): java-11-openjdk]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2023-004.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2023-004.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-21930, CVE-2023-21937, CVE-2023-21938, CVE-2023-21939, CVE-2023-21954, CVE-2023-21967, CVE-2023-21968]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2023-020 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-020.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-020.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-2269, CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2023-046 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-046.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-046.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-127 (important): kernel-livepatch-5.10.167-147.601]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-127.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-127.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-4379, CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-126 (important): kernel-livepatch-5.10.173-154.642]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-126.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-126.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-4379, CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-125 (important): kernel-livepatch-5.10.176-157.645]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-125.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-125.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-4379, CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-124 (important): kernel-livepatch-5.10.177-158.645]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-124.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-124.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-123 (important): kernel-livepatch-5.10.178-162.673]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-123.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-123.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2023-025 (important): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-025.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-025.html"/>
+        <updated>2023-05-25T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-25809, CVE-2023-27561, CVE-2023-28642]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -462,6 +569,26 @@ FTS_2000E]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2023-024 (important): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-024.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-024.html"/>
+        <updated>2023-05-25T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-25809, CVE-2023-27561, CVE-2023-28642]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASLIVEPATCH-2023-122 (important): kernel-livepatch-5.10.179-166.674]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-122.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-122.html"/>
+        <updated>2023-05-25T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-32233]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FortiAnalyzer-BigData 7.2.3]]></title>
         <id>Thu, 25 May 2023 16:53:37 GMT</id>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
@@ -561,6 +688,16 @@ FAC_200E, FAC_2000E, FAC_1000D,
 FAC_VM_OPC, FAC_400E]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2023-019 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-019.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-019.html"/>
+        <updated>2023-05-15T23:18:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-2235]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
