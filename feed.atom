@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T00:46:26.055Z</id>
+    <id>urn:2023-06-08T00:44:59.713Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T00:46:26.055Z</updated>
+    <updated>2023-06-08T00:44:59.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiConverter 7.0.2]]></title>
+        <id>Wed, 7 Jun 2023 22:40:32 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-06-07T22:40:32.000Z</updated>
+        <summary type="html"><![CDATA[FortiConverter 7.0.2 B240 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+Windows]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSIEMWindowsAgent 5.0.0]]></title>
         <id>Mon, 5 Jun 2023 22:33:44 GMT</id>
@@ -253,7 +265,7 @@ It's currently available for the following models on the Official release channe
 Gen2: AC-LR
 Gen3: SHD
 Gen4: FlexHD
-Gen5: U6-LR, U6+
+Gen5: U6+
 Gen6: All
 
 Improvements
@@ -266,7 +278,7 @@ Improved wireless uplink stability when the downlink's ethernet port is being us
 Bugfixes
 
 Fixed guest portal redirection not working when APs get a new IP on the guest VLAN (usually after 24 hours).
-Fixed APs occasionally picking ove…]]></summary>
+Fixed APs occasionally picking overlappin…]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
@@ -1001,16 +1013,6 @@ FGT_3001F, FGT_60F]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2023-05-10T16:54:21.000Z</updated>
         <summary type="html"><![CDATA[FortiNAC 9.1.10 B0180 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiPolicy 7.2.3]]></title>
-        <id>Mon, 8 May 2023 20:59:55 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-05-08T20:59:55.000Z</updated>
-        <summary type="html"><![CDATA[FortiPolicy 7.2.3 B0037 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
