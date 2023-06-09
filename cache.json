@@ -8,7 +8,7 @@
         {
           "id": "cf7e8c75-1737-4625-88fa-aca2ed0ece39",
           "author": "UI-Glenn",
-          "description": "Overview\nThis release brings a significant improvement in latency for our Gen6 APs, including U6-Pro, as well as further roaming improvements and wireless meshing improvements for all APs.\n \nIt's currently available for the following models on the Official release channel, it will be available for the other models on a later date.\n\nGen2: AC-LR\nGen3: SHD\nGen4: FlexHD\nGen5: U6+\nGen6: All\n\nImprovements\n\nImproved wireless uplink stability when the downlink's ethernet port is being used.\n[Gen4/Gen5] Improve 2.4GHz latency.\n[Gen6] Set minimum firmware version to 6.2.49 to prevent unsupported downgrades.\n[Gen6] Improved latency at range.\n\nBugfixes\n\nFixed guest portal redirection not working when APs get a new IP on the guest VLAN (usually after 24 hours).\nFixed APs occasionally picking overlappin…",
+          "description": "Overview\nThis release brings a significant improvement in latency for our Gen6 APs, including U6-Pro, as well as further roaming improvements and wireless meshing improvements for all APs.\n \nIt's currently available for the following models on the Official release channel, it will be available for the other models on a later date. (it's still a release candidate for all other models)\n\nGen2: AC-LR\nGen3: SHD\nGen4: FlexHD\nGen5: U6+ (release was pulled for the U6-LR, it's still available on the Release Candidate release channel)\nGen6: All\n\nImprovements\n\nImproved wireless uplink stability when the downlink's ethernet port is being used.\n[Gen4/Gen5] Improve 2.4GHz latency.\n[Gen6] Set minimum firmware version to 6.2.49 to prevent unsupported downgrades.\n[Gen6] Improved latency at range.\n\nBugfixes…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-54/cf7e8c75-1737-4625-88fa-aca2ed0ece39",
           "publishedOn": "2023-05-30T17:36:55.000Z",
           "wordCount": 5,
@@ -22,6 +22,166 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2083.html",
+          "author": null,
+          "description": "CVE-2014-9601, CVE-2016-9190, CVE-2020-35653, CVE-2021-28676, CVE-2021-28677, CVE-2021-34552",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2083.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 412,
+          "title": "ALAS-2023-2083 (important): python-pillow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2082.html",
+          "author": null,
+          "description": "CVE-2015-8390, CVE-2015-8394",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2082.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 271,
+          "title": "ALAS-2023-2082 (medium): pcre",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2081.html",
+          "author": null,
+          "description": "CVE-2019-12526",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2081.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 231,
+          "title": "ALAS-2023-2081 (important): squid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2080.html",
+          "author": null,
+          "description": "CVE-2019-17570",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2080.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 212,
+          "title": "ALAS-2023-2080 (important): xmlrpc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2079.html",
+          "author": null,
+          "description": "CVE-2020-12762",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2079.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 215,
+          "title": "ALAS-2023-2079 (medium): libfastjson",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2078.html",
+          "author": null,
+          "description": "CVE-2021-20298, CVE-2021-20303, CVE-2021-20304, CVE-2021-3475, CVE-2021-3605",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2078.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 404,
+          "title": "ALAS-2023-2078 (medium): OpenEXR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2077.html",
+          "author": null,
+          "description": "CVE-2021-3639",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2077.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 230,
+          "title": "ALAS-2023-2077 (medium): mod_auth_mellon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2076.html",
+          "author": null,
+          "description": "CVE-2021-41133",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2076.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 385,
+          "title": "ALAS-2023-2076 (important): flatpak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2075.html",
+          "author": null,
+          "description": "CVE-2022-27337, CVE-2022-38784",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2075.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 273,
+          "title": "ALAS-2023-2075 (medium): poppler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2074.html",
+          "author": null,
+          "description": "CVE-2022-37434",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2074.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 206,
+          "title": "ALAS-2023-2074 (medium): rsync",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2073.html",
+          "author": null,
+          "description": "CVE-2023-0464, CVE-2023-0465, CVE-2023-0466, CVE-2023-2650",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2073.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 835,
+          "title": "ALAS-2023-2073 (medium): openssl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2072.html",
+          "author": null,
+          "description": "CVE-2023-25652, CVE-2023-29007",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2072.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 441,
+          "title": "ALAS-2023-2072 (medium): git",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2071.html",
+          "author": null,
+          "description": "CVE-2023-26253",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2071.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 210,
+          "title": "ALAS-2023-2071 (important): glusterfs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2070.html",
+          "author": null,
+          "description": "CVE-2023-27533, CVE-2023-27534, CVE-2023-27535, CVE-2023-27536, CVE-2023-27537, CVE-2023-27538",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2070.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 686,
+          "title": "ALAS-2023-2070 (medium): curl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2069.html",
+          "author": null,
+          "description": "CVE-2023-28450",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2069.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 203,
+          "title": "ALAS-2023-2069 (medium): dnsmasq",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2068.html",
+          "author": null,
+          "description": "CVE-2023-33204",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2068.html",
+          "publishedOn": "2023-06-05T16:39:00.000Z",
+          "wordCount": 194,
+          "title": "ALAS-2023-2068 (important): sysstat",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-033.html",
           "author": null,
@@ -529,6 +689,146 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 9 Jun 2023 00:48:27 GMT",
+          "author": null,
+          "description": "FortiManager 7.2.3 B1405 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFMG_3000F, FMG_VM64_AWS, FMG_200G,\nFMG_VM64, FMG_3700F, FMG_400E,\nFMG_2000E, FMG_VM64_GCP, FMG_VM64_XEN,\nFMG_200F, FMG_VM64_KVM, FMG_VM64_AZURE,\nFMG_3000G, FMG_400G, FMG_VM64_AWSOnDemand,\nFMG_1000F, FMG_VM64_HV, FMG_VM64_IBM,\nFMG_VM64_ALI, FMG_3700G, FMG_VM64_OPC,\nFMG_300F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-09T00:48:27.000Z",
+          "wordCount": 2998,
+          "title": "FortiManager 7.2.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 9 Jun 2023 00:28:05 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.0.8 B0452 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAZ_VM64_IBM, FAZ_400E, FAZ_VM64_OPC,\nFAZ_3000G, FAZ_3700G, FAZ_800F,\nFAZ_VM64_AZURE, FAZ_150G, FAZ_300F,\nFAZ_2000E, FAZ_VM64_AWSOnDemand, FAZ_VM64_ALI,\nFAZ_3700F, FAZ_VM64, FAZ_200F,\nFAZ_300G, FAZ_VM64_AWS, FAZ_VM64_GCP,\nFAZ_3500E, FAZ_3500G, FAZ_800G,\nFAZ_1000F, FAZ_3000F, FAZ_VM64_XEN,\nFAZ_3900E, FAZ_VM64_HV, FAZ_3500F,\nFAZ_VM64_KVM",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-09T00:28:05.000Z",
+          "wordCount": 2998,
+          "title": "FortiAnalyzer 7.0.8",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 9 Jun 2023 00:11:31 GMT",
+          "author": null,
+          "description": "FortiManager 7.0.8 B0452 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFMG_VM64_HV, FMG_3000G, FMG_VM64,\nFMG_3700G, FMG_1000F, FMG_400G,\nFMG_VM64_AZURE, FMG_VM64_KVM, FMG_VM64_GCP,\nFMG_VM64_IBM, FMG_400E, FMG_VM64_OPC,\nFMG_3000F, FMG_2000E, FMG_VM64_AWS,\nFMG_300F, FMG_3900E, FMG_200G,\nFMG_VM64_XEN, FMG_3700F, FMG_VM64_ALI,\nFMG_200F, FMG_VM64_AWSOnDemand",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-09T00:11:31.000Z",
+          "wordCount": 2998,
+          "title": "FortiManager 7.0.8",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 9 Jun 2023 00:00:05 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 6.4.12 B2610 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAZ_400E, FAZ_3000G, FAZ_VM64_KVM,\nFAZ_3500E, FAZ_VM64_GCP, FAZ_3500G,\nFAZ_VM64_ALI, FAZ_VM64_AWSOnDemand, FAZ_3900E,\nFAZ_300F, FAZ_1000F, FAZ_VM64,\nFAZ_3000E, FAZ_3700G, FAZ_3700F,\nFAZ_1000E, FAZ_200F, FAZ_300G,\nFAZ_VM64_AWS, FAZ_3000F, FAZ_800G,\nFAZ_VM64_XEN, FAZ_VM64_HV, FAZ_VM64_OPC,\nFAZ_3500F, FAZ_150G, FAZ_VM64_AZURE,\nFAZ_800F, FAZ_2000E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-09T00:00:05.000Z",
+          "wordCount": 2998,
+          "title": "FortiAnalyzer 6.4.12",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 23:48:05 GMT",
+          "author": null,
+          "description": "FortiManager 6.4.12 B2610 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFMG_VM64_AWS, FMG_1000F, FMG_VM64_AWSOnDemand,\nFMG_3000G, FMG_VM64_KVM, FMG_2000E,\nFMG_400G, FMG_VM64_HV, FMG_3900E,\nFMG_300F, FMG_4000E, FMG_3700F,\nFMG_3700G, FMG_VM64_OPC, FMG_200G,\nFMG_3000F, FMG_VM64_XEN, FMG_VM64_GCP,\nFMG_VM64, FMG_200F, FMG_VM64_AZURE,\nFMG_VM64_ALI, FMG_300E, FMG_400E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T23:48:05.000Z",
+          "wordCount": 2998,
+          "title": "FortiManager 6.4.12",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 23:39:14 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 6.2.11 B1518 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAZ_VM64_AWS, FAZ_VM64, FAZ_200F,\nFAZ_VM64_GCP, FAZ_3500E, FAZ_VM64_XEN,\nFAZ_3000F, FAZ_VM64_KVM, FAZ_3000E,\nFAZ_VM64_ALI, FAZ_1000E, FAZ_400E,\nFAZ_VM64_OPC, FAZ_3000G, FAZ_800F,\nFAZ_3500G, FAZ_VM64_AWSOnDemand, FAZ_1000F,\nFAZ_3500F, FAZ_300F, FAZ_2000E,\nFAZ_VM64_HV, FAZ_3700F, FAZ_3900E,\nFAZ_VM64_AZURE",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T23:39:14.000Z",
+          "wordCount": 2998,
+          "title": "FortiAnalyzer 6.2.11",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 23:31:50 GMT",
+          "author": null,
+          "description": "FortiManager 6.2.11 B1518 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFMG_2000E, FMG_VM64_KVM, FMG_VM64_HV,\nFMG_400E, FMG_VM64_GCP, FMG_VM64_XEN,\nFMG_VM64_AWS, FMG_VM64_OPC, FMG_3900E,\nFMG_300F, FMG_VM64, FMG_VM64_ALI,\nFMG_VM64_AWSOnDemand, FMG_3000F, FMG_300E,\nFMG_1000F, FMG_3700F, FMG_200F,\nFMG_200D, FMG_VM64_AZURE, FMG_4000E,\nFMG_3000G",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T23:31:50.000Z",
+          "wordCount": 2998,
+          "title": "FortiManager 6.2.11",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 23:23:46 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 6.0.12 B0485 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAZ_200D, FAZ_VM64_XEN, FAZ_300F,\nFAZ_3000F, FAZ_2000E, FAZ_VM64_GCP,\nFAZ_3900E, FAZ_VM64_KVM, FAZ_400E,\nFAZ_VM64_HV, FAZ_VM64_AWS, FAZ_300D,\nFAZ_3500E, FAZ_VM64_AWSOnDemand, FAZ_3000D,\nFAZ_3000E, FAZ_VM64_AZURE, FAZ_1000D,\nFAZ_1000E, FAZ_200F, FAZ_3700F,\nFAZ_VM64_OPC, FAZ_800F, FAZ_VM64,\nFAZ_3500F, FAZ_VM64_ALI",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T23:23:46.000Z",
+          "wordCount": 2998,
+          "title": "FortiAnalyzer 6.0.12",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 23:18:55 GMT",
+          "author": null,
+          "description": "FortiManager 6.0.12 B0485 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFMG_VM64_OPC, FMG_VM64_XEN, FMG_200D,\nFMG_VM64_ALI, FMG_1000D, FMG_2000E,\nFMG_300D, FMG_VM64_AWS, FMG_VM64_MFGD,\nFMG_200F, FMG_400E, FMG_3000F,\nFMG_VM64_AZURE, FMG_1000F, FMG_4000D,\nFMG_3700F, FMG_300E, FMG_3900E,\nFMG_300F, FMG_VM64_KVM, FMG_VM64_HV,\nFMG_VM64_GCP, FMG_VM64_AWSOnDemand, FMG_VM64,\nFMG_4000E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T23:18:55.000Z",
+          "wordCount": 2998,
+          "title": "FortiManager 6.0.12",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 22:59:52 GMT",
+          "author": null,
+          "description": "FortiOS 7.2.5 B1517 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_5001E1, FGT_40F, FGT_80E,\nFGT_60E, FGR_60F_3G4G, FGT_3600E,\nFGT_3400E, FOS_VM64, FGT_4400F,\nFGT_4201F, FGT_3301E, FGT_40F_3G4G,\nFGT_1100E, FGT_81F, FGT_600E,\nFGT_81E, FGT_140E, FGT_91E,\nFGT_VM64_KVM, FGT_100E, FGT_71F,\nFGT_ARM64_OCI, FWF_81F_2R_POE, FGT_101E,\nFGT_80E_POE, FWF_61F, FGT_1000D,\nFWF_60F, FGT_201F, FGT_60E_DSL,\nFGT_4200F, FFW_VM64_KVM, FFW_VM64,\nFGT_90E, FGT_3800D, FGT_2600F,\nFGT_2000E, FGT_VM64_HV, FGT_3100D,\nFGT_140E_POE, FGT_100EF, FGT_3000D,\nFGT_3601E, FGT_3300E, FGT_VM64_SVM,\nFGT_2500E, FGT_61F, FGT_3001F,\nFGT_900D, FGT_60E_DSLJ, FGT_81E_POE,\nFGT_60E_POE, FGT_1101E, FGT_600F,\nFGT_201E, FGT_VM64_AZURE, FGT_VM64_OPC,\nFWF_40F, FGT_3700D, FGT_800D,\nFGT_80F_BP, FGT_81F_POE, FGT_501E,\nFGT_1800F, FGT_3980E, FGT_401F,\nFGT_400F, FGT_1500DT, FGR_70F_3G4G,\nFGT_2200E, FGT_3401E, FGR_60F,\nFGT_VM64, FGT_401E, FGT_200F,\nFGT_ARM64_AZURE, FGT_80F_POE, FGR_70F,\nFOS_VM64_KVM, FWF_81F_2R_3G4G_POE, FWF_40F_3G4G,\nFGT_3200D, FGT_3960E, FGT_61E,\nFFW_3980E, FGT_VM64_XEN, FGT_2201E,\nFGT_1801F, FGT_400E_BP, FWF_61E,\nFGT_500E, FGT_601F, FGT_400E,\nFGT_1500D, FGT_2601F, FGT_70F,\nFGT_100F, FGT_4401F, FGT_5001E,\nFWF_60E_DSL, FGT_VM64_ALI, FGT_60F,\nFGT_3000F, FGT_200E, FGT_ARM64_AWS,\nFWF_60E_DSLJ, FWF_60E, FGT_300E,\nFGT_601E, FGT_3501F, FGT_VM64_AWS,\nFGT_101F, FWF_81F_2R, FGT_3500F,\nFOS_VM64_HV, FWF_80F_2R, FGT_301E,\nFOS_VM64_XEN, FGT_VM64_VMX, FGT_80F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T22:59:52.000Z",
+          "wordCount": 2998,
+          "title": "FortiOS 7.2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 20:17:34 GMT",
+          "author": null,
+          "description": "FortiOS 7.0.12 B0523 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_3700D, FGT_140E, FGT_VM64_SVM,\nFGT_3800D, FGT_3400E, FGT_80F_BP,\nFGT_201E, FGT_4400F, FGT_3300E,\nFGT_3100D, FWF_60E_DSLJ, FGT_101F,\nFWF_81F_2R, FGT_81E_POE, FGT_60E_DSLJ,\nFGT_VM64_OPC, FGT_600E, FWF_60E_DSL,\nFGT_3500F, FGT_60F, FGT_81F,\nFGT_VM64_IBM, FGT_3000D, FGT_ARM64_OCI,\nFGT_1800F, FGT_400E_BP, FGT_4201F,\nFGT_71F, FGT_VM64_KVM, FGT_101E,\nFGT_VM64_VMX, FGT_5001E1, FGT_4200F,\nFGT_3000F, FGT_2201E, FWF_80F_2R,\nFGT_300E, FGT_2600F, FGT_2601F,\nFGT_61E, FWF_60E, FOS_VM64,\nFGT_81E, FGT_60E_DSL, FFW_VM64,\nFGT_80F_POE, FGT_VM64_XEN, FGT_ARM64_AWS,\nFGT_40F_3G4G, FGT_900D, FGT_VM64_HV,\nFGT_201F, FGT_1000D, FGT_800D,\nFWF_40F_3G4G, FGT_100F, FGT_40F,\nFGT_60E, FWF_61F, FGT_60E_POE,\nFGT_601F, FGT_100EF, FGT_80E,\nFGT_2200E, FGT_VM64_ALI, FGT_VM64_AZURE,\nFGT_VM64_GCP, FGT_2500E, FGT_200E,\nFWF_61E, FGT_1500D, FOS_VM64_HV,\nFWF_40F, FGT_3960E, FGT_3601E,\nFGT_3980E, FGT_61F, FGT_401F,\nFFW_VM64_KVM, FGT_70F, FGT_5001E,\nFGT_VM64_AWS, FGT_1101E, FGT_3501F,\nFGT_3200D, FGT_401E, FGR_60F,\nFWF_81F_2R_POE, FGT_2000E, FGT_4401F,\nFGT_80E_POE, FGR_60F_3G4G, FWF_60F,\nFGT_3401E, FGT_1100E, FWF_81F_2R_3G4G_POE,\nFGT_1801F, FGT_80F, FGT_140E_POE,\nFGT_91E, FOS_VM64_KVM, FGT_90E,\nFGT_1200D, FGT_ARM64_KVM, FGT_400F,\nFGT_1500DT, FGT_3301E, FGT_600F,\nFGT_301E, FGT_100E, FOS_VM64_XEN,\nFGT_VM64_RAXONDEMAND, FGT_81F_POE, FGT_501E,\nFGT_3600E, FGT_400E, FGT_200F,\nFGT_3001F, FGT_VM64, FGT_500E,\nFFW_3980E, FGT_601E, FGR_70F_3G4G,\nFGR_70F, FGT_1000F, FGT_1001F,\nFGT_4801F, FGT_4800F, FGT_3200F,\nFGT_3201F, FGT_3700F, FGT_3701F,\nFGT_80F_DSL",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T20:17:34.000Z",
+          "wordCount": 2998,
+          "title": "FortiOS 7.0.12",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 19:02:43 GMT",
+          "author": null,
+          "description": "FortiOS 6.4.13 B2092 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_3815D, FGT_100E, FWF_60E_DSLJ,\nFGT_VM64_OPC, FGT_VM64_HV, FFW_VM64_KVM,\nFWF_61F, FGT_2600F, FGT_900D,\nFGT_101F, FWF_81F_2R, FGT_3000D,\nFGT_VM64_VMX, FGT_VM64_GCP, FGT_140E_POE,\nFGT_VM64_XEN, FGT_3300E, FGT_3401E,\nFGT_3601E, FGT_VM64, FGT_1000D,\nFOS_VM64_KVM, FGT_80E_POE, FGT_VM64_AZURE,\nFGT_VM64_ALI, FGT_1200D, FGT_80F_BP,\nFGT_201F, FGT_60E_DSL, FGT_800D,\nFWF_81F_2R_3G4G_POE, FGT_3700D, FOS_VM64_XEN,\nFGT_600E, FGT_91E, FGT_60E,\nFGT_1801F, FGT_100EF, FGT_1800F,\nFGT_500E, FGT_200E, FWF_60E_DSL,\nFGT_VM64_RAXONDEMAND, FGT_401E, FGT_80F,\nFGT_81F, FGT_201E, FGR_60F,\nFGT_60F, FGT_1500DT, FGT_80F_POE,\nFOS_VM64_HV, FGT_500D, FGT_101E,\nFGT_3960E, FGT_3980E, FGT_300E,\nFGT_140E, FWF_81F_2R_POE, FGT_2201E,\nFGT_100F, FGT_5001E1, FGT_4400F,\nFGT_200F, FGT_2500E, FGT_400E_BP,\nFWF_60E, FGT_VM64_ALIONDEMAND, FFW_3980E,\nFGT_1101E, FGT_301E, FFW_4400F,\nFGT_VM64_SVM, FGR_60F_3G4G, FGT_3200D,\nFGT_3600E, FOS_VM64, FGT_300D,\nFGT_5001D, FGT_40F_3G4G, FGT_80E,\nFGT_5001E, FGT_3301E, FGT_81E,\nFGT_40F, FGT_1100E, FGT_81F_POE,\nFGT_3810D, FGT_61E, FFW_VM64,\nFGT_90E, FGT_4401F, FGT_3100D,\nFGT_4201F, FGT_VM64_GCPONDEMAND, FGT_VM64_AWS,\nFGT_601E, FGT_400D, FGT_60E_POE,\nFGT_501E, FWF_80F_2R, FGT_61F,\nFGT_4200F, FGT_2200E, FGT_VM64_IBM,\nFGT_3400E, FGT_2601F, FWF_40F,\nFGT_3800D, FGT_600D, FGT_VM64_KVM,\nFGT_400E, FGT_60E_DSLJ, FFW_4200F,\nFGT_81E_POE, FGT_1500D, FWF_40F_3G4G,\nFWF_61E, FWF_60F, FGT_2000E,\nFFW_2600F, FFW_4401F, FFW_1801F,\nFGT_600F, FGT_400F, FGT_401F,\nFGT_601F",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T19:02:43.000Z",
+          "wordCount": 2998,
+          "title": "FortiOS 6.4.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 18:24:07 GMT",
+          "author": null,
+          "description": "FortiOS 6.2.15 B1378 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_600D, FGT_VM64, FGT_80F_BP,\nFGT_3100D, FGT_300E, FGT_5001D,\nFGT_40F, FGT_101F, FGT_100F,\nFWF_81F_2R, FGT_VM64_GCPONDEMAND, FGT_81E_POE,\nFGT_100EF, FGT_300D, FGT_1500D,\nFWF_51E, FWF_61E, FGT_51E,\nFGT_80E_POE, FGT_3300E, FGT_60E_POE,\nFGT_3800D, FWF_60F, FGT_50E,\nFGT_3601E, FGT_61F, FGT_1200D,\nFGT_200E, FGT_100E, FGT_140E,\nFGT_60F, FWF_30E_MN, FGT_91E,\nFGT_140E_POE, FGT_401E, FGR_60F,\nFGT_201E, FGT_3810D, FGT_2000E,\nFGT_140D, FWF_60E_DSL, FGT_2200E,\nFGT_2201E, FGT_1100E, FGT_VM64_AWS,\nFWF_50E, FGT_500E, FGT_VM64_OPC,\nFGT_VM64_RAXONDEMAND, FGT_VM64_SVM, FGT_90E,\nFGT_501E, FGT_92D, FGT_3700D,\nFGT_3960E, FGT_3301E, FGT_80F_POE,\nFWF_40F_3G4G, FGR_35D, FGT_301E,\nFGT_3600E, FGT_3000D, FGT_140D_POE,\nFOS_VM64_KVM, FGT_101E, FGT_VM64_AZURE,\nFWF_30E, FWF_81F_2R_POE, FGT_60E_DSLJ,\nFGT_100D, FGT_60E, FGT_3400E,\nFGR_60F_3G4G, FOS_VM64, FGT_5001E,\nFGT_601E, FGT_2500E, FGT_3401E,\nFGT_600E, FGT_81E, FGT_3815D,\nFWF_60E_DSLJ, FGT_1000D, FGR_30D,\nFWF_60E, FGT_VM64_GCP, FGT_VM64_AWSONDEMAND,\nFWF_40F, FGT_400E_BP, FGR_90D,\nFGT_VM64_AZUREONDEMAND, FGT_500D, FWF_30E_MI,\nFGT_800D, FOS_VM64_HV, FGT_VM64_ALI,\nFGT_400E, FWF_61F, FGT_3200D,\nFFW_3980E, FGT_VM64_HV, FGT_400D,\nFGT_81F, FGT_VM64_XEN, FGT_60E_DSL,\nFGT_5001E1, FGT_81F_POE, FGT_30E_MI,\nFGT_30E_MG, FGT_80F, FGT_61E,\nFGT_40F_3G4G, FGT_80E, FGT_1500DT,\nFGT_1101E, FGT_3980E, FGT_30E,\nFWF_80F_2R, FOS_VM64_XEN, FGT_VM64_KVM,\nFGT_52E, FGT_30E_MN, FWF_50E_2R,\nFGT_900D, FGT_VM64_VMX, FGT_VM64_ALIONDEMAND,\nFGT_201F, FGT_200F, FGT_80D",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T18:24:07.000Z",
+          "wordCount": 2998,
+          "title": "FortiOS 6.2.15",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 8 Jun 2023 17:46:30 GMT",
+          "author": null,
+          "description": "FortiOS 6.0.17 B0528 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_VM64_SVM, FGT_3200D, FGT_280D_POE,\nFGR_90D, FGT_5001E1, FWF_50E_2R,\nFGT_VM64_HV, FGT_240D, FWF_50E,\nFGT_98D_POE, FGT_61E, FGT_30E_MN,\nFGT_30D, FGT_90E, FGT_500E,\nFOS_VM64_KVM, FGT_400D, FGT_5001D,\nFGT_3700D, FGT_300E, FOS_VM64,\nFGT_52E, FWF_30E, FGT_500D,\nFGT_80E, FGT_200E, FGT_3810D,\nFGT_92D, FGT_3100D, FGT_91E,\nFGT_240D_POE, FGT_60D, FOS_VM64_XEN,\nFGT_200D_POE, FWF_60E, FGT_VM64_AWSONDEMAND,\nFGT_90D_POE, FGT_70D_POE, FGT_100D,\nFGT_VM64, FGT_60E_DSL, FGT_300D,\nFGT_50E, FGT_101E, FGT_81E,\nFGT_94D_POE, FWF_61E, FGT_1500D,\nFGT_VM64_KVM, FGT_100E, FGT_400E,\nFWF_60E_DSL, FGT_30E_MI, FGT_VM64_GCP,\nFGT_3980E, FWF_30E_MN, FGT_VM64_AWS,\nFGT_VM64_XEN, FWF_90D_POE, FGT_VM64_VMX,\nFGT_1500DT, FGT_30E, FGT_90D,\nFGT_3601E, FGT_601E, FWF_60D_POE,\nFGT_30D_POE, FGT_VM64_GCPONDEMAND, FGT_80D,\nFGT_900D, FGT_600E, FGT_200D,\nFGT_81E_POE, FGT_60E_DSLJ, FWF_30D_POE,\nFWF_90D, FGT_2000E, FWF_30D,\nFGT_VM64_ALI, FGT_1200D, FGT_51E,\nFGT_VM64_ALIONDEMAND, FGT_501E, FGT_3000D,\nFGT_140E_POE, FGT_3600E, FGR_60D,\nFGT_140D_POE, FGT_60D_POE, FGT_140E,\nFGT_60E_POE, FGT_1000D, FGT_600D,\nFGR_30D, FWF_51E, FGT_3800D,\nFGT_2500E, FGT_3400E, FGT_140D,\nFGT_3401E, FGT_201E, FGT_80E_POE,\nFGT_60E, FGT_301E, FGT_3960E,\nFWF_60D, FGT_5001E, FGT_800D,\nFWF_92D, FGT_3815D, FWF_60E_DSLJ,\nFGT_100EF, FGR_35D, FGT_VM64_OPC,\nFGT_70D, FGT_401E, FWF_30E_MI,\nFGT_101F, FGT_61F, FWF_61F,\nFGT_60F, FWF_60F, FGT_100F,\nFGT_1101E, FGT_1100E, FGT_1800F,\nFGT_1801F, FGT_3300E, FGT_2201E,\nFGT_3301E, FGT_2200E, FGT_30E_MG,\nFWF_40F, FGT_40F, FGT_40F_3G4G,\nFWF_40F_3G4G, FGT_VM64_AZURE, FGT_VM64_AZUREONDEMAND,\nFGT_VM64_RAXONDEMAND",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-08T17:46:30.000Z",
+          "wordCount": 2998,
+          "title": "FortiOS 6.0.17",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 7 Jun 2023 22:40:32 GMT",
           "author": null,
