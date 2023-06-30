@@ -4,24 +4,133 @@
       "title": "UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": [
-        {
-          "id": "cf7e8c75-1737-4625-88fa-aca2ed0ece39",
-          "author": "UI-Glenn",
-          "description": "Overview\nThis release brings a significant improvement in latency for our Gen6 APs, including U6-Pro, as well as further roaming improvements and wireless meshing improvements for all APs.\n \nIt's currently available for the following models on the Official release channel, it will be available for the other models on a later date. (it's still a release candidate for all other models)\n\nGen2: AC-LR\nGen3: SHD\nGen4: FlexHD\nGen5: U6+ (release was pulled for the U6-LR, it's still available on the Release Candidate release channel)\nGen6: All\n\nImprovements\n\nImproved wireless uplink stability when the downlink's ethernet port is being used.\n[Gen4/Gen5] Improve 2.4GHz latency.\n[Gen6] Set minimum firmware version to 6.2.49 to prevent unsupported downgrades.\n[Gen6] Improved latency at range.\n\nBugfixes…",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-54/cf7e8c75-1737-4625-88fa-aca2ed0ece39",
-          "publishedOn": "2023-05-30T17:36:55.000Z",
-          "wordCount": 5,
-          "title": "UniFi Access Point 6.5.54",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-035.html",
+          "author": null,
+          "description": "CVE-2023-1206",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-035.html",
+          "publishedOn": "2023-06-28T00:26:00.000Z",
+          "wordCount": 220,
+          "title": "ALASKERNEL-5.10-2023-035 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-022.html",
+          "author": null,
+          "description": "CVE-2023-1206",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-022.html",
+          "publishedOn": "2023-06-28T00:26:00.000Z",
+          "wordCount": 220,
+          "title": "ALASKERNEL-5.15-2023-022 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-048.html",
+          "author": null,
+          "description": "CVE-2023-1206",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-048.html",
+          "publishedOn": "2023-06-28T00:26:00.000Z",
+          "wordCount": 218,
+          "title": "ALASKERNEL-5.4-2023-048 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-034.html",
+          "author": null,
+          "description": "CVE-2022-4269, CVE-2023-2156, CVE-2023-3268, CVE-2023-34256, CVE-2023-35788",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-034.html",
+          "publishedOn": "2023-06-21T19:12:00.000Z",
+          "wordCount": 419,
+          "title": "ALASKERNEL-5.10-2023-034 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-021.html",
+          "author": null,
+          "description": "CVE-2022-48425, CVE-2023-2156, CVE-2023-3268, CVE-2023-34256, CVE-2023-35788",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-021.html",
+          "publishedOn": "2023-06-21T19:12:00.000Z",
+          "wordCount": 383,
+          "title": "ALASKERNEL-5.15-2023-021 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-047.html",
+          "author": null,
+          "description": "CVE-2022-39189, CVE-2023-2269, CVE-2023-3111, CVE-2023-3141, CVE-2023-3268, CVE-2023-34256, CVE-2023-35788",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-047.html",
+          "publishedOn": "2023-06-21T19:12:00.000Z",
+          "wordCount": 446,
+          "title": "ALASKERNEL-5.4-2023-047 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-133.html",
+          "author": null,
+          "description": "CVE-2023-2124, CVE-2023-28466",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-133.html",
+          "publishedOn": "2023-06-21T19:12:00.000Z",
+          "wordCount": 248,
+          "title": "ALASLIVEPATCH-2023-133 (important): kernel-livepatch-4.14.309-231.529",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-132.html",
+          "author": null,
+          "description": "CVE-2023-2124, CVE-2023-28466",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-132.html",
+          "publishedOn": "2023-06-21T19:12:00.000Z",
+          "wordCount": 248,
+          "title": "ALASLIVEPATCH-2023-132 (important): kernel-livepatch-4.14.311-233.529",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-131.html",
+          "author": null,
+          "description": "CVE-2023-28466",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-131.html",
+          "publishedOn": "2023-06-21T19:12:00.000Z",
+          "wordCount": 202,
+          "title": "ALASLIVEPATCH-2023-131 (important): kernel-livepatch-5.10.176-157.645",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-130.html",
+          "author": null,
+          "description": "CVE-2023-28466",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-130.html",
+          "publishedOn": "2023-06-21T19:11:00.000Z",
+          "wordCount": 200,
+          "title": "ALASLIVEPATCH-2023-130 (important): kernel-livepatch-4.14.313-235.533",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-129.html",
+          "author": null,
+          "description": "CVE-2023-28466",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-129.html",
+          "publishedOn": "2023-06-21T19:11:00.000Z",
+          "wordCount": 200,
+          "title": "ALASLIVEPATCH-2023-129 (important): kernel-livepatch-4.14.314-237.533",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-128.html",
+          "author": null,
+          "description": "CVE-2023-28466",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-128.html",
+          "publishedOn": "2023-06-21T19:11:00.000Z",
+          "wordCount": 200,
+          "title": "ALASLIVEPATCH-2023-128 (important): kernel-livepatch-4.14.314-238.539",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2089.html",
           "author": null,
@@ -249,6 +358,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 29 Jun 2023 22:00:44 GMT",
+          "author": null,
+          "description": "FortiPolicy 7.2.4 B0038 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-06-29T22:00:44.000Z",
+          "wordCount": 2998,
+          "title": "FortiPolicy 7.2.4",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 28 Jun 2023 21:10:54 GMT",
           "author": null,
@@ -827,16 +946,6 @@
           "publishedOn": "2023-05-31T23:09:01.000Z",
           "wordCount": 2998,
           "title": "FortiADCManager 7.0.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 30 May 2023 23:51:49 GMT",
-          "author": null,
-          "description": "FortiPortal 6.0.14 B0375 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPC_VM64",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-05-30T23:51:49.000Z",
-          "wordCount": 2998,
-          "title": "FortiPortal 6.0.14",
           "imageUrl": null
         }
       ]
