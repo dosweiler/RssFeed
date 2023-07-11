@@ -4,7 +4,18 @@
       "title": "UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "124a0554-6d46-4c51-baba-efb99e330099",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Switch 6.5.59 includes the improvements and bugfixes listed below.\nImprovements\n\n\nImproved RPS port heartbeat response checking.\nImproved CPU usage when the Screen is in the idle state.\nImproved SFP speed auto-detection stability at 1Gbps.\nImproved speed for updating the console IP on the touchscreen.\nIncreased the Fixed IP limit to 512 for L3 networks. The limit was 64 on previous versions.\nRedesigned touchscreen update screen.\n[USC-8] Improved the accuracy of topology connections.\n[USW-Enterprise-8-PoE] Improved fan control algorithm when using an RJ45 SFP module.\n[USW-Enterprise-8-PoE] Improved SFP module compatibility.\n[USW-EnterpriseXG-24] Improved process monitoring algorithm to avoid device offline issue.\n[USP-PDU-Pro] Improved the stability of AC power reading.\n[USP-…",
+          "link": "https://community.ui.com/releases/UniFi-Switch-6-5-59/124a0554-6d46-4c51-baba-efb99e330099",
+          "publishedOn": "2023-07-10T07:57:41.000Z",
+          "wordCount": 6,
+          "title": "UniFi Switch 6.5.59",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
@@ -328,6 +339,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 10 Jul 2023 23:46:02 GMT",
+          "author": null,
+          "description": "FortiSandbox 4.4.0 B0349 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFSA_3000E, FSA_KVM, FSA_500F,\nFSA_1000F, FSA_HYPERV, FSA_VM,\nFSA_AWS, FSA_2000E, FSA_3000F,\nFSA_AZURE",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-07-10T23:46:02.000Z",
+          "wordCount": 2998,
+          "title": "FortiSandbox 4.4.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 10 Jul 2023 17:44:03 GMT",
+          "author": null,
+          "description": "FortiADC 7.4.0 B0308 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAD_100F, FAD_2200F, FAD_300D,\nFAD_4200F, FAD_XENAWS, FAD_OCI,\nFAD_1200F, FAD_400F, FAD_2000F,\nFAD_220F, FAD_400D, FAD_GCP,\nFAD_120F, FAD_300F, FAD_ALI,\nFAD_AZURE_ONDEMAND, FAD_ALI_ONDEMAND, FAD_XENAWS_ONDEMAND,\nFAD_4000F, FAD_1000F, FAD_GCP_ONDEMAND,\nFAD_VM, FAD_XENOPEN, FAD_5000F,\nFAD_200F, FAD_AZURE, FAD_HYPERV,\nFAD_KVM, FAD_XENSERVER",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-07-10T17:44:03.000Z",
+          "wordCount": 2998,
+          "title": "FortiADC 7.4.0",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 7 Jul 2023 18:56:04 GMT",
           "author": null,
