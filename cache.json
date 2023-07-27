@@ -8,7 +8,7 @@
         {
           "id": "d8a0725c-a12b-44b2-bce3-e540602ecb81",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.5.64 includes the improvements and bugfixes listed below. It's only available for Gen4 and Gen5 Access Points.\nImprovements\n\n[Gen6] Improved firmware update resiliency.\n\nBugfixes\n\nFixed incorrect neighbor reports after an RF Scan.\n[Gen2] Fixed the rare condition of low 5GHz throughput and high latency affecting certain APs (`TX OVERFLOW` in logs).\n[Gen2] Fixed high CPU usage when a lot of unauthorized guests are connected to a guest WLAN.\n[Gen2] Fixed 40MHz channel width not being applied correctly to 2.4GHz radio.\n[Gen4/Gen5] Fixed auth failing intermittently on WPA-Enterprise WLAN when PMKSA caching is disabled.\n[Gen4/Gen5/Gen6] Fixed kernel crashes to improve overall stability.\n[Gen6] Fixed Multicast Enhancement not working. This affects IPTV and other multicast-heavy traffic operations.\n[U6+/U6LR+] Fixed custom transmit power settings not being applied correctly.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network Application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "description": "Overview\nUniFi Access Point 6.5.64 includes the improvements and bugfixes listed below. It's only available for Gen4 and Gen5 Access Points.\nThis release is now available on the Official release channel for the models listed below. It's still a Release Candidate for the other models.\n\nGen4: FlexHD\nGen5: U6-Lite\n\nImprovements\n\n[Gen6] Improved firmware update resiliency.\n\nBugfixes\n\nFixed incorrect neighbor reports after an RF Scan.\n[Gen2] Fixed the rare condition of low 5GHz throughput and high latency affecting certain APs (`TX OVERFLOW` in logs).\n[Gen2] Fixed high CPU usage when a lot of unauthorized guests are connected to a guest WLAN.\n[Gen2] Fixed 40MHz channel width not being applied correctly to 2.4GHz radio.\n[Gen4/Gen5] Fixed auth failing intermittently on WPA-Enterprise WLAN when PMKSA caching is disabled.\n[Gen4/Gen5/Gen6] Fixed kernel crashes to improve overall stability.\n[Gen6] Fixed Multicast Enhancement not working. This affects IPTV and other multicast-heavy traffic operations.\n[U6+/U6LR+] Fixed custom transmit power settings not being applied correctly.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network Application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-64/d8a0725c-a12b-44b2-bce3-e540602ecb81",
           "publishedOn": "2023-07-18T06:55:12.000Z",
           "wordCount": 6,
@@ -18,7 +18,7 @@
         {
           "id": "5f88c727-f812-4be7-9560-5f5d22a824d8",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.5.62 includes the improvements and bugfixes listed below. It's only available for Gen2, Gen3 and Gen6 Access Points.\nImprovements\n\nImprove device adoption and removing resiliency.\n[Gen6] Improved firmware update resiliency.\n[U6-Enterprise] Added 6GHz support for Canada.\n\nBugfixes\n\nFixed kernel crashes to improve stability.\nFixed devices occasionally failing to factory reset when forgotten.\n[Gen2/Gen3] Fixed 5GHz radio getting stuck if a DFS radar event occurs during the CAC timeout.\n[Gen2/Gen4/Gen5] Fixed kernel crashes to improve stability.\n[Gen2/Gen3/Gen6] Fixed NAS-IPv6-Address being sent instead of NAS-IP-Address (v4) when the RADIUS server is reachable over IPv6.\n[Gen4/Gen5] Fixed kernel crashes to improve overall stability.\n[Gen4/Gen5] Fix first client connection after boot failing occasionally.\n[U6+/U6LR+] Fixed TFTP recovery not working sometimes, causing the AP to boot with the preexisting firmware instead of the newly flashed version.\n[U6+/U6LR+] Fixed 5GHz radio stuck in a DFS Waiting state if no 2.4GHz WiFi network is assigned to the AP.\n[U6-Lite/U6-LR] Fixed clients getting disconnected intermittently, leading to clients bouncing between 2.4GHz and 5GHz.\n[U6-Lite/U6-LR] Fixed 5GHz channel occasionally not broadcasting after a channel change.\n[U6-Lite/U6-LR] Fixed low data rates being used for some 5GHz clients after switching to a DFS channel.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network Application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "description": "Overview\nUniFi Access Point 6.5.62 includes the improvements and bugfixes listed below. It's only available for Gen2, Gen3 and Gen6 Access Points.\nThis release is now available on the Official release channel for the models listed below. It's still a Release Candidate for the other models.\n\nGen2: AC-Lite\nGen3: SHD\nGen6: U6-IW, U6-Enterprise-IW\n\nImprovements\n\nImprove device adoption and removing resiliency.\n[Gen6] Improved firmware update resiliency.\n[U6-Enterprise] Added 6GHz support for Canada.\n\nBugfixes\n\nFixed kernel crashes to improve stability.\nFixed devices occasionally failing to factory reset when forgotten.\n[Gen2/Gen3] Fixed 5GHz radio getting stuck if a DFS radar event occurs during the CAC timeout.\n[Gen2/Gen4/Gen5] Fixed kernel crashes to improve stability.\n[Gen2/Gen3/Gen6] Fixed…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-62/5f88c727-f812-4be7-9560-5f5d22a824d8",
           "publishedOn": "2023-07-18T06:55:09.000Z",
           "wordCount": 6,
@@ -42,6 +42,226 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2174.html",
+          "author": null,
+          "description": "CVE-2020-14422",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2174.html",
+          "publishedOn": "2023-07-20T17:30:00.000Z",
+          "wordCount": 226,
+          "title": "ALAS-2023-2174 (medium): python-ipaddress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2173.html",
+          "author": null,
+          "description": "CVE-2020-21682",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2173.html",
+          "publishedOn": "2023-07-20T17:30:00.000Z",
+          "wordCount": 201,
+          "title": "ALAS-2023-2173 (medium): transfig",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2172.html",
+          "author": null,
+          "description": "CVE-2020-21913",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2172.html",
+          "publishedOn": "2023-07-20T17:30:00.000Z",
+          "wordCount": 198,
+          "title": "ALAS-2023-2172 (medium): libicu60",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2171.html",
+          "author": null,
+          "description": "CVE-2020-21913",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2171.html",
+          "publishedOn": "2023-07-20T17:30:00.000Z",
+          "wordCount": 201,
+          "title": "ALAS-2023-2171 (medium): icu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2170.html",
+          "author": null,
+          "description": "CVE-2020-29260",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2170.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 187,
+          "title": "ALAS-2023-2170 (low): libvncserver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2169.html",
+          "author": null,
+          "description": "CVE-2021-3592, CVE-2021-3593, CVE-2021-3594, CVE-2021-3595",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2169.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 551,
+          "title": "ALAS-2023-2169 (low): qemu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2168.html",
+          "author": null,
+          "description": "CVE-2021-44225",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2168.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 196,
+          "title": "ALAS-2023-2168 (medium): keepalived",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2167.html",
+          "author": null,
+          "description": "CVE-2022-0204",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2167.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 220,
+          "title": "ALAS-2023-2167 (medium): bluez",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2166.html",
+          "author": null,
+          "description": "CVE-2022-32742",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2166.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 301,
+          "title": "ALAS-2023-2166 (medium): samba",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2165.html",
+          "author": null,
+          "description": "CVE-2022-37866",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2165.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 291,
+          "title": "ALAS-2023-2165 (important): apache-ivy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2164.html",
+          "author": null,
+          "description": "CVE-2022-40023",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2164.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 191,
+          "title": "ALAS-2023-2164 (medium): python-mako",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2163.html",
+          "author": null,
+          "description": "CVE-2022-41724, CVE-2022-41725, CVE-2023-24532, CVE-2023-24536, CVE-2023-24538, CVE-2023-24540, CVE-2023-29400, CVE-2023-29403, CVE-2023-29404, CVE-2023-29405",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2163.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 902,
+          "title": "ALAS-2023-2163 (important): golang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2162.html",
+          "author": null,
+          "description": "CVE-2022-4743",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2162.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 188,
+          "title": "ALAS-2023-2162 (medium): SDL2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2161.html",
+          "author": null,
+          "description": "CVE-2023-1981",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2161.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 246,
+          "title": "ALAS-2023-2161 (medium): avahi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2160.html",
+          "author": null,
+          "description": "CVE-2023-29824",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2160.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 185,
+          "title": "ALAS-2023-2160 (medium): scipy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2159.html",
+          "author": null,
+          "description": "CVE-2023-32763",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2159.html",
+          "publishedOn": "2023-07-20T17:29:00.000Z",
+          "wordCount": 214,
+          "title": "ALAS-2023-2159 (medium): qt5-qtbase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2158.html",
+          "author": null,
+          "description": "CVE-2023-3576",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2158.html",
+          "publishedOn": "2023-07-20T17:28:00.000Z",
+          "wordCount": 187,
+          "title": "ALAS-2023-2158 (medium): libtiff",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2157.html",
+          "author": null,
+          "description": "CVE-2023-3576",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2157.html",
+          "publishedOn": "2023-07-20T17:28:00.000Z",
+          "wordCount": 178,
+          "title": "ALAS-2023-2157 (medium): compat-libtiff3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2156.html",
+          "author": null,
+          "description": "CVE-2023-37201, CVE-2023-37202, CVE-2023-37207, CVE-2023-37208, CVE-2023-37211",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2156.html",
+          "publishedOn": "2023-07-20T17:28:00.000Z",
+          "wordCount": 383,
+          "title": "ALAS-2023-2156 (important): thunderbird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2155.html",
+          "author": null,
+          "description": "CVE-2023-37327",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2155.html",
+          "publishedOn": "2023-07-20T17:28:00.000Z",
+          "wordCount": 185,
+          "title": "ALAS-2023-2155 (important): gstreamer1-plugins-good",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2154.html",
+          "author": null,
+          "description": "CVE-2023-37327",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2154.html",
+          "publishedOn": "2023-07-20T17:28:00.000Z",
+          "wordCount": 188,
+          "title": "ALAS-2023-2154 (important): gstreamer1-plugins-base",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2153.html",
+          "author": null,
+          "description": "CVE-2023-38403",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2153.html",
+          "publishedOn": "2023-07-20T17:28:00.000Z",
+          "wordCount": 192,
+          "title": "ALAS-2023-2153 (important): iperf3",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2023-007.html",
           "author": null,
@@ -907,26 +1127,6 @@
           "publishedOn": "2023-06-27T16:33:24.000Z",
           "wordCount": 3393,
           "title": "FortiSOAR 7.4.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 27 Jun 2023 03:15:29 GMT",
-          "author": null,
-          "description": "FortiProxy 7.2.5 B0398 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPX_400E, FPX_KVM, FPX_KVM_ALI,\nFPX_4000E, FPX_XEN, FPX_AZURE,\nFPX_VMWARE, FPX_4000G, FPX_KVM_GCP,\nFPX_KVM_OPC, FPX_400G, FPX_2000G,\nFPX_HY, FPX_2000E, FPX_KVM_AWS",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-06-27T03:15:29.000Z",
-          "wordCount": 3393,
-          "title": "FortiProxy 7.2.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 26 Jun 2023 18:04:51 GMT",
-          "author": null,
-          "description": "FortiOS 6.4.14 B2093 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFGT_500D, FGT_101E, FGT_2201E,\nFGT_VM64_OPC, FGT_VM64_KVM, FGT_60E_DSL,\nFGT_201F, FWF_80F_2R, FGT_VM64_XEN,\nFGT_80E, FWF_81F_2R_POE, FGT_201E,\nFGT_VM64_AZURE, FGT_1500DT, FGT_400E,\nFGT_5001E, FFW_VM64_KVM, FGT_VM64_AWS,\nFGT_VM64_GCP, FGT_80E_POE, FGT_200E,\nFGT_40F_3G4G, FGT_VM64_IBM, FGT_VM64_RAXONDEMAND,\nFGT_1200D, FGT_100EF, FGT_VM64,\nFWF_60F, FGT_3400E, FWF_60E,\nFGT_1801F, FGT_3401E, FGT_60E_DSLJ,\nFGT_100E, FGT_81E_POE, FGT_1101E,\nFGT_3200D, FGT_VM64_GCPONDEMAND, FGT_VM64_HV,\nFGT_61F, FGT_1000D, FGT_3601E,\nFOS_VM64, FGT_301E, FGR_60F_3G4G,\nFOS_VM64_HV, FGT_80F, FFW_VM64,\nFGT_VM64_ALI, FGT_3960E, FGT_4400F,\nFWF_61F, FGT_60F, FGT_1100E,\nFGT_VM64_SVM, FGT_90E, FGT_2601F,\nFGT_400D, FGT_1500D, FWF_61E,\nFWF_60E_DSL, FGT_81F_POE, FGT_5001E1,\nFWF_60E_DSLJ, FFW_4400F, FGT_3815D,\nFGT_2500E, FGT_80F_POE, FGT_VM64_ALIONDEMAND,\nFGT_140E, FGT_81E, FGT_100F,\nFGT_140E_POE, FGT_300E, FGT_500E,\nFGT_4200F, FGT_60E_POE, FGT_5001D,\nFGT_40F, FGT_91E, FGT_81F,\nFWF_81F_2R, FGT_101F, FGT_501E,\nFGT_601E, FGT_3810D, FGT_200F,\nFGT_3600E, FGT_2200E, FGT_400E_BP,\nFWF_40F, FWF_81F_2R_3G4G_POE, FGT_300D,\nFGT_VM64_VMX, FGT_800D, FGT_2600F,\nFFW_4200F, FOS_VM64_KVM, FOS_VM64_XEN,\nFGT_3980E, FGT_3700D, FGT_1800F,\nFGT_61E, FGT_2000E, FGT_900D,\nFGT_3100D, FGT_4201F, FWF_40F_3G4G,\nFGT_80F_BP, FGT_3301E, FGT_401E,\nFGR_60F, FGT_4401F, FGT_3800D,\nFGT_3000D, FFW_3980E, FGT_600E,\nFGT_60E, FGT_3300E, FGT_600D,\nFFW_4401F, FFW_2600F, FFW_1801F,\nFGT_400F, FGT_600F, FGT_401F,\nFGT_601F",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-06-26T18:04:51.000Z",
-          "wordCount": 3393,
-          "title": "FortiOS 6.4.14",
           "imageUrl": null
         }
       ]
