@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T00:39:06.149Z</id>
+    <id>urn:2023-07-28T00:39:14.913Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T00:39:06.149Z</updated>
+    <updated>2023-07-28T00:39:14.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiVoice 7.0.0]]></title>
+        <id>Thu, 27 Jul 2023 20:49:39 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-07-27T20:49:39.000Z</updated>
+        <summary type="html"><![CDATA[FortiVoice 7.0.0 B0118 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FVE_VMGC, FVE_100E, FVE_VMKV,
+FVG_GS16, FVE_3000E, FVE_20E,
+FVE_2000F, FVE_200F, FVE_VM,
+FVG_GT, FVE_VMXE, FVE_500F,
+FVE_VMHV, FVE_500E, FVE_5000F,
+FVG_GO08, FVE_VMAW, FVE_VMAZ,
+FVE_50E, FVE_300E]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiPAM 1.1.1]]></title>
+        <id>Thu, 27 Jul 2023 18:57:51 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-07-27T18:57:51.000Z</updated>
+        <summary type="html"><![CDATA[FortiPAM 1.1.1 B0429 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FPA_VMWARE, FPA_HY, FPA_AZURE,
+FPA_KVM]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiWeb 7.4.0]]></title>
         <id>Tue, 25 Jul 2023 17:09:50 GMT</id>
@@ -450,12 +481,6 @@ UniFi Network application version]]></summary>
         <updated>2023-07-18T06:55:09.000Z</updated>
         <summary type="html"><![CDATA[Overview
 UniFi Access Point 6.5.62 includes the improvements and bugfixes listed below. It's only available for Gen2, Gen3 and Gen6 Access Points.
-This release is now available on the Official release channel for the models listed below. It's still a Release Candidate for the other models.
-
-Gen2: AC-Lite
-Gen3: SHD
-Gen6: U6-IW, U6-Enterprise-IW
-
 Improvements
 
 Improve device adoption and removing resiliency.
@@ -468,7 +493,25 @@ Fixed kernel crashes to improve stability.
 Fixed devices occasionally failing to factory reset when forgotten.
 [Gen2/Gen3] Fixed 5GHz radio getting stuck if a DFS radar event occurs during the CAC timeout.
 [Gen2/Gen4/Gen5] Fixed kernel crashes to improve stability.
-[Gen2/Gen3/Gen6] Fixed…]]></summary>
+[Gen2/Gen3/Gen6] Fixed NAS-IPv6-Address being sent instead of NAS-IP-Address (v4) when the RADIUS server is reachable over IPv6.
+[Gen4/Gen5] Fixed kernel crashes to improve overall stability.
+[Gen4/Gen5] Fix first client connection after boot failing occasionally.
+[U6+/U6LR+] Fixed TFTP recovery not working sometimes, causing the AP to boot with the preexisting firmware instead of the newly flashed version.
+[U6+/U6LR+] Fixed 5GHz radio stuck in a DFS Waiting state if no 2.4GHz WiFi network is assigned to the AP.
+[U6-Lite/U6-LR] Fixed clients getting disconnected intermittently, leading to clients bouncing between 2.4GHz and 5GHz.
+[U6-Lite/U6-LR] Fixed 5GHz channel occasionally not broadcasting after a channel change.
+[U6-Lite/U6-LR] Fixed low data rates being used for some 5GHz clients after switching to a DFS channel.
+
+Additional information
+
+Refer to the Help Center article here to determine the UniFi Access Point generation.
+
+
+If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
+
+AP model(s)
+Previous AP release version
+UniFi Network application version]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
@@ -1274,83 +1317,6 @@ FRC_VM, FRC_200D, FRC_100D]]></summary>
         <summary type="html"><![CDATA[FortiPAM 1.1.0 B0427 and release notes are available for download from the Support site : https://support.fortinet.com
 This concerns the following models:
 FPA_KVM, FPA_VMWARE]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAP-W2 6.4.9]]></title>
-        <id>Wed, 28 Jun 2023 01:28:06 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-06-28T01:28:06.000Z</updated>
-        <summary type="html"><![CDATA[FortiAP-W2 6.4.9 B0492 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAP_221E, FAP_321E, FAP_223E,
-FAP_222E, FAP_421E, FAP_231E,
-FAP_224E, FAP_423E]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAP-S 6.4.9]]></title>
-        <id>Wed, 28 Jun 2023 01:12:43 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-06-28T01:12:43.000Z</updated>
-        <summary type="html"><![CDATA[FortiAP-S 6.4.9 B0492 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAP_S422E, FAP_S421E, FAP_S423E,
-FAP_S223E, FAP_S221E]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2023-035 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-035.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-035.html"/>
-        <updated>2023-06-28T00:26:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-1206]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2023-022 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-022.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-022.html"/>
-        <updated>2023-06-28T00:26:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-1206]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2023-048 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-048.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-048.html"/>
-        <updated>2023-06-28T00:26:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-1206]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS-2023-2108 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2108.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2108.html"/>
-        <updated>2023-06-28T00:07:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-1206]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSOAR 7.4.1]]></title>
-        <id>Tue, 27 Jun 2023 16:33:24 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-06-27T16:33:24.000Z</updated>
-        <summary type="html"><![CDATA[FortiSOAR 7.4.1 B3167 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>

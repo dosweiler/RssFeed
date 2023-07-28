@@ -18,7 +18,7 @@
         {
           "id": "5f88c727-f812-4be7-9560-5f5d22a824d8",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.5.62 includes the improvements and bugfixes listed below. It's only available for Gen2, Gen3 and Gen6 Access Points.\nThis release is now available on the Official release channel for the models listed below. It's still a Release Candidate for the other models.\n\nGen2: AC-Lite\nGen3: SHD\nGen6: U6-IW, U6-Enterprise-IW\n\nImprovements\n\nImprove device adoption and removing resiliency.\n[Gen6] Improved firmware update resiliency.\n[U6-Enterprise] Added 6GHz support for Canada.\n\nBugfixes\n\nFixed kernel crashes to improve stability.\nFixed devices occasionally failing to factory reset when forgotten.\n[Gen2/Gen3] Fixed 5GHz radio getting stuck if a DFS radar event occurs during the CAC timeout.\n[Gen2/Gen4/Gen5] Fixed kernel crashes to improve stability.\n[Gen2/Gen3/Gen6] Fixed…",
+          "description": "Overview\nUniFi Access Point 6.5.62 includes the improvements and bugfixes listed below. It's only available for Gen2, Gen3 and Gen6 Access Points.\nImprovements\n\nImprove device adoption and removing resiliency.\n[Gen6] Improved firmware update resiliency.\n[U6-Enterprise] Added 6GHz support for Canada.\n\nBugfixes\n\nFixed kernel crashes to improve stability.\nFixed devices occasionally failing to factory reset when forgotten.\n[Gen2/Gen3] Fixed 5GHz radio getting stuck if a DFS radar event occurs during the CAC timeout.\n[Gen2/Gen4/Gen5] Fixed kernel crashes to improve stability.\n[Gen2/Gen3/Gen6] Fixed NAS-IPv6-Address being sent instead of NAS-IP-Address (v4) when the RADIUS server is reachable over IPv6.\n[Gen4/Gen5] Fixed kernel crashes to improve overall stability.\n[Gen4/Gen5] Fix first client connection after boot failing occasionally.\n[U6+/U6LR+] Fixed TFTP recovery not working sometimes, causing the AP to boot with the preexisting firmware instead of the newly flashed version.\n[U6+/U6LR+] Fixed 5GHz radio stuck in a DFS Waiting state if no 2.4GHz WiFi network is assigned to the AP.\n[U6-Lite/U6-LR] Fixed clients getting disconnected intermittently, leading to clients bouncing between 2.4GHz and 5GHz.\n[U6-Lite/U6-LR] Fixed 5GHz channel occasionally not broadcasting after a channel change.\n[U6-Lite/U6-LR] Fixed low data rates being used for some 5GHz clients after switching to a DFS channel.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-62/5f88c727-f812-4be7-9560-5f5d22a824d8",
           "publishedOn": "2023-07-18T06:55:09.000Z",
           "wordCount": 6,
@@ -761,46 +761,6 @@
           "wordCount": 977,
           "title": "ALASKERNEL-5.15-2023-023 (important): kernel",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-035.html",
-          "author": null,
-          "description": "CVE-2023-1206",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-035.html",
-          "publishedOn": "2023-06-28T00:26:00.000Z",
-          "wordCount": 220,
-          "title": "ALASKERNEL-5.10-2023-035 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-022.html",
-          "author": null,
-          "description": "CVE-2023-1206",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-022.html",
-          "publishedOn": "2023-06-28T00:26:00.000Z",
-          "wordCount": 220,
-          "title": "ALASKERNEL-5.15-2023-022 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-048.html",
-          "author": null,
-          "description": "CVE-2023-1206",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-048.html",
-          "publishedOn": "2023-06-28T00:26:00.000Z",
-          "wordCount": 218,
-          "title": "ALASKERNEL-5.4-2023-048 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2108.html",
-          "author": null,
-          "description": "CVE-2023-1206",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2108.html",
-          "publishedOn": "2023-06-28T00:07:00.000Z",
-          "wordCount": 215,
-          "title": "ALAS-2023-2108 (important): kernel",
-          "imageUrl": null
         }
       ]
     },
@@ -809,6 +769,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 27 Jul 2023 20:49:39 GMT",
+          "author": null,
+          "description": "FortiVoice 7.0.0 B0118 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFVE_VMGC, FVE_100E, FVE_VMKV,\nFVG_GS16, FVE_3000E, FVE_20E,\nFVE_2000F, FVE_200F, FVE_VM,\nFVG_GT, FVE_VMXE, FVE_500F,\nFVE_VMHV, FVE_500E, FVE_5000F,\nFVG_GO08, FVE_VMAW, FVE_VMAZ,\nFVE_50E, FVE_300E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-07-27T20:49:39.000Z",
+          "wordCount": 3393,
+          "title": "FortiVoice 7.0.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 27 Jul 2023 18:57:51 GMT",
+          "author": null,
+          "description": "FortiPAM 1.1.1 B0429 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPA_VMWARE, FPA_HY, FPA_AZURE,\nFPA_KVM",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-07-27T18:57:51.000Z",
+          "wordCount": 3393,
+          "title": "FortiPAM 1.1.1",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 25 Jul 2023 17:09:50 GMT",
           "author": null,
@@ -1097,36 +1077,6 @@
           "publishedOn": "2023-06-28T17:21:58.000Z",
           "wordCount": 3393,
           "title": "FortiPAM 1.1.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 28 Jun 2023 01:28:06 GMT",
-          "author": null,
-          "description": "FortiAP-W2 6.4.9 B0492 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAP_221E, FAP_321E, FAP_223E,\nFAP_222E, FAP_421E, FAP_231E,\nFAP_224E, FAP_423E",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-06-28T01:28:06.000Z",
-          "wordCount": 3393,
-          "title": "FortiAP-W2 6.4.9",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 28 Jun 2023 01:12:43 GMT",
-          "author": null,
-          "description": "FortiAP-S 6.4.9 B0492 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAP_S422E, FAP_S421E, FAP_S423E,\nFAP_S223E, FAP_S221E",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-06-28T01:12:43.000Z",
-          "wordCount": 3393,
-          "title": "FortiAP-S 6.4.9",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 27 Jun 2023 16:33:24 GMT",
-          "author": null,
-          "description": "FortiSOAR 7.4.1 B3167 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-06-27T16:33:24.000Z",
-          "wordCount": 3393,
-          "title": "FortiSOAR 7.4.1",
           "imageUrl": null
         }
       ]
