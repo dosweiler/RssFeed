@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-10T00:42:34.167Z</id>
+    <id>urn:2023-08-11T00:32:25.412Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-10T00:42:34.167Z</updated>
+    <updated>2023-08-11T00:32:25.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -144,6 +144,66 @@ FRC_VM, FRC_VMAW_ONDEMAND, FRC_200D,
 FRC_VMKI, FRC_100G, FRC_VMXE]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASJAVA-OPENJDK11-2023-005 (medium): java-11-openjdk]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2023-005.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2023-005.html"/>
+        <updated>2023-08-03T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-22036, CVE-2023-22041, CVE-2023-22043, CVE-2023-22045]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2023-038 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-038.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-038.html"/>
+        <updated>2023-08-03T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-3609, CVE-2023-3611, CVE-2023-3776]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2023-025 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-025.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-025.html"/>
+        <updated>2023-08-03T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-48502, CVE-2023-20593, CVE-2023-3611, CVE-2023-3776]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2023-050 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-050.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-050.html"/>
+        <updated>2023-08-03T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-20593, CVE-2023-3611, CVE-2023-3776]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2023-025 (important): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-025.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-025.html"/>
+        <updated>2023-08-03T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-29406]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2023-026 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-026.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-026.html"/>
+        <updated>2023-08-03T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-41723, CVE-2022-41724, CVE-2022-41725, CVE-2023-24532, CVE-2023-24534, CVE-2023-24536, CVE-2023-24537, CVE-2023-24538, CVE-2023-24539, CVE-2023-24540, CVE-2023-29400, CVE-2023-29403, CVE-2023-29406]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -1444,30 +1504,6 @@ FDD_2000F, FDD_1500F, FDD_KVM]]></summary>
         <summary type="html"><![CDATA[FortiOS-6K7K 6.4.14 B1933 and release notes are available for download from the Support site : https://support.fortinet.com
 This concerns the following models:
 FGT_7000E, FGT_6000F, FGT_7000F]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiPolicy 7.2.5]]></title>
-        <id>Tue, 11 Jul 2023 21:54:40 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-07-11T21:54:40.000Z</updated>
-        <summary type="html"><![CDATA[FortiPolicy 7.2.5 B0039 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAP 7.0.7]]></title>
-        <id>Tue, 11 Jul 2023 18:28:44 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-07-11T18:28:44.000Z</updated>
-        <summary type="html"><![CDATA[FortiAP 7.0.7 B0134 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAP_23JF, FAP_234F, FAP_831F,
-FAP_433F, FAP_231F, FAP_432F,
-FAP_431F]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
