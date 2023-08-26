@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "91497e1a-cce8-49ae-9443-0e6cc6cadb0c",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi LTE 6.6.22 includes the improvements listed below.\nImprovements\n\nAdded an indication to the screen when the device is in TFTP Recovery mode.\nImproved device stability\nImproved default APN settings.\n\nAdditional information\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nU-LTE model(s)\nPrevious LTE release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-LTE-6-6-22/91497e1a-cce8-49ae-9443-0e6cc6cadb0c",
+          "publishedOn": "2023-08-25T12:58:39.000Z",
+          "wordCount": 6,
+          "title": "UniFi LTE 6.6.22",
+          "imageUrl": null
+        },
+        {
           "id": "892a2c14-cfd5-4351-986e-607c505f14c3",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 6.5.66 includes the bugfix listed below. It's only available for Gen2, Gen3 and Gen6 Access Points.\nBugfixes\n\nFixed APs with wired uplinks sometimes needing a power cycle to recover from meshing with each other during a USW/Console firmware update.\n\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -700,12 +710,32 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Fri, 25 Aug 2023 22:17:19 GMT",
+          "author": null,
+          "description": "FortiSandbox 4.2.5 B0287 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFSA_3000E, FSA_1000F, FSA_500F,\nFSA_AWS, FSA_KVM, FSA_HYPERV,\nFSA_VM, FSA_2000E, FSA_3000F,\nFSA_AZURE",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-08-25T22:17:19.000Z",
+          "wordCount": 3272,
+          "title": "FortiSandbox 4.2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 25 Aug 2023 22:10:49 GMT",
+          "author": null,
+          "description": "FortiSandbox 4.4.1 B0353 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFSA_KVM, FSA_HYPERV, FSA_3000F,\nFSA_1000F, FSA_500F, FSA_AZURE,\nFSA_VM, FSA_AWS, FSA_3000E,\nFSA_2000E",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-08-25T22:10:49.000Z",
+          "wordCount": 3272,
+          "title": "FortiSandbox 4.4.1",
+          "imageUrl": null
+        },
+        {
           "id": "Fri, 25 Aug 2023 00:04:27 GMT",
           "author": null,
           "description": "FortiDeceptor 5.2.0 B0246 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFDR_100G, FDC_1000F, FDC_VM,\nFDC_100G, FDC_1000G",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-25T00:04:27.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiDeceptor 5.2.0",
           "imageUrl": null
         },
@@ -715,7 +745,7 @@
           "description": "FortiAP-U 6.2.6 B0341 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAP_U221EV, FAP_U24JEV, FAP_U423EV,\nFAP_U431F, FAP_U231F, FAP_U422EV,\nFAP_U321EV, FAP_U223EV, FAP_U234F",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-22T18:52:00.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiAP-U 6.2.6",
           "imageUrl": null
         },
@@ -725,7 +755,7 @@
           "description": "FortiADC 7.1.4 B0138 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAD_1000F, FAD_400F, FAD_ALI,\nFAD_300D, FAD_XENAWS, FAD_KVM,\nFAD_GCP, FAD_400D, FAD_100F,\nFAD_120F, FAD_5000F, FAD_XENAWS_ONDEMAND,\nFAD_OCI, FAD_GCP_ONDEMAND, FAD_VM,\nFAD_1200F, FAD_220F, FAD_4200F,\nFAD_HYPERV, FAD_ALI_ONDEMAND, FAD_AZURE,\nFAD_200F, FAD_300F, FAD_AZURE_ONDEMAND,\nFAD_2200F, FAD_2000F, FAD_4000F,\nFAD_XENOPEN, FAD_XENSERVER",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-17T20:32:55.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiADC 7.1.4",
           "imageUrl": null
         },
@@ -735,7 +765,7 @@
           "description": "FortiWLM 8.6.6 B8631 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-17T17:38:48.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiWLM 8.6.6",
           "imageUrl": null
         },
@@ -745,7 +775,7 @@
           "description": "FortiAP-U 7.0.1 B0084 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAP_U231F, FAP_U433F, FAP_U323EV,\nFAP_U321EV, FAP_U234F, FAP_U431F,\nFAP_U221EV, FAP_U421EV, FAP_U423EV,\nFAP_U24JEV, FAP_U422EV, FAP_U223EV,\nFAP_U432F",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-15T21:50:55.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiAP-U 7.0.1",
           "imageUrl": null
         },
@@ -755,7 +785,7 @@
           "description": "FortiFone 3.0.19 B0314 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFON_280B, FON_480, FON_480B,\nFON_380, FON_380B, FON_580",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-15T01:59:23.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiFone 3.0.19",
           "imageUrl": null
         },
@@ -765,7 +795,7 @@
           "description": "FortiProxy 7.0.12 B0179 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPX_2000G, FPX_4000E, FPX_400E,\nFPX_KVM, FPX_KVM_ALI, FPX_400G,\nFPX_2000E, FPX_AZURE, FPX_VMWARE,\nFPX_4000G, FPX_KVM_AWS, FPX_KVM_OPC,\nFPX_XEN, FPX_HY, FPX_KVM_GCP",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-08T16:51:11.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiProxy 7.0.12",
           "imageUrl": null
         },
@@ -775,7 +805,7 @@
           "description": "FortiProxy 7.2.6 B0409 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPX_400G, FPX_4000G, FPX_2000G,\nFPX_HY, FPX_VMWARE, FPX_4000E,\nFPX_2000E, FPX_AZURE, FPX_400E,\nFPX_KVM_ALI, FPX_KVM_OPC, FPX_KVM_AWS,\nFPX_KVM_GCP, FPX_XEN, FPX_KVM",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-08T16:42:44.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiProxy 7.2.6",
           "imageUrl": null
         },
@@ -785,7 +815,7 @@
           "description": "FortiNAC-F 7.2.3 B0083 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFNAC_ESX, FNAC_CA_500F, FNAC_M_550F,\nFNAC_CA_700F, FNAC_CA_600F, FNAC_KVM,\nFNAC_VHD, FNAC_AWS, FNAC_AZU",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-04T22:49:03.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiNAC-F 7.2.3",
           "imageUrl": null
         },
@@ -795,7 +825,7 @@
           "description": "FortiSwitch 7.0.7 B0096 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFSW_108E_FPOE, FSW_424D_POE, FSW_108F,\nFSW_108F_FPOE, FSW_448E, FSW_148E,\nFSW_148F_FPOE, FSR_112D_POE, FSW_124F_POE,\nFSW_426E_FPOE_MG, FSW_124F_FPOE, FSW_1024E,\nFSW_148E_POE, FSW_1048D, FSW_108F_POE,\nFSW_424D_FPOE, FSW_248E_POE, FSW_108E_POE,\nFSW_424D, FSW_524D_FPOE, FSW_424E_FPOE,\nFSW_448E_POE, FSW_124E_POE, FSW_424E,\nFSW_124E, FSW_548D_FPOE, FSW_108E,\nFSW_524D, FSW_248E_FPOE, FSW_224E,\nFSW_224E_POE, FSW_T1024E, FSW_124E_FPOE,\nFSW_148F, FSW_148F_POE, FSW_224D_FPOE,\nFSW_3032D, FSW_3032E, FSW_424E_POE,\nFSW_1048E, FSW_248D, FSW_448D_POE,\nFSW_448D, FSW_124F, FSW_424E_FIBER,\nFSW_1024D, FSW_448E_FPOE, FSR_124D,\nFSW_548D, FSW_448D_FPOE",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-04T21:08:24.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiSwitch 7.0.7",
           "imageUrl": null
         },
@@ -805,7 +835,7 @@
           "description": "FortiRecorder 7.0.2 B0069 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFRC_VMAZ, FRC_400D, FRC_100D,\nFRC_400F, FRC_VMKV, FRC_VMHV,\nFRC_VM, FRC_VMAW_ONDEMAND, FRC_200D,\nFRC_VMKI, FRC_100G, FRC_VMXE",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-03T20:44:44.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiRecorder 7.0.2",
           "imageUrl": null
         },
@@ -815,7 +845,7 @@
           "description": "FortiRecorder 6.4.5 B0268 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFRC_400F, FRC_VMHV, FRC_100D,\nFRC_VMKV, FRC_200D, FRC_VM,\nFRC_VMAZ, FRC_400D, FRC_VMXE,\nFRC_VMAW_ONDEMAND, FRC_VMKI",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-03T01:53:32.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiRecorder 6.4.5",
           "imageUrl": null
         },
@@ -825,7 +855,7 @@
           "description": "FortiRecorder 7.2.0 B0069 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFRC_VMAZ, FRC_400D, FRC_100D,\nFRC_400F, FRC_VMKV, FRC_VMHV,\nFRC_VM, FRC_VMAW_ONDEMAND, FRC_200D,\nFRC_VMKI, FRC_100G, FRC_VMXE",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-03T01:40:19.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiRecorder 7.2.0",
           "imageUrl": null
         },
@@ -835,7 +865,7 @@
           "description": "FortiVoiceUCDesktop 3.0.15 B0202 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nWindows, Windows, Mac OS X",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-02T16:34:45.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiVoiceUCDesktop 3.0.15",
           "imageUrl": null
         },
@@ -845,7 +875,7 @@
           "description": "FortiADC 7.2.2 B0230 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFAD_400F, FAD_OCI, FAD_XENAWS_ONDEMAND,\nFAD_300D, FAD_XENSERVER, FAD_220F,\nFAD_XENAWS, FAD_300F, FAD_GCP,\nFAD_4000F, FAD_120F, FAD_AZURE,\nFAD_ALI_ONDEMAND, FAD_400D, FAD_1000F,\nFAD_KVM, FAD_AZURE_ONDEMAND, FAD_2000F,\nFAD_5000F, FAD_200F, FAD_IBM,\nFAD_100F, FAD_HYPERV, FAD_VM,\nFAD_XENOPEN, FAD_4200F, FAD_ALI,\nFAD_GCP_ONDEMAND, FAD_1200F, FAD_2200F",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-08-01T20:37:05.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiADC 7.2.2",
           "imageUrl": null
         },
@@ -855,7 +885,7 @@
           "description": "FortiNAC 9.4.4 B0767 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-07-28T21:55:23.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiNAC 9.4.4",
           "imageUrl": null
         },
@@ -865,7 +895,7 @@
           "description": "FortiPortal 7.0.5 B0202 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-07-28T00:54:35.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiPortal 7.0.5",
           "imageUrl": null
         },
@@ -875,7 +905,7 @@
           "description": "FortiVoice 7.0.0 B0118 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFVE_VMGC, FVE_100E, FVE_VMKV,\nFVG_GS16, FVE_3000E, FVE_20E,\nFVE_2000F, FVE_200F, FVE_VM,\nFVG_GT, FVE_VMXE, FVE_500F,\nFVE_VMHV, FVE_500E, FVE_5000F,\nFVG_GO08, FVE_VMAW, FVE_VMAZ,\nFVE_50E, FVE_300E",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-07-27T20:49:39.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiVoice 7.0.0",
           "imageUrl": null
         },
@@ -885,7 +915,7 @@
           "description": "FortiPAM 1.1.1 B0429 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFPA_VMWARE, FPA_HY, FPA_AZURE,\nFPA_KVM",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2023-07-27T18:57:51.000Z",
-          "wordCount": 3393,
+          "wordCount": 3272,
           "title": "FortiPAM 1.1.1",
           "imageUrl": null
         }
