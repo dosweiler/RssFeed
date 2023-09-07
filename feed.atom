@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-06T00:33:54.224Z</id>
+    <id>urn:2023-09-07T00:33:24.033Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T00:33:54.224Z</updated>
+    <updated>2023-09-07T00:33:24.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiADCManager 7.4.0]]></title>
+        <id>Wed, 6 Sep 2023 18:53:16 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-09-06T18:53:16.000Z</updated>
+        <summary type="html"><![CDATA[FortiADCManager 7.4.0 B0061 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FADCManager]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSIEMWindowsAgent 5.0.1]]></title>
         <id>Tue, 5 Sep 2023 23:04:37 GMT</id>
@@ -43,6 +55,56 @@
         <summary type="html"><![CDATA[FortiSIEM 6.6.4 B1667 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2023-039 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-039.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-039.html"/>
+        <updated>2023-08-31T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-20588, CVE-2023-3390, CVE-2023-4004, CVE-2023-4128, CVE-2023-4147, CVE-2023-4273]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2023-030 (important): amazon-ecr-credential-helper]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-030.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-030.html"/>
+        <updated>2023-08-31T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-41723]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2023-026 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-026.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-026.html"/>
+        <updated>2023-08-31T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-40982, CVE-2023-20588, CVE-2023-34319, CVE-2023-4004, CVE-2023-4128, CVE-2023-4147]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2023-052 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-052.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-052.html"/>
+        <updated>2023-08-31T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-20588]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2023-029 (important): amazon-ecr-credential-helper]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-029.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-029.html"/>
+        <updated>2023-08-31T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-41723]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -387,6 +449,16 @@ FAD_XENOPEN, FAD_XENSERVER]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASECS-2023-006 (important): ecs-service-connect-agent]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2023-006.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2023-006.html"/>
+        <updated>2023-08-17T17:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-35941, CVE-2023-35942, CVE-2023-35943, CVE-2023-35944, CVE-2023-35945]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2023-027 (important): runc]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-027.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-027.html"/>
@@ -551,7 +623,7 @@ FAD_XENOPEN, FAD_XENSERVER]]></summary>
         <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2212.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2212.html"/>
         <updated>2023-08-17T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-3627]]></summary>
+        <summary type="html"><![CDATA[CVE-2022-2520, CVE-2022-2868, CVE-2022-2953, CVE-2022-3597, CVE-2022-3626, CVE-2022-3627]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -591,7 +663,7 @@ FAD_XENOPEN, FAD_XENSERVER]]></summary>
         <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2208.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2208.html"/>
         <updated>2023-08-17T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-29409]]></summary>
+        <summary type="html"><![CDATA[CVE-2023-29406, CVE-2023-29409]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>

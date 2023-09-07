@@ -23,6 +23,56 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-039.html",
+          "author": null,
+          "description": "CVE-2023-20588, CVE-2023-3390, CVE-2023-4004, CVE-2023-4128, CVE-2023-4147, CVE-2023-4273",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-039.html",
+          "publishedOn": "2023-08-31T22:50:00.000Z",
+          "wordCount": 454,
+          "title": "ALASKERNEL-5.10-2023-039 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-030.html",
+          "author": null,
+          "description": "CVE-2022-41723",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-030.html",
+          "publishedOn": "2023-08-31T22:50:00.000Z",
+          "wordCount": 176,
+          "title": "ALASDOCKER-2023-030 (important): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-026.html",
+          "author": null,
+          "description": "CVE-2022-40982, CVE-2023-20588, CVE-2023-34319, CVE-2023-4004, CVE-2023-4128, CVE-2023-4147",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-026.html",
+          "publishedOn": "2023-08-31T22:46:00.000Z",
+          "wordCount": 414,
+          "title": "ALASKERNEL-5.15-2023-026 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-052.html",
+          "author": null,
+          "description": "CVE-2023-20588",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-052.html",
+          "publishedOn": "2023-08-31T22:45:00.000Z",
+          "wordCount": 211,
+          "title": "ALASKERNEL-5.4-2023-052 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-029.html",
+          "author": null,
+          "description": "CVE-2022-41723",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-029.html",
+          "publishedOn": "2023-08-31T22:44:00.000Z",
+          "wordCount": 176,
+          "title": "ALASNITRO-ENCLAVES-2023-029 (important): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2221.html",
           "author": null,
           "description": "CVE-2019-19126, CVE-2020-10029, CVE-2020-1752",
@@ -100,6 +150,16 @@
           "publishedOn": "2023-08-17T17:04:00.000Z",
           "wordCount": 274,
           "title": "ALASDOCKER-2023-026 (important): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2023-006.html",
+          "author": null,
+          "description": "CVE-2023-35941, CVE-2023-35942, CVE-2023-35943, CVE-2023-35944, CVE-2023-35945",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2023-006.html",
+          "publishedOn": "2023-08-17T17:04:00.000Z",
+          "wordCount": 596,
+          "title": "ALASECS-2023-006 (important): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
@@ -265,10 +325,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2212.html",
           "author": null,
-          "description": "CVE-2022-3627",
+          "description": "CVE-2022-2520, CVE-2022-2868, CVE-2022-2953, CVE-2022-3597, CVE-2022-3626, CVE-2022-3627",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2212.html",
           "publishedOn": "2023-08-17T11:58:00.000Z",
-          "wordCount": 220,
+          "wordCount": 441,
           "title": "ALAS-2023-2212 (medium): libtiff",
           "imageUrl": null
         },
@@ -305,10 +365,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2208.html",
           "author": null,
-          "description": "CVE-2023-29409",
+          "description": "CVE-2023-29406, CVE-2023-29409",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2208.html",
           "publishedOn": "2023-08-17T11:58:00.000Z",
-          "wordCount": 274,
+          "wordCount": 325,
           "title": "ALAS-2023-2208 (important): cni-plugins",
           "imageUrl": null
         },
@@ -359,6 +419,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 6 Sep 2023 18:53:16 GMT",
+          "author": null,
+          "description": "FortiADCManager 7.4.0 B0061 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFADCManager",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-09-06T18:53:16.000Z",
+          "wordCount": 3272,
+          "title": "FortiADCManager 7.4.0",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 5 Sep 2023 23:04:37 GMT",
           "author": null,
