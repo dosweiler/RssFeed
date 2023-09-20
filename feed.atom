@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-19T00:34:40.439Z</id>
+    <id>urn:2023-09-20T00:34:20.745Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T00:34:40.439Z</updated>
+    <updated>2023-09-20T00:34:20.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiWeb 7.2.5]]></title>
+        <id>Tue, 19 Sep 2023 17:32:31 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-09-19T17:32:31.000Z</updated>
+        <summary type="html"><![CDATA[FortiWeb 7.2.5 B0378 and release notes are available for download from the Support site : https://support.fortinet.com
+This concerns the following models:
+FWB_1000D, FWB_3000E, FWB_KVM,
+FWB_KVM_PAYG, FWB_OCI, FWB_VBOX,
+FWB_400E, FWB_1000E, FWB_2000E,
+FWB_400D, FWB_4000D, FWB_XENSERVER,
+FWB_ALI, FWB_400F, FWB_1000F,
+FWB_3010E, FWB_XENAWS, FWB_VM,
+FWB_600E, FWB_3000F, FWB_DOCKER,
+FWB_AZURE, FWB_2000F, FWB_3000DFSX,
+FWB_XENAWS_ONDEMAND, FWB_600D, FWB_AZURE_ONDEMAND,
+FWB_100E, FWB_4000E, FWB_VM_PAYG,
+FWB_100D, FWB_XENOPEN, FWB_600F,
+FWB_4000F, FWB_3000D, FWB_GCP_ONDEMAND,
+FWB_400C, FWB_GCP, FWB_HYPERV]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiDDoS-F 6.6.1]]></title>
         <id>Mon, 18 Sep 2023 18:19:01 GMT</id>
@@ -639,34 +663,6 @@ FSA_2000E]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UniFi LTE 6.6.22]]></title>
-        <id>91497e1a-cce8-49ae-9443-0e6cc6cadb0c</id>
-        <link href="https://community.ui.com/releases/UniFi-LTE-6-6-22/91497e1a-cce8-49ae-9443-0e6cc6cadb0c"/>
-        <updated>2023-08-25T12:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-UniFi LTE 6.6.22 includes the improvements listed below.
-Improvements
-
-Added an indication to the screen when the device is in TFTP Recovery mode.
-Improved device stability
-Improved default APN settings.
-
-Additional information
-
-Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
-If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
-
-
-If you encounter any issues with this release, please provide us some details on your setup and include the below information:
-
-U-LTE model(s)
-Previous LTE release version
-UniFi Network application version]]></summary>
-        <author>
-            <name>UI-Glenn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FortiDeceptor 5.2.0]]></title>
         <id>Fri, 25 Aug 2023 00:04:27 GMT</id>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
@@ -779,36 +775,6 @@ FAP_U321EV, FAP_U223EV, FAP_U234F]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASPHP8.1-2023-002.html"/>
         <updated>2023-08-21T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2023-0567, CVE-2023-0662]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS-2023-2221 (medium): glibc]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2221.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2221.html"/>
-        <updated>2023-08-21T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2019-19126, CVE-2020-10029, CVE-2020-1752]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS-2023-2220 (medium): libgovirt]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2220.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2220.html"/>
-        <updated>2023-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2018-10893]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS-2023-2219 (medium): spice-protocol]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2219.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2219.html"/>
-        <updated>2023-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2018-10893]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>

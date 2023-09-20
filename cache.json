@@ -1,23 +1,6 @@
 {
   "sources": [
     {
-      "title": "UniFi WiFi/Switch/LTE | Releases | Ubiquiti Community",
-      "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
-      "siteUrl": "https://community.ui.com",
-      "articles": [
-        {
-          "id": "91497e1a-cce8-49ae-9443-0e6cc6cadb0c",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi LTE 6.6.22 includes the improvements listed below.\nImprovements\n\nAdded an indication to the screen when the device is in TFTP Recovery mode.\nImproved device stability\nImproved default APN settings.\n\nAdditional information\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nU-LTE model(s)\nPrevious LTE release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-LTE-6-6-22/91497e1a-cce8-49ae-9443-0e6cc6cadb0c",
-          "publishedOn": "2023-08-25T12:58:39.000Z",
-          "wordCount": 6,
-          "title": "UniFi LTE 6.6.22",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
@@ -441,36 +424,6 @@
           "wordCount": 317,
           "title": "ALASPHP8.1-2023-002 (important): php",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2221.html",
-          "author": null,
-          "description": "CVE-2019-19126, CVE-2020-10029, CVE-2020-1752",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2221.html",
-          "publishedOn": "2023-08-21T10:35:00.000Z",
-          "wordCount": 954,
-          "title": "ALAS-2023-2221 (medium): glibc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2220.html",
-          "author": null,
-          "description": "CVE-2018-10893",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2220.html",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 204,
-          "title": "ALAS-2023-2220 (medium): libgovirt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2219.html",
-          "author": null,
-          "description": "CVE-2018-10893",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2219.html",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 196,
-          "title": "ALAS-2023-2219 (medium): spice-protocol",
-          "imageUrl": null
         }
       ]
     },
@@ -479,6 +432,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 19 Sep 2023 17:32:31 GMT",
+          "author": null,
+          "description": "FortiWeb 7.2.5 B0378 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFWB_1000D, FWB_3000E, FWB_KVM,\nFWB_KVM_PAYG, FWB_OCI, FWB_VBOX,\nFWB_400E, FWB_1000E, FWB_2000E,\nFWB_400D, FWB_4000D, FWB_XENSERVER,\nFWB_ALI, FWB_400F, FWB_1000F,\nFWB_3010E, FWB_XENAWS, FWB_VM,\nFWB_600E, FWB_3000F, FWB_DOCKER,\nFWB_AZURE, FWB_2000F, FWB_3000DFSX,\nFWB_XENAWS_ONDEMAND, FWB_600D, FWB_AZURE_ONDEMAND,\nFWB_100E, FWB_4000E, FWB_VM_PAYG,\nFWB_100D, FWB_XENOPEN, FWB_600F,\nFWB_4000F, FWB_3000D, FWB_GCP_ONDEMAND,\nFWB_400C, FWB_GCP, FWB_HYPERV",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-09-19T17:32:31.000Z",
+          "wordCount": 3272,
+          "title": "FortiWeb 7.2.5",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 18 Sep 2023 18:19:01 GMT",
           "author": null,
