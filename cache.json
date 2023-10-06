@@ -1,10 +1,257 @@
 {
   "sources": [
     {
+      "title": "UniFi WiFi/Switch/LTE | Releases | Ubiquiti Community",
+      "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
+      "siteUrl": "https://community.ui.com",
+      "articles": [
+        {
+          "id": "04ec19c4-25f0-4391-8f27-6d9666496a8c",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Access Point 6.6.36 adds 6GHz support to several new countries that have adopted the WiFi6E standard. It's only available for Gen6 Access Points.\nThis release has been promoted to Stable/Official for the models listed below, it's still a Release Candidate for the others.\n\nU6-Mesh\nU6-IW\nU6-Enterprise-IW\n\nImprovements\n\nAdded 6GHz support to several new countries that have adopted the WiFi6E standard.\nFixed incorrect channels being used in outdoor mode.\nImproved firmware update resiliency.\nImproved overall range by enabling dynamic bandwidth support.\nImproved overall stability by fixing kernel crashes.\nImproved wireless uplink stability.\nImproved range by increasing maximum TX power in FCC countries.\nFixed band steering occasionally not steering dual-band clients from 2.4GHz to…",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-36/04ec19c4-25f0-4391-8f27-6d9666496a8c",
+          "publishedOn": "2023-09-23T17:15:01.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 6.6.36",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2286.html",
+          "author": null,
+          "description": "CVE-2014-1932, CVE-2014-1933, CVE-2014-3007",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2286.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 322,
+          "title": "ALAS-2023-2286 (important): python-pillow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2285.html",
+          "author": null,
+          "description": "CVE-2019-19450",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2285.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 213,
+          "title": "ALAS-2023-2285 (important): python-reportlab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2284.html",
+          "author": null,
+          "description": "CVE-2020-18831",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2284.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 207,
+          "title": "ALAS-2023-2284 (medium): exiv2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2283.html",
+          "author": null,
+          "description": "CVE-2020-22219",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2283.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 200,
+          "title": "ALAS-2023-2283 (medium): flac",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2282.html",
+          "author": null,
+          "description": "CVE-2020-23804",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2282.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 219,
+          "title": "ALAS-2023-2282 (medium): poppler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2281.html",
+          "author": null,
+          "description": "CVE-2020-36023, CVE-2020-36024, CVE-2022-38349",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2281.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 289,
+          "title": "ALAS-2023-2281 (medium): poppler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2280.html",
+          "author": null,
+          "description": "CVE-2022-23990, CVE-2022-25313",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2280.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 224,
+          "title": "ALAS-2023-2280 (medium): expat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2279.html",
+          "author": null,
+          "description": "CVE-2022-36227",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2279.html",
+          "publishedOn": "2023-09-27T22:49:00.000Z",
+          "wordCount": 222,
+          "title": "ALAS-2023-2279 (low): libarchive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2278.html",
+          "author": null,
+          "description": "CVE-2022-40433",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2278.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 237,
+          "title": "ALAS-2023-2278 (important): java-1.8.0-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2277.html",
+          "author": null,
+          "description": "CVE-2020-18780, CVE-2020-21528, CVE-2022-46457",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2277.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 250,
+          "title": "ALAS-2023-2277 (medium): nasm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2276.html",
+          "author": null,
+          "description": "CVE-2023-1993",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2276.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 201,
+          "title": "ALAS-2023-2276 (medium): wireshark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2275.html",
+          "author": null,
+          "description": "CVE-2023-28736, CVE-2023-28938",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2275.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 225,
+          "title": "ALAS-2023-2275 (medium): mdadm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2274.html",
+          "author": null,
+          "description": "CVE-2023-25433, CVE-2023-30774",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2274.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 226,
+          "title": "ALAS-2023-2274 (medium): libtiff",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2273.html",
+          "author": null,
+          "description": "CVE-2023-3341",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2273.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 325,
+          "title": "ALAS-2023-2273 (important): bind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2272.html",
+          "author": null,
+          "description": "CVE-2023-34151",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2272.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 209,
+          "title": "ALAS-2023-2272 (medium): ImageMagick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2271.html",
+          "author": null,
+          "description": "CVE-2023-38039",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2271.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 198,
+          "title": "ALAS-2023-2271 (important): curl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2270.html",
+          "author": null,
+          "description": "CVE-2023-28198, CVE-2023-32370, CVE-2023-32393, CVE-2023-38133, CVE-2023-38572, CVE-2023-38592, CVE-2023-38594, CVE-2023-38595, CVE-2023-38597, CVE-2023-38599, CVE-2023-38600, CVE-2023-38611, CVE-2023-40397",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2270.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 659,
+          "title": "ALAS-2023-2270 (important): webkitgtk4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2269.html",
+          "author": null,
+          "description": "CVE-2023-39350, CVE-2023-39351, CVE-2023-39353, CVE-2023-39354, CVE-2023-39356, CVE-2023-40181, CVE-2023-40186, CVE-2023-40188, CVE-2023-40567, CVE-2023-40569, CVE-2023-40589",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2269.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 878,
+          "title": "ALAS-2023-2269 (medium): freerdp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2268.html",
+          "author": null,
+          "description": "CVE-2023-4206, CVE-2023-4208",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2268.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 366,
+          "title": "ALAS-2023-2268 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2267.html",
+          "author": null,
+          "description": "CVE-2023-4511, CVE-2023-4513",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2267.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 230,
+          "title": "ALAS-2023-2267 (medium): wireshark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2266.html",
+          "author": null,
+          "description": "CVE-2021-3236, CVE-2023-4733, CVE-2023-4734, CVE-2023-4735, CVE-2023-4738, CVE-2023-4750, CVE-2023-4751, CVE-2023-4752, CVE-2023-4781",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2266.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 311,
+          "title": "ALAS-2023-2266 (important): vim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2265.html",
+          "author": null,
+          "description": "CVE-2023-4874, CVE-2023-4875",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2265.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 202,
+          "title": "ALAS-2023-2265 (medium): mutt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2264.html",
+          "author": null,
+          "description": "CVE-2023-3772, CVE-2023-4207, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2264.html",
+          "publishedOn": "2023-09-27T22:48:00.000Z",
+          "wordCount": 523,
+          "title": "ALAS-2023-2264 (important): kernel",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASMEMCACHED1.5-2023-001.html",
           "author": null,
@@ -820,46 +1067,6 @@
           "publishedOn": "2023-09-06T18:53:16.000Z",
           "wordCount": 3272,
           "title": "FortiADCManager 7.4.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 5 Sep 2023 23:04:37 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 5.0.1 B0026 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-09-05T23:04:37.000Z",
-          "wordCount": 3272,
-          "title": "FortiSIEMWindowsAgent 5.0.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 5 Sep 2023 22:25:28 GMT",
-          "author": null,
-          "description": "FortiSIEM 6.4.3 B1421 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-09-05T22:25:28.000Z",
-          "wordCount": 3272,
-          "title": "FortiSIEM 6.4.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 5 Sep 2023 21:25:59 GMT",
-          "author": null,
-          "description": "FortiSIEM 6.5.2 B1528 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-09-05T21:25:59.000Z",
-          "wordCount": 3272,
-          "title": "FortiSIEM 6.5.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 5 Sep 2023 19:58:41 GMT",
-          "author": null,
-          "description": "FortiSIEM 6.6.4 B1667 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-09-05T19:58:41.000Z",
-          "wordCount": 3272,
-          "title": "FortiSIEM 6.6.4",
           "imageUrl": null
         }
       ]
