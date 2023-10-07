@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T00:34:37.788Z</id>
+    <id>urn:2023-10-07T00:34:10.769Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:34:37.788Z</updated>
+    <updated>2023-10-07T00:34:10.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSOAR 7.4.2]]></title>
+        <id>Fri, 6 Oct 2023 16:40:11 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-10-06T16:40:11.000Z</updated>
+        <summary type="html"><![CDATA[FortiSOAR 7.4.2 B3279 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiClientEMS 7.2.2]]></title>
         <id>Wed, 4 Oct 2023 21:26:18 GMT</id>
@@ -342,6 +352,86 @@ FWF_60E_DSL, FGT_201F, FGT_201E,
 FGT_80F, FGT_ARM64_AZURE, FGT_2200E]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2023-040 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-040.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-040.html"/>
+        <updated>2023-09-27T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-42753, CVE-2023-4623, CVE-2023-4921]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2023-027 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-027.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-027.html"/>
+        <updated>2023-09-27T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-4623, CVE-2023-4921]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2023-053 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-053.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-053.html"/>
+        <updated>2023-09-27T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-3772, CVE-2023-42753, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2023-054 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-054.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-054.html"/>
+        <updated>2023-09-27T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-4206, CVE-2023-4207, CVE-2023-4208]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASFIREFOX-2023-014 (important): firefox]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASFIREFOX-2023-014.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASFIREFOX-2023-014.html"/>
+        <updated>2023-09-27T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-4573, CVE-2023-4574, CVE-2023-4575, CVE-2023-4581, CVE-2023-4584]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASMATE-DESKTOP1.X-2023-003 (medium): djvulibre]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2023-003.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2023-003.html"/>
+        <updated>2023-09-27T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-46310]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASOPENSSL-SNAPSAFE-2023-003 (medium): openssl-snapsafe]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2023-003.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2023-003.html"/>
+        <updated>2023-09-27T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-3446, CVE-2023-3817]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASSQUID4-2023-010 (important): squid]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASSQUID4-2023-010.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASSQUID4-2023-010.html"/>
+        <updated>2023-09-27T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2019-12520, CVE-2019-12524]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -1179,118 +1269,6 @@ FTS_VM_ALI_BYOL, FTS_VM]]></summary>
         <summary type="html"><![CDATA[FortiAnalyzer-BigData 7.2.5 B0630 and release notes are available for download from the Support site : https://support.fortinet.com
 This concerns the following models:
 FAZBD_Bootloader, FAZBD_VM64]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASEMR-PUPPET-2023-001 (medium): emr-puppet]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASEMR-PUPPET-2023-001.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASEMR-PUPPET-2023-001.html"/>
-        <updated>2023-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2021-27025]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPHP8.0-2023-009 (important): php]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPHP8.0-2023-009.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPHP8.0-2023-009.html"/>
-        <updated>2023-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-3247, CVE-2023-3823, CVE-2023-3824]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASHAPROXY2-2023-007 (medium): haproxy2]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASHAPROXY2-2023-007.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASHAPROXY2-2023-007.html"/>
-        <updated>2023-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-40225]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPHP8.1-2023-004 (important): php]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPHP8.1-2023-004.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPHP8.1-2023-004.html"/>
-        <updated>2023-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-3247, CVE-2023-3823, CVE-2023-3824]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPHP8.2-2023-002 (important): php]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPHP8.2-2023-002.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPHP8.2-2023-002.html"/>
-        <updated>2023-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-3247, CVE-2023-3823, CVE-2023-3824]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPYTHON3.8-2023-010 (important): python38]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2023-010.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2023-010.html"/>
-        <updated>2023-09-06T18:59:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-40217]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPOSTGRESQL12-2023-005 (important): postgresql]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2023-005.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2023-005.html"/>
-        <updated>2023-09-06T18:59:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-39417]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPOSTGRESQL11-2023-004 (important): postgresql]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL11-2023-004.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL11-2023-004.html"/>
-        <updated>2023-09-06T18:59:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-39417]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPOSTGRESQL13-2023-004 (important): postgresql]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2023-004.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2023-004.html"/>
-        <updated>2023-09-06T18:59:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-39417]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPOSTGRESQL14-2023-003 (important): postgresql]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2023-003.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2023-003.html"/>
-        <updated>2023-09-06T18:59:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-39417]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiADCManager 7.4.0]]></title>
-        <id>Wed, 6 Sep 2023 18:53:16 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-09-06T18:53:16.000Z</updated>
-        <summary type="html"><![CDATA[FortiADCManager 7.4.0 B0061 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FADCManager]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>

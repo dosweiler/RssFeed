@@ -23,6 +23,86 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-040.html",
+          "author": null,
+          "description": "CVE-2023-42753, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-040.html",
+          "publishedOn": "2023-09-27T22:59:00.000Z",
+          "wordCount": 370,
+          "title": "ALASKERNEL-5.10-2023-040 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-027.html",
+          "author": null,
+          "description": "CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-027.html",
+          "publishedOn": "2023-09-27T22:59:00.000Z",
+          "wordCount": 327,
+          "title": "ALASKERNEL-5.15-2023-027 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-053.html",
+          "author": null,
+          "description": "CVE-2023-3772, CVE-2023-42753, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-053.html",
+          "publishedOn": "2023-09-27T22:59:00.000Z",
+          "wordCount": 480,
+          "title": "ALASKERNEL-5.4-2023-053 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-054.html",
+          "author": null,
+          "description": "CVE-2023-4206, CVE-2023-4207, CVE-2023-4208",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-054.html",
+          "publishedOn": "2023-09-27T22:59:00.000Z",
+          "wordCount": 458,
+          "title": "ALASKERNEL-5.4-2023-054 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2023-014.html",
+          "author": null,
+          "description": "CVE-2023-4573, CVE-2023-4574, CVE-2023-4575, CVE-2023-4581, CVE-2023-4584",
+          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2023-014.html",
+          "publishedOn": "2023-09-27T22:59:00.000Z",
+          "wordCount": 206,
+          "title": "ALASFIREFOX-2023-014 (important): firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2023-003.html",
+          "author": null,
+          "description": "CVE-2021-46310",
+          "link": "https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2023-003.html",
+          "publishedOn": "2023-09-27T22:58:00.000Z",
+          "wordCount": 198,
+          "title": "ALASMATE-DESKTOP1.X-2023-003 (medium): djvulibre",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2023-003.html",
+          "author": null,
+          "description": "CVE-2023-3446, CVE-2023-3817",
+          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2023-003.html",
+          "publishedOn": "2023-09-27T22:58:00.000Z",
+          "wordCount": 608,
+          "title": "ALASOPENSSL-SNAPSAFE-2023-003 (medium): openssl-snapsafe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASSQUID4-2023-010.html",
+          "author": null,
+          "description": "CVE-2019-12520, CVE-2019-12524",
+          "link": "https://alas.aws.amazon.com/AL2/ALASSQUID4-2023-010.html",
+          "publishedOn": "2023-09-27T22:58:00.000Z",
+          "wordCount": 424,
+          "title": "ALASSQUID4-2023-010 (important): squid",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2286.html",
           "author": null,
           "description": "CVE-2014-1932, CVE-2014-1933, CVE-2014-3007",
@@ -641,106 +721,6 @@
           "wordCount": 608,
           "title": "ALAS-2023-2246 (medium): openssl",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASEMR-PUPPET-2023-001.html",
-          "author": null,
-          "description": "CVE-2021-27025",
-          "link": "https://alas.aws.amazon.com/AL2/ALASEMR-PUPPET-2023-001.html",
-          "publishedOn": "2023-09-06T19:00:00.000Z",
-          "wordCount": 196,
-          "title": "ALASEMR-PUPPET-2023-001 (medium): emr-puppet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.0-2023-009.html",
-          "author": null,
-          "description": "CVE-2023-3247, CVE-2023-3823, CVE-2023-3824",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.0-2023-009.html",
-          "publishedOn": "2023-09-06T19:00:00.000Z",
-          "wordCount": 426,
-          "title": "ALASPHP8.0-2023-009 (important): php",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASHAPROXY2-2023-007.html",
-          "author": null,
-          "description": "CVE-2023-40225",
-          "link": "https://alas.aws.amazon.com/AL2/ALASHAPROXY2-2023-007.html",
-          "publishedOn": "2023-09-06T19:00:00.000Z",
-          "wordCount": 221,
-          "title": "ALASHAPROXY2-2023-007 (medium): haproxy2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.1-2023-004.html",
-          "author": null,
-          "description": "CVE-2023-3247, CVE-2023-3823, CVE-2023-3824",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.1-2023-004.html",
-          "publishedOn": "2023-09-06T19:00:00.000Z",
-          "wordCount": 426,
-          "title": "ALASPHP8.1-2023-004 (important): php",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2023-002.html",
-          "author": null,
-          "description": "CVE-2023-3247, CVE-2023-3823, CVE-2023-3824",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2023-002.html",
-          "publishedOn": "2023-09-06T19:00:00.000Z",
-          "wordCount": 426,
-          "title": "ALASPHP8.2-2023-002 (important): php",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2023-010.html",
-          "author": null,
-          "description": "CVE-2023-40217",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2023-010.html",
-          "publishedOn": "2023-09-06T18:59:00.000Z",
-          "wordCount": 326,
-          "title": "ALASPYTHON3.8-2023-010 (important): python38",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2023-005.html",
-          "author": null,
-          "description": "CVE-2023-39417",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2023-005.html",
-          "publishedOn": "2023-09-06T18:59:00.000Z",
-          "wordCount": 265,
-          "title": "ALASPOSTGRESQL12-2023-005 (important): postgresql",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL11-2023-004.html",
-          "author": null,
-          "description": "CVE-2023-39417",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL11-2023-004.html",
-          "publishedOn": "2023-09-06T18:59:00.000Z",
-          "wordCount": 262,
-          "title": "ALASPOSTGRESQL11-2023-004 (important): postgresql",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2023-004.html",
-          "author": null,
-          "description": "CVE-2023-39417",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2023-004.html",
-          "publishedOn": "2023-09-06T18:59:00.000Z",
-          "wordCount": 252,
-          "title": "ALASPOSTGRESQL13-2023-004 (important): postgresql",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2023-003.html",
-          "author": null,
-          "description": "CVE-2023-39417",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2023-003.html",
-          "publishedOn": "2023-09-06T18:59:00.000Z",
-          "wordCount": 248,
-          "title": "ALASPOSTGRESQL14-2023-003 (important): postgresql",
-          "imageUrl": null
         }
       ]
     },
@@ -749,6 +729,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 6 Oct 2023 16:40:11 GMT",
+          "author": null,
+          "description": "FortiSOAR 7.4.2 B3279 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-10-06T16:40:11.000Z",
+          "wordCount": 3272,
+          "title": "FortiSOAR 7.4.2",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 4 Oct 2023 21:26:18 GMT",
           "author": null,
@@ -1057,16 +1047,6 @@
           "publishedOn": "2023-09-07T22:44:32.000Z",
           "wordCount": 3272,
           "title": "FortiAnalyzer-BigData 7.2.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 6 Sep 2023 18:53:16 GMT",
-          "author": null,
-          "description": "FortiADCManager 7.4.0 B0061 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFADCManager",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-09-06T18:53:16.000Z",
-          "wordCount": 3272,
-          "title": "FortiADCManager 7.4.0",
           "imageUrl": null
         }
       ]
