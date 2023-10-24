@@ -4,18 +4,7 @@
       "title": "UniFi WiFi/Switch/LTE | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": [
-        {
-          "id": "04ec19c4-25f0-4391-8f27-6d9666496a8c",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.6.36 adds 6GHz support to several new countries that have adopted the WiFi6E standard. It's only available for Gen6 Access Points.\nThis release has been promoted to Stable/Official for the models listed below, it's still a Release Candidate for the others.\n\nU6-Mesh\nU6-IW\nU6-Enterprise-IW\n\nImprovements\n\nAdded 6GHz support to several new countries that have adopted the WiFi6E standard.\nFixed incorrect channels being used in outdoor mode.\nImproved firmware update resiliency.\nImproved overall range by enabling dynamic bandwidth support.\nImproved overall stability by fixing kernel crashes.\nImproved wireless uplink stability.\nImproved range by increasing maximum TX power in FCC countries.\nFixed band steering occasionally not steering dual-band clients from 2.4GHz to…",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-36/04ec19c4-25f0-4391-8f27-6d9666496a8c",
-          "publishedOn": "2023-09-23T17:15:01.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.6.36",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
@@ -829,6 +818,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 23 Oct 2023 20:05:04 GMT",
+          "author": null,
+          "description": "FortiExtender 7.4.2 B0228 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFEV_211F_AM, FEXT_202F_EA, FEXT_201E,\nFEXT_211E, FEXT_200F, FEXT_311F,\nFEXT_202F_AM, FEV_211F, FEXT_201F_EA,\nFEXT_511F, FEXT_101F_AM, FEXT_101F_EA,\nFEXT_212F, FEXT_201F_AM",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-10-23T20:05:04.000Z",
+          "wordCount": 3272,
+          "title": "FortiExtender 7.4.2",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 20 Oct 2023 23:14:20 GMT",
           "author": null,
