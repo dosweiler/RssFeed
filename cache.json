@@ -33,6 +33,166 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-034.html",
+          "author": null,
+          "description": "CVE-2023-39325",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2023-034.html",
+          "publishedOn": "2023-10-31T00:18:00.000Z",
+          "wordCount": 199,
+          "title": "ALASDOCKER-2023-034 (important): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-042.html",
+          "author": null,
+          "description": "CVE-2023-31085, CVE-2023-34324, CVE-2023-4244, CVE-2023-42754, CVE-2023-4881",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-042.html",
+          "publishedOn": "2023-10-31T00:17:00.000Z",
+          "wordCount": 369,
+          "title": "ALASKERNEL-5.10-2023-042 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-029.html",
+          "author": null,
+          "description": "CVE-2023-34324",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-029.html",
+          "publishedOn": "2023-10-31T00:17:00.000Z",
+          "wordCount": 217,
+          "title": "ALASKERNEL-5.15-2023-029 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2023-019.html",
+          "author": null,
+          "description": "CVE-2023-24538, CVE-2023-24540, CVE-2023-39325",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2023-019.html",
+          "publishedOn": "2023-10-31T00:17:00.000Z",
+          "wordCount": 304,
+          "title": "ALASECS-2023-019 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2023-018.html",
+          "author": null,
+          "description": "CVE-2023-39325",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2023-018.html",
+          "publishedOn": "2023-10-31T00:17:00.000Z",
+          "wordCount": 199,
+          "title": "ALASECS-2023-018 (important): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2023-017.html",
+          "author": null,
+          "description": "CVE-2023-39325",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2023-017.html",
+          "publishedOn": "2023-10-31T00:17:00.000Z",
+          "wordCount": 201,
+          "title": "ALASECS-2023-017 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2023-016.html",
+          "author": null,
+          "description": "CVE-2023-38546, CVE-2023-39323, CVE-2023-44487",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2023-016.html",
+          "publishedOn": "2023-10-31T00:17:00.000Z",
+          "wordCount": 355,
+          "title": "ALASECS-2023-016 (important): ecs-service-connect-agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-055.html",
+          "author": null,
+          "description": "CVE-2023-31085, CVE-2023-34324, CVE-2023-42754",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2023-055.html",
+          "publishedOn": "2023-10-31T00:16:00.000Z",
+          "wordCount": 255,
+          "title": "ALASKERNEL-5.4-2023-055 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-155.html",
+          "author": null,
+          "description": "CVE-2023-3777, CVE-2023-4004, CVE-2023-4147, CVE-2023-4206, CVE-2023-4207, CVE-2023-4208, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-155.html",
+          "publishedOn": "2023-10-31T00:16:00.000Z",
+          "wordCount": 754,
+          "title": "ALASLIVEPATCH-2023-155 (important): kernel-livepatch-5.10.186-179.751",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-154.html",
+          "author": null,
+          "description": "CVE-2023-4206, CVE-2023-4207, CVE-2023-4208, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-154.html",
+          "publishedOn": "2023-10-31T00:16:00.000Z",
+          "wordCount": 639,
+          "title": "ALASLIVEPATCH-2023-154 (important): kernel-livepatch-4.14.320-243.544",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-153.html",
+          "author": null,
+          "description": "CVE-2023-4207, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-153.html",
+          "publishedOn": "2023-10-31T00:15:00.000Z",
+          "wordCount": 461,
+          "title": "ALASLIVEPATCH-2023-153 (important): kernel-livepatch-4.14.322-244.539",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-152.html",
+          "author": null,
+          "description": "CVE-2023-4207, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-152.html",
+          "publishedOn": "2023-10-31T00:15:00.000Z",
+          "wordCount": 461,
+          "title": "ALASLIVEPATCH-2023-152 (important): kernel-livepatch-4.14.322-244.536",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-151.html",
+          "author": null,
+          "description": "CVE-2023-4207, CVE-2023-4622, CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-151.html",
+          "publishedOn": "2023-10-31T00:15:00.000Z",
+          "wordCount": 461,
+          "title": "ALASLIVEPATCH-2023-151 (important): kernel-livepatch-4.14.322-246.539",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-150.html",
+          "author": null,
+          "description": "CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-150.html",
+          "publishedOn": "2023-10-31T00:15:00.000Z",
+          "wordCount": 308,
+          "title": "ALASLIVEPATCH-2023-150 (important): kernel-livepatch-5.10.192-182.736",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-033.html",
+          "author": null,
+          "description": "CVE-2023-39325",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2023-033.html",
+          "publishedOn": "2023-10-31T00:14:00.000Z",
+          "wordCount": 199,
+          "title": "ALASNITRO-ENCLAVES-2023-033 (important): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-149.html",
+          "author": null,
+          "description": "CVE-2023-4623, CVE-2023-4921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-149.html",
+          "publishedOn": "2023-10-31T00:14:00.000Z",
+          "wordCount": 308,
+          "title": "ALASLIVEPATCH-2023-149 (important): kernel-livepatch-5.10.192-183.736",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2318.html",
           "author": null,
           "description": "CVE-2019-12524, CVE-2019-12529, CVE-2019-18677, CVE-2019-18678, CVE-2019-18860, CVE-2021-28116",
@@ -408,7 +568,7 @@
           "description": "CVE-2023-40474, CVE-2023-40475, CVE-2023-40476",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2298.html",
           "publishedOn": "2023-10-12T15:09:00.000Z",
-          "wordCount": 232,
+          "wordCount": 229,
           "title": "ALAS-2023-2298 (important): gstreamer1-plugins-bad-free",
           "imageUrl": null
         },
@@ -529,6 +689,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 1 Nov 2023 17:56:34 GMT",
+          "author": null,
+          "description": "FortiWebManager 7.4.0 B0210 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFWM_XENAWS, FWM_VM, FWM_KVM,\nFWM_AZURE",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-11-01T17:56:34.000Z",
+          "wordCount": 3272,
+          "title": "FortiWebManager 7.4.0",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 30 Oct 2023 22:28:19 GMT",
           "author": null,
