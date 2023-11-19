@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-18T00:36:03.275Z</id>
+    <id>urn:2023-11-19T00:39:29.204Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T00:36:03.275Z</updated>
+    <updated>2023-11-19T00:39:29.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -110,6 +110,16 @@ FSR_124D]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASECS-2023-028 (important): docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2023-028.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2023-028.html"/>
+        <updated>2023-11-09T20:27:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-41089, CVE-2021-41091, CVE-2021-41092]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASECS-2023-027 (medium): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASECS-2023-027.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASECS-2023-027.html"/>
@@ -165,6 +175,16 @@ FSR_124D]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASECS-2023-022.html"/>
         <updated>2023-11-09T20:27:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-27664]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASECS-2023-020 (important): ecs-init]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2023-020.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2023-020.html"/>
+        <updated>2023-11-09T20:27:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-39325]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1060,31 +1080,6 @@ FEXT_212F, FEXT_201F_AM]]></summary>
         <summary type="html"><![CDATA[FortiSwitchManager 7.2.3 B0125 and release notes are available for download from the Support site : https://support.fortinet.com
 This concerns the following models:
 FSWM_VM64_VMWARE, FSWM_VM64_HV, FSWM_VM64_KVM]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAP-W2 7.2.3]]></title>
-        <id>Thu, 19 Oct 2023 21:21:18 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-10-19T21:21:18.000Z</updated>
-        <summary type="html"><![CDATA[FortiAP-W2 7.2.3 B0337 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FAP_223E, FAP_224E, FAP_221E,
-FAP_222E, FAP_231E]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSwitchManager 7.0.3]]></title>
-        <id>Thu, 19 Oct 2023 18:03:43 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-10-19T18:03:43.000Z</updated>
-        <summary type="html"><![CDATA[FortiSwitchManager 7.0.3 B0041 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FSWM_VM64_HV, FSWM_VM64_KVM, FSWM_VM64_VMWARE]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
