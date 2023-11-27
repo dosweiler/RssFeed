@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-26T00:39:20.511Z</id>
+    <id>urn:2023-11-27T00:37:24.762Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T00:39:20.511Z</updated>
+    <updated>2023-11-27T00:37:24.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -885,57 +885,6 @@ FNAC_M_550F, FNAC_VHD, FNAC_AZU,
 FNAC_KVM, FNAC_CA_600F, FNAC_CA_700F]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiDDoS 5.7.2]]></title>
-        <id>Fri, 27 Oct 2023 18:50:52 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2023-10-27T18:50:52.000Z</updated>
-        <summary type="html"><![CDATA[FortiDDoS 5.7.2 B0381 and release notes are available for download from the Support site : https://support.fortinet.com
-This concerns the following models:
-FDD_CM_XENOPEN, FDD_2000E, FDD_1000B,
-FDD_900B, FDD_1500E, FDD_800B,
-FDD_CM_VMWARE, FDD_400B, FDD_CM_HYPERV,
-FDD_2000B, FDD_1200B, FDD_CM_XENSERVER,
-FDD_CM_KVM, FDD_200B, FDD_600B]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point 6.6.46]]></title>
-        <id>73f521f7-67ba-4f14-9511-177d5ee2110c</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-6-6-46/73f521f7-67ba-4f14-9511-177d5ee2110c"/>
-        <updated>2023-10-27T17:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-UniFi Access Point 6.6.46 includes the improvements and bugfixes listed below and is only for Gen6 releases.
-Improvements
-
-Improved overall stability by fixing kernel crashes.
-Improved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.
-
-Bugfixes
-
-Fixed PPSK VLAN not working when the same VLAN ID is being used for another WLAN.
-Fixed PPSK VLAN assignment not working after roaming between APs.
-[Gen6] Fixed clients getting kicked by the AP occasionally, leading to poor connectivity. This was introduced in 6.6.21.
-[U6-IW/U6-Enterprise-IW] Fixed a large number of clients being reported as connected to the 'PoE In + Data' port when meshing is disabled in System Settings.
-
-Additional information
-
-Refer to the Help Center article here to determine the UniFi Access Point generation.
-Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
-If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
-
-
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version]]></summary>
-        <author>
-            <name>UI-Glenn</name>
         </author>
     </entry>
 </feed>

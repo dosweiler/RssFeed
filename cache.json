@@ -4,18 +4,7 @@
       "title": "UniFi WiFi/Switch/LTE | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": [
-        {
-          "id": "73f521f7-67ba-4f14-9511-177d5ee2110c",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.6.46 includes the improvements and bugfixes listed below and is only for Gen6 releases.\nImprovements\n\nImproved overall stability by fixing kernel crashes.\nImproved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.\n\nBugfixes\n\nFixed PPSK VLAN not working when the same VLAN ID is being used for another WLAN.\nFixed PPSK VLAN assignment not working after roaming between APs.\n[Gen6] Fixed clients getting kicked by the AP occasionally, leading to poor connectivity. This was introduced in 6.6.21.\n[U6-IW/U6-Enterprise-IW] Fixed a large number of clients being reported as connected to the 'PoE In + Data' port when meshing is disabled in System Settings.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-46/73f521f7-67ba-4f14-9511-177d5ee2110c",
-          "publishedOn": "2023-10-27T17:32:59.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.6.46",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
@@ -807,16 +796,6 @@
           "publishedOn": "2023-10-30T21:50:50.000Z",
           "wordCount": 3272,
           "title": "FortiNAC-F 7.2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 27 Oct 2023 18:50:52 GMT",
-          "author": null,
-          "description": "FortiDDoS 5.7.2 B0381 and release notes are available for download from the Support site : https://support.fortinet.com\nThis concerns the following models:\nFDD_CM_XENOPEN, FDD_2000E, FDD_1000B,\nFDD_900B, FDD_1500E, FDD_800B,\nFDD_CM_VMWARE, FDD_400B, FDD_CM_HYPERV,\nFDD_2000B, FDD_1200B, FDD_CM_XENSERVER,\nFDD_CM_KVM, FDD_200B, FDD_600B",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-10-27T18:50:52.000Z",
-          "wordCount": 3272,
-          "title": "FortiDDoS 5.7.2",
           "imageUrl": null
         }
       ]
