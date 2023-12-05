@@ -12,6 +12,76 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-031.html",
+          "author": null,
+          "description": "CVE-2023-6111",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-031.html",
+          "publishedOn": "2023-11-29T22:47:00.000Z",
+          "wordCount": 287,
+          "title": "ALASKERNEL-5.15-2023-031 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-160.html",
+          "author": null,
+          "description": "CVE-2023-45871, CVE-2023-5197",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-160.html",
+          "publishedOn": "2023-11-29T22:47:00.000Z",
+          "wordCount": 247,
+          "title": "ALASLIVEPATCH-2023-160 (important): kernel-livepatch-5.10.192-182.736",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-159.html",
+          "author": null,
+          "description": "CVE-2023-45871, CVE-2023-5197",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-159.html",
+          "publishedOn": "2023-11-29T22:47:00.000Z",
+          "wordCount": 247,
+          "title": "ALASLIVEPATCH-2023-159 (important): kernel-livepatch-5.10.192-183.736",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-158.html",
+          "author": null,
+          "description": "CVE-2023-45871",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-158.html",
+          "publishedOn": "2023-11-29T22:47:00.000Z",
+          "wordCount": 204,
+          "title": "ALASLIVEPATCH-2023-158 (important): kernel-livepatch-4.14.322-244.539",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-157.html",
+          "author": null,
+          "description": "CVE-2023-45871",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-157.html",
+          "publishedOn": "2023-11-29T22:47:00.000Z",
+          "wordCount": 204,
+          "title": "ALASLIVEPATCH-2023-157 (important): kernel-livepatch-4.14.322-246.539",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-156.html",
+          "author": null,
+          "description": "CVE-2023-5197",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2023-156.html",
+          "publishedOn": "2023-11-29T22:47:00.000Z",
+          "wordCount": 215,
+          "title": "ALASLIVEPATCH-2023-156 (important): kernel-livepatch-5.10.196-185.743",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2023-004.html",
+          "author": null,
+          "description": "CVE-2023-5678",
+          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2023-004.html",
+          "publishedOn": "2023-11-29T22:46:00.000Z",
+          "wordCount": 440,
+          "title": "ALASOPENSSL-SNAPSAFE-2023-004 (medium): openssl-snapsafe",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2023-043.html",
           "author": null,
           "description": "CVE-2023-3397, CVE-2023-46813, CVE-2023-5717",
@@ -137,7 +207,7 @@
           "description": "CVE-2022-46884, CVE-2023-3482, CVE-2023-37203, CVE-2023-37204, CVE-2023-37205, CVE-2023-37206, CVE-2023-37209, CVE-2023-37210, CVE-2023-37212, CVE-2023-43669, CVE-2023-5168, CVE-2023-5169, CVE-2023-5171, CVE-2023-5176, CVE-2023-5721, CVE-2023-5724, CVE-2023-5725, CVE-2023-5728, CVE-2023-5730, CVE-2023-5732",
           "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2023-017.html",
           "publishedOn": "2023-11-09T20:27:00.000Z",
-          "wordCount": 1056,
+          "wordCount": 1054,
           "title": "ALASFIREFOX-2023-017 (important): firefox",
           "imageUrl": null
         },
@@ -277,7 +347,7 @@
           "description": "CVE-2023-5721, CVE-2023-5724, CVE-2023-5725, CVE-2023-5728, CVE-2023-5730, CVE-2023-5732",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2334.html",
           "publishedOn": "2023-11-09T19:19:00.000Z",
-          "wordCount": 409,
+          "wordCount": 407,
           "title": "ALAS-2023-2334 (important): thunderbird",
           "imageUrl": null
         }
@@ -288,6 +358,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 4 Dec 2023 17:59:36 GMT",
+          "author": null,
+          "description": "FortiWeb 7.2.7 B0391 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-12-04T17:59:36.000Z",
+          "wordCount": 3272,
+          "title": "FortiWeb 7.2.7",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 1 Dec 2023 21:56:35 GMT",
           "author": null,
