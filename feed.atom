@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T00:37:44.607Z</id>
+    <id>urn:2023-12-06T00:37:39.769Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T00:37:44.607Z</updated>
+    <updated>2023-12-06T00:37:39.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSandbox 4.4.3]]></title>
+        <id>Tue, 5 Dec 2023 21:13:34 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-12-05T21:13:34.000Z</updated>
+        <summary type="html"><![CDATA[FortiSandbox 4.4.3 B0380 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiSOAR 7.4.3]]></title>
+        <id>Tue, 5 Dec 2023 18:22:41 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-12-05T18:22:41.000Z</updated>
+        <summary type="html"><![CDATA[FortiSOAR 7.4.3 B3294 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Switch 6.6.53]]></title>
+        <id>e597ee90-0253-4a21-88d1-9d7a5869c70d</id>
+        <link href="https://community.ui.com/releases/UniFi-Switch-6-6-53/e597ee90-0253-4a21-88d1-9d7a5869c70d"/>
+        <updated>2023-12-05T16:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+UniFi Switch 6.6.53 includes the improvements and bugfixes listed below.
+Improvements
+
+Improved Touchscreen throughput accuracy.
+Updated the AR pattern on the Touchscreen.
+Eliminated client connectivity downtime when configuring NTP.
+Removed Voltage, Current, Temperature, and Power from SFP module info if they are not supported.
+[USW-Enterprise-24/48-PoE] Improved the throughput with U6-LR.
+[USW-Pro] Improved DHCP latency when DHCP Snooping is enabled without DHCP Guarding.
+[USW-PoE] Removed misleading Spanning Tree syslog alerts if STP is disabled.
+[USW-Aggregation] Improve link speed auto detect mechanism.
+[USW-Flex-XG] Disabled 802.3az Energy-Efficient Ethernet (EEE).
+Removed unnecessary dec_payload error messages in syslog.
+
+Bugfixes
+
+[USW-Pro-Aggregation] Fixed an issue where…]]></summary>
+        <author>
+            <name>UI-Glenn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiWeb 7.2.7]]></title>
         <id>Mon, 4 Dec 2023 17:59:36 GMT</id>
@@ -111,6 +158,306 @@
         <link href="https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2023-004.html"/>
         <updated>2023-11-29T22:46:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2023-5678]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2375 (important): php]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2375.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2375.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2017-9228, CVE-2017-9229, CVE-2022-31625, CVE-2023-0662]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2374 (medium): libarchive]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2374.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2374.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-31566]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2373 (low): binutils]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2373.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2373.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-32256]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2372 (medium): avahi]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2372.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2372.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-3468]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2371 (medium): glibc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2371.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2371.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-38604]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2370 (medium): mailman]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2370.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2370.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-43331, CVE-2021-43332]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2369 (low): gmp]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2369.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2369.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-43618]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2368 (low): uriparser]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2368.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2368.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-46142]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2367 (medium): samba]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2367.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2367.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-2127, CVE-2023-4091]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2366 (medium): net-snmp]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2366.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2366.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-24805, CVE-2022-24806, CVE-2022-24807, CVE-2022-24808, CVE-2022-24809, CVE-2022-24810]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2365 (medium): dovecot]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2365.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2365.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-30550]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2364 (low): libarchive]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2364.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2364.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-36227]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2363 (medium): jettison]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2363.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2363.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-40149]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2362 (medium): python-wheel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2362.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2362.html"/>
+        <updated>2023-11-29T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-40898]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2361 (low): advancecomp]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2361.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2361.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-2961]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2360 (medium): virtuoso-opensource]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2360.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2360.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-31610, CVE-2023-31616, CVE-2023-31619, CVE-2023-31620, CVE-2023-31630]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2359 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2359.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2359.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-3567]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2358 (medium): indent]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2358.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2358.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-40305]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2357 (low): gawk]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2357.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2357.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-4156]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2356 (medium): libX11]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2356.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2356.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-43786]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2355 (important): gstreamer1-plugins-bad-free]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2355.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2355.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-44429, CVE-2023-44446]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2354 (important): squid]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2354.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2354.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-46724, CVE-2023-46728]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2353 (low): vim]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2353.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2353.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-48231, CVE-2023-48232, CVE-2023-48233, CVE-2023-48234, CVE-2023-48235, CVE-2023-48236, CVE-2023-48237]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2352 (important): xorg-x11-server]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2352.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2352.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-5574]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2351 (medium): openssl11]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2351.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2351.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-5678]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2350 (medium): openssl]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2350.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2350.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-5678]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2349 (medium): python-pip]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2349.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2349.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-5752]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2348 (medium): wireshark]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2348.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2348.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-6175]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2347 (important): libtiff]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2347.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2347.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-6277]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2346 (important): compat-libtiff3]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2346.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2346.html"/>
+        <updated>2023-11-29T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-6277]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
