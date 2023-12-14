@@ -6,9 +6,29 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "43477273-75fa-4843-91ae-ef4031d4a839",
+          "author": "UI-Andre",
+          "description": "Overview\nIntroducing Pro Max Switching: High-performance, Layer 3 switching that combines 2.5 GbE and PoE++ output - ideal for pairing with 6 GHz capable WiFi access points, like the U6 Enterprise and U6 Enterprise In-Wall, for maximum performance.\nPro Max switches also feature Etherlighting™ - our latest innovation that makes cable management a dream. Easily identify port location, speed, and native VLAN with a glance, with additional modes coming soon.\n\nPro Max 48 PoE\n\nEtherlighting™ ports that illuminate to indicate port location, speed/link, and native VLAN/network\n(16) 2.5 GbE ports including (8) PoE+ and (8) PoE++\n(32) GbE ports including (24) PoE+ and (8) PoE++\n(4) 10G SFP+ ports\nDC power backup ready\n720W total PoE availability\n\nPro Max 24 PoE\n\nEtherlighting™ ports that illuminate to indicate port location, speed/link, and native VLAN/network\n(8) 2.5 GbE PoE++ ports\n(16) GbE ports including (8) PoE+ and (8) PoE++\n(2) 10G SFP+ ports\nDC power backup ready\n400W total PoE availability\n\nNow available on the UI Store.\nLearn more about Pro Max switching at our website.\nAdditional Pro Max switch models are coming soon.",
+          "link": "https://community.ui.com/releases/New-Hardware-Release-Pro-Max-Switching/43477273-75fa-4843-91ae-ef4031d4a839",
+          "publishedOn": "2023-12-13T19:55:05.000Z",
+          "wordCount": 6,
+          "title": "New Hardware Release: Pro Max Switching",
+          "imageUrl": null
+        },
+        {
+          "id": "42486d2c-92c8-4b13-bc37-da645fe62d9b",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Access Point 6.6.56 includes the bugfixes listed below and is only available for Gen6 Access Points.\nBugfixes\n\nFixed incorrect neighbor report BSSID Information in some cases.\n[Gen6] Fixed maximum transmit power on DFS channels in the United States and Band-B channels in United Kingdom being set to lower than permitted limits when the AP is configured to broadcast at Auto / High transmit power.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-56/42486d2c-92c8-4b13-bc37-da645fe62d9b",
+          "publishedOn": "2023-12-13T04:51:49.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 6.6.56",
+          "imageUrl": null
+        },
+        {
           "id": "ca8e90a5-cfa3-44b5-b56c-1889ea6dbaed",
           "author": "UI-mohit",
-          "description": "Overview\nUniFi Access Point 6.6.55 brings a multitude of improvements for our recent Private Pre-Shared Keys (PPSK) feature, as well as for overall stability, meshing, band steering, and more.\nIt is currently only available in the Release Candidate firmware update channel.\nImprovements\n\nImprove band steering logic to prevent client connection bouncing between 2.4 GHz and 5 GHz.\nImproved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.\nImproved wireless uplink candidate selection when multiple uplinks are available.\n[Gen4] Improved wireless adoption resiliency.\n[Gen6] Improved throughput on PPSK and RADIUS-assigned VLAN SSIDs for untagged clients when no VLAN-tagged clients are connected.\n[Gen4/Gen5]…",
+          "description": "Overview\nUniFi Access Point 6.6.55 brings a multitude of improvements for our recent Private Pre-Shared Keys (PPSK) feature, as well as for overall stability, meshing, band steering, and more.\nIt is currently only available in the Official firmware update channel for the models listed below, for all others, it's still a Release Candidate.\n\nGen2:\nAC-Lite, AC-M-Pro, AC-IW\nGen3:\nSHD, UAP-XG\nGen4:\nFlexHD, IW-HD\nGen5:\nU6+\n\nImprovements\n\nImprove band steering logic to prevent client connection bouncing between 2.4 GHz and 5 GHz.\nImproved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.\nImproved wireless uplink candidate selection when multiple uplinks are available.\n[Gen4] Improved wireless adoption resil…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-55/ca8e90a5-cfa3-44b5-b56c-1889ea6dbaed",
           "publishedOn": "2023-12-08T00:26:52.000Z",
           "wordCount": 6,
