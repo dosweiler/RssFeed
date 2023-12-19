@@ -38,7 +38,7 @@
         {
           "id": "ca8e90a5-cfa3-44b5-b56c-1889ea6dbaed",
           "author": "UI-mohit",
-          "description": "Overview\nUniFi Access Point 6.6.55 brings a multitude of improvements for our recent Private Pre-Shared Keys (PPSK) feature, as well as for overall stability, meshing, band steering, and more.\nIt is currently only available in the Official firmware update channel for the models listed below, for all others, it's still a Release Candidate.\n\nGen2:\nAC-Lite, AC-M-Pro, AC-IW\nGen3:\nSHD, UAP-XG\nGen4:\nFlexHD, IW-HD\nGen5:\nU6+\n\nImprovements\n\nImprove band steering logic to prevent client connection bouncing between 2.4 GHz and 5 GHz.\nImproved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.\nImproved wireless uplink candidate selection when multiple uplinks are available.\n[Gen4] Improved wireless adoption resil…",
+          "description": "Overview\nUniFi Access Point 6.6.55 brings a multitude of improvements for our recent Private Pre-Shared Keys (PPSK) feature, as well as for overall stability, meshing, band steering, and more.\nIt is currently available on the Official firmware update channel for all models except Gen6, as Gen6 APs have 6.6.56 available as RC.\nImprovements\n\nImprove band steering logic to prevent client connection bouncing between 2.4 GHz and 5 GHz.\nImproved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.\nImproved wireless uplink candidate selection when multiple uplinks are available.\n[Gen4] Improved wireless adoption resiliency.\n[Gen6] Improved throughput on PPSK and RADIUS-assigned VLAN SSIDs for untagged clients …",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-55/ca8e90a5-cfa3-44b5-b56c-1889ea6dbaed",
           "publishedOn": "2023-12-08T00:26:52.000Z",
           "wordCount": 6,
@@ -62,6 +62,16 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2376.html",
+          "author": null,
+          "description": "CVE-2023-48795",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2376.html",
+          "publishedOn": "2023-12-18T17:43:00.000Z",
+          "wordCount": 276,
+          "title": "ALAS-2023-2376 (medium): openssh",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2023-031.html",
           "author": null,
@@ -175,10 +185,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2023-2371.html",
           "author": null,
-          "description": "CVE-2021-38604",
+          "description": "CVE-2021-33574, CVE-2021-38604",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2023-2371.html",
           "publishedOn": "2023-11-29T22:20:00.000Z",
-          "wordCount": 829,
+          "wordCount": 886,
           "title": "ALAS-2023-2371 (medium): glibc",
           "imageUrl": null
         },
@@ -439,6 +449,36 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 18 Dec 2023 23:51:16 GMT",
+          "author": null,
+          "description": "FortiSIEMWindowsAgent 7.1.1 B0012 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-12-18T23:51:16.000Z",
+          "wordCount": 3272,
+          "title": "FortiSIEMWindowsAgent 7.1.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 18 Dec 2023 21:29:46 GMT",
+          "author": null,
+          "description": "FortiPortal 7.2.2 B1076 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-12-18T21:29:46.000Z",
+          "wordCount": 3272,
+          "title": "FortiPortal 7.2.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 18 Dec 2023 18:37:15 GMT",
+          "author": null,
+          "description": "FortiProxy 7.4.2 B0577 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2023-12-18T18:37:15.000Z",
+          "wordCount": 3272,
+          "title": "FortiProxy 7.4.2",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 15 Dec 2023 20:11:58 GMT",
           "author": null,

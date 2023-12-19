@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T00:38:10.149Z</id>
+    <id>urn:2023-12-19T00:37:18.445Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T00:38:10.149Z</updated>
+    <updated>2023-12-19T00:37:18.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSIEMWindowsAgent 7.1.1]]></title>
+        <id>Mon, 18 Dec 2023 23:51:16 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-12-18T23:51:16.000Z</updated>
+        <summary type="html"><![CDATA[FortiSIEMWindowsAgent 7.1.1 B0012 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiPortal 7.2.2]]></title>
+        <id>Mon, 18 Dec 2023 21:29:46 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-12-18T21:29:46.000Z</updated>
+        <summary type="html"><![CDATA[FortiPortal 7.2.2 B1076 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiProxy 7.4.2]]></title>
+        <id>Mon, 18 Dec 2023 18:37:15 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2023-12-18T18:37:15.000Z</updated>
+        <summary type="html"><![CDATA[FortiProxy 7.4.2 B0577 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2023-2376 (medium): openssh]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2376.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2376.html"/>
+        <updated>2023-12-18T17:43:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-48795]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiDDoS-F 7.0.0]]></title>
         <id>Fri, 15 Dec 2023 20:11:58 GMT</id>
@@ -196,23 +236,14 @@ UniFi Network application version]]></summary>
         <updated>2023-12-08T00:26:52.000Z</updated>
         <summary type="html"><![CDATA[Overview
 UniFi Access Point 6.6.55 brings a multitude of improvements for our recent Private Pre-Shared Keys (PPSK) feature, as well as for overall stability, meshing, band steering, and more.
-It is currently only available in the Official firmware update channel for the models listed below, for all others, it's still a Release Candidate.
-
-Gen2:
-AC-Lite, AC-M-Pro, AC-IW
-Gen3:
-SHD, UAP-XG
-Gen4:
-FlexHD, IW-HD
-Gen5:
-U6+
-
+It is currently available on the Official firmware update channel for all models except Gen6, as Gen6 APs have 6.6.56 available as RC.
 Improvements
 
 Improve band steering logic to prevent client connection bouncing between 2.4 GHz and 5 GHz.
 Improved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.
 Improved wireless uplink candidate selection when multiple uplinks are available.
-[Gen4] Improved wireless adoption resil…]]></summary>
+[Gen4] Improved wireless adoption resiliency.
+[Gen6] Improved throughput on PPSK and RADIUS-assigned VLAN SSIDs for untagged clients …]]></summary>
         <author>
             <name>UI-mohit</name>
         </author>
@@ -449,7 +480,7 @@ Bugfixes
         <id>https://alas.aws.amazon.com/AL2/ALAS-2023-2371.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS-2023-2371.html"/>
         <updated>2023-11-29T22:20:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2021-38604]]></summary>
+        <summary type="html"><![CDATA[CVE-2021-33574, CVE-2021-38604]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
