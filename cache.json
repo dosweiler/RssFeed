@@ -6,6 +6,26 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "5001abd3-93d7-4678-a75b-13869f044488",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Access Point 6.5.70 adds support for adopting the UK-Ultra via Wireless Meshing and is only avaialble for Gen6 APs.\nImprovements\n\nAdded support for adopting UK-Ultra via Wireless Adoption.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-70/5001abd3-93d7-4678-a75b-13869f044488",
+          "publishedOn": "2024-01-04T14:15:08.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 6.5.70",
+          "imageUrl": null
+        },
+        {
+          "id": "b6f60df4-cddc-46cd-9a69-8f20ea7f6daa",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Switch 7.0.33 improves SFP Module compatibility and is only available for the USW-Pro-Max switches.\nImprovements\n\nImproved SFP module compatibility.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Switch-7-0-33/b6f60df4-cddc-46cd-9a69-8f20ea7f6daa",
+          "publishedOn": "2024-01-04T12:39:03.000Z",
+          "wordCount": 6,
+          "title": "UniFi Switch 7.0.33",
+          "imageUrl": null
+        },
+        {
           "id": "46ee2fdf-7b50-4aac-ab71-0c8f4650bf3a",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 6.6.58 includes the bugfix listed below and is only available for Gen6 Access Points.\nBugfixes\n\nFixed APs configured to broadcast in Indonesia going offline after a firmware update with the AP LED flashing white constantly. This was introduced in 6.6.55. To recover affected devices, please either:\nChange the country to something else temporarily, reset the AP, update the firmware to 6.6.58 or newer (SSH command below), and change your country back to the original.\n\nupgrade https://dl.ui.com/unifi/firmware/UAP6MP/6.6.58.15201/BZ.ipq50xx_6.6.58+15201.231221.0006.bin\n\nPerform a TFTP recovery with 6.6.58 or 6.5.66 firmware.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -54,16 +74,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point 6.6.55",
           "imageUrl": null
-        },
-        {
-          "id": "e597ee90-0253-4a21-88d1-9d7a5869c70d",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Switch 6.6.53 includes the improvements and bugfixes listed below.\nImprovements\n\nImproved Touchscreen throughput accuracy.\nUpdated the AR pattern on the Touchscreen.\nEliminated client connectivity downtime when configuring NTP.\nRemoved Voltage, Current, Temperature, and Power from SFP module info if they are not supported.\n[USW-Enterprise-24/48-PoE] Improved the throughput with U6-LR.\n[USW-Pro] Improved DHCP latency when DHCP Snooping is enabled without DHCP Guarding.\n[USW-PoE] Removed misleading Spanning Tree syslog alerts if STP is disabled.\n[USW-Aggregation] Improve link speed auto detect mechanism.\n[USW-Flex-XG] Disabled 802.3az Energy-Efficient Ethernet (EEE).\nRemoved unnecessary dec_payload error messages in syslog.\n\nBugfixes\n\n[USW-Pro-Aggregation] Fixed an issue where…",
-          "link": "https://community.ui.com/releases/UniFi-Switch-6-6-53/e597ee90-0253-4a21-88d1-9d7a5869c70d",
-          "publishedOn": "2023-12-05T16:46:05.000Z",
-          "wordCount": 6,
-          "title": "UniFi Switch 6.6.53",
-          "imageUrl": null
         }
       ]
     },
@@ -89,6 +99,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 4 Jan 2024 22:05:21 GMT",
+          "author": null,
+          "description": "FortiAP-W2 7.4.2 B0596 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-01-04T22:05:21.000Z",
+          "wordCount": 3272,
+          "title": "FortiAP-W2 7.4.2",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 28 Dec 2023 22:23:17 GMT",
           "author": null,
@@ -357,26 +377,6 @@
           "publishedOn": "2023-12-07T18:16:10.000Z",
           "wordCount": 3272,
           "title": "FortiVoice 6.4.8",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 5 Dec 2023 21:13:34 GMT",
-          "author": null,
-          "description": "FortiSandbox 4.4.3 B0380 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-05T21:13:34.000Z",
-          "wordCount": 3272,
-          "title": "FortiSandbox 4.4.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 5 Dec 2023 18:22:41 GMT",
-          "author": null,
-          "description": "FortiSOAR 7.4.3 B3294 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-05T18:22:41.000Z",
-          "wordCount": 3272,
-          "title": "FortiSOAR 7.4.3",
           "imageUrl": null
         }
       ]
