@@ -64,16 +64,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point 6.6.56",
           "imageUrl": null
-        },
-        {
-          "id": "ca8e90a5-cfa3-44b5-b56c-1889ea6dbaed",
-          "author": "UI-mohit",
-          "description": "Overview\nUniFi Access Point 6.6.55 brings a multitude of improvements for our recent Private Pre-Shared Keys (PPSK) feature, as well as for overall stability, meshing, band steering, and more.\nIt is currently available on the Official firmware update channel for all models except Gen6, as Gen6 APs have 6.6.56 available as RC.\nImprovements\n\nImprove band steering logic to prevent client connection bouncing between 2.4 GHz and 5 GHz.\nImproved configuration resiliency to avoid APs going Offline after a firmware update/adoption in very rare cases, requiring a power cycle to recover.\nImproved wireless uplink candidate selection when multiple uplinks are available.\n[Gen4] Improved wireless adoption resiliency.\n[Gen6] Improved throughput on PPSK and RADIUS-assigned VLAN SSIDs for untagged clients …",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-55/ca8e90a5-cfa3-44b5-b56c-1889ea6dbaed",
-          "publishedOn": "2023-12-08T00:26:52.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.6.55",
-          "imageUrl": null
         }
       ]
     },
@@ -347,36 +337,6 @@
           "publishedOn": "2023-12-11T18:00:41.000Z",
           "wordCount": 3272,
           "title": "FortiProxy 7.2.8",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 7 Dec 2023 21:43:56 GMT",
-          "author": null,
-          "description": "FortiPortal 7.0.7 B0235 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-07T21:43:56.000Z",
-          "wordCount": 3272,
-          "title": "FortiPortal 7.0.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 7 Dec 2023 20:25:15 GMT",
-          "author": null,
-          "description": "FortiSwitch 7.4.2 B0801 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-07T20:25:15.000Z",
-          "wordCount": 3272,
-          "title": "FortiSwitch 7.4.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 7 Dec 2023 18:16:10 GMT",
-          "author": null,
-          "description": "FortiVoice 6.4.8 B0497 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-07T18:16:10.000Z",
-          "wordCount": 3272,
-          "title": "FortiVoice 6.4.8",
           "imageUrl": null
         }
       ]
