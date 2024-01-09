@@ -6,6 +6,26 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "c55b0d30-ceb3-49cc-9daf-f58a3a51051e",
+          "author": "UI-Glenn",
+          "description": "Overview\n* This release is the initial release for the U7-Pro.\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-32/c55b0d30-ceb3-49cc-9daf-f58a3a51051e",
+          "publishedOn": "2024-01-08T16:06:07.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 7.0.32",
+          "imageUrl": null
+        },
+        {
+          "id": "34881256-7de8-44aa-89d4-ea162986ddc5",
+          "author": "UI-Andre",
+          "description": "Overview\nAfter years of development, we are proud to introduce UniFi 7—a massively scalable WiFi 7 platform capable of delivering wired-like user experiences. For the first time in history, exceptional WiFi speeds and predictability can be achieved simultaneously thanks to UniFi 7’s interference-resilient radio technologies combined with an ocean of newly supported 6 GHz spectrum.\n\nDesigned specifically for professional and enterprise deployments, the U7 Pro is ideal for applications requiring flawless WiFi service within demanding large-scale environments.\n\nWiFi 7 with 6 GHz support\n140 m² (1,500 ft²) coverage\n300+ connected devices\nPowered using PoE+\n2.5 GbE uplink\n\nNow available at the Ubiquiti Store.\n\nNote:\n\n6 GHz operation is supported in these countries.\nMulti-Link Operation (MLO) capability to be provided via software update in February 2024.\n\nFrequently Asked Questions\nCan I install U7 Pro using an existing AP mounting plate?\nU7 Pro uses the AP Professional Mounting System. It can be installed using the same metal mounting plate as the following AP models:\n\nU6-Enterprise\nU6-Pro\nU6-LR\nUAP-AC-Pro\nUAP-AC-HD\nUAP-AC-SHD\nUAP-AC-XG\n\n-\nWhat do I need to run U7 Pro?\nU7 Pro is managed with UniFi Network 8.0.26 and later.\nU7 Pro is powered by PoE+ with a 2.5 GbE uplink. We recommend pairing U7 Pro with a UniFi PoE switch that features 2.5 GbE performance and PoE+ output, such as Pro Max and Enterprise PoE switches.\nU7 Pro is fully backwards compatible with WiFi 6E and earlier client devices. A WiFi 6E or WiFi 7 client device is required to utilize the 6 GHz band.\n-\nCan I customize the appearance of my U7 Pro?\nYes, a fully customizable cover will be available in the second quarter of 2024 for U7 Pro.",
+          "link": "https://community.ui.com/releases/New-Hardware-Release-Introducing-UniFi-7-Featuring-U7-Pro/34881256-7de8-44aa-89d4-ea162986ddc5",
+          "publishedOn": "2024-01-08T15:58:11.000Z",
+          "wordCount": 6,
+          "title": "New Hardware Release: Introducing UniFi 7, Featuring U7 Pro",
+          "imageUrl": null
+        },
+        {
           "id": "5001abd3-93d7-4678-a75b-13869f044488",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 6.5.70 adds support for adopting the UK-Ultra via Wireless Meshing and is only avaialble for Gen6 APs.\nImprovements\n\nAdded support for adopting UK-Ultra via Wireless Adoption.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -18,7 +38,7 @@
         {
           "id": "b6f60df4-cddc-46cd-9a69-8f20ea7f6daa",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Switch 7.0.33 improves SFP Module compatibility and is only available for the USW-Pro-Max switches.\nImprovements\n\nImproved SFP module compatibility.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
+          "description": "Overview\nUniFi Switch 7.0.33 improves SFP Module compatibility and is only available for the USW-Pro-Max switches.\nImprovements\n\nImproved SFP module compatibility.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Switch-7-0-33/b6f60df4-cddc-46cd-9a69-8f20ea7f6daa",
           "publishedOn": "2024-01-04T12:39:03.000Z",
           "wordCount": 6,
