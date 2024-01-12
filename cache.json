@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "f14662df-ccb2-484e-91a7-2cd7be4b1057",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Access Point 6.5.71 includes the improvement listed below and is only avaialble for Gen6 APs.\nImprovements\n\nImproved firmware update resiliency, especially when upgrading from 6.5.x to 6.6.x.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-5-71/f14662df-ccb2-484e-91a7-2cd7be4b1057",
+          "publishedOn": "2024-01-11T10:46:48.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 6.5.71",
+          "imageUrl": null
+        },
+        {
           "id": "c55b0d30-ceb3-49cc-9daf-f58a3a51051e",
           "author": "UI-Glenn",
           "description": "Overview\n* This release is the initial release for the U7-Pro.\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -73,16 +83,6 @@
           "publishedOn": "2023-12-13T19:55:05.000Z",
           "wordCount": 6,
           "title": "New Hardware Release: Pro Max Switching",
-          "imageUrl": null
-        },
-        {
-          "id": "42486d2c-92c8-4b13-bc37-da645fe62d9b",
-          "author": "UI-Glenn",
-          "description": "Overview\nStatus: PULLED (see here)\n \nUniFi Access Point 6.6.56 includes the bugfixes listed below and is only available for Gen6 Access Points.\nBugfixes\n\nFixed incorrect neighbor report BSSID Information in some cases.\n[Gen6] Fixed maximum transmit power on DFS channels in the United States and Band-B channels in United Kingdom being set to lower than permitted limits when the AP is configured to broadcast at Auto / High transmit power.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-56/42486d2c-92c8-4b13-bc37-da645fe62d9b",
-          "publishedOn": "2023-12-13T04:51:49.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.6.56",
           "imageUrl": null
         }
       ]
