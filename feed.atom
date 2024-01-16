@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-15T00:39:30.481Z</id>
+    <id>urn:2024-01-16T00:37:34.478Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T00:39:30.481Z</updated>
+    <updated>2024-01-16T00:37:34.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSIEM 7.1.2]]></title>
+        <id>Mon, 15 Jan 2024 17:55:47 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-01-15T17:55:47.000Z</updated>
+        <summary type="html"><![CDATA[FortiSIEM 7.1.2 B0160 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UniFi Access Point 6.5.71]]></title>
         <id>f14662df-ccb2-484e-91a7-2cd7be4b1057</id>
@@ -14,6 +24,7 @@
 UniFi Access Point 6.5.71 includes the improvement listed below and is only avaialble for Gen6 APs.
 Improvements
 
+Added support for adopting UK-Ultra via Wireless Adoption.
 Improved firmware update resiliency, especially when upgrading from 6.5.x to 6.6.x.
 
 Additional information
@@ -39,6 +50,10 @@ UniFi Network application version]]></summary>
         <updated>2024-01-08T16:06:07.000Z</updated>
         <summary type="html"><![CDATA[Overview
 * This release is the initial release for the U7-Pro.
+Known issues
+
+SSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.
+
 Additional information
 
 Refer to the Help Center article here to determine the UniFi Access Point generation.
