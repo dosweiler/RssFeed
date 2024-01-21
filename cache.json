@@ -84,16 +84,6 @@
           "wordCount": 6,
           "title": "UniFi Switch 7.0.33",
           "imageUrl": null
-        },
-        {
-          "id": "46ee2fdf-7b50-4aac-ab71-0c8f4650bf3a",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.6.58 includes the bugfix listed below and is only available for Gen6 Access Points.\nBugfixes\n\nFixed APs configured to broadcast in Indonesia going offline after a firmware update with the AP LED flashing white constantly. This was introduced in 6.6.55. To recover affected devices, please either:\nChange the country to something else temporarily, reset the AP, update the firmware to 6.6.58 or newer (SSH command below), and change your country back to the original.\n\nupgrade https://dl.ui.com/unifi/firmware/UAP6MP/6.6.58.15201/BZ.ipq50xx_6.6.58+15201.231221.0006.bin\n\nPerform a TFTP recovery with 6.6.58 or 6.5.66 firmware.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-58/46ee2fdf-7b50-4aac-ab71-0c8f4650bf3a",
-          "publishedOn": "2023-12-21T18:56:08.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.6.58",
-          "imageUrl": null
         }
       ]
     },
@@ -717,36 +707,6 @@
           "publishedOn": "2023-12-28T22:13:51.000Z",
           "wordCount": 3272,
           "title": "FortiAP 7.4.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 22 Dec 2023 08:22:12 GMT",
-          "author": null,
-          "description": "FortiGuest 1.2.0 B0119 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-22T08:22:12.000Z",
-          "wordCount": 3272,
-          "title": "FortiGuest 1.2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 21 Dec 2023 17:00:02 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 7.4.2 B2397 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-21T17:00:02.000Z",
-          "wordCount": 3272,
-          "title": "FortiAnalyzer 7.4.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 21 Dec 2023 16:37:50 GMT",
-          "author": null,
-          "description": "FortiManager 7.4.2 B2397 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2023-12-21T16:37:50.000Z",
-          "wordCount": 3272,
-          "title": "FortiManager 7.4.2",
           "imageUrl": null
         }
       ]
