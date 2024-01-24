@@ -28,7 +28,7 @@
         {
           "id": "61fff80b-affc-489d-81ed-c616e93547ba",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 7.0.35 is only available for Gen7 Access Points and includes the improvements and fixes listed below.\nImprovements\n\nImproved 2.4GHz latency.\nImproved Voice traffic prioritization.\n\nBugfixes\n\nFixed incorrect channel width (20MHz) being reported in device table when 6GHz radio is broadcasting at 320MHz.\nFixed connectivity issues with 802.11ac clients (e.g. Broadcom-based MacBooks) leading to stalled WiFi and unexpected disconnects.\nFixed missing 6GHz neighbor reports\nFixed kernel crashes to improve overall stability.\nFixed channel interference being reported as 100% during DFS CAC.\nFixed 6GHz channel change causing a full provision (leading to all clients disconnecting) for ~60 seconds.\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\n\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "description": "Overview\nUniFi Access Point 7.0.35 is only available for Gen7 Access Points and includes the improvements and fixes listed below.\nImprovements\n\nImproved 2.4GHz latency.\nImproved Voice traffic prioritization.\n\nBugfixes\n\nFixed incorrect channel width (20MHz) being reported in device table when 6GHz radio is broadcasting at 320MHz.\nFixed connectivity issues with 802.11ac clients (e.g. Broadcom-based MacBooks) leading to stalled WiFi and unexpected disconnects.\nFixed missing 6GHz neighbor reports\nFixed kernel crashes to improve overall stability.\nFixed channel interference being reported as 100% during DFS CAC.\nFixed 6GHz channel change causing a full provision (leading to all clients disconnecting) for ~60 seconds.\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\n\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-35/61fff80b-affc-489d-81ed-c616e93547ba",
           "publishedOn": "2024-01-16T18:19:10.000Z",
           "wordCount": 6,
@@ -93,6 +93,176 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2432.html",
+          "author": null,
+          "description": "CVE-2016-5841, CVE-2017-13139",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2432.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 268,
+          "title": "ALAS-2024-2432 (important): ImageMagick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2431.html",
+          "author": null,
+          "description": "CVE-2021-3618",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2431.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 279,
+          "title": "ALAS-2024-2431 (medium): vsftpd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2430.html",
+          "author": null,
+          "description": "CVE-2021-46141",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2430.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 218,
+          "title": "ALAS-2024-2430 (low): uriparser",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2429.html",
+          "author": null,
+          "description": "CVE-2023-31124",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2429.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 249,
+          "title": "ALAS-2024-2429 (low): c-ares",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2428.html",
+          "author": null,
+          "description": "CVE-2023-34969",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2428.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 285,
+          "title": "ALAS-2024-2428 (medium): dbus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2427.html",
+          "author": null,
+          "description": "CVE-2022-32919, CVE-2022-32933, CVE-2022-46705, CVE-2022-46725, CVE-2023-32359, CVE-2023-35074, CVE-2023-39434, CVE-2023-39928, CVE-2023-40451, CVE-2023-41074, CVE-2023-41983, CVE-2023-41993, CVE-2023-42852, CVE-2023-42916, CVE-2023-42917",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2427.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 809,
+          "title": "ALAS-2024-2427 (important): webkitgtk4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2426.html",
+          "author": null,
+          "description": "CVE-2023-40030",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2426.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 548,
+          "title": "ALAS-2024-2426 (medium): rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2425.html",
+          "author": null,
+          "description": "CVE-2023-42883, CVE-2023-42890",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2425.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 286,
+          "title": "ALAS-2024-2425 (important): webkitgtk4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2424.html",
+          "author": null,
+          "description": "CVE-2023-39325, CVE-2023-39326, CVE-2023-45142",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2424.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 575,
+          "title": "ALAS-2024-2424 (important): amazon-cloudwatch-agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2423.html",
+          "author": null,
+          "description": "CVE-2023-46316",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2423.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 215,
+          "title": "ALAS-2024-2423 (low): traceroute",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2422.html",
+          "author": null,
+          "description": "CVE-2023-46751",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2422.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 235,
+          "title": "ALAS-2024-2422 (important): ghostscript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2421.html",
+          "author": null,
+          "description": "CVE-2023-51714",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2421.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 256,
+          "title": "ALAS-2024-2421 (medium): qt5-qtbase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2420.html",
+          "author": null,
+          "description": "CVE-2023-51764",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2420.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 292,
+          "title": "ALAS-2024-2420 (important): postfix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2419.html",
+          "author": null,
+          "description": "CVE-2023-5388",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2419.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 279,
+          "title": "ALAS-2024-2419 (medium): nss-softokn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2418.html",
+          "author": null,
+          "description": "CVE-2023-6606",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2418.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 248,
+          "title": "ALAS-2024-2418 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2417.html",
+          "author": null,
+          "description": "CVE-2023-7104",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2417.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 256,
+          "title": "ALAS-2024-2417 (important): thunderbird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2416.html",
+          "author": null,
+          "description": "CVE-2024-0208",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2416.html",
+          "publishedOn": "2024-01-19T01:51:00.000Z",
+          "wordCount": 228,
+          "title": "ALAS-2024-2416 (important): wireshark",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-009.html",
           "author": null,
           "description": "CVE-2024-20918, CVE-2024-20919, CVE-2024-20921, CVE-2024-20926, CVE-2024-20945, CVE-2024-20952",
@@ -125,20 +295,20 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-045.html",
           "author": null,
-          "description": "CVE-2023-39198, CVE-2023-46862, CVE-2023-6121, CVE-2023-6817, CVE-2023-6931, CVE-2023-6932",
+          "description": "CVE-2023-39198, CVE-2023-46862, CVE-2023-52340, CVE-2023-6121, CVE-2023-6531, CVE-2023-6817, CVE-2023-6931, CVE-2023-6932",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-045.html",
           "publishedOn": "2024-01-05T21:40:00.000Z",
-          "wordCount": 475,
+          "wordCount": 674,
           "title": "ALASKERNEL-5.10-2024-045 (important): kernel",
           "imageUrl": null
         },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-033.html",
           "author": null,
-          "description": "CVE-2023-46862, CVE-2023-6121, CVE-2023-6622, CVE-2023-6817, CVE-2023-6931, CVE-2023-6932",
+          "description": "CVE-2023-46862, CVE-2023-52340, CVE-2023-6121, CVE-2023-6531, CVE-2023-6622, CVE-2023-6817, CVE-2023-6931, CVE-2023-6932",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-033.html",
           "publishedOn": "2024-01-05T21:40:00.000Z",
-          "wordCount": 491,
+          "wordCount": 690,
           "title": "ALASKERNEL-5.15-2024-033 (important): kernel",
           "imageUrl": null
         },
@@ -155,10 +325,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-057.html",
           "author": null,
-          "description": "CVE-2023-6121, CVE-2023-6931, CVE-2023-6932",
+          "description": "CVE-2023-4244, CVE-2023-52340, CVE-2023-6121, CVE-2023-6531, CVE-2023-6931, CVE-2023-6932",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-057.html",
           "publishedOn": "2024-01-03T23:00:00.000Z",
-          "wordCount": 374,
+          "wordCount": 632,
           "title": "ALASKERNEL-5.4-2024-057 (important): kernel",
           "imageUrl": null
         },
@@ -465,10 +635,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2391.html",
           "author": null,
-          "description": "CVE-2023-39198, CVE-2023-6932",
+          "description": "CVE-2023-39198, CVE-2023-52340, CVE-2023-6932",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2391.html",
           "publishedOn": "2024-01-03T21:04:00.000Z",
-          "wordCount": 286,
+          "wordCount": 442,
           "title": "ALAS-2024-2391 (important): kernel",
           "imageUrl": null
         },
@@ -619,6 +789,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 23 Jan 2024 20:13:18 GMT",
+          "author": null,
+          "description": "FortiAP-U 7.0.2 B0118 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-01-23T20:13:18.000Z",
+          "wordCount": 3272,
+          "title": "FortiAP-U 7.0.2",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 18 Jan 2024 23:04:29 GMT",
           "author": null,
