@@ -8,7 +8,7 @@
         {
           "id": "8f96bd97-d43b-4387-9b5e-6273f5db54bf",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Switch 6.6.61 includes the improvement and bugfixes listed below.\nImprovements\n\n[USW-Pro-Aggregation] Improved 25G link stability.\n\nBugfixes\n\n[USW-Enterprise-8-PoE] Fixed L3 DHCP server not working when DHCP Snooping is enabled.\n[USW-Industrial] Fixed flow control not getting enabled despite enabling it.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
+          "description": "Overview\nUniFi Switch 6.6.61 includes the improvement and bugfixes listed below.\nImprovements\n\n[USW-Pro-Aggregation] Improved 25G link stability.\n\nBugfixes\n\n[USW-Enterprise-8-PoE] Fixed L3 DHCP server not working when DHCP Snooping is enabled.\n[USW-Industrial] Fixed flow control not getting enabled despite enabling it.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Switch-6-6-61/8f96bd97-d43b-4387-9b5e-6273f5db54bf",
           "publishedOn": "2024-01-18T09:14:56.000Z",
           "wordCount": 6,
@@ -929,6 +929,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 29 Jan 2024 19:54:09 GMT",
+          "author": null,
+          "description": "FortiWeb 7.4.2 B0622 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-01-29T19:54:09.000Z",
+          "wordCount": 3272,
+          "title": "FortiWeb 7.4.2",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 26 Jan 2024 20:22:24 GMT",
           "author": null,
