@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-30T00:35:23.183Z</id>
+    <id>urn:2024-01-31T00:35:44.208Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T00:35:23.183Z</updated>
+    <updated>2024-01-31T00:35:44.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UniFi LTE 6.6.57]]></title>
+        <id>c0f93016-bd56-4e1d-983d-5b895abddab2</id>
+        <link href="https://community.ui.com/releases/UniFi-LTE-6-6-57/c0f93016-bd56-4e1d-983d-5b895abddab2"/>
+        <updated>2024-01-30T16:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+UniFi LTE 6.6.57 includes the improvements and bugfix listed below.
+Improvements
+
+Updated LTE module firmware for the U-LTE-Pro-EU.
+Improved LTE module update process.
+
+Bugfixes
+
+Fixed SNMP configuration issues.
+
+Additional information
+
+Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
+If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
+
+
+
+
+If you encounter any issues with this release, please provide us some details on your setup and include the below information:
+
+U-LTE model(s)
+Previous LTE release version
+UniFi Network application version]]></summary>
+        <author>
+            <name>UI-Glenn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiConverter 7.0.4]]></title>
+        <id>Tue, 30 Jan 2024 02:10:34 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-01-30T02:10:34.000Z</updated>
+        <summary type="html"><![CDATA[FortiConverter 7.0.4 B0321 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiWeb 7.4.2]]></title>
         <id>Mon, 29 Jan 2024 19:54:09 GMT</id>

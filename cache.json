@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "c0f93016-bd56-4e1d-983d-5b895abddab2",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi LTE 6.6.57 includes the improvements and bugfix listed below.\nImprovements\n\nUpdated LTE module firmware for the U-LTE-Pro-EU.\nImproved LTE module update process.\n\nBugfixes\n\nFixed SNMP configuration issues.\n\nAdditional information\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nU-LTE model(s)\nPrevious LTE release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-LTE-6-6-57/c0f93016-bd56-4e1d-983d-5b895abddab2",
+          "publishedOn": "2024-01-30T16:15:16.000Z",
+          "wordCount": 6,
+          "title": "UniFi LTE 6.6.57",
+          "imageUrl": null
+        },
+        {
           "id": "8f96bd97-d43b-4387-9b5e-6273f5db54bf",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Switch 6.6.61 includes the improvement and bugfixes listed below.\nImprovements\n\n[USW-Pro-Aggregation] Improved 25G link stability.\n\nBugfixes\n\n[USW-Enterprise-8-PoE] Fixed L3 DHCP server not working when DHCP Snooping is enabled.\n[USW-Industrial] Fixed flow control not getting enabled despite enabling it.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
@@ -929,6 +939,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 30 Jan 2024 02:10:34 GMT",
+          "author": null,
+          "description": "FortiConverter 7.0.4 B0321 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-01-30T02:10:34.000Z",
+          "wordCount": 3272,
+          "title": "FortiConverter 7.0.4",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 29 Jan 2024 19:54:09 GMT",
           "author": null,
