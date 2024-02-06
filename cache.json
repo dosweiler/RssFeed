@@ -8,7 +8,7 @@
         {
           "id": "3df9b0c0-7e51-4843-93a2-276c2d63e10a",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.6.65 includes the improvements and bugfixes listed below. The changelog is compared to the latest official releases for Gen2/Gen3/Gen4/Gen5 APs and 6.6.65 for Gen6 APs.\nImprovements\n\n[Gen6] Improved reported client RSSI accuracy.\n\nBugfixes\n\nFixed incorrect neighbor report BSSID Information in some cases.\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\nFixed guest portal redirector not restarting gracefully after a crash (`Waiting previous redirector stop` in logs).\nReverted LED not flashing white and blue when AP firmware is updating. This was introduced in 6.6.60.\nFixed APs rarely going into an Adoption Failed state after a firmware update.\n[Gen2/Gen3/Gen6] Fixed newly applied WiFi Speed Limit not taking effect unt…",
+          "description": "Overview\nUniFi Access Point 6.6.65 includes the improvements and bugfixes listed below. The changelog is compared to the latest official releases for Gen2/Gen3/Gen4/Gen5 APs and 6.6.65 for Gen6 APs.\n \nThis release is now available on the Official release channel for the models listed below, it's still a Release Candidate for all other models.\nGen6\n\nU6-Mesh\nU6-IW\nU6-Enterprise-IW\n\n\nImprovements\n\n[Gen6] Improved reported client RSSI accuracy.\n\nBugfixes\n\nFixed incorrect neighbor report BSSID Information in some cases.\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\nFixed guest portal redirector not restarting gracefully after a crash (`Waiting previous redirector stop` in logs).\nReverted LED not flashing white and blue when AP firmware is updating.…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-65/3df9b0c0-7e51-4843-93a2-276c2d63e10a",
           "publishedOn": "2024-02-02T19:06:23.000Z",
           "wordCount": 6,
@@ -469,6 +469,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 5 Feb 2024 21:34:53 GMT",
+          "author": null,
+          "description": "FortiProxy 7.0.15 B0192 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-05T21:34:53.000Z",
+          "wordCount": 3272,
+          "title": "FortiProxy 7.0.15",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 5 Feb 2024 18:30:28 GMT",
+          "author": null,
+          "description": "FortiSIEM 6.7.9 B1763 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-05T18:30:28.000Z",
+          "wordCount": 3272,
+          "title": "FortiSIEM 6.7.9",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 1 Feb 2024 18:50:33 GMT",
           "author": null,
