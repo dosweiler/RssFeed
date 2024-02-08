@@ -64,26 +64,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point 6.5.71",
           "imageUrl": null
-        },
-        {
-          "id": "c55b0d30-ceb3-49cc-9daf-f58a3a51051e",
-          "author": "UI-Glenn",
-          "description": "Overview\n* This release is the initial release for the U7-Pro.\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-32/c55b0d30-ceb3-49cc-9daf-f58a3a51051e",
-          "publishedOn": "2024-01-08T16:06:07.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 7.0.32",
-          "imageUrl": null
-        },
-        {
-          "id": "34881256-7de8-44aa-89d4-ea162986ddc5",
-          "author": "UI-Andre",
-          "description": "Overview\nAfter years of development, we are proud to introduce UniFi 7—a massively scalable WiFi 7 platform capable of delivering wired-like user experiences. For the first time in history, exceptional WiFi speeds and predictability can be achieved simultaneously thanks to UniFi 7’s interference-resilient radio technologies combined with an ocean of newly supported 6 GHz spectrum.\n\nDesigned specifically for professional and enterprise deployments, the U7 Pro is ideal for applications requiring flawless WiFi service within demanding large-scale environments.\n\nWiFi 7 with 6 GHz support\n140 m² (1,500 ft²) coverage\n300+ connected devices\nPowered using PoE+\n2.5 GbE uplink\n\nNow available at the Ubiquiti Store.\n\nNote:\n\n6 GHz operation is supported in these countries.\nMulti-Link Operation (MLO) capability to be provided via software update in February 2024.\n\nFrequently Asked Questions\nCan I install U7 Pro using an existing AP mounting plate?\nU7 Pro uses the AP Professional Mounting System. It can be installed using the same metal mounting plate as the following AP models:\n\nU6-Enterprise\nU6-Pro\nU6-LR\nUAP-AC-Pro\nUAP-AC-HD\nUAP-AC-SHD\nUAP-AC-XG\n\n-\nWhat do I need to run U7 Pro?\nU7 Pro is managed with UniFi Network 8.0.26 and later.\nU7 Pro is powered by PoE+ with a 2.5 GbE uplink. We recommend pairing U7 Pro with a UniFi PoE switch that features 2.5 GbE performance and PoE+ output, such as Pro Max and Enterprise PoE switches.\nU7 Pro is fully backwards compatible with WiFi 6E and earlier client devices. A WiFi 6E or WiFi 7 client device is required to utilize the 6 GHz band.\n-\nCan I customize the appearance of my U7 Pro?\nYes, a fully customizable cover will be available in the second quarter of 2024 for U7 Pro.",
-          "link": "https://community.ui.com/releases/New-Hardware-Release-Introducing-UniFi-7-Featuring-U7-Pro/34881256-7de8-44aa-89d4-ea162986ddc5",
-          "publishedOn": "2024-01-08T15:58:11.000Z",
-          "wordCount": 6,
-          "title": "New Hardware Release: Introducing UniFi 7, Featuring U7 Pro",
-          "imageUrl": null
         }
       ]
     },
@@ -263,6 +243,186 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2450.html",
+          "author": null,
+          "description": "CVE-2022-38752",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2450.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 232,
+          "title": "ALAS-2024-2450 (low): snakeyaml",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2449.html",
+          "author": null,
+          "description": "CVE-2022-41409",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2449.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 235,
+          "title": "ALAS-2024-2449 (low): pcre2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2448.html",
+          "author": null,
+          "description": "CVE-2023-1073",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2448.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 258,
+          "title": "ALAS-2024-2448 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2447.html",
+          "author": null,
+          "description": "CVE-2023-42465",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2447.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 245,
+          "title": "ALAS-2024-2447 (important): sudo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2446.html",
+          "author": null,
+          "description": "CVE-2023-39326, CVE-2023-3978, CVE-2023-45142",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2446.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 575,
+          "title": "ALAS-2024-2446 (important): cri-tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2445.html",
+          "author": null,
+          "description": "CVE-2023-50269",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2445.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 295,
+          "title": "ALAS-2024-2445 (important): squid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2444.html",
+          "author": null,
+          "description": "CVE-2023-50447",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2444.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 233,
+          "title": "ALAS-2024-2444 (important): python-pillow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2443.html",
+          "author": null,
+          "description": "CVE-2023-6040, CVE-2023-6546, CVE-2023-6931",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2443.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 376,
+          "title": "ALAS-2024-2443 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2442.html",
+          "author": null,
+          "description": "CVE-2023-7104",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2442.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 270,
+          "title": "ALAS-2024-2442 (important): nss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2441.html",
+          "author": null,
+          "description": "CVE-2024-0209",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2441.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 229,
+          "title": "ALAS-2024-2441 (important): wireshark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2440.html",
+          "author": null,
+          "description": "CVE-2024-0741, CVE-2024-0742, CVE-2024-0746, CVE-2024-0747, CVE-2024-0749, CVE-2024-0750, CVE-2024-0751, CVE-2024-0753, CVE-2024-0755",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2440.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 544,
+          "title": "ALAS-2024-2440 (medium): thunderbird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2439.html",
+          "author": null,
+          "description": "CVE-2024-0911",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2439.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 229,
+          "title": "ALAS-2024-2439 (low): indent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2438.html",
+          "author": null,
+          "description": "CVE-2024-20918, CVE-2024-20919, CVE-2024-20921, CVE-2024-20926, CVE-2024-20945, CVE-2024-20952",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2438.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 691,
+          "title": "ALAS-2024-2438 (important): java-1.8.0-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2437.html",
+          "author": null,
+          "description": "CVE-2024-22195",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2437.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 269,
+          "title": "ALAS-2024-2437 (medium): python3-jinja2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2436.html",
+          "author": null,
+          "description": "CVE-2024-22195",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2436.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 269,
+          "title": "ALAS-2024-2436 (medium): python-jinja2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2435.html",
+          "author": null,
+          "description": "CVE-2024-22365",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2435.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 260,
+          "title": "ALAS-2024-2435 (low): pam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2434.html",
+          "author": null,
+          "description": "CVE-2024-23222",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2434.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 268,
+          "title": "ALAS-2024-2434 (important): webkitgtk4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2433.html",
+          "author": null,
+          "description": "CVE-2024-23638",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2433.html",
+          "publishedOn": "2024-02-01T19:57:00.000Z",
+          "wordCount": 330,
+          "title": "ALAS-2024-2433 (medium): squid",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-033.html",
           "author": null,
           "description": "CVE-2024-21626",
@@ -293,16 +453,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-046.html",
-          "author": null,
-          "description": "CVE-2023-6606, CVE-2024-0193",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-046.html",
-          "publishedOn": "2024-01-19T02:20:00.000Z",
-          "wordCount": 327,
-          "title": "ALASKERNEL-5.10-2024-046 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-047.html",
           "author": null,
           "description": "CVE-2023-39198, CVE-2023-46862, CVE-2023-6121, CVE-2023-6817, CVE-2023-6931, CVE-2023-6932",
@@ -313,13 +463,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-034.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-046.html",
           "author": null,
           "description": "CVE-2023-6606, CVE-2024-0193",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-034.html",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-046.html",
           "publishedOn": "2024-01-19T02:20:00.000Z",
           "wordCount": 327,
-          "title": "ALASKERNEL-5.15-2024-034 (important): kernel",
+          "title": "ALASKERNEL-5.10-2024-046 (important): kernel",
           "imageUrl": null
         },
         {
@@ -330,6 +480,16 @@
           "publishedOn": "2024-01-19T02:20:00.000Z",
           "wordCount": 491,
           "title": "ALASKERNEL-5.15-2024-035 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-034.html",
+          "author": null,
+          "description": "CVE-2023-6606, CVE-2024-0193",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-034.html",
+          "publishedOn": "2024-01-19T02:20:00.000Z",
+          "wordCount": 327,
+          "title": "ALASKERNEL-5.15-2024-034 (important): kernel",
           "imageUrl": null
         },
         {
@@ -435,10 +595,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2432.html",
           "author": null,
-          "description": "CVE-2016-5841, CVE-2017-13139",
+          "description": "CVE-2016-5841, CVE-2017-1000476, CVE-2017-11166, CVE-2017-12805, CVE-2017-12806, CVE-2017-13139, CVE-2017-18251, CVE-2017-18252, CVE-2017-18254, CVE-2017-18271, CVE-2017-18273, CVE-2018-10177, CVE-2018-10804, CVE-2018-10805, CVE-2018-11656, CVE-2018-12599, CVE-2018-12600, CVE-2018-13153, CVE-2018-14434, CVE-2018-14435, CVE-2018-14436, CVE-2018-14437, CVE-2018-15607, CVE-2018-16328, CVE-2018-16749, CVE-2018-16750, CVE-2018-18544, CVE-2018-20467, CVE-2018-8804, CVE-2018-9133, CVE-2019-10131, CVE-2019-10650, CVE-2019-11470, CVE-2019-11472, CVE-2019-11597, CVE-2019-11598, CVE-2019-12974, CVE-2019-12975, CVE-2019-12976, CVE-2019-12978, CVE-2019-12979, CVE-2019-13133, CVE-2019-13134, CVE-2019-13135, CVE-2019-13295, CVE-2019-13297, CVE-2019-13300, CVE-2019-13301, CVE-2019-13304, CVE-2019-13305, CVE-2019-13306, CVE-2019-13307, CVE-2019-13309, CVE-2019-13310, CVE-2019-13311, CVE-2019-13454, CVE-2019-14980, CVE-2019-14981, CVE-2019-15139, CVE-2019-15140, CVE-2019-15141, CVE-2019-16708, CVE-2019-16709, CVE-2019-16710, CVE-2019-16711, CVE-2019-16712, CVE-2019-16713, CVE-2019-17540, CVE-2019-17541, CVE-2019-19948, CVE-2019-19949, CVE-2019-7175, CVE-2019-7397, CVE-2019-7398, CVE-2019-9956",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2432.html",
           "publishedOn": "2024-01-19T01:51:00.000Z",
-          "wordCount": 268,
+          "wordCount": 3351,
           "title": "ALAS-2024-2432 (important): ImageMagick",
           "imageUrl": null
         },
@@ -639,6 +799,116 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 7 Feb 2024 22:25:17 GMT",
+          "author": null,
+          "description": "FortiExtender 7.2.5 B0164 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T22:25:17.000Z",
+          "wordCount": 3272,
+          "title": "FortiExtender 7.2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 21:04:11 GMT",
+          "author": null,
+          "description": "FortiManager 6.4.14 B2660 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T21:04:11.000Z",
+          "wordCount": 3272,
+          "title": "FortiManager 6.4.14",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 20:51:29 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 6.4.14 B2660 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T20:51:29.000Z",
+          "wordCount": 3272,
+          "title": "FortiAnalyzer 6.4.14",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 20:42:11 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.0.11 B0595 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T20:42:11.000Z",
+          "wordCount": 3272,
+          "title": "FortiAnalyzer 7.0.11",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 20:30:31 GMT",
+          "author": null,
+          "description": "FortiManager 7.0.11 B0595 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T20:30:31.000Z",
+          "wordCount": 3272,
+          "title": "FortiManager 7.0.11",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 20:20:49 GMT",
+          "author": null,
+          "description": "FortiOS 7.0.14 B0601 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T20:20:49.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 7.0.14",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 20:01:04 GMT",
+          "author": null,
+          "description": "FortiOS 7.4.3 B2573 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T20:01:04.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 7.4.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 19:54:22 GMT",
+          "author": null,
+          "description": "FortiOS 7.4.3 B2573 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T19:54:22.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 7.4.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 19:46:16 GMT",
+          "author": null,
+          "description": "FortiOS 7.2.7 B1577 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T19:46:16.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 7.2.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 19:24:27 GMT",
+          "author": null,
+          "description": "FortiOS 6.4.15 B2095 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T19:24:27.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 6.4.15",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 7 Feb 2024 19:11:07 GMT",
+          "author": null,
+          "description": "FortiOS 6.2.16 B1392 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-07T19:11:07.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 6.2.16",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 5 Feb 2024 21:34:53 GMT",
           "author": null,
