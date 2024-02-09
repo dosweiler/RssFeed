@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-08T00:35:13.006Z</id>
+    <id>urn:2024-02-09T00:34:28.171Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T00:35:13.006Z</updated>
+    <updated>2024-02-09T00:34:28.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiMail 7.4.2]]></title>
+        <id>Thu, 8 Feb 2024 18:29:04 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-02-08T18:29:04.000Z</updated>
+        <summary type="html"><![CDATA[FortiMail 7.4.2 B0583 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiExtender 7.2.5]]></title>
         <id>Wed, 7 Feb 2024 22:25:17 GMT</id>
@@ -143,13 +153,9 @@
         <summary type="html"><![CDATA[Overview
 UniFi Access Point 6.6.65 includes the improvements and bugfixes listed below. The changelog is compared to the latest official releases for Gen2/Gen3/Gen4/Gen5 APs and 6.6.65 for Gen6 APs.
  
-This release is now available on the Official release channel for the models listed below, it's still a Release Candidate for all other models.
-Gen6
+This release is now available on the Official release channel for the models/generations listed below, it's still a Release Candidate for all other models.
 
-U6-Mesh
-U6-IW
-U6-Enterprise-IW
-
+Gen6 Access Points
 
 Improvements
 
@@ -160,7 +166,7 @@ Bugfixes
 Fixed incorrect neighbor report BSSID Information in some cases.
 Fixed APs going into "Adoption Failed" state in some cases when using a third-party gateway.
 Fixed guest portal redirector not restarting gracefully after a crash (`Waiting previous redirector stop` in logs).
-Reverted LED not flashing white and blue when AP firmware is updating.…]]></summary>
+Reverted LED not flashing white and blue when AP firmware is updating. This …]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
