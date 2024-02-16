@@ -44,16 +44,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point 6.6.60",
           "imageUrl": null
-        },
-        {
-          "id": "61fff80b-affc-489d-81ed-c616e93547ba",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 7.0.35 is only available for Gen7 Access Points and includes the improvements and fixes listed below.\nImprovements\n\nImproved 2.4GHz latency.\nImproved Voice traffic prioritization.\n\nBugfixes\n\nFixed incorrect channel width (20MHz) being reported in device table when 6GHz radio is broadcasting at 320MHz.\nFixed connectivity issues with 802.11ac clients (e.g. Broadcom-based MacBooks) leading to stalled WiFi and unexpected disconnects.\nFixed missing 6GHz neighbor reports\nFixed kernel crashes to improve overall stability.\nFixed channel interference being reported as 100% during DFS CAC.\nFixed 6GHz channel change causing a full provision (leading to all clients disconnecting) for ~60 seconds.\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\n\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-35/61fff80b-affc-489d-81ed-c616e93547ba",
-          "publishedOn": "2024-01-16T18:19:10.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 7.0.35",
-          "imageUrl": null
         }
       ]
     },
@@ -751,36 +741,6 @@
           "wordCount": 228,
           "title": "ALAS-2024-2416 (important): wireshark",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-009.html",
-          "author": null,
-          "description": "CVE-2024-20918, CVE-2024-20919, CVE-2024-20921, CVE-2024-20926, CVE-2024-20945, CVE-2024-20952",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-009.html",
-          "publishedOn": "2024-01-17T07:27:00.000Z",
-          "wordCount": 664,
-          "title": "ALASCORRETTO8-2024-009 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2415.html",
-          "author": null,
-          "description": "CVE-2024-20918, CVE-2024-20919, CVE-2024-20921, CVE-2024-20922, CVE-2024-20923, CVE-2024-20925, CVE-2024-20932, CVE-2024-20945, CVE-2024-20952",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2415.html",
-          "publishedOn": "2024-01-17T00:55:00.000Z",
-          "wordCount": 856,
-          "title": "ALAS-2024-2415 (important): java-17-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2414.html",
-          "author": null,
-          "description": "CVE-2024-20918, CVE-2024-20919, CVE-2024-20921, CVE-2024-20922, CVE-2024-20923, CVE-2024-20925, CVE-2024-20926, CVE-2024-20945, CVE-2024-20952",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2414.html",
-          "publishedOn": "2024-01-17T00:55:00.000Z",
-          "wordCount": 855,
-          "title": "ALAS-2024-2414 (important): java-11-amazon-corretto",
-          "imageUrl": null
         }
       ]
     },
@@ -789,6 +749,46 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 15 Feb 2024 19:25:22 GMT",
+          "author": null,
+          "description": "FortiSIEM 6.4.4 B1425 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-15T19:25:22.000Z",
+          "wordCount": 3272,
+          "title": "FortiSIEM 6.4.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 15 Feb 2024 02:18:35 GMT",
+          "author": null,
+          "description": "FortiSwitch 7.2.7 B0479 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-15T02:18:35.000Z",
+          "wordCount": 3272,
+          "title": "FortiSwitch 7.2.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 15 Feb 2024 02:17:40 GMT",
+          "author": null,
+          "description": "FortiSwitch 7.2.7 B0479 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-15T02:17:40.000Z",
+          "wordCount": 3272,
+          "title": "FortiSwitch 7.2.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 15 Feb 2024 02:15:58 GMT",
+          "author": null,
+          "description": "FortiSwitch 7.2.7 B0479 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-15T02:15:58.000Z",
+          "wordCount": 3272,
+          "title": "FortiSwitch 7.2.7",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 13 Feb 2024 18:48:37 GMT",
           "author": null,
