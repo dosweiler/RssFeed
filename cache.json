@@ -24,26 +24,6 @@
           "wordCount": 6,
           "title": "UniFi LTE 6.6.57",
           "imageUrl": null
-        },
-        {
-          "id": "8f96bd97-d43b-4387-9b5e-6273f5db54bf",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Switch 6.6.61 includes the improvement and bugfixes listed below.\nImprovements\n\n[USW-Pro-Aggregation] Improved 25G link stability.\n\nBugfixes\n\n[USW-Enterprise-8-PoE] Fixed L3 DHCP server not working when DHCP Snooping is enabled.\n[USW-Industrial] Fixed flow control not getting enabled despite enabling it.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Switch-6-6-61/8f96bd97-d43b-4387-9b5e-6273f5db54bf",
-          "publishedOn": "2024-01-18T09:14:56.000Z",
-          "wordCount": 6,
-          "title": "UniFi Switch 6.6.61",
-          "imageUrl": null
-        },
-        {
-          "id": "eb72da72-5e55-4d6c-88c8-16ed1a42df14",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.6.60 includes the improvements and bugfixes listed below and is only available for Gen6 APs.\nImprovements\n\n[Gen6] Prohibited the selection of 5GHz channels 165 and higher in UK when channel is set to Auto.\n\nBugfixes\n\n\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\nFixed guest portal redirector not restarting gracefully after a crash (`Waiting previous redirector stop` in logs).\n[Gen6] Fixed DFS channel configuration rarely not being applied.\n[Gen6] Fixed Rx and Tx Rate displayed in the Network Application varying drastically.\n[Gen6] Fixed 5GHz connections not working occasionally.\n[Gen6] Fixed channel width changes occasionally not being applied.\n[Gen6] Fixed 6GHz channel change causing a full provision (leading to all clients disconnecting) for ~60 seconds.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-60/eb72da72-5e55-4d6c-88c8-16ed1a42df14",
-          "publishedOn": "2024-01-17T18:05:54.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.6.60",
-          "imageUrl": null
         }
       ]
     },
@@ -750,6 +730,26 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Fri, 16 Feb 2024 23:21:45 GMT",
+          "author": null,
+          "description": "FortiNDR 7.2.2 B0406 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-16T23:21:45.000Z",
+          "wordCount": 3272,
+          "title": "FortiNDR 7.2.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 16 Feb 2024 20:56:35 GMT",
+          "author": null,
+          "description": "FortiSandbox 4.4.4 B0389 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-16T20:56:35.000Z",
+          "wordCount": 3272,
+          "title": "FortiSandbox 4.4.4",
+          "imageUrl": null
+        },
+        {
           "id": "Thu, 15 Feb 2024 19:25:22 GMT",
           "author": null,
           "description": "FortiSIEM 6.4.4 B1425 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -1127,26 +1127,6 @@
           "publishedOn": "2024-01-18T20:35:00.000Z",
           "wordCount": 3272,
           "title": "FortiAnalyzer-BigData 7.4.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 17 Jan 2024 22:05:34 GMT",
-          "author": null,
-          "description": "FortiSwitch 7.0.8 B0102 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-01-17T22:05:34.000Z",
-          "wordCount": 3272,
-          "title": "FortiSwitch 7.0.8",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 17 Jan 2024 17:35:55 GMT",
-          "author": null,
-          "description": "FortiADC 7.2.4 B0249 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-01-17T17:35:55.000Z",
-          "wordCount": 3272,
-          "title": "FortiADC 7.2.4",
           "imageUrl": null
         }
       ]
