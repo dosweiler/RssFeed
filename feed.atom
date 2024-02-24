@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T00:34:41.557Z</id>
+    <id>urn:2024-02-24T00:33:08.599Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:34:41.557Z</updated>
+    <updated>2024-02-24T00:33:08.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,15 @@
         <summary type="html"><![CDATA[FortiOS 6.0.18 B0549 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2473 (important): sudo]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2473.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2473.html"/>
+        <updated>2024-02-22T23:41:00.000Z</updated>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -846,7 +855,6 @@ Reverted LED not flashing white and blue when AP firmware is updating. This …]
         <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2447.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2447.html"/>
         <updated>2024-02-01T19:57:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-42465]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
