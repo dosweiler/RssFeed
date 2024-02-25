@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-24T00:33:08.599Z</id>
+    <id>urn:2024-02-25T00:38:08.557Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T00:33:08.599Z</updated>
+    <updated>2024-02-25T00:38:08.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -105,21 +105,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASMATE-DESKTOP1.X-2024-007 (important): atril]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2024-007.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2024-007.html"/>
-        <updated>2024-02-15T04:09:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-51698]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASMATE-DESKTOP1.X-2024-006 (important): atril]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2024-006.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2024-006.html"/>
         <updated>2024-02-15T04:09:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2023-52076]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASMATE-DESKTOP1.X-2024-007 (important): atril]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2024-007.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASMATE-DESKTOP1.X-2024-007.html"/>
+        <updated>2024-02-15T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-51698]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -661,16 +661,6 @@ Reverted LED not flashing white and blue when AP firmware is updating. This …]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-048 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-048.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-048.html"/>
-        <updated>2024-02-01T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-46838, CVE-2023-6040, CVE-2023-6915, CVE-2024-0565, CVE-2024-0607, CVE-2024-0646, CVE-2024-23849]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.10-2024-049 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-049.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-049.html"/>
@@ -681,11 +671,11 @@ Reverted LED not flashing white and blue when AP firmware is updating. This …]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-036 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-036.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-036.html"/>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-048 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-048.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-048.html"/>
         <updated>2024-02-01T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-46838, CVE-2023-6040, CVE-2023-6915, CVE-2024-0565, CVE-2024-0646, CVE-2024-1085]]></summary>
+        <summary type="html"><![CDATA[CVE-2023-46838, CVE-2023-6040, CVE-2023-6915, CVE-2024-0565, CVE-2024-0607, CVE-2024-0646, CVE-2024-23849]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -696,6 +686,16 @@ Reverted LED not flashing white and blue when AP firmware is updating. This …]
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-037.html"/>
         <updated>2024-02-01T20:10:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-4129, CVE-2023-1073, CVE-2023-1652, CVE-2023-26605, CVE-2023-3161, CVE-2023-3567]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-036 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-036.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-036.html"/>
+        <updated>2024-02-01T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-46838, CVE-2023-6040, CVE-2023-6915, CVE-2024-0565, CVE-2024-0646, CVE-2024-1085]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1120,26 +1120,6 @@ UniFi Network application version]]></summary>
         <summary type="html"><![CDATA[FortiSIEM 7.1.3 B0165 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2024-036 (important): runc]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-036.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-036.html"/>
-        <updated>2024-01-25T19:32:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-21626]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2024-036 (important): runc]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-036.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-036.html"/>
-        <updated>2024-01-25T19:32:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-21626]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
 </feed>
