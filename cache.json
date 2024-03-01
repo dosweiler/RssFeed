@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "485c9e44-112d-4e50-9c19-4dafe0e2c9ec",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Access Point 7.0.43 is only available for the U7-Pro and includes the improvements and bugfixes listed below.\nImprovements\n\nImproved thermal behavior.\nImproved 6GHz roaming performance.\n\nBugfixes\n\nFixed newly applied WiFi Speed Limit not taking effect until client reconnects.\nFixed uptime for clients being reported incorrectly in some cases.\nFixed kernel crashes and stalls to improve stability.\nFixed channel width being reset to old configuration if it is configured right as an AP is booting when channel is set to Auto.\nFixed client IP address being reported incorrectly sometimes.\nFixed incorrect channel width being reported when 240MHz is configured on the 5GHz radio.\nFixed TX Retries being reported incorrectly.\nFixed UAPs on large sites (with 1K+ clients) causing excessive CPU utilization on Network Application consoles/servers.\nFixed Medium/Low transmit power configuration resetting to maximum (Auto/High) after firmware update in some cases.\nFixed false positive Association failures on the Radios > Connectivity page.\nFixed standalone adopted APs sending DNS queries for unifi frequently.\nFixed 5GHz SSIDs not broadcasting in Australia when set to channel 165, width 20MHz.\n\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-43/485c9e44-112d-4e50-9c19-4dafe0e2c9ec",
+          "publishedOn": "2024-02-29T18:09:22.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 7.0.43",
+          "imageUrl": null
+        },
+        {
           "id": "3df9b0c0-7e51-4843-93a2-276c2d63e10a",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 6.6.65 includes the improvements and bugfixes listed below. The changelog is compared to the latest official releases for Gen2/Gen3/Gen4/Gen5 APs and 6.6.65 for Gen6 APs.\n \nThis release is now available on the Official release channel for the models/generations listed below, it's still a Release Candidate for all other models.\n\nGen6 Access Points\n\nImprovements\n\n[Gen6] Improved reported client RSSI accuracy.\n\nBugfixes\n\nFixed incorrect neighbor report BSSID Information in some cases.\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\nFixed guest portal redirector not restarting gracefully after a crash (`Waiting previous redirector stop` in logs).\nReverted LED not flashing white and blue when AP firmware is updating. This …",
@@ -13,16 +23,6 @@
           "publishedOn": "2024-02-02T19:06:23.000Z",
           "wordCount": 6,
           "title": "UniFi Access Point 6.6.65",
-          "imageUrl": null
-        },
-        {
-          "id": "c0f93016-bd56-4e1d-983d-5b895abddab2",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi LTE 6.6.57 includes the improvements and bugfix listed below.\nImprovements\n\nUpdated LTE module firmware for the U-LTE-Pro-EU.\nImproved LTE module update process.\n\nBugfixes\n\nFixed SNMP configuration issues.\n\nAdditional information\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nU-LTE model(s)\nPrevious LTE release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-LTE-6-6-57/c0f93016-bd56-4e1d-983d-5b895abddab2",
-          "publishedOn": "2024-01-30T16:15:16.000Z",
-          "wordCount": 6,
-          "title": "UniFi LTE 6.6.57",
           "imageUrl": null
         }
       ]
@@ -709,6 +709,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 29 Feb 2024 21:57:42 GMT",
+          "author": null,
+          "description": "FortiNAC-F 7.4.0 B0427 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-02-29T21:57:42.000Z",
+          "wordCount": 3272,
+          "title": "FortiNAC-F 7.4.0",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 27 Feb 2024 01:28:24 GMT",
           "author": null,
