@@ -14,16 +14,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point 7.0.43",
           "imageUrl": null
-        },
-        {
-          "id": "3df9b0c0-7e51-4843-93a2-276c2d63e10a",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Access Point 6.6.65 includes the improvements and bugfixes listed below. The changelog is compared to the latest official releases for Gen2/Gen3/Gen4/Gen5 APs and 6.6.65 for Gen6 APs.\n \nThis release is now available on the Official release channel for the models/generations listed below, it's still a Release Candidate for all other models.\n\nGen6 Access Points\n\nImprovements\n\n[Gen6] Improved reported client RSSI accuracy.\n\nBugfixes\n\nFixed incorrect neighbor report BSSID Information in some cases.\nFixed APs going into \"Adoption Failed\" state in some cases when using a third-party gateway.\nFixed guest portal redirector not restarting gracefully after a crash (`Waiting previous redirector stop` in logs).\nReverted LED not flashing white and blue when AP firmware is updating. This …",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-65/3df9b0c0-7e51-4843-93a2-276c2d63e10a",
-          "publishedOn": "2024-02-02T19:06:23.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.6.65",
-          "imageUrl": null
         }
       ]
     },
