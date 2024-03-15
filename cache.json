@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "b3433760-115d-4fb0-9799-535bbd1af94f",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Switch 7.0.44 adds support for Global ACL Rules on L3 switches.\nImprovements\n\nAdded support for Global ACL Rules. This requires Network Application 8.1.113 or newer.\nAdded a new PoE current-usage screen on the touchscreen.\nAdded PoE Off state on the touchscreen.\nImproved SFP module compatibility.\n[USW-Pro-Max] Added support for Port Locating on the touchscreen.\n[USW-Enterprise-8-PoE] Improved device stability after config provision.\n[USW-Pro-Aggregation] Improved SFP28 link stability for manual speed 25Gbps ports.\n[USW-Gen1/USW-Pro] Improved CPU usage when forwarding PTPv2 traffic.\n[USW] Increased the maximum number of LAG groups.\n\nBugfixes\n\nFixed unexpected log spam related to memory checks.\n[USW-Enterprise-24-PoE] Fixed an issue where wireless clients couldn't roam when Re…",
+          "link": "https://community.ui.com/releases/UniFi-Switch-7-0-44/b3433760-115d-4fb0-9799-535bbd1af94f",
+          "publishedOn": "2024-03-14T15:18:20.000Z",
+          "wordCount": 6,
+          "title": "UniFi Switch 7.0.44",
+          "imageUrl": null
+        },
+        {
           "id": "485c9e44-112d-4e50-9c19-4dafe0e2c9ec",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 7.0.43 is only available for the U7-Pro and includes the improvements and bugfixes listed below.\nImprovements\n\nImproved thermal behavior.\nImproved 6GHz roaming performance.\n\nBugfixes\n\nFixed newly applied WiFi Speed Limit not taking effect until client reconnects.\nFixed uptime for clients being reported incorrectly in some cases.\nFixed kernel crashes and stalls to improve stability.\nFixed channel width being reset to old configuration if it is configured right as an AP is booting when channel is set to Auto.\nFixed client IP address being reported incorrectly sometimes.\nFixed incorrect channel width being reported when 240MHz is configured on the 5GHz radio.\nFixed TX Retries being reported incorrectly.\nFixed UAPs on large sites (with 1K+ clients) causing excessive CPU utilization on Network Application consoles/servers.\nFixed Medium/Low transmit power configuration resetting to maximum (Auto/High) after firmware update in some cases.\nFixed false positive Association failures on the Radios > Connectivity page.\nFixed standalone adopted APs sending DNS queries for unifi frequently.\nFixed 5GHz SSIDs not broadcasting in Australia when set to channel 165, width 20MHz.\n\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -700,6 +710,46 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Thu, 14 Mar 2024 21:40:49 GMT",
+          "author": null,
+          "description": "FortiVoice 7.0.2 B0201 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-03-14T21:40:49.000Z",
+          "wordCount": 3272,
+          "title": "FortiVoice 7.0.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 14 Mar 2024 18:13:38 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.2.5 B1574 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-03-14T18:13:38.000Z",
+          "wordCount": 3272,
+          "title": "FortiAnalyzer 7.2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 14 Mar 2024 18:00:43 GMT",
+          "author": null,
+          "description": "FortiManager 7.2.5 B1574 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-03-14T18:00:43.000Z",
+          "wordCount": 3272,
+          "title": "FortiManager 7.2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 14 Mar 2024 17:46:49 GMT",
+          "author": null,
+          "description": "FortiOS 7.2.8 B1639 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-03-14T17:46:49.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 7.2.8",
+          "imageUrl": null
+        },
+        {
           "id": "Thu, 14 Mar 2024 00:15:24 GMT",
           "author": null,
           "description": "FortiWebManager 6.2.5 B0115 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -1037,16 +1087,6 @@
           "publishedOn": "2024-02-15T02:15:58.000Z",
           "wordCount": 3272,
           "title": "FortiSwitch 7.2.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 13 Feb 2024 18:48:37 GMT",
-          "author": null,
-          "description": "FortiSIEM 6.5.3 B1532 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-02-13T18:48:37.000Z",
-          "wordCount": 3272,
-          "title": "FortiSIEM 6.5.3",
           "imageUrl": null
         }
       ]

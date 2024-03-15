@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-14T00:34:55.585Z</id>
+    <id>urn:2024-03-15T00:35:25.918Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T00:34:55.585Z</updated>
+    <updated>2024-03-15T00:35:25.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiVoice 7.0.2]]></title>
+        <id>Thu, 14 Mar 2024 21:40:49 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-03-14T21:40:49.000Z</updated>
+        <summary type="html"><![CDATA[FortiVoice 7.0.2 B0201 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer 7.2.5]]></title>
+        <id>Thu, 14 Mar 2024 18:13:38 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-03-14T18:13:38.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer 7.2.5 B1574 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiManager 7.2.5]]></title>
+        <id>Thu, 14 Mar 2024 18:00:43 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-03-14T18:00:43.000Z</updated>
+        <summary type="html"><![CDATA[FortiManager 7.2.5 B1574 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiOS 7.2.8]]></title>
+        <id>Thu, 14 Mar 2024 17:46:49 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-03-14T17:46:49.000Z</updated>
+        <summary type="html"><![CDATA[FortiOS 7.2.8 B1639 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Switch 7.0.44]]></title>
+        <id>b3433760-115d-4fb0-9799-535bbd1af94f</id>
+        <link href="https://community.ui.com/releases/UniFi-Switch-7-0-44/b3433760-115d-4fb0-9799-535bbd1af94f"/>
+        <updated>2024-03-14T15:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+UniFi Switch 7.0.44 adds support for Global ACL Rules on L3 switches.
+Improvements
+
+Added support for Global ACL Rules. This requires Network Application 8.1.113 or newer.
+Added a new PoE current-usage screen on the touchscreen.
+Added PoE Off state on the touchscreen.
+Improved SFP module compatibility.
+[USW-Pro-Max] Added support for Port Locating on the touchscreen.
+[USW-Enterprise-8-PoE] Improved device stability after config provision.
+[USW-Pro-Aggregation] Improved SFP28 link stability for manual speed 25Gbps ports.
+[USW-Gen1/USW-Pro] Improved CPU usage when forwarding PTPv2 traffic.
+[USW] Increased the maximum number of LAG groups.
+
+Bugfixes
+
+Fixed unexpected log spam related to memory checks.
+[USW-Enterprise-24-PoE] Fixed an issue where wireless clients couldn't roam when Re…]]></summary>
+        <author>
+            <name>UI-Glenn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiWebManager 6.2.5]]></title>
         <id>Thu, 14 Mar 2024 00:15:24 GMT</id>
@@ -1054,16 +1121,6 @@ UniFi Network application version]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-02-15T02:15:58.000Z</updated>
         <summary type="html"><![CDATA[FortiSwitch 7.2.7 B0479 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSIEM 6.5.3]]></title>
-        <id>Tue, 13 Feb 2024 18:48:37 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-02-13T18:48:37.000Z</updated>
-        <summary type="html"><![CDATA[FortiSIEM 6.5.3 B1532 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
