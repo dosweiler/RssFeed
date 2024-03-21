@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-20T00:35:07.428Z</id>
+    <id>urn:2024-03-21T00:36:39.074Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T00:35:07.428Z</updated>
+    <updated>2024-03-21T00:36:39.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -77,7 +77,29 @@ Improved SFP module compatibility.
 Bugfixes
 
 Fixed unexpected log spam related to memory checks.
-[USW-Enterprise-24-PoE] Fixed an issue where wireless clients couldn't roam when Re…]]></summary>
+[USW-Enterprise-24-PoE] Fixed an issue where wireless clients couldn't roam when Restricted by MAC ID is enabled on the port that an AP is connected to.
+[USW-Pro-Max] Fixed Etherlighting not working if the port speed is 10Mbps.
+[USW-Pro-Max] Fixed an issue where routing to other L3 networks may not work after a reboot.
+[USW-Pro-Max] Fixed Port Native VLAN not working when VLAN Magic settings are configured.
+[USW-Pro] Fixed occasional device freezes during firmware updates.
+[USW-Enterprise-8-PoE] Fixed incorrect STP path cost when STP mode is running.
+[USP-PDU-Pro] Fixed not showing power utilization on ports where lower power consumption devices are connected.
+
+Known issues
+
+You might experience slow memory increase on USW-Pro-Max switches, this will be fixed in a upcoming firmware release.
+
+Additional information
+
+Your device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.
+
+
+ 
+If you encounter any issues with this release, please provide us some details on your setup and include the below information:
+
+Switch model(s)
+Previous Switch release version
+UniFi Network application version]]></summary>
         <author>
             <name>UI-Glenn</name>
         </author>
