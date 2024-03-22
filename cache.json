@@ -6,9 +6,19 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "6472023d-fae0-4f7d-a22c-62fd88f264f0",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Access Point 7.0.47 improved temperature management and is only avaialble for Gen7 Access Points.\nImprovements\n\nImproved device temperature management.\n\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-47/6472023d-fae0-4f7d-a22c-62fd88f264f0",
+          "publishedOn": "2024-03-21T16:29:08.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 7.0.47",
+          "imageUrl": null
+        },
+        {
           "id": "b3433760-115d-4fb0-9799-535bbd1af94f",
           "author": "UI-Glenn",
-          "description": "Overview\nUniFi Switch 7.0.44 adds support for Global ACL Rules on L3 switches.\nImprovements\n\nAdded support for Global ACL Rules. This requires Network Application 8.1.113 or newer.\nAdded a new PoE current-usage screen on the touchscreen.\nAdded PoE Off state on the touchscreen.\nImproved SFP module compatibility.\n[USW-Pro-Max] Added support for Port Locating on the touchscreen.\n[USW-Enterprise-8-PoE] Improved device stability after config provision.\n[USW-Pro-Aggregation] Improved SFP28 link stability for manual speed 25Gbps ports.\n[USW-Gen1/USW-Pro] Improved CPU usage when forwarding PTPv2 traffic.\n[USW] Increased the maximum number of LAG groups.\n\nBugfixes\n\nFixed unexpected log spam related to memory checks.\n[USW-Enterprise-24-PoE] Fixed an issue where wireless clients couldn't roam when Restricted by MAC ID is enabled on the port that an AP is connected to.\n[USW-Pro-Max] Fixed Etherlighting not working if the port speed is 10Mbps.\n[USW-Pro-Max] Fixed an issue where routing to other L3 networks may not work after a reboot.\n[USW-Pro-Max] Fixed Port Native VLAN not working when VLAN Magic settings are configured.\n[USW-Pro] Fixed occasional device freezes during firmware updates.\n[USW-Enterprise-8-PoE] Fixed incorrect STP path cost when STP mode is running.\n[USP-PDU-Pro] Fixed not showing power utilization on ports where lower power consumption devices are connected.\n\nKnown issues\n\nYou might experience slow memory increase on USW-Pro-Max switches, this will be fixed in a upcoming firmware release.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
+          "description": "Overview\nUniFi Switch 7.0.44 adds support for Global ACL Rules on L3 switches.\nImprovements\n\nAdded support for Global ACL Rules. This requires Network Application 8.1.113 or newer.\nAdded a new PoE current-usage screen on the touchscreen.\nAdded PoE Off state on the touchscreen.\nImproved SFP module compatibility.\n[USW-Pro-Max] Added support for Port Locating on the touchscreen.\n[USW-Enterprise-8-PoE] Improved device stability after config provision.\n[USW-Pro-Aggregation] Improved SFP28 link stability for manual speed 25Gbps ports.\n[USW-Gen1/USW-Pro] Improved CPU usage when forwarding PTPv2 traffic.\n[USW] Increased the maximum number of LAG groups.\n\nBugfixes\n\nFixed unexpected log spam related to memory checks.\n[USW-Enterprise-24-PoE] Fixed an issue where wireless clients couldn't roam when Restricted by MAC ID is enabled on the port that an AP is connected to.\n[USW-Pro-Max] Fixed Etherlighting not working if the port speed is 10Mbps.\n[USW-Pro-Max] Fixed an issue where routing to other L3 networks may not work after a reboot.\n[USW-Pro-Max] Fixed Port Native VLAN not working when VLAN Magic settings are configured.\n[USW-Pro] Fixed occasional device freezes during firmware updates.\n[USW-Enterprise-8-PoE] Fixed incorrect STP path cost when STP mode is running.\n[USP-PDU-Pro] Fixed not showing power utilization on ports where lower power consumption devices are connected.\n\nKnown issues\n\nYou might experience slow memory increase on USW-Pro-Max switches, this will be fixed in a upcoming firmware release.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\nYour device's Etherlighting ports may turn off for ~5 minutes after firmware upgrades to upgrade the Etherlighting firmware.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Switch-7-0-44/b3433760-115d-4fb0-9799-535bbd1af94f",
           "publishedOn": "2024-03-14T15:18:20.000Z",
           "wordCount": 6,
@@ -590,6 +600,16 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Thu, 21 Mar 2024 19:06:22 GMT",
+          "author": null,
+          "description": "FortiNAC 9.4.6 B0800 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-03-21T19:06:22.000Z",
+          "wordCount": 3272,
+          "title": "FortiNAC 9.4.6",
+          "imageUrl": null
+        },
+        {
           "id": "Tue, 19 Mar 2024 01:15:00 GMT",
           "author": null,
           "description": "FortiNDR 7.4.3 B0529 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -907,16 +927,6 @@
           "publishedOn": "2024-02-22T22:29:20.000Z",
           "wordCount": 3272,
           "title": "FortiProxy 2.0.14",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 20 Feb 2024 19:12:24 GMT",
-          "author": null,
-          "description": "FortiProxy 7.4.3 B0587 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-02-20T19:12:24.000Z",
-          "wordCount": 3272,
-          "title": "FortiProxy 7.4.3",
           "imageUrl": null
         }
       ]
