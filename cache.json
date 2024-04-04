@@ -33,16 +33,6 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html",
-          "author": null,
-          "description": "CVE-2023-6270, CVE-2024-2193, CVE-2024-26581",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html",
-          "publishedOn": "2024-03-27T21:47:00.000Z",
-          "wordCount": 388,
-          "title": "ALASKERNEL-5.10-2024-053 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-052.html",
           "author": null,
           "description": "CVE-2023-52434, CVE-2024-1627, CVE-2024-26601",
@@ -50,6 +40,16 @@
           "publishedOn": "2024-03-27T21:47:00.000Z",
           "wordCount": 384,
           "title": "ALASKERNEL-5.10-2024-052 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html",
+          "author": null,
+          "description": "CVE-2023-6270, CVE-2024-2193, CVE-2024-26581",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html",
+          "publishedOn": "2024-03-27T21:47:00.000Z",
+          "wordCount": 388,
+          "title": "ALASKERNEL-5.10-2024-053 (important): kernel",
           "imageUrl": null
         },
         {
@@ -330,6 +330,16 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Wed, 3 Apr 2024 19:06:28 GMT",
+          "author": null,
+          "description": "FortiSOAR 7.5.0 B4015 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-04-03T19:06:28.000Z",
+          "wordCount": 3272,
+          "title": "FortiSOAR 7.5.0",
+          "imageUrl": null
+        },
+        {
           "id": "Tue, 2 Apr 2024 22:25:00 GMT",
           "author": null,
           "description": "FortiAP-W2 7.2.4 B0367 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -587,86 +597,6 @@
           "publishedOn": "2024-03-05T20:59:03.000Z",
           "wordCount": 3272,
           "title": "FortiSIEM 7.1.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 5 Mar 2024 01:31:47 GMT",
-          "author": null,
-          "description": "FortiPortal 7.0.8 B0246 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-05T01:31:47.000Z",
-          "wordCount": 3272,
-          "title": "FortiPortal 7.0.8",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 4 Mar 2024 23:52:53 GMT",
-          "author": null,
-          "description": "FortiCamera 1.1.5 B0158 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-04T23:52:53.000Z",
-          "wordCount": 3272,
-          "title": "FortiCamera 1.1.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 4 Mar 2024 23:15:21 GMT",
-          "author": null,
-          "description": "FortiClientEMS 7.2.4 B0983 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-04T23:15:21.000Z",
-          "wordCount": 3272,
-          "title": "FortiClientEMS 7.2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 4 Mar 2024 23:13:50 GMT",
-          "author": null,
-          "description": "FortiClientLinux 7.2.4 B0809 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-04T23:13:50.000Z",
-          "wordCount": 3272,
-          "title": "FortiClientLinux 7.2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 4 Mar 2024 23:12:31 GMT",
-          "author": null,
-          "description": "FortiClientMac 7.2.4 B0850 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-04T23:12:31.000Z",
-          "wordCount": 3272,
-          "title": "FortiClientMac 7.2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 4 Mar 2024 23:10:50 GMT",
-          "author": null,
-          "description": "FortiClient 7.2.4 B0972 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-04T23:10:50.000Z",
-          "wordCount": 3272,
-          "title": "FortiClient 7.2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 4 Mar 2024 21:02:20 GMT",
-          "author": null,
-          "description": "FortiNDR 7.2.3 B0407 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-04T21:02:20.000Z",
-          "wordCount": 3272,
-          "title": "FortiNDR 7.2.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 4 Mar 2024 18:38:41 GMT",
-          "author": null,
-          "description": "FortiTester 7.4.0 B0917 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-04T18:38:41.000Z",
-          "wordCount": 3272,
-          "title": "FortiTester 7.4.0",
           "imageUrl": null
         }
       ]
