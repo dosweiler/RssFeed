@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-10T00:36:13.900Z</id>
+    <id>urn:2024-04-11T00:36:37.467Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T00:36:13.900Z</updated>
+    <updated>2024-04-11T00:36:37.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer-BigData 7.2.7]]></title>
+        <id>Wed, 10 Apr 2024 17:38:06 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-04-10T17:38:06.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer-BigData 7.2.7 B0659 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiAP-U 7.0.3]]></title>
         <id>Tue, 9 Apr 2024 21:15:25 GMT</id>
@@ -160,7 +170,7 @@
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html"/>
         <updated>2024-03-27T21:47:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-6270, CVE-2024-2193, CVE-2024-26581]]></summary>
+        <summary type="html"><![CDATA[CVE-2023-52429, CVE-2023-52435, CVE-2023-6270, CVE-2024-0340, CVE-2024-1151, CVE-2024-2193, CVE-2024-23850, CVE-2024-23851, CVE-2024-26581]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -190,7 +200,7 @@
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-062.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-062.html"/>
         <updated>2024-03-27T21:47:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-6270, CVE-2024-2193, CVE-2024-26581]]></summary>
+        <summary type="html"><![CDATA[CVE-2023-52429, CVE-2023-52435, CVE-2023-6270, CVE-2024-0340, CVE-2024-1151, CVE-2024-2193, CVE-2024-26581, CVE-2024-26598]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -692,16 +702,6 @@ UniFi Network application version]]></summary>
         <summary type="html"><![CDATA[FortiPortal 7.2.4 B1202 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS-2024-2491 (medium): microcode_ctl]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2491.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2491.html"/>
-        <updated>2024-03-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-38575, CVE-2023-39368]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
 </feed>

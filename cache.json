@@ -35,10 +35,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html",
           "author": null,
-          "description": "CVE-2023-6270, CVE-2024-2193, CVE-2024-26581",
+          "description": "CVE-2023-52429, CVE-2023-52435, CVE-2023-6270, CVE-2024-0340, CVE-2024-1151, CVE-2024-2193, CVE-2024-23850, CVE-2024-23851, CVE-2024-26581",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html",
           "publishedOn": "2024-03-27T21:47:00.000Z",
-          "wordCount": 388,
+          "wordCount": 1093,
           "title": "ALASKERNEL-5.10-2024-053 (important): kernel",
           "imageUrl": null
         },
@@ -65,10 +65,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-062.html",
           "author": null,
-          "description": "CVE-2023-6270, CVE-2024-2193, CVE-2024-26581",
+          "description": "CVE-2023-52429, CVE-2023-52435, CVE-2023-6270, CVE-2024-0340, CVE-2024-1151, CVE-2024-2193, CVE-2024-26581, CVE-2024-26598",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-062.html",
           "publishedOn": "2024-03-27T21:47:00.000Z",
-          "wordCount": 386,
+          "wordCount": 1035,
           "title": "ALASKERNEL-5.4-2024-062 (important): kernel",
           "imageUrl": null
         },
@@ -311,16 +311,6 @@
           "wordCount": 248,
           "title": "ALASPOSTGRESQL14-2024-010 (low): libpq",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2491.html",
-          "author": null,
-          "description": "CVE-2023-38575, CVE-2023-39368",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2491.html",
-          "publishedOn": "2024-03-12T12:00:00.000Z",
-          "wordCount": 249,
-          "title": "ALAS-2024-2491 (medium): microcode_ctl",
-          "imageUrl": null
         }
       ]
     },
@@ -329,6 +319,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 10 Apr 2024 17:38:06 GMT",
+          "author": null,
+          "description": "FortiAnalyzer-BigData 7.2.7 B0659 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-04-10T17:38:06.000Z",
+          "wordCount": 3272,
+          "title": "FortiAnalyzer-BigData 7.2.7",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 9 Apr 2024 21:15:25 GMT",
           "author": null,
