@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "5cf88e42-245e-45f6-82f9-533212c1b2ea",
+          "author": "UI-Glenn",
+          "description": "Overview\nUniFi Switch 7.0.50 includes the improvement and bugfixes listed below.\nImprovements\n\n[USW-Pro-Max] Improved latency for configuring Etherlighting modes. Requires Network Application 8.1.122 or newer.\n\nBugfixes\n\n[USW-Pro-Max] Fixed an issue that caused the memory usage to increase slowly over time.\n[USW-Pro-Aggregation] Fixed an issue where the switch stops passing Inter-VLAN traffic under heavy load.\n[USW-Pro-Aggregation] Fixed an issue where provisioning changes take longer when disabling Loop Protection on Aggregrated ports.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\nYour device's Etherlighting ports may turn off for ~5 minutes after firmware upgrades to upgrade the Etherlighting firmware.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Switch-7-0-50/5cf88e42-245e-45f6-82f9-533212c1b2ea",
+          "publishedOn": "2024-04-15T12:14:46.000Z",
+          "wordCount": 6,
+          "title": "UniFi Switch 7.0.50",
+          "imageUrl": null
+        },
+        {
           "id": "6472023d-fae0-4f7d-a22c-62fd88f264f0",
           "author": "UI-Glenn",
           "description": "Overview\nUniFi Access Point 7.0.47 improved temperature management and is only avaialble for Gen7 Access Points.\nImprovements\n\nImproved device temperature management.\n\nKnown issues\n\nSSIDs using RADIUS assigned VLANs or on different VLANs from the native VLAN may operate at slower than expected speeds. This is our top priority to resolve.\n\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
