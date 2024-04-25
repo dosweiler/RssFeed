@@ -1,31 +1,10 @@
 {
   "sources": [
     {
-      "title": "UniFi Access Point/Switch/LTE | Releases | Ubiquiti Community",
+      "title": "UniFi Access Point | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": [
-        {
-          "id": "0f083cda-91a0-43c0-9fbb-c714790a7b72",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi LTE 6.6.68 adds support for the Canadian region.\nImprovements\n\nAdded support for the Canadian region.\nImproved reporting failover status after the device booted.\nImproved factory reset process.\n\nAdditional information\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Early Access.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n\n\nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nU-LTE model(s)\nPrevious LTE release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-LTE-6-6-68/0f083cda-91a0-43c0-9fbb-c714790a7b72",
-          "publishedOn": "2024-04-17T17:15:17.000Z",
-          "wordCount": 6,
-          "title": "UniFi LTE 6.6.68",
-          "imageUrl": null
-        },
-        {
-          "id": "5cf88e42-245e-45f6-82f9-533212c1b2ea",
-          "author": "UI-Glenn",
-          "description": "Overview\nUniFi Switch 7.0.50 includes the improvement and bugfixes listed below.\nImprovements\n\n[USW-Pro-Max] Improved latency for configuring Etherlighting modes. Requires Network Application 8.1.122 or newer.\n\nBugfixes\n\n[USW-Pro-Max] Fixed an issue that caused the memory usage to increase slowly over time.\n[USW-Pro-Aggregation] Fixed an issue where the switch stops passing Inter-VLAN traffic under heavy load.\n[USW-Pro-Aggregation] Fixed an issue where provisioning changes take longer when disabling Loop Protection on Aggregrated ports.\n\nAdditional information\n\nYour device built-in display may turn black or unresponsive for ~10 minutes after firmware upgrades to upgrade Touchscreen firmware.\nYour device's Etherlighting ports may turn off for ~5 minutes after firmware upgrades to upgrade the Etherlighting firmware.\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\n \nIf you encounter any issues with this release, please provide us some details on your setup and include the below information:\n\nSwitch model(s)\nPrevious Switch release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Switch-7-0-50/5cf88e42-245e-45f6-82f9-533212c1b2ea",
-          "publishedOn": "2024-04-15T12:14:46.000Z",
-          "wordCount": 6,
-          "title": "UniFi Switch 7.0.50",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
@@ -183,16 +162,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-052.html",
-          "author": null,
-          "description": "CVE-2023-52434, CVE-2024-1627, CVE-2024-26601",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-052.html",
-          "publishedOn": "2024-03-27T21:47:00.000Z",
-          "wordCount": 384,
-          "title": "ALASKERNEL-5.10-2024-052 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-053.html",
           "author": null,
           "description": "CVE-2023-52429, CVE-2023-52435, CVE-2023-6270, CVE-2024-0340, CVE-2024-1151, CVE-2024-2193, CVE-2024-23850, CVE-2024-23851, CVE-2024-26581",
@@ -200,6 +169,16 @@
           "publishedOn": "2024-03-27T21:47:00.000Z",
           "wordCount": 1093,
           "title": "ALASKERNEL-5.10-2024-053 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-052.html",
+          "author": null,
+          "description": "CVE-2023-52434, CVE-2024-1627, CVE-2024-26601",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-052.html",
+          "publishedOn": "2024-03-27T21:47:00.000Z",
+          "wordCount": 384,
+          "title": "ALASKERNEL-5.10-2024-052 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -289,6 +268,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 24 Apr 2024 17:49:33 GMT",
+          "author": null,
+          "description": "FortiExtender 7.4.4 B0248 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-04-24T17:49:33.000Z",
+          "wordCount": 3272,
+          "title": "FortiExtender 7.4.4",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 22 Apr 2024 23:32:32 GMT",
           "author": null,
@@ -597,26 +586,6 @@
           "publishedOn": "2024-03-27T19:32:23.000Z",
           "wordCount": 3272,
           "title": "FortiRecorder 7.2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 25 Mar 2024 18:21:19 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.1.5 B0051 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-25T18:21:19.000Z",
-          "wordCount": 3272,
-          "title": "FortiSIEMWindowsAgent 7.1.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 25 Mar 2024 18:16:05 GMT",
-          "author": null,
-          "description": "FortiFone 3.0.21 B0346 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-03-25T18:16:05.000Z",
-          "wordCount": 3272,
-          "title": "FortiFone 3.0.21",
           "imageUrl": null
         }
       ]
