@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-01T00:39:52.963Z</id>
+    <id>urn:2024-05-02T00:36:28.783Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-01T00:39:52.963Z</updated>
+    <updated>2024-05-02T00:36:28.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSIEMWindowsAgent 7.1.7]]></title>
+        <id>Wed, 1 May 2024 18:29:51 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-05-01T18:29:51.000Z</updated>
+        <summary type="html"><![CDATA[FortiSIEMWindowsAgent 7.1.7 B0069 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSwitchManager 7.2.4]]></title>
         <id>Tue, 30 Apr 2024 17:00:53 GMT</id>
@@ -56,21 +66,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-054 (medium): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-054.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-054.html"/>
+        <title type="html"><![CDATA[ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html"/>
         <updated>2024-04-25T16:31:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-52447]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-055 (medium): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-055.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-055.html"/>
-        <updated>2024-04-25T16:31:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2021-46921]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -86,11 +86,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html"/>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-054 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-054.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-054.html"/>
         <updated>2024-04-25T16:31:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094]]></summary>
+        <summary type="html"><![CDATA[CVE-2023-52447]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-055 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-055.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-055.html"/>
+        <updated>2024-04-25T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-46921]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -526,9 +536,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASTOMCAT8.5-2024-019 (important): tomcat]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-019.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-019.html"/>
+        <title type="html"><![CDATA[ALASTOMCAT9-2024-013 (important): tomcat]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html"/>
         <updated>2024-04-10T22:27:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-23672, CVE-2024-24549]]></summary>
         <author>
@@ -536,9 +546,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASTOMCAT9-2024-013 (important): tomcat]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html"/>
+        <title type="html"><![CDATA[ALASTOMCAT8.5-2024-019 (important): tomcat]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-019.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-019.html"/>
         <updated>2024-04-10T22:27:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-23672, CVE-2024-24549]]></summary>
         <author>
@@ -691,26 +701,6 @@
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-04-02T21:18:30.000Z</updated>
         <summary type="html"><![CDATA[FortiADC 7.4.3 B0336 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiPAM 1.3.0]]></title>
-        <id>Mon, 1 Apr 2024 22:44:08 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-04-01T22:44:08.000Z</updated>
-        <summary type="html"><![CDATA[FortiPAM 1.3.0 B0862 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSandbox 4.4.5]]></title>
-        <id>Mon, 1 Apr 2024 17:57:47 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-04-01T17:57:47.000Z</updated>
-        <summary type="html"><![CDATA[FortiSandbox 4.4.5 B0393 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
