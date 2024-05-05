@@ -12,16 +12,6 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
-          "author": null,
-          "description": "CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
-          "publishedOn": "2024-04-25T16:31:00.000Z",
-          "wordCount": 1623,
-          "title": "ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-063.html",
           "author": null,
           "description": "CVE-2021-46921",
@@ -49,6 +39,16 @@
           "publishedOn": "2024-04-25T16:31:00.000Z",
           "wordCount": 247,
           "title": "ALASKERNEL-5.10-2024-055 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
+          "author": null,
+          "description": "CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
+          "publishedOn": "2024-04-25T16:31:00.000Z",
+          "wordCount": 1623,
+          "title": "ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -332,16 +332,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDNSMASQ-2024-002.html",
-          "author": null,
-          "description": "CVE-2023-50387, CVE-2023-50868",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDNSMASQ-2024-002.html",
-          "publishedOn": "2024-04-10T22:27:00.000Z",
-          "wordCount": 338,
-          "title": "ALASDNSMASQ-2024-002 (important): dnsmasq",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html",
           "author": null,
           "description": "CVE-2024-23672, CVE-2024-24549",
@@ -359,6 +349,16 @@
           "publishedOn": "2024-04-10T22:27:00.000Z",
           "wordCount": 360,
           "title": "ALASTOMCAT8.5-2024-019 (important): tomcat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDNSMASQ-2024-002.html",
+          "author": null,
+          "description": "CVE-2023-50387, CVE-2023-50868",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDNSMASQ-2024-002.html",
+          "publishedOn": "2024-04-10T22:27:00.000Z",
+          "wordCount": 338,
+          "title": "ALASDNSMASQ-2024-002 (important): dnsmasq",
           "imageUrl": null
         }
       ]
@@ -636,76 +636,6 @@
           "publishedOn": "2024-04-08T23:20:51.000Z",
           "wordCount": 3272,
           "title": "FortiSwitch 7.0.10",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 4 Apr 2024 22:42:47 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 7.0.12 B0623 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-04T22:42:47.000Z",
-          "wordCount": 3272,
-          "title": "FortiAnalyzer 7.0.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 4 Apr 2024 22:36:46 GMT",
-          "author": null,
-          "description": "FortiManager 7.0.12 B0623 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-04T22:36:46.000Z",
-          "wordCount": 3272,
-          "title": "FortiManager 7.0.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 4 Apr 2024 22:13:13 GMT",
-          "author": null,
-          "description": "FortiOS 7.0.15 B0632 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-04T22:13:13.000Z",
-          "wordCount": 3272,
-          "title": "FortiOS 7.0.15",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 4 Apr 2024 19:19:15 GMT",
-          "author": null,
-          "description": "FortiClientEMS 7.0.12 B0585 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-04T19:19:15.000Z",
-          "wordCount": 3272,
-          "title": "FortiClientEMS 7.0.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 4 Apr 2024 19:18:00 GMT",
-          "author": null,
-          "description": "FortiClientLinux 7.0.12 B0370 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-04T19:18:00.000Z",
-          "wordCount": 3272,
-          "title": "FortiClientLinux 7.0.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 4 Apr 2024 19:15:47 GMT",
-          "author": null,
-          "description": "FortiClientMac 7.0.12 B0437 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-04T19:15:47.000Z",
-          "wordCount": 3272,
-          "title": "FortiClientMac 7.0.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 4 Apr 2024 19:13:50 GMT",
-          "author": null,
-          "description": "FortiClient 7.0.12 B0572 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-04T19:13:50.000Z",
-          "wordCount": 3272,
-          "title": "FortiClient 7.0.12",
           "imageUrl": null
         }
       ]
