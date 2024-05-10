@@ -12,6 +12,26 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-063.html",
+          "author": null,
+          "description": "CVE-2021-46921",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-063.html",
+          "publishedOn": "2024-04-25T16:31:00.000Z",
+          "wordCount": 247,
+          "title": "ALASKERNEL-5.4-2024-063 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
+          "author": null,
+          "description": "CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
+          "publishedOn": "2024-04-25T16:31:00.000Z",
+          "wordCount": 1623,
+          "title": "ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-054.html",
           "author": null,
           "description": "CVE-2023-52447",
@@ -29,26 +49,6 @@
           "publishedOn": "2024-04-25T16:31:00.000Z",
           "wordCount": 247,
           "title": "ALASKERNEL-5.10-2024-055 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
-          "author": null,
-          "description": "CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
-          "publishedOn": "2024-04-25T16:31:00.000Z",
-          "wordCount": 1623,
-          "title": "ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-063.html",
-          "author": null,
-          "description": "CVE-2021-46921",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-063.html",
-          "publishedOn": "2024-04-25T16:31:00.000Z",
-          "wordCount": 247,
-          "title": "ALASKERNEL-5.4-2024-063 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -332,16 +332,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html",
-          "author": null,
-          "description": "CVE-2024-23672, CVE-2024-24549",
-          "link": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html",
-          "publishedOn": "2024-04-10T22:27:00.000Z",
-          "wordCount": 359,
-          "title": "ALASTOMCAT9-2024-013 (important): tomcat",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-019.html",
           "author": null,
           "description": "CVE-2024-23672, CVE-2024-24549",
@@ -349,6 +339,16 @@
           "publishedOn": "2024-04-10T22:27:00.000Z",
           "wordCount": 360,
           "title": "ALASTOMCAT8.5-2024-019 (important): tomcat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html",
+          "author": null,
+          "description": "CVE-2024-23672, CVE-2024-24549",
+          "link": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-013.html",
+          "publishedOn": "2024-04-10T22:27:00.000Z",
+          "wordCount": 359,
+          "title": "ALASTOMCAT9-2024-013 (important): tomcat",
           "imageUrl": null
         },
         {
@@ -636,16 +636,6 @@
           "publishedOn": "2024-04-10T17:38:06.000Z",
           "wordCount": 3272,
           "title": "FortiAnalyzer-BigData 7.2.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 9 Apr 2024 21:15:25 GMT",
-          "author": null,
-          "description": "FortiAP-U 7.0.3 B0125 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-04-09T21:15:25.000Z",
-          "wordCount": 3272,
-          "title": "FortiAP-U 7.0.3",
           "imageUrl": null
         }
       ]
