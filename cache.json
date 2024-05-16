@@ -4,7 +4,18 @@
       "title": "UniFi Access Point | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "e1098f1f-833f-4bdd-a061-18157d9ce019",
+          "author": "UI-Glenn",
+          "description": "Overview\nThis is the initial release for the U6-Mesh-Pro.\nAdditional information\n\nRefer to the Help Center article here to determine the UniFi Access Point generation.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-53/e1098f1f-833f-4bdd-a061-18157d9ce019",
+          "publishedOn": "2024-05-15T13:57:01.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point 7.0.53",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
@@ -12,13 +23,113 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2536.html",
+          "author": null,
+          "description": "CVE-2024-33655",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2536.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 237,
+          "title": "ALAS-2024-2536 (important): unbound",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2537.html",
+          "author": null,
+          "description": "CVE-2024-22211, CVE-2024-32039, CVE-2024-32040, CVE-2024-32041, CVE-2024-32458, CVE-2024-32459, CVE-2024-32460, CVE-2024-32659",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2537.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 541,
+          "title": "ALAS-2024-2537 (medium): freerdp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2538.html",
+          "author": null,
+          "description": "CVE-2024-32462",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2538.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 396,
+          "title": "ALAS-2024-2538 (important): flatpak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2539.html",
+          "author": null,
+          "description": "CVE-2024-2511",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2539.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 353,
+          "title": "ALAS-2024-2539 (medium): edk2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2540.html",
           "author": null,
           "description": "CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
-          "publishedOn": "2024-04-25T16:31:00.000Z",
-          "wordCount": 1623,
-          "title": "ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2540.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 1650,
+          "title": "ALAS-2024-2540 (low): java-1.8.0-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2541.html",
+          "author": null,
+          "description": "CVE-2023-6597",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2541.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 267,
+          "title": "ALAS-2024-2541 (important): python3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2542.html",
+          "author": null,
+          "description": "CVE-2023-52628",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2542.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 306,
+          "title": "ALAS-2024-2542 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2543.html",
+          "author": null,
+          "description": "CVE-2023-39326",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2543.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 329,
+          "title": "ALAS-2024-2543 (medium): cni-plugins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2544.html",
+          "author": null,
+          "description": "CVE-2023-36664",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2544.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 231,
+          "title": "ALAS-2024-2544 (important): ghostscript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2545.html",
+          "author": null,
+          "description": "CVE-2019-17596",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2545.html",
+          "publishedOn": "2024-05-09T19:16:00.000Z",
+          "wordCount": 241,
+          "title": "ALAS-2024-2545 (important): golang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2535.html",
+          "author": null,
+          "description": "",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2535.html",
+          "publishedOn": "2024-05-08T21:19:00.000Z",
+          "wordCount": 245,
+          "title": "ALAS-2024-2535 (important): git",
           "imageUrl": null
         },
         {
@@ -49,6 +160,16 @@
           "publishedOn": "2024-04-25T16:31:00.000Z",
           "wordCount": 247,
           "title": "ALASKERNEL-5.10-2024-055 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
+          "author": null,
+          "description": "CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
+          "publishedOn": "2024-04-25T16:31:00.000Z",
+          "wordCount": 1623,
+          "title": "ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -218,6 +339,56 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 15 May 2024 23:12:04 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.4.3 B2487 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-05-15T23:12:04.000Z",
+          "wordCount": 3272,
+          "title": "FortiAnalyzer 7.4.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 15 May 2024 22:57:43 GMT",
+          "author": null,
+          "description": "FortiManager 7.4.3 B2487 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-05-15T22:57:43.000Z",
+          "wordCount": 3272,
+          "title": "FortiManager 7.4.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 15 May 2024 22:49:55 GMT",
+          "author": null,
+          "description": "FortiOS 7.4.4 B2662 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-05-15T22:49:55.000Z",
+          "wordCount": 3272,
+          "title": "FortiOS 7.4.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 15 May 2024 21:50:21 GMT",
+          "author": null,
+          "description": "FortiTester 7.4.1 B0938 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-05-15T21:50:21.000Z",
+          "wordCount": 3272,
+          "title": "FortiTester 7.4.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 15 May 2024 21:22:32 GMT",
+          "author": null,
+          "description": "FortiSIEM 7.1.6 B0186 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-05-15T21:22:32.000Z",
+          "wordCount": 3272,
+          "title": "FortiSIEM 7.1.6",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 10 May 2024 18:26:49 GMT",
           "author": null,
