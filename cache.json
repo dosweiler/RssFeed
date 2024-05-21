@@ -123,6 +123,86 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-064.html",
+          "author": null,
+          "description": "CVE-2024-26925",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-064.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 309,
+          "title": "ALASKERNEL-5.4-2024-064 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-065.html",
+          "author": null,
+          "description": "CVE-2023-52434, CVE-2024-26583, CVE-2024-26584, CVE-2024-26586",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-065.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 511,
+          "title": "ALASKERNEL-5.4-2024-065 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-066.html",
+          "author": null,
+          "description": "CVE-2019-19602, CVE-2019-19965",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-066.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 315,
+          "title": "ALASKERNEL-5.4-2024-066 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html",
+          "author": null,
+          "description": "CVE-2024-26925",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 311,
+          "title": "ALASKERNEL-5.10-2024-056 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html",
+          "author": null,
+          "description": "CVE-2024-26583, CVE-2024-26584",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 437,
+          "title": "ALASKERNEL-5.10-2024-057 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-008.html",
+          "author": null,
+          "description": "CVE-2024-21011, CVE-2024-21012, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-008.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 1135,
+          "title": "ALASJAVA-OPENJDK11-2024-008 (low): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-042.html",
+          "author": null,
+          "description": "CVE-2024-26925",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-042.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 311,
+          "title": "ALASKERNEL-5.15-2024-042 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-043.html",
+          "author": null,
+          "description": "CVE-2024-26583, CVE-2024-26584",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-043.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 437,
+          "title": "ALASKERNEL-5.15-2024-043 (medium): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2535.html",
           "author": null,
           "description": "",
@@ -163,16 +243,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-024.html",
-          "author": null,
-          "description": "CVE-2024-29944, CVE-2024-3302, CVE-2024-3852, CVE-2024-3854, CVE-2024-3857, CVE-2024-3861, CVE-2024-3864",
-          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-024.html",
-          "publishedOn": "2024-04-25T16:31:00.000Z",
-          "wordCount": 460,
-          "title": "ALASFIREFOX-2024-024 (important): firefox",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html",
           "author": null,
           "description": "CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094",
@@ -180,6 +250,16 @@
           "publishedOn": "2024-04-25T16:31:00.000Z",
           "wordCount": 1623,
           "title": "ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-024.html",
+          "author": null,
+          "description": "CVE-2024-29944, CVE-2024-3302, CVE-2024-3852, CVE-2024-3854, CVE-2024-3857, CVE-2024-3861, CVE-2024-3864",
+          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-024.html",
+          "publishedOn": "2024-04-25T16:31:00.000Z",
+          "wordCount": 460,
+          "title": "ALASFIREFOX-2024-024 (important): firefox",
           "imageUrl": null
         },
         {
