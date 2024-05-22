@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-21T00:38:18.145Z</id>
+    <id>urn:2024-05-22T00:37:57.770Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T00:38:18.145Z</updated>
+    <updated>2024-05-22T00:37:57.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSwitchManager 7.0.4]]></title>
+        <id>Tue, 21 May 2024 16:05:08 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-05-21T16:05:08.000Z</updated>
+        <summary type="html"><![CDATA[FortiSwitchManager 7.0.4 B0044 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiIsolator 2.4.5]]></title>
         <id>Sat, 18 May 2024 00:18:48 GMT</id>
@@ -217,6 +227,16 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASJAVA-OPENJDK11-2024-008 (low): java-11-openjdk]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-008.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-008.html"/>
+        <updated>2024-05-09T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-21011, CVE-2024-21012, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.4-2024-064 (medium): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-064.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-064.html"/>
@@ -247,36 +267,6 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-056 (medium): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html"/>
-        <updated>2024-05-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26925]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-057 (medium): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html"/>
-        <updated>2024-05-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26583, CVE-2024-26584]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASJAVA-OPENJDK11-2024-008 (low): java-11-openjdk]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-008.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-008.html"/>
-        <updated>2024-05-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-21011, CVE-2024-21012, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.15-2024-042 (medium): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-042.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-042.html"/>
@@ -290,6 +280,26 @@ UniFi Network application version]]></summary>
         <title type="html"><![CDATA[ALASKERNEL-5.15-2024-043 (medium): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-043.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-043.html"/>
+        <updated>2024-05-09T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26583, CVE-2024-26584]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-056 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html"/>
+        <updated>2024-05-09T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26925]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-057 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html"/>
         <updated>2024-05-09T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-26583, CVE-2024-26584]]></summary>
         <author>
@@ -416,6 +426,16 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html"/>
+        <updated>2024-04-25T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.4-2024-063 (medium): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-063.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-063.html"/>
@@ -441,16 +461,6 @@ UniFi Network application version]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-055.html"/>
         <updated>2024-04-25T16:31:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2021-46921]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASCORRETTO8-2024-011 (low): java-1.8.0-amazon-corretto]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-011.html"/>
-        <updated>2024-04-25T16:31:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-21002, CVE-2024-21003, CVE-2024-21004, CVE-2024-21005, CVE-2024-21011, CVE-2024-21068, CVE-2024-21085, CVE-2024-21094]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
