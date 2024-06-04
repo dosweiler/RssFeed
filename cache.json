@@ -43,16 +43,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
-          "author": null,
-          "description": "CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603",
-          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 1785,
-          "title": "ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
           "author": null,
           "description": "CVE-2023-45288",
@@ -63,13 +53,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
           "author": null,
-          "description": "CVE-2023-1390",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
+          "description": "CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
           "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 299,
-          "title": "ALASKERNEL-5.10-2024-058 (important): kernel",
+          "wordCount": 1785,
+          "title": "ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk",
           "imageUrl": null
         },
         {
@@ -103,13 +93,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-004.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
           "author": null,
-          "description": "CVE-2024-2756, CVE-2024-3096",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-004.html",
+          "description": "CVE-2023-45288",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
           "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 364,
-          "title": "ALASPHP8.2-2024-004 (important): php",
+          "wordCount": 333,
+          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
           "imageUrl": null
         },
         {
@@ -123,13 +113,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
           "author": null,
-          "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
+          "description": "CVE-2023-1390",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
           "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 333,
-          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
+          "wordCount": 299,
+          "title": "ALASKERNEL-5.10-2024-058 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-004.html",
+          "author": null,
+          "description": "CVE-2024-2756, CVE-2024-3096",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-004.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 364,
+          "title": "ALASPHP8.2-2024-004 (important): php",
           "imageUrl": null
         },
         {
@@ -413,26 +413,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html",
-          "author": null,
-          "description": "CVE-2024-26925",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html",
-          "publishedOn": "2024-05-09T18:00:00.000Z",
-          "wordCount": 311,
-          "title": "ALASKERNEL-5.10-2024-056 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html",
-          "author": null,
-          "description": "CVE-2024-26583, CVE-2024-26584, CVE-2024-26923",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html",
-          "publishedOn": "2024-05-09T18:00:00.000Z",
-          "wordCount": 462,
-          "title": "ALASKERNEL-5.10-2024-057 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-064.html",
           "author": null,
           "description": "CVE-2024-26925",
@@ -460,6 +440,26 @@
           "publishedOn": "2024-05-09T18:00:00.000Z",
           "wordCount": 315,
           "title": "ALASKERNEL-5.4-2024-066 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html",
+          "author": null,
+          "description": "CVE-2024-26925",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-056.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 311,
+          "title": "ALASKERNEL-5.10-2024-056 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html",
+          "author": null,
+          "description": "CVE-2024-26583, CVE-2024-26584, CVE-2024-26923",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-057.html",
+          "publishedOn": "2024-05-09T18:00:00.000Z",
+          "wordCount": 462,
+          "title": "ALASKERNEL-5.10-2024-057 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -499,6 +499,56 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 3 Jun 2024 21:53:29 GMT",
+          "author": null,
+          "description": "FortiClientEMS 7.4.0 B1793 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-06-03T21:53:29.000Z",
+          "wordCount": 3272,
+          "title": "FortiClientEMS 7.4.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 3 Jun 2024 21:49:36 GMT",
+          "author": null,
+          "description": "FortiClientLinux 7.4.0 B1636 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-06-03T21:49:36.000Z",
+          "wordCount": 3272,
+          "title": "FortiClientLinux 7.4.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 3 Jun 2024 21:47:13 GMT",
+          "author": null,
+          "description": "FortiClientMac 7.4.0 B1645 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-06-03T21:47:13.000Z",
+          "wordCount": 3272,
+          "title": "FortiClientMac 7.4.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 3 Jun 2024 21:35:08 GMT",
+          "author": null,
+          "description": "FortiClient 7.4.0 B1658 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-06-03T21:35:08.000Z",
+          "wordCount": 3272,
+          "title": "FortiClient 7.4.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 3 Jun 2024 17:09:55 GMT",
+          "author": null,
+          "description": "FortiADC 7.4.4 B0347 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-06-03T17:09:55.000Z",
+          "wordCount": 3272,
+          "title": "FortiADC 7.4.4",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 31 May 2024 17:30:04 GMT",
           "author": null,
