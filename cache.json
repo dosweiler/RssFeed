@@ -8,7 +8,7 @@
         {
           "id": "f3db748f-b2d5-47a4-8270-18daa4060dae",
           "author": "UI-Glenn",
-          "description": "Overview\nThis release brings roaming improvements (especially with U7 APs), boosts adoption resiliency, improves statistic accuracy, and fixes several client interoperability issues.\nThis release does not include U6+. We will release another version for U6+ with some more improvements soon.\nImprovements\n\nImproved WPA2/WPA3 roaming for WPA3 clients.\nReduced excessive logging for clients connected to Hotspot Portal.\n[Gen2] Improved firmware update resiliency.\n[Gen4] Improved meshing stability on DFS channels.\n[Gen4/Gen6] Improved device stability by fixing kernel crashes.\n[Gen5] Improved overall stability.\n[Gen5] Improved meshing stability on DFS channels.\n[Gen6] Improved DFS Radar detection to reduce false positives.\n[U6-Enterprise/U6-Enterprise-IW] Improved 6GHz channel selection after an …",
+          "description": "Overview\nThis release brings roaming improvements, boosts adoption resiliency, improves statistic accuracy, and fixes several client interoperability issues.\nThis release does not include U6+. We will release another version for U6+ with some more improvements soon.\nImprovements\n\nImproved WPA2/WPA3 roaming for WPA3 clients.\nReduced excessive logging for clients connected to Hotspot Portal.\n[Gen2] Improved firmware update resiliency.\n[Gen4] Improved meshing stability on DFS channels.\n[Gen4/Gen6] Improved device stability by fixing kernel crashes.\n[Gen5] Improved overall stability.\n[Gen5] Improved meshing stability on DFS channels.\n[Gen6] Improved DFS Radar detection to reduce false positives.\n[U6-Enterprise/U6-Enterprise-IW] Improved 6GHz channel selection after an RF Environment Scan.\n[U6-…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-73/f3db748f-b2d5-47a4-8270-18daa4060dae",
           "publishedOn": "2024-06-12T18:43:17.000Z",
           "wordCount": 6,
@@ -233,16 +233,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
-          "author": null,
-          "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 333,
-          "title": "ALASDOCKER-2024-039 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
           "author": null,
           "description": "CVE-2023-45288",
@@ -250,16 +240,6 @@
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 333,
           "title": "ALASECS-2024-036 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
-          "author": null,
-          "description": "CVE-2021-3517, CVE-2021-3522, CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35588, CVE-2021-35603",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 2027,
-          "title": "ALASCORRETTO8-2024-012 (important): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -273,6 +253,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
+          "author": null,
+          "description": "CVE-2021-3517, CVE-2021-3522, CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35588, CVE-2021-35603",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 2027,
+          "title": "ALASCORRETTO8-2024-012 (important): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
           "author": null,
           "description": "CVE-2023-45288",
@@ -280,6 +270,16 @@
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 333,
           "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
+          "author": null,
+          "description": "CVE-2023-45288",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 333,
+          "title": "ALASDOCKER-2024-039 (medium): amazon-ecr-credential-helper",
           "imageUrl": null
         },
         {
