@@ -233,6 +233,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
+          "author": null,
+          "description": "CVE-2023-45288",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 333,
+          "title": "ALASECS-2024-036 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
           "author": null,
           "description": "CVE-2023-45288",
@@ -240,16 +250,6 @@
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 333,
           "title": "ALASDOCKER-2024-039 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
-          "author": null,
-          "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 333,
-          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
           "imageUrl": null
         },
         {
@@ -263,13 +263,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
           "author": null,
           "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 333,
-          "title": "ALASECS-2024-036 (medium): amazon-ecr-credential-helper",
+          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
+          "author": null,
+          "description": "CVE-2021-3517, CVE-2021-3522, CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35588, CVE-2021-35603",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 2027,
+          "title": "ALASCORRETTO8-2024-012 (important): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -310,16 +320,6 @@
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 321,
           "title": "ALASKERNEL-5.4-2024-069 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
-          "author": null,
-          "description": "CVE-2021-3517, CVE-2021-3522, CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35588, CVE-2021-35603",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-012.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 2027,
-          "title": "ALASCORRETTO8-2024-012 (important): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -490,16 +490,6 @@
           "publishedOn": "2024-05-23T22:04:00.000Z",
           "wordCount": 240,
           "title": "ALAS-2024-2560 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-001.html",
-          "author": null,
-          "description": "CVE-2024-33655",
-          "link": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-001.html",
-          "publishedOn": "2024-05-16T23:12:00.000Z",
-          "wordCount": 243,
-          "title": "ALASUNBOUND-2024-001 (important): unbound",
           "imageUrl": null
         }
       ]
@@ -717,16 +707,6 @@
           "publishedOn": "2024-05-18T00:18:48.000Z",
           "wordCount": 3272,
           "title": "FortiIsolator 2.4.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 16 May 2024 20:08:08 GMT",
-          "author": null,
-          "description": "FortiDDoS-F 7.0.1 B0719 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-05-16T20:08:08.000Z",
-          "wordCount": 3272,
-          "title": "FortiDDoS-F 7.0.1",
           "imageUrl": null
         }
       ]
