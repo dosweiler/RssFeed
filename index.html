@@ -74,18 +74,23 @@ Fixed intermittent Debug Terminal failures.
                 <p>Overview
 This release brings roaming improvements, boosts adoption resiliency, improves statistic accuracy, and fixes several client interoperability issues.
 This release does not include U6+. We will release another version for U6+ with some more improvements soon.
+ 
+This release is on the Official/Stable release channel for the following models. It&#x27;s still a Release Candidate for the other models.
+
+Gen2: AC-Lite, AC-M-Pro, AC-IW
+Gen3: SHD, UAP-XG
+Gen4: FlexHD, IW-HD
+Gen5: U6-Lite
+Gen6: U6-Mesh, U6-Enterprise-IW
+
+
 Improvements
 
 Improved WPA2/WPA3 roaming for WPA3 clients.
 Reduced excessive logging for clients connected to Hotspot Portal.
 [Gen2] Improved firmware update resiliency.
 [Gen4] Improved meshing stability on DFS channels.
-[Gen4/Gen6] Improved device stability by fixing kernel crashes.
-[Gen5] Improved overall stability.
-[Gen5] Improved meshing stability on DFS channels.
-[Gen6] Improved DFS Radar detection to reduce false positives.
-[U6-Enterprise/U6-Enterprise-IW] Improved 6GHz channel selection after an RF Environment Scan.
-[U6-…</p>
+[Gen4/Gen6] Improved device stability by fixing kernel cra…</p>
               </details>
             </article>
 
@@ -435,21 +440,21 @@ UniFi Network application version</p>
       <ul>
 
             <article>
-                <h3><a href=https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-059.html>ALASKERNEL-5.10-2024-059 (important): kernel</a></h3>
-                <div>
-                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
-                  <span>Date: <time>2024-06-06</time></span> |
-                </div>
-                <p>CVE-2023-30456</p>
-              </details>
-            </article>
-            <article>
                 <h3><a href=https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-044.html>ALASKERNEL-5.15-2024-044 (medium): kernel</a></h3>
                 <div>
                   <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
                   <span>Date: <time>2024-06-06</time></span> |
                 </div>
                 <p>CVE-2024-26900, CVE-2024-35947, CVE-2024-36017, CVE-2024-36883, CVE-2024-36889, CVE-2024-36902, CVE-2024-36904, CVE-2024-36905, CVE-2024-36906, CVE-2024-36916, CVE-2024-36929, CVE-2024-36933, CVE-2024-36937, CVE-2024-36938, CVE-2024-36939, CVE-2024-36940, CVE-2024-36959</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-059.html>ALASKERNEL-5.10-2024-059 (important): kernel</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2024-06-06</time></span> |
+                </div>
+                <p>CVE-2023-30456</p>
               </details>
             </article>
             <article>
@@ -625,33 +630,6 @@ UniFi Network application version</p>
               </details>
             </article>
             <article>
-                <h3><a href=https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html>ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk</a></h3>
-                <div>
-                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
-                  <span>Date: <time>2024-05-23</time></span> |
-                </div>
-                <p>CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603</p>
-              </details>
-            </article>
-            <article>
-                <h3><a href=https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html>ALASECS-2024-036 (medium): amazon-ecr-credential-helper</a></h3>
-                <div>
-                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
-                  <span>Date: <time>2024-05-23</time></span> |
-                </div>
-                <p>CVE-2023-45288</p>
-              </details>
-            </article>
-            <article>
-                <h3><a href=https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html>ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper</a></h3>
-                <div>
-                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
-                  <span>Date: <time>2024-05-23</time></span> |
-                </div>
-                <p>CVE-2023-45288</p>
-              </details>
-            </article>
-            <article>
                 <h3><a href=https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-067.html>ALASKERNEL-5.4-2024-067 (medium): kernel</a></h3>
                 <div>
                   <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
@@ -679,12 +657,30 @@ UniFi Network application version</p>
               </details>
             </article>
             <article>
-                <h3><a href=https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html>ALASKERNEL-5.10-2024-058 (important): kernel</a></h3>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html>ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk</a></h3>
                 <div>
                   <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
                   <span>Date: <time>2024-05-23</time></span> |
                 </div>
-                <p>CVE-2021-28951, CVE-2023-1390</p>
+                <p>CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html>ALASECS-2024-036 (medium): amazon-ecr-credential-helper</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2024-05-23</time></span> |
+                </div>
+                <p>CVE-2023-45288</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html>ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2024-05-23</time></span> |
+                </div>
+                <p>CVE-2023-45288</p>
               </details>
             </article>
             <article>
@@ -694,6 +690,15 @@ UniFi Network application version</p>
                   <span>Date: <time>2024-05-23</time></span> |
                 </div>
                 <p>CVE-2021-3517, CVE-2021-3522, CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35588, CVE-2021-35603</p>
+              </details>
+            </article>
+            <article>
+                <h3><a href=https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html>ALASKERNEL-5.10-2024-058 (important): kernel</a></h3>
+                <div>
+                  <span>Source: <a href=https://alas.aws.amazon.com>Amazon Linux AMI Security Bulletins</a></span> | 
+                  <span>Date: <time>2024-05-23</time></span> |
+                </div>
+                <p>CVE-2021-28951, CVE-2023-1390</p>
               </details>
             </article>
             <article>

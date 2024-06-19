@@ -18,7 +18,7 @@
         {
           "id": "f3db748f-b2d5-47a4-8270-18daa4060dae",
           "author": "UI-Glenn",
-          "description": "Overview\nThis release brings roaming improvements, boosts adoption resiliency, improves statistic accuracy, and fixes several client interoperability issues.\nThis release does not include U6+. We will release another version for U6+ with some more improvements soon.\nImprovements\n\nImproved WPA2/WPA3 roaming for WPA3 clients.\nReduced excessive logging for clients connected to Hotspot Portal.\n[Gen2] Improved firmware update resiliency.\n[Gen4] Improved meshing stability on DFS channels.\n[Gen4/Gen6] Improved device stability by fixing kernel crashes.\n[Gen5] Improved overall stability.\n[Gen5] Improved meshing stability on DFS channels.\n[Gen6] Improved DFS Radar detection to reduce false positives.\n[U6-Enterprise/U6-Enterprise-IW] Improved 6GHz channel selection after an RF Environment Scan.\n[U6-…",
+          "description": "Overview\nThis release brings roaming improvements, boosts adoption resiliency, improves statistic accuracy, and fixes several client interoperability issues.\nThis release does not include U6+. We will release another version for U6+ with some more improvements soon.\n \nThis release is on the Official/Stable release channel for the following models. It's still a Release Candidate for the other models.\n\nGen2: AC-Lite, AC-M-Pro, AC-IW\nGen3: SHD, UAP-XG\nGen4: FlexHD, IW-HD\nGen5: U6-Lite\nGen6: U6-Mesh, U6-Enterprise-IW\n\n\nImprovements\n\nImproved WPA2/WPA3 roaming for WPA3 clients.\nReduced excessive logging for clients connected to Hotspot Portal.\n[Gen2] Improved firmware update resiliency.\n[Gen4] Improved meshing stability on DFS channels.\n[Gen4/Gen6] Improved device stability by fixing kernel cra…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-73/f3db748f-b2d5-47a4-8270-18daa4060dae",
           "publishedOn": "2024-06-12T18:43:17.000Z",
           "wordCount": 6,
@@ -43,16 +43,6 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-059.html",
-          "author": null,
-          "description": "CVE-2023-30456",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-059.html",
-          "publishedOn": "2024-06-06T20:38:00.000Z",
-          "wordCount": 257,
-          "title": "ALASKERNEL-5.10-2024-059 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-044.html",
           "author": null,
           "description": "CVE-2024-26900, CVE-2024-35947, CVE-2024-36017, CVE-2024-36883, CVE-2024-36889, CVE-2024-36902, CVE-2024-36904, CVE-2024-36905, CVE-2024-36906, CVE-2024-36916, CVE-2024-36929, CVE-2024-36933, CVE-2024-36937, CVE-2024-36938, CVE-2024-36939, CVE-2024-36940, CVE-2024-36959",
@@ -60,6 +50,16 @@
           "publishedOn": "2024-06-06T20:38:00.000Z",
           "wordCount": 553,
           "title": "ALASKERNEL-5.15-2024-044 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-059.html",
+          "author": null,
+          "description": "CVE-2023-30456",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-059.html",
+          "publishedOn": "2024-06-06T20:38:00.000Z",
+          "wordCount": 257,
+          "title": "ALASKERNEL-5.10-2024-059 (important): kernel",
           "imageUrl": null
         },
         {
@@ -243,36 +243,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
-          "author": null,
-          "description": "CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603",
-          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 1785,
-          "title": "ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
-          "author": null,
-          "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 333,
-          "title": "ALASECS-2024-036 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
-          "author": null,
-          "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 333,
-          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-067.html",
           "author": null,
           "description": "CVE-2024-26898",
@@ -303,13 +273,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
           "author": null,
-          "description": "CVE-2021-28951, CVE-2023-1390",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
+          "description": "CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
           "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 354,
-          "title": "ALASKERNEL-5.10-2024-058 (important): kernel",
+          "wordCount": 1785,
+          "title": "ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
+          "author": null,
+          "description": "CVE-2023-45288",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 333,
+          "title": "ALASECS-2024-036 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
+          "author": null,
+          "description": "CVE-2023-45288",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 333,
+          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
           "imageUrl": null
         },
         {
@@ -320,6 +310,16 @@
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 2027,
           "title": "ALASCORRETTO8-2024-012 (important): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
+          "author": null,
+          "description": "CVE-2021-28951, CVE-2023-1390",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 354,
+          "title": "ALASKERNEL-5.10-2024-058 (important): kernel",
           "imageUrl": null
         },
         {
