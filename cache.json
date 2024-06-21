@@ -43,16 +43,6 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-044.html",
-          "author": null,
-          "description": "CVE-2024-26900, CVE-2024-35947, CVE-2024-36017, CVE-2024-36883, CVE-2024-36889, CVE-2024-36902, CVE-2024-36904, CVE-2024-36905, CVE-2024-36906, CVE-2024-36916, CVE-2024-36929, CVE-2024-36933, CVE-2024-36937, CVE-2024-36938, CVE-2024-36939, CVE-2024-36940, CVE-2024-36959",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-044.html",
-          "publishedOn": "2024-06-06T20:38:00.000Z",
-          "wordCount": 553,
-          "title": "ALASKERNEL-5.15-2024-044 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-059.html",
           "author": null,
           "description": "CVE-2023-30456",
@@ -60,6 +50,16 @@
           "publishedOn": "2024-06-06T20:38:00.000Z",
           "wordCount": 257,
           "title": "ALASKERNEL-5.10-2024-059 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-044.html",
+          "author": null,
+          "description": "CVE-2024-26900, CVE-2024-35947, CVE-2024-36017, CVE-2024-36883, CVE-2024-36889, CVE-2024-36902, CVE-2024-36904, CVE-2024-36905, CVE-2024-36906, CVE-2024-36916, CVE-2024-36929, CVE-2024-36933, CVE-2024-36937, CVE-2024-36938, CVE-2024-36939, CVE-2024-36940, CVE-2024-36959",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-044.html",
+          "publishedOn": "2024-06-06T20:38:00.000Z",
+          "wordCount": 553,
+          "title": "ALASKERNEL-5.15-2024-044 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -233,26 +233,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
-          "author": null,
-          "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 333,
-          "title": "ALASDOCKER-2024-039 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
-          "author": null,
-          "description": "CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603",
-          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 1785,
-          "title": "ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-036.html",
           "author": null,
           "description": "CVE-2023-45288",
@@ -260,16 +240,6 @@
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 333,
           "title": "ALASECS-2024-036 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
-          "author": null,
-          "description": "CVE-2023-45288",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
-          "publishedOn": "2024-05-23T23:02:00.000Z",
-          "wordCount": 333,
-          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
           "imageUrl": null
         },
         {
@@ -313,6 +283,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
+          "author": null,
+          "description": "CVE-2023-45288",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-040.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 333,
+          "title": "ALASNITRO-ENCLAVES-2024-040 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
+          "author": null,
+          "description": "CVE-2021-35550, CVE-2021-35556, CVE-2021-35559, CVE-2021-35561, CVE-2021-35564, CVE-2021-35565, CVE-2021-35567, CVE-2021-35578, CVE-2021-35586, CVE-2021-35603",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-009.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 1785,
+          "title": "ALASJAVA-OPENJDK11-2024-009 (important): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-058.html",
           "author": null,
           "description": "CVE-2021-28951, CVE-2023-1390",
@@ -320,6 +310,16 @@
           "publishedOn": "2024-05-23T23:02:00.000Z",
           "wordCount": 354,
           "title": "ALASKERNEL-5.10-2024-058 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
+          "author": null,
+          "description": "CVE-2023-45288",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-039.html",
+          "publishedOn": "2024-05-23T23:02:00.000Z",
+          "wordCount": 333,
+          "title": "ALASDOCKER-2024-039 (medium): amazon-ecr-credential-helper",
           "imageUrl": null
         },
         {
@@ -697,16 +697,6 @@
           "publishedOn": "2024-05-24T00:20:43.000Z",
           "wordCount": 3272,
           "title": "FortiSandbox 4.4.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 21 May 2024 16:05:08 GMT",
-          "author": null,
-          "description": "FortiSwitchManager 7.0.4 B0044 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-05-21T16:05:08.000Z",
-          "wordCount": 3272,
-          "title": "FortiSwitchManager 7.0.4",
           "imageUrl": null
         }
       ]
