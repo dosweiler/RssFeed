@@ -43,13 +43,23 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-173.html",
           "author": null,
-          "description": "CVE-2024-23326, CVE-2024-32475, CVE-2024-32974, CVE-2024-32975, CVE-2024-32976, CVE-2024-34362, CVE-2024-34363, CVE-2024-34364",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html",
+          "description": "CVE-2023-52628",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-173.html",
           "publishedOn": "2024-06-19T20:39:00.000Z",
-          "wordCount": 662,
-          "title": "ALASECS-2024-037 (important): ecs-service-connect-agent",
+          "wordCount": 256,
+          "title": "ALASLIVEPATCH-2024-173 (important): kernel-livepatch-4.14.343-259.562",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-174.html",
+          "author": null,
+          "description": "CVE-2023-52628",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-174.html",
+          "publishedOn": "2024-06-19T20:39:00.000Z",
+          "wordCount": 256,
+          "title": "ALASLIVEPATCH-2024-174 (important): kernel-livepatch-4.14.343-260.564",
           "imageUrl": null
         },
         {
@@ -103,26 +113,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-173.html",
-          "author": null,
-          "description": "CVE-2023-52628",
-          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-173.html",
-          "publishedOn": "2024-06-19T20:39:00.000Z",
-          "wordCount": 256,
-          "title": "ALASLIVEPATCH-2024-173 (important): kernel-livepatch-4.14.343-259.562",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-174.html",
-          "author": null,
-          "description": "CVE-2023-52628",
-          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-174.html",
-          "publishedOn": "2024-06-19T20:39:00.000Z",
-          "wordCount": 256,
-          "title": "ALASLIVEPATCH-2024-174 (important): kernel-livepatch-4.14.343-260.564",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.1-2024-005.html",
           "author": null,
           "description": "CVE-2024-2408, CVE-2024-2756, CVE-2024-3096, CVE-2024-5458",
@@ -130,16 +120,6 @@
           "publishedOn": "2024-06-19T20:39:00.000Z",
           "wordCount": 544,
           "title": "ALASPHP8.1-2024-005 (important): php",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASANSIBLE2-2024-011.html",
-          "author": null,
-          "description": "CVE-2013-7459",
-          "link": "https://alas.aws.amazon.com/AL2/ALASANSIBLE2-2024-011.html",
-          "publishedOn": "2024-06-19T20:39:00.000Z",
-          "wordCount": 241,
-          "title": "ALASANSIBLE2-2024-011 (important): python-crypto",
           "imageUrl": null
         },
         {
@@ -153,13 +133,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-002.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASANSIBLE2-2024-011.html",
           "author": null,
-          "description": "CVE-2024-1488",
-          "link": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-002.html",
+          "description": "CVE-2013-7459",
+          "link": "https://alas.aws.amazon.com/AL2/ALASANSIBLE2-2024-011.html",
           "publishedOn": "2024-06-19T20:39:00.000Z",
-          "wordCount": 293,
-          "title": "ALASUNBOUND-1.17-2024-002 (important): unbound",
+          "wordCount": 241,
+          "title": "ALASANSIBLE2-2024-011 (important): python-crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html",
+          "author": null,
+          "description": "CVE-2024-23326, CVE-2024-32475, CVE-2024-32974, CVE-2024-32975, CVE-2024-32976, CVE-2024-34362, CVE-2024-34363, CVE-2024-34364",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html",
+          "publishedOn": "2024-06-19T20:39:00.000Z",
+          "wordCount": 662,
+          "title": "ALASECS-2024-037 (important): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
@@ -170,6 +160,16 @@
           "publishedOn": "2024-06-19T20:39:00.000Z",
           "wordCount": 289,
           "title": "ALASUNBOUND-2024-002 (important): unbound",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-002.html",
+          "author": null,
+          "description": "CVE-2024-1488",
+          "link": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-002.html",
+          "publishedOn": "2024-06-19T20:39:00.000Z",
+          "wordCount": 293,
+          "title": "ALASUNBOUND-1.17-2024-002 (important): unbound",
           "imageUrl": null
         },
         {
@@ -323,26 +323,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-070.html",
-          "author": null,
-          "description": "CVE-2023-30456",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-070.html",
-          "publishedOn": "2024-06-06T20:37:00.000Z",
-          "wordCount": 255,
-          "title": "ALASKERNEL-5.4-2024-070 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-071.html",
-          "author": null,
-          "description": "CVE-2022-3169, CVE-2022-3435, CVE-2023-26607",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-071.html",
-          "publishedOn": "2024-06-06T20:37:00.000Z",
-          "wordCount": 363,
-          "title": "ALASKERNEL-5.4-2024-071 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-170.html",
           "author": null,
           "description": "CVE-2023-52628",
@@ -370,6 +350,26 @@
           "publishedOn": "2024-06-06T20:37:00.000Z",
           "wordCount": 256,
           "title": "ALASLIVEPATCH-2024-172 (important): kernel-livepatch-4.14.336-257.568",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-070.html",
+          "author": null,
+          "description": "CVE-2023-30456",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-070.html",
+          "publishedOn": "2024-06-06T20:37:00.000Z",
+          "wordCount": 255,
+          "title": "ALASKERNEL-5.4-2024-070 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-071.html",
+          "author": null,
+          "description": "CVE-2022-3169, CVE-2022-3435, CVE-2023-26607",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-071.html",
+          "publishedOn": "2024-06-06T20:37:00.000Z",
+          "wordCount": 363,
+          "title": "ALASKERNEL-5.4-2024-071 (important): kernel",
           "imageUrl": null
         },
         {
@@ -489,6 +489,76 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 2 Jul 2024 22:04:03 GMT",
+          "author": null,
+          "description": "FortiClientEMS 7.0.13 B0588 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T22:04:03.000Z",
+          "wordCount": 3272,
+          "title": "FortiClientEMS 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 21:59:26 GMT",
+          "author": null,
+          "description": "FortiClientLinux 7.0.13 B0376 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T21:59:26.000Z",
+          "wordCount": 3272,
+          "title": "FortiClientLinux 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 21:56:08 GMT",
+          "author": null,
+          "description": "FortiClientMac 7.0.13 B0451 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T21:56:08.000Z",
+          "wordCount": 3272,
+          "title": "FortiClientMac 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 21:54:04 GMT",
+          "author": null,
+          "description": "FortiClient 7.0.13 B0577 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T21:54:04.000Z",
+          "wordCount": 3272,
+          "title": "FortiClient 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 16:59:07 GMT",
+          "author": null,
+          "description": "FortiNDR 7.4.5 B0534 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T16:59:07.000Z",
+          "wordCount": 3272,
+          "title": "FortiNDR 7.4.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 16:46:57 GMT",
+          "author": null,
+          "description": "FortiProxy 7.0.18 B0200 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T16:46:57.000Z",
+          "wordCount": 3272,
+          "title": "FortiProxy 7.0.18",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 16:38:34 GMT",
+          "author": null,
+          "description": "FortiWeb 7.4.4 B0649 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T16:38:34.000Z",
+          "wordCount": 3272,
+          "title": "FortiWeb 7.4.4",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 27 Jun 2024 23:55:45 GMT",
           "author": null,
