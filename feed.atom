@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-03T00:39:58.774Z</id>
+    <id>urn:2024-07-04T00:40:15.790Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T00:39:58.774Z</updated>
+    <updated>2024-07-04T00:40:15.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer-BigData 7.4.1]]></title>
+        <id>Wed, 3 Jul 2024 19:30:14 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-07-03T19:30:14.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer-BigData 7.4.1 B0914 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiClientEMS 7.0.13]]></title>
         <id>Tue, 2 Jul 2024 22:04:03 GMT</id>
@@ -199,6 +209,16 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASECS-2024-037 (important): ecs-service-connect-agent]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html"/>
+        <updated>2024-06-19T20:39:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-23326, CVE-2024-32475, CVE-2024-32974, CVE-2024-32975, CVE-2024-32976, CVE-2024-34362, CVE-2024-34363, CVE-2024-34364]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.10-2024-060 (medium): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-060.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-060.html"/>
@@ -279,11 +299,11 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASECS-2024-037 (important): ecs-service-connect-agent]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2024-037.html"/>
+        <title type="html"><![CDATA[ALASR4-2024-002 (important): R]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASR4-2024-002.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASR4-2024-002.html"/>
         <updated>2024-06-19T20:39:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-23326, CVE-2024-32475, CVE-2024-32974, CVE-2024-32975, CVE-2024-32976, CVE-2024-34362, CVE-2024-34363, CVE-2024-34364]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-27322]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -760,56 +780,6 @@ Fixed excessive logging because of app crashes…]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-06-04T23:00:54.000Z</updated>
         <summary type="html"><![CDATA[FortiFone 3.0.22 B0360 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClientEMS 7.4.0]]></title>
-        <id>Mon, 3 Jun 2024 21:53:29 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-06-03T21:53:29.000Z</updated>
-        <summary type="html"><![CDATA[FortiClientEMS 7.4.0 B1793 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClientLinux 7.4.0]]></title>
-        <id>Mon, 3 Jun 2024 21:49:36 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-06-03T21:49:36.000Z</updated>
-        <summary type="html"><![CDATA[FortiClientLinux 7.4.0 B1636 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClientMac 7.4.0]]></title>
-        <id>Mon, 3 Jun 2024 21:47:13 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-06-03T21:47:13.000Z</updated>
-        <summary type="html"><![CDATA[FortiClientMac 7.4.0 B1645 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClient 7.4.0]]></title>
-        <id>Mon, 3 Jun 2024 21:35:08 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-06-03T21:35:08.000Z</updated>
-        <summary type="html"><![CDATA[FortiClient 7.4.0 B1658 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiADC 7.4.4]]></title>
-        <id>Mon, 3 Jun 2024 17:09:55 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-06-03T17:09:55.000Z</updated>
-        <summary type="html"><![CDATA[FortiADC 7.4.4 B0347 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
