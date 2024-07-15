@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-14T00:45:05.572Z</id>
+    <id>urn:2024-07-15T00:42:38.202Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T00:45:05.572Z</updated>
+    <updated>2024-07-15T00:42:38.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -586,35 +586,6 @@ UniFi Network application version]]></summary>
         <summary type="html"><![CDATA[CVE-2024-5564]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point 7.0.59]]></title>
-        <id>4d4af905-d7dc-46c5-b66b-cc8851453b37</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-7-0-59/4d4af905-d7dc-46c5-b66b-cc8851453b37"/>
-        <updated>2024-06-14T17:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-This release improves VLAN throughput and roaming on U7-Pro. It also fixes AirPlay/Cast instability for smart speakers connected to U7-Pro-Wall and U7-Pro-Max.
-Improvements
-
-Improved firmware update resiliency.
-[Gen7] Improved VLAN throughput.
-[Gen7] Improved 2.4GHz latency and connection stability.
-[Gen7] Improved interoperability with IoT devices.
-[Gen7] Improved 6GHz range.
-[Gen7] Improved WPA2/WPA3 roaming for WPA3 clients.
-[Gen7] Improved thermal behavior.
-[Gen7] Improved throughput and overall performance.
-[Gen7] Improved DFS radar detection accuracy.
-[Gen7] Reduced excessive logging.
-
-Bugfixes
-
-Fixed intermittent Debug Terminal failures.
-[Gen7] Fixed SSIDs stop broadcasting after a few hours of uptime in rare cases.
-[Gen7] Fixed repetitive logging (append: not found, Scan t…]]></summary>
-        <author>
-            <name>UI-Glenn</name>
         </author>
     </entry>
 </feed>
