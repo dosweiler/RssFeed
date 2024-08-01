@@ -12,6 +12,36 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html",
+          "author": null,
+          "description": "CVE-2024-41110",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html",
+          "publishedOn": "2024-07-29T22:31:00.000Z",
+          "wordCount": 440,
+          "title": "ALASNITRO-ENCLAVES-2024-041 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html",
+          "author": null,
+          "description": "CVE-2024-41110",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html",
+          "publishedOn": "2024-07-29T22:31:00.000Z",
+          "wordCount": 440,
+          "title": "ALASDOCKER-2024-040 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-076.html",
+          "author": null,
+          "description": "CVE-2022-1158, CVE-2022-1353, CVE-2022-2977, CVE-2022-41858, CVE-2023-1637",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-076.html",
+          "publishedOn": "2024-07-24T19:53:00.000Z",
+          "wordCount": 629,
+          "title": "ALASKERNEL-5.4-2024-076 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2601.html",
           "author": null,
           "description": "CVE-2015-7747, CVE-2017-6827, CVE-2017-6828, CVE-2017-6829, CVE-2017-6830, CVE-2017-6831, CVE-2017-6832, CVE-2017-6833, CVE-2017-6834, CVE-2017-6835, CVE-2017-6836, CVE-2017-6837, CVE-2017-6838, CVE-2017-6839, CVE-2020-18781",
@@ -152,16 +182,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-045.html",
-          "author": null,
-          "description": "CVE-2024-36971",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-045.html",
-          "publishedOn": "2024-07-18T00:28:00.000Z",
-          "wordCount": 248,
-          "title": "ALASKERNEL-5.15-2024-045 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-046.html",
           "author": null,
           "description": "CVE-2022-3566, CVE-2022-3567",
@@ -169,6 +189,16 @@
           "publishedOn": "2024-07-18T00:28:00.000Z",
           "wordCount": 333,
           "title": "ALASKERNEL-5.15-2024-046 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-045.html",
+          "author": null,
+          "description": "CVE-2024-36971",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-045.html",
+          "publishedOn": "2024-07-18T00:28:00.000Z",
+          "wordCount": 248,
+          "title": "ALASKERNEL-5.15-2024-045 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -309,6 +339,323 @@
           "publishedOn": "2024-07-03T20:05:00.000Z",
           "wordCount": 247,
           "title": "ALAS-2024-2583 (important): thunderbird",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Fortinet Firmware Updates",
+      "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
+      "siteUrl": "http://support.fortinet.com/",
+      "articles": [
+        {
+          "id": "Wed, 31 Jul 2024 21:38:19 GMT",
+          "author": null,
+          "description": "FortiNAC-F 7.2.7 B0127 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-31T21:38:19.000Z",
+          "wordCount": 3281,
+          "title": "FortiNAC-F 7.2.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 31 Jul 2024 20:34:17 GMT",
+          "author": null,
+          "description": "FortiADC 7.2.7 B0264 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-31T20:34:17.000Z",
+          "wordCount": 3281,
+          "title": "FortiADC 7.2.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 31 Jul 2024 17:20:15 GMT",
+          "author": null,
+          "description": "FortiFone 3.0.23 B0373 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-31T17:20:15.000Z",
+          "wordCount": 3281,
+          "title": "FortiFone 3.0.23",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 31 Jul 2024 17:13:51 GMT",
+          "author": null,
+          "description": "FortiGuest 1.3.0 B0164 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-31T17:13:51.000Z",
+          "wordCount": 3281,
+          "title": "FortiGuest 1.3.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 30 Jul 2024 21:18:03 GMT",
+          "author": null,
+          "description": "FortiVoice 7.0.3 B0223 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-30T21:18:03.000Z",
+          "wordCount": 3281,
+          "title": "FortiVoice 7.0.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 30 Jul 2024 17:33:29 GMT",
+          "author": null,
+          "description": "FortiPAM 1.4.0 B1135 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-30T17:33:29.000Z",
+          "wordCount": 3281,
+          "title": "FortiPAM 1.4.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 23:08:57 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.6.0 B3340 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T23:08:57.000Z",
+          "wordCount": 3281,
+          "title": "FortiAnalyzer 7.6.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 23:01:43 GMT",
+          "author": null,
+          "description": "FortiManager 7.6.0 B3340 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T23:01:43.000Z",
+          "wordCount": 3281,
+          "title": "FortiManager 7.6.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 20:26:00 GMT",
+          "author": null,
+          "description": "FortiSIEMWindowsAgent 7.2.2 B0202 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T20:26:00.000Z",
+          "wordCount": 3281,
+          "title": "FortiSIEMWindowsAgent 7.2.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 19:16:25 GMT",
+          "author": null,
+          "description": "FortiSIEMWindowsAgent 7.1.9 B0072 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T19:16:25.000Z",
+          "wordCount": 3281,
+          "title": "FortiSIEMWindowsAgent 7.1.9",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 19:03:23 GMT",
+          "author": null,
+          "description": "FortiProxy 7.2.11 B0439 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T19:03:23.000Z",
+          "wordCount": 3281,
+          "title": "FortiProxy 7.2.11",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 18:55:02 GMT",
+          "author": null,
+          "description": "FortiADCManager 7.4.1 B0065 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T18:55:02.000Z",
+          "wordCount": 3281,
+          "title": "FortiADCManager 7.4.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 18:36:23 GMT",
+          "author": null,
+          "description": "FortiADCManager 7.2.1 B0044 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T18:36:23.000Z",
+          "wordCount": 3281,
+          "title": "FortiADCManager 7.2.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 18:30:45 GMT",
+          "author": null,
+          "description": "FortiADCManager 7.1.2 B0026 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T18:30:45.000Z",
+          "wordCount": 3281,
+          "title": "FortiADCManager 7.1.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 29 Jul 2024 18:08:26 GMT",
+          "author": null,
+          "description": "FortiADCManager 7.0.2 B0009 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-29T18:08:26.000Z",
+          "wordCount": 3281,
+          "title": "FortiADCManager 7.0.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 25 Jul 2024 21:51:30 GMT",
+          "author": null,
+          "description": "FortiOS 7.6.0 B3401 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-25T21:51:30.000Z",
+          "wordCount": 3281,
+          "title": "FortiOS 7.6.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 22 Jul 2024 21:50:03 GMT",
+          "author": null,
+          "description": "FortiVoiceUCDesktop 7.0.0 B0085 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-22T21:50:03.000Z",
+          "wordCount": 3281,
+          "title": "FortiVoiceUCDesktop 7.0.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 17 Jul 2024 19:09:20 GMT",
+          "author": null,
+          "description": "FortiADC 7.6.0 B0422 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-17T19:09:20.000Z",
+          "wordCount": 3281,
+          "title": "FortiADC 7.6.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 16 Jul 2024 17:27:26 GMT",
+          "author": null,
+          "description": "FortiDeceptor 6.0.0 B0044 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-16T17:27:26.000Z",
+          "wordCount": 3281,
+          "title": "FortiDeceptor 6.0.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 15 Jul 2024 21:27:37 GMT",
+          "author": null,
+          "description": "FortiDDoS-F 6.3.5 B0333 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-15T21:27:37.000Z",
+          "wordCount": 3281,
+          "title": "FortiDDoS-F 6.3.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 12 Jul 2024 23:54:07 GMT",
+          "author": null,
+          "description": "FortiSIEMWindowsAgent 7.2.1 B0201 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-12T23:54:07.000Z",
+          "wordCount": 3281,
+          "title": "FortiSIEMWindowsAgent 7.2.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 11 Jul 2024 21:47:26 GMT",
+          "author": null,
+          "description": "FortiPortal 7.2.5 B1262 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-11T21:47:26.000Z",
+          "wordCount": 3281,
+          "title": "FortiPortal 7.2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 8 Jul 2024 18:51:27 GMT",
+          "author": null,
+          "description": "FortiIsolator 2.4.6 B0629 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-08T18:51:27.000Z",
+          "wordCount": 3281,
+          "title": "FortiIsolator 2.4.6",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 3 Jul 2024 19:30:14 GMT",
+          "author": null,
+          "description": "FortiAnalyzer-BigData 7.4.1 B0914 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-03T19:30:14.000Z",
+          "wordCount": 3281,
+          "title": "FortiAnalyzer-BigData 7.4.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 22:04:03 GMT",
+          "author": null,
+          "description": "FortiClientEMS 7.0.13 B0588 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T22:04:03.000Z",
+          "wordCount": 3281,
+          "title": "FortiClientEMS 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 21:59:26 GMT",
+          "author": null,
+          "description": "FortiClientLinux 7.0.13 B0376 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T21:59:26.000Z",
+          "wordCount": 3281,
+          "title": "FortiClientLinux 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 21:56:08 GMT",
+          "author": null,
+          "description": "FortiClientMac 7.0.13 B0451 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T21:56:08.000Z",
+          "wordCount": 3281,
+          "title": "FortiClientMac 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 21:54:04 GMT",
+          "author": null,
+          "description": "FortiClient 7.0.13 B0577 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T21:54:04.000Z",
+          "wordCount": 3281,
+          "title": "FortiClient 7.0.13",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 16:59:07 GMT",
+          "author": null,
+          "description": "FortiNDR 7.4.5 B0534 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T16:59:07.000Z",
+          "wordCount": 3281,
+          "title": "FortiNDR 7.4.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 16:46:57 GMT",
+          "author": null,
+          "description": "FortiProxy 7.0.18 B0200 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T16:46:57.000Z",
+          "wordCount": 3281,
+          "title": "FortiProxy 7.0.18",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 2 Jul 2024 16:38:34 GMT",
+          "author": null,
+          "description": "FortiWeb 7.4.4 B0649 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-07-02T16:38:34.000Z",
+          "wordCount": 3281,
+          "title": "FortiWeb 7.4.4",
           "imageUrl": null
         }
       ]
