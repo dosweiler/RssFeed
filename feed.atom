@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-22T00:43:00.171Z</id>
+    <id>urn:2024-08-23T00:42:16.146Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T00:43:00.171Z</updated>
+    <updated>2024-08-23T00:42:16.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAP-W2 6.4.10]]></title>
+        <id>Thu, 22 Aug 2024 22:09:10 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-08-22T22:09:10.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP-W2 6.4.10 B0496 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAP-S 6.4.10]]></title>
+        <id>Thu, 22 Aug 2024 22:00:39 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-08-22T22:00:39.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP-S 6.4.10 B0496 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Access Point 7.0.66]]></title>
+        <id>edfb7cb4-c629-4e3b-a362-549eec2e0e1b</id>
+        <link href="https://community.ui.com/releases/UniFi-Access-Point-7-0-66/edfb7cb4-c629-4e3b-a362-549eec2e0e1b"/>
+        <updated>2024-08-22T18:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+UniFi Access Point 7.0.66 brings Hotspot 2.0 / Passpoint R3 and Packet Capture support, improves ethernet negotiation with some 3rd party switches, improves roaming and fixes several client interoperability issues.
+Improvements
+
+Added 40 MHz channel width support in the 2.4 GHz band for Indonesia.
+Added 40/80 MHz channel width support in the 5 GHz for Indonesia.
+Declared Hotspot 2.0 / Passpoint R3 support.
+Enabled Wi-Fi7 (11be) for Ukraine.
+Implemented additional safeguards to mitigate network loop conditions.
+Improved IoT connectivity.
+Improved RSSI accuracy when multiple clients are connected to the same radio.
+Improved Wi-Fi 7 client compatibility.
+Improved adoption stability.
+Improved connectivity for IoT devices when using WPA2/WPA3 Transition security mode.
+Improved ethernet…]]></summary>
+        <author>
+            <name>UI-Edmundas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Access Point 6.6.77]]></title>
+        <id>1368d5eb-f4d7-4861-9eae-a317e2bebce9</id>
+        <link href="https://community.ui.com/releases/UniFi-Access-Point-6-6-77/1368d5eb-f4d7-4861-9eae-a317e2bebce9"/>
+        <updated>2024-08-22T17:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+UniFi Access Point 6.6.77 brings Hotspot 2.0 / Passpoint R3 support, improves ethernet negotiation with some 3rd party switches and fixes several client interoperability issues.
+Improvements
+
+Added 40 MHz channel width support in the 2.4 GHz band for Indonesia.
+Added LLDP PD information.
+Declared Hotspot 2.0 / Passpoint R3 support.
+Improved CPU usage in congested RF environments.
+Improved IoT connectivity.
+Improved QoS for wireless clients.
+Improved WiFi Speed Limit when using WPA2 Enterprise or WPA3 Enterprise security mode. **
+Improved device stability. *
+Improved ethernet speed negotiation stability. **
+Improved mesh uplink monitoring to prevent loop conditions.
+Improved multi-device adoption.
+Reduced system log verbosity.
+
+Bugfixes
+
+Fixed channel and channel width sometimes changing after RF scan.
+Fixed channel utilization sometimes reporting 100%. **
+Fixed secondary NTP server not being used if the primary server is unreachable.
+
+Additional information
+Unless indicated otherwise, improvements and fixes apply to all AP models this release version applies to.
+* UAP-AC-Lite/LR/Pro/M/M-PRO/IW/UK-Ultra
+** U6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW
+———
+Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
+
+If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
+
+If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
+
+AP model(s)
+Previous AP release version
+UniFi Network application version]]></summary>
+        <author>
+            <name>UI-Edmundas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiMail 7.4.3]]></title>
         <id>Wed, 21 Aug 2024 19:17:08 GMT</id>
@@ -136,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2024-042 (medium): oci-add-hooks]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-042.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-042.html"/>
-        <updated>2024-08-14T19:05:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-45288]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS-2024-2622 (medium): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2622.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2622.html"/>
@@ -261,6 +341,16 @@
         <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-188.html"/>
         <updated>2024-08-14T19:05:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-48666, CVE-2024-41090, CVE-2024-41091]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2024-042 (medium): oci-add-hooks]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-042.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-042.html"/>
+        <updated>2024-08-14T19:05:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-45288]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -645,16 +735,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2024-041 (medium): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-041.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-041.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-24786, CVE-2024-28180]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2024-042 (medium): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-042.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-042.html"/>
@@ -705,6 +785,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASECS-2024-040 (medium): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-28180]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2024-041 (medium): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-041.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-041.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-24786, CVE-2024-28180]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.15-2024-047 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html"/>
@@ -740,56 +840,6 @@
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html"/>
         <updated>2024-08-01T01:11:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-48666]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-077 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-077.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-077.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-37353, CVE-2024-37356, CVE-2024-39480]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-078 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-078.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-078.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26981, CVE-2024-27013, CVE-2024-27020]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-079 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-079.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-079.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-48627, CVE-2024-26931, CVE-2024-26935, CVE-2024-26955, CVE-2024-26956, CVE-2024-26976, CVE-2024-27059]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-080 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-080.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-080.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-52803, CVE-2024-41090, CVE-2024-41091]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASECS-2024-040 (medium): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-28180]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -835,6 +885,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-077 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-077.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-077.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-37353, CVE-2024-37356, CVE-2024-39480]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-078 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-078.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-078.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26981, CVE-2024-27013, CVE-2024-27020]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-079 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-079.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-079.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-48627, CVE-2024-26931, CVE-2024-26935, CVE-2024-26955, CVE-2024-26956, CVE-2024-26976, CVE-2024-27059]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-080 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-080.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-080.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-52803, CVE-2024-41090, CVE-2024-41091]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASFIREFOX-2024-027 (important): firefox]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-027.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-027.html"/>
@@ -845,9 +935,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASTOMCAT8.5-2024-020 (important): tomcat]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-020.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-020.html"/>
+        <title type="html"><![CDATA[ALASTOMCAT9-2024-014 (important): tomcat]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-014.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-014.html"/>
         <updated>2024-08-01T01:10:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-34750]]></summary>
         <author>
@@ -855,9 +945,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASTOMCAT9-2024-014 (important): tomcat]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-014.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2024-014.html"/>
+        <title type="html"><![CDATA[ALASTOMCAT8.5-2024-020 (important): tomcat]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-020.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT8.5-2024-020.html"/>
         <updated>2024-08-01T01:10:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-34750]]></summary>
         <author>
@@ -945,9 +1035,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2024-040 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html"/>
+        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2024-041 (important): docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html"/>
         <updated>2024-07-29T22:31:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-41110]]></summary>
         <author>
@@ -955,9 +1045,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2024-041 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html"/>
+        <title type="html"><![CDATA[ALASDOCKER-2024-040 (important): docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html"/>
         <updated>2024-07-29T22:31:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-41110]]></summary>
         <author>
