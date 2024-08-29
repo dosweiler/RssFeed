@@ -8,7 +8,7 @@
         {
           "id": "edfb7cb4-c629-4e3b-a362-549eec2e0e1b",
           "author": "UI-Edmundas",
-          "description": "Overview\nUniFi Access Point 7.0.66 brings Hotspot 2.0 / Passpoint R3 and Packet Capture support, improves ethernet negotiation with some 3rd party switches, improves roaming and fixes several client interoperability issues.\nImprovements\n\nAdded 40 MHz channel width support in the 2.4 GHz band for Indonesia.\nAdded 40/80 MHz channel width support in the 5 GHz for Indonesia.\nDeclared Hotspot 2.0 / Passpoint R3 support.\nEnabled Wi-Fi7 (11be) for Ukraine.\nImplemented additional safeguards to mitigate network loop conditions.\nImproved IoT connectivity.\nImproved RSSI accuracy when multiple clients are connected to the same radio.\nImproved Wi-Fi 7 client compatibility.\nImproved adoption stability.\nImproved connectivity for IoT devices when using WPA2/WPA3 Transition security mode.\nImproved ethernet negotiation.\nImproved multi-device adoption.\nImproved roaming between meshed Access Points.\nImproved roaming to non-U7 APs (Generation 2-6 UAPs) when Fast Roaming is disabled.\nReduced system log verbosity.\nUpdated channel list for Japan and Indonesia.\n[U7-Pro-Max] Reduced excessive logging during spectrum scans.\n\nBugfixes\n\nFixed 6GHz channel and width changing after an RF Scan.\nFixed 6GHz connectivity issues in some cases when multiple 6GHz SSIDs are configured.\nFixed Target Wake Time, this will improve power efficiency and optimize network performance for some battery powered devices.\nFixed WiFi Speed Limits not being applied for clients right after configuring it until the clients reconnect.\nFixed an issue where RADIUS CoA requests weren't forwarded properly.\nFixed channel utilization statistics reporting.\nFixed secondary NTP server not being used if the primary server is unreachable.\nFixed wrong 6GHz channel number reporting when the AP is managed via the UniFi Mobile app.\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "description": "Overview\nUniFi Access Point 7.0.66 brings Hotspot 2.0 / Passpoint R3 and Packet Capture support, improves ethernet negotiation with some 3rd party switches, improves roaming and fixes several client interoperability issues.\nImprovements\n\nAdded 40 MHz channel width support in the 2.4 GHz band for Indonesia.\nAdded 40/80 MHz channel width support in the 5 GHz for Indonesia.\nDeclared Hotspot 2.0 / Passpoint R3 support.\nEnabled Wi-Fi7 (11be) for Ukraine.\nImplemented additional safeguards to mitigate network loop conditions.\nImproved IoT connectivity.\nImproved RSSI accuracy when multiple clients are connected to the same radio.\nImproved Wi-Fi 7 client compatibility.\nImproved adoption stability.\nImproved connectivity for IoT devices when using WPA2/WPA3 Transition security mode.\nImproved ethernet…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-66/edfb7cb4-c629-4e3b-a362-549eec2e0e1b",
           "publishedOn": "2024-08-22T18:35:32.000Z",
           "wordCount": 19,
@@ -463,16 +463,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html",
-          "author": null,
-          "description": "CVE-2024-24790, CVE-2024-28180",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html",
-          "publishedOn": "2024-08-01T01:11:00.000Z",
-          "wordCount": 320,
-          "title": "ALASECS-2024-040 (medium): containerd",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-077.html",
           "author": null,
           "description": "CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-37353, CVE-2024-37356, CVE-2024-39480",
@@ -553,46 +543,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html",
-          "author": null,
-          "description": "CVE-2023-52884, CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-36489, CVE-2024-37353, CVE-2024-37356, CVE-2024-38623, CVE-2024-38624, CVE-2024-38662",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html",
-          "publishedOn": "2024-08-01T01:11:00.000Z",
-          "wordCount": 456,
-          "title": "ALASKERNEL-5.15-2024-047 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html",
-          "author": null,
-          "description": "CVE-2024-26989, CVE-2024-27013, CVE-2024-27015, CVE-2024-27016, CVE-2024-27018, CVE-2024-27019, CVE-2024-27020",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html",
-          "publishedOn": "2024-08-01T01:11:00.000Z",
-          "wordCount": 368,
-          "title": "ALASKERNEL-5.15-2024-048 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html",
-          "author": null,
-          "description": "CVE-2024-26935, CVE-2024-26950, CVE-2024-26951, CVE-2024-26958, CVE-2024-26960, CVE-2024-26961, CVE-2024-26964, CVE-2024-26976, CVE-2024-26977",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html",
-          "publishedOn": "2024-08-01T01:11:00.000Z",
-          "wordCount": 414,
-          "title": "ALASKERNEL-5.15-2024-049 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html",
-          "author": null,
-          "description": "CVE-2022-48666, CVE-2024-41009, CVE-2024-41019, CVE-2024-41020, CVE-2024-41035, CVE-2024-41041, CVE-2024-41049, CVE-2024-41055, CVE-2024-41091",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html",
-          "publishedOn": "2024-08-01T01:11:00.000Z",
-          "wordCount": 442,
-          "title": "ALASKERNEL-5.15-2024-050 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-065.html",
           "author": null,
           "description": "CVE-2024-27019, CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-36489, CVE-2024-37353, CVE-2024-37356, CVE-2024-38662, CVE-2024-39480",
@@ -633,6 +583,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html",
+          "author": null,
+          "description": "CVE-2024-24790, CVE-2024-28180",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html",
+          "publishedOn": "2024-08-01T01:11:00.000Z",
+          "wordCount": 320,
+          "title": "ALASECS-2024-040 (medium): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-042.html",
           "author": null,
           "description": "CVE-2024-24786, CVE-2024-24790, CVE-2024-28180",
@@ -640,6 +600,46 @@
           "publishedOn": "2024-08-01T01:11:00.000Z",
           "wordCount": 377,
           "title": "ALASNITRO-ENCLAVES-2024-042 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html",
+          "author": null,
+          "description": "CVE-2023-52884, CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-36489, CVE-2024-37353, CVE-2024-37356, CVE-2024-38623, CVE-2024-38624, CVE-2024-38662",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html",
+          "publishedOn": "2024-08-01T01:11:00.000Z",
+          "wordCount": 456,
+          "title": "ALASKERNEL-5.15-2024-047 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html",
+          "author": null,
+          "description": "CVE-2024-26989, CVE-2024-27013, CVE-2024-27015, CVE-2024-27016, CVE-2024-27018, CVE-2024-27019, CVE-2024-27020",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html",
+          "publishedOn": "2024-08-01T01:11:00.000Z",
+          "wordCount": 368,
+          "title": "ALASKERNEL-5.15-2024-048 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html",
+          "author": null,
+          "description": "CVE-2024-26935, CVE-2024-26950, CVE-2024-26951, CVE-2024-26958, CVE-2024-26960, CVE-2024-26961, CVE-2024-26964, CVE-2024-26976, CVE-2024-26977",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html",
+          "publishedOn": "2024-08-01T01:11:00.000Z",
+          "wordCount": 414,
+          "title": "ALASKERNEL-5.15-2024-049 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html",
+          "author": null,
+          "description": "CVE-2022-48666, CVE-2024-41009, CVE-2024-41019, CVE-2024-41020, CVE-2024-41035, CVE-2024-41041, CVE-2024-41049, CVE-2024-41055, CVE-2024-41091",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html",
+          "publishedOn": "2024-08-01T01:11:00.000Z",
+          "wordCount": 442,
+          "title": "ALASKERNEL-5.15-2024-050 (important): kernel",
           "imageUrl": null
         },
         {
@@ -671,26 +671,6 @@
           "wordCount": 304,
           "title": "ALASTOMCAT8.5-2024-020 (important): tomcat",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html",
-          "author": null,
-          "description": "CVE-2024-24786, CVE-2024-29018, CVE-2024-41110",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html",
-          "publishedOn": "2024-07-29T22:31:00.000Z",
-          "wordCount": 1027,
-          "title": "ALASDOCKER-2024-040 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html",
-          "author": null,
-          "description": "CVE-2024-24786, CVE-2024-29018, CVE-2024-41110",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html",
-          "publishedOn": "2024-07-29T22:31:00.000Z",
-          "wordCount": 1027,
-          "title": "ALASNITRO-ENCLAVES-2024-041 (important): docker",
-          "imageUrl": null
         }
       ]
     },
@@ -699,6 +679,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 28 Aug 2024 19:48:59 GMT",
+          "author": null,
+          "description": "FortiAnalyzer-BigData 7.2.8 B0674 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-08-28T19:48:59.000Z",
+          "wordCount": 3279,
+          "title": "FortiAnalyzer-BigData 7.2.8",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 27 Aug 2024 19:02:32 GMT",
           "author": null,
@@ -1077,96 +1067,6 @@
           "publishedOn": "2024-07-30T17:33:29.000Z",
           "wordCount": 3279,
           "title": "FortiPAM 1.4.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 23:08:57 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 7.6.0 B3340 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T23:08:57.000Z",
-          "wordCount": 3279,
-          "title": "FortiAnalyzer 7.6.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 23:01:43 GMT",
-          "author": null,
-          "description": "FortiManager 7.6.0 B3340 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T23:01:43.000Z",
-          "wordCount": 3279,
-          "title": "FortiManager 7.6.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 20:26:00 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.2.2 B0202 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T20:26:00.000Z",
-          "wordCount": 3279,
-          "title": "FortiSIEMWindowsAgent 7.2.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 19:16:25 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.1.9 B0072 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T19:16:25.000Z",
-          "wordCount": 3279,
-          "title": "FortiSIEMWindowsAgent 7.1.9",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 19:03:23 GMT",
-          "author": null,
-          "description": "FortiProxy 7.2.11 B0439 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T19:03:23.000Z",
-          "wordCount": 3279,
-          "title": "FortiProxy 7.2.11",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 18:55:02 GMT",
-          "author": null,
-          "description": "FortiADCManager 7.4.1 B0065 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T18:55:02.000Z",
-          "wordCount": 3279,
-          "title": "FortiADCManager 7.4.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 18:36:23 GMT",
-          "author": null,
-          "description": "FortiADCManager 7.2.1 B0044 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T18:36:23.000Z",
-          "wordCount": 3279,
-          "title": "FortiADCManager 7.2.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 18:30:45 GMT",
-          "author": null,
-          "description": "FortiADCManager 7.1.2 B0026 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T18:30:45.000Z",
-          "wordCount": 3279,
-          "title": "FortiADCManager 7.1.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 29 Jul 2024 18:08:26 GMT",
-          "author": null,
-          "description": "FortiADCManager 7.0.2 B0009 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-07-29T18:08:26.000Z",
-          "wordCount": 3279,
-          "title": "FortiADCManager 7.0.2",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-28T00:43:06.596Z</id>
+    <id>urn:2024-08-29T00:43:28.043Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-28T00:43:06.596Z</updated>
+    <updated>2024-08-29T00:43:28.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer-BigData 7.2.8]]></title>
+        <id>Wed, 28 Aug 2024 19:48:59 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-08-28T19:48:59.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer-BigData 7.2.8 B0674 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSIEMWindowsAgent 7.2.3]]></title>
         <id>Tue, 27 Aug 2024 19:02:32 GMT</id>
@@ -124,31 +134,7 @@ Improved RSSI accuracy when multiple clients are connected to the same radio.
 Improved Wi-Fi 7 client compatibility.
 Improved adoption stability.
 Improved connectivity for IoT devices when using WPA2/WPA3 Transition security mode.
-Improved ethernet negotiation.
-Improved multi-device adoption.
-Improved roaming between meshed Access Points.
-Improved roaming to non-U7 APs (Generation 2-6 UAPs) when Fast Roaming is disabled.
-Reduced system log verbosity.
-Updated channel list for Japan and Indonesia.
-[U7-Pro-Max] Reduced excessive logging during spectrum scans.
-
-Bugfixes
-
-Fixed 6GHz channel and width changing after an RF Scan.
-Fixed 6GHz connectivity issues in some cases when multiple 6GHz SSIDs are configured.
-Fixed Target Wake Time, this will improve power efficiency and optimize network performance for some battery powered devices.
-Fixed WiFi Speed Limits not being applied for clients right after configuring it until the clients reconnect.
-Fixed an issue where RADIUS CoA requests weren't forwarded properly.
-Fixed channel utilization statistics reporting.
-Fixed secondary NTP server not being used if the primary server is unreachable.
-Fixed wrong 6GHz channel number reporting when the AP is managed via the UniFi Mobile app.
-
-Additional information
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version]]></summary>
+Improved ethernet…]]></summary>
         <author>
             <name>UI-Edmundas</name>
         </author>
@@ -849,16 +835,6 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASECS-2024-040 (medium): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-24790, CVE-2024-28180]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.4-2024-077 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-077.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-077.html"/>
@@ -939,46 +915,6 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-047 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-52884, CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-36489, CVE-2024-37353, CVE-2024-37356, CVE-2024-38623, CVE-2024-38624, CVE-2024-38662]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-048 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26989, CVE-2024-27013, CVE-2024-27015, CVE-2024-27016, CVE-2024-27018, CVE-2024-27019, CVE-2024-27020]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-049 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26935, CVE-2024-26950, CVE-2024-26951, CVE-2024-26958, CVE-2024-26960, CVE-2024-26961, CVE-2024-26964, CVE-2024-26976, CVE-2024-26977]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-050 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html"/>
-        <updated>2024-08-01T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-48666, CVE-2024-41009, CVE-2024-41019, CVE-2024-41020, CVE-2024-41035, CVE-2024-41041, CVE-2024-41049, CVE-2024-41055, CVE-2024-41091]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.10-2024-065 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-065.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-065.html"/>
@@ -1019,11 +955,61 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASECS-2024-040 (medium): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2024-040.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-24790, CVE-2024-28180]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2024-042 (medium): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-042.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-042.html"/>
         <updated>2024-08-01T01:11:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-24786, CVE-2024-24790, CVE-2024-28180]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-047 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-047.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-52884, CVE-2024-31076, CVE-2024-33621, CVE-2024-36270, CVE-2024-36286, CVE-2024-36489, CVE-2024-37353, CVE-2024-37356, CVE-2024-38623, CVE-2024-38624, CVE-2024-38662]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-048 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-048.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26989, CVE-2024-27013, CVE-2024-27015, CVE-2024-27016, CVE-2024-27018, CVE-2024-27019, CVE-2024-27020]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-049 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-049.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26935, CVE-2024-26950, CVE-2024-26951, CVE-2024-26958, CVE-2024-26960, CVE-2024-26961, CVE-2024-26964, CVE-2024-26976, CVE-2024-26977]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-050 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-050.html"/>
+        <updated>2024-08-01T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-48666, CVE-2024-41009, CVE-2024-41019, CVE-2024-41020, CVE-2024-41035, CVE-2024-41041, CVE-2024-41049, CVE-2024-41055, CVE-2024-41091]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1114,116 +1100,6 @@ UniFi Network application version]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-07-30T17:33:29.000Z</updated>
         <summary type="html"><![CDATA[FortiPAM 1.4.0 B1135 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAnalyzer 7.6.0]]></title>
-        <id>Mon, 29 Jul 2024 23:08:57 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T23:08:57.000Z</updated>
-        <summary type="html"><![CDATA[FortiAnalyzer 7.6.0 B3340 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiManager 7.6.0]]></title>
-        <id>Mon, 29 Jul 2024 23:01:43 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T23:01:43.000Z</updated>
-        <summary type="html"><![CDATA[FortiManager 7.6.0 B3340 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2024-040 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-040.html"/>
-        <updated>2024-07-29T22:31:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-24786, CVE-2024-29018, CVE-2024-41110]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2024-041 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-041.html"/>
-        <updated>2024-07-29T22:31:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-24786, CVE-2024-29018, CVE-2024-41110]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSIEMWindowsAgent 7.2.2]]></title>
-        <id>Mon, 29 Jul 2024 20:26:00 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T20:26:00.000Z</updated>
-        <summary type="html"><![CDATA[FortiSIEMWindowsAgent 7.2.2 B0202 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSIEMWindowsAgent 7.1.9]]></title>
-        <id>Mon, 29 Jul 2024 19:16:25 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T19:16:25.000Z</updated>
-        <summary type="html"><![CDATA[FortiSIEMWindowsAgent 7.1.9 B0072 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiProxy 7.2.11]]></title>
-        <id>Mon, 29 Jul 2024 19:03:23 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T19:03:23.000Z</updated>
-        <summary type="html"><![CDATA[FortiProxy 7.2.11 B0439 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiADCManager 7.4.1]]></title>
-        <id>Mon, 29 Jul 2024 18:55:02 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T18:55:02.000Z</updated>
-        <summary type="html"><![CDATA[FortiADCManager 7.4.1 B0065 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiADCManager 7.2.1]]></title>
-        <id>Mon, 29 Jul 2024 18:36:23 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T18:36:23.000Z</updated>
-        <summary type="html"><![CDATA[FortiADCManager 7.2.1 B0044 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiADCManager 7.1.2]]></title>
-        <id>Mon, 29 Jul 2024 18:30:45 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T18:30:45.000Z</updated>
-        <summary type="html"><![CDATA[FortiADCManager 7.1.2 B0026 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiADCManager 7.0.2]]></title>
-        <id>Mon, 29 Jul 2024 18:08:26 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-07-29T18:08:26.000Z</updated>
-        <summary type="html"><![CDATA[FortiADCManager 7.0.2 B0009 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
