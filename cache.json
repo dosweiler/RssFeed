@@ -83,6 +83,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
+          "author": null,
+          "description": "CVE-2024-27397, CVE-2024-42159, CVE-2024-42259, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
+          "publishedOn": "2024-08-28T19:02:00.000Z",
+          "wordCount": 361,
+          "title": "ALASKERNEL-5.10-2024-069 (medium): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-083.html",
           "author": null,
           "description": "CVE-2024-27397, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
@@ -103,16 +113,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
-          "author": null,
-          "description": "CVE-2024-27397, CVE-2024-42159, CVE-2024-42259, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
-          "publishedOn": "2024-08-28T19:02:00.000Z",
-          "wordCount": 361,
-          "title": "ALASKERNEL-5.10-2024-069 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNGINX1-2024-007.html",
           "author": null,
           "description": "CVE-2024-7347",
@@ -120,26 +120,6 @@
           "publishedOn": "2024-08-28T19:02:00.000Z",
           "wordCount": 316,
           "title": "ALASNGINX1-2024-007 (medium): nginx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
-          "author": null,
-          "description": "CVE-2023-39326, CVE-2024-23650, CVE-2024-23652, CVE-2024-23653, CVE-2024-24557",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
-          "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 723,
-          "title": "ALASECS-2024-041 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
-          "author": null,
-          "description": "CVE-2023-45289, CVE-2024-24786, CVE-2024-24790, CVE-2024-29018, CVE-2024-41110",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
-          "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 1116,
-          "title": "ALASECS-2024-042 (important): docker",
           "imageUrl": null
         },
         {
@@ -170,6 +150,26 @@
           "publishedOn": "2024-08-27T19:16:00.000Z",
           "wordCount": 306,
           "title": "ALASDOCKER-2024-045 (medium): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
+          "author": null,
+          "description": "CVE-2023-39326, CVE-2024-23650, CVE-2024-23652, CVE-2024-23653, CVE-2024-24557",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
+          "publishedOn": "2024-08-27T19:16:00.000Z",
+          "wordCount": 723,
+          "title": "ALASECS-2024-041 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
+          "author": null,
+          "description": "CVE-2023-45289, CVE-2024-24786, CVE-2024-24790, CVE-2024-29018, CVE-2024-41110",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
+          "publishedOn": "2024-08-27T19:16:00.000Z",
+          "wordCount": 1116,
+          "title": "ALASECS-2024-042 (important): docker",
           "imageUrl": null
         },
         {
@@ -517,36 +517,6 @@
           "publishedOn": "2024-08-20T02:14:12.000Z",
           "wordCount": 3279,
           "title": "FortiVoice 7.0.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 15 Aug 2024 18:54:15 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 7.2.6 B1632 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-08-15T18:54:15.000Z",
-          "wordCount": 3279,
-          "title": "FortiAnalyzer 7.2.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 15 Aug 2024 18:42:50 GMT",
-          "author": null,
-          "description": "FortiManager 7.2.6 B1632 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-08-15T18:42:50.000Z",
-          "wordCount": 3279,
-          "title": "FortiManager 7.2.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 15 Aug 2024 18:01:12 GMT",
-          "author": null,
-          "description": "FortiOS 7.2.9 B1688 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-08-15T18:01:12.000Z",
-          "wordCount": 3279,
-          "title": "FortiOS 7.2.9",
           "imageUrl": null
         }
       ]
