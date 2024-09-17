@@ -73,16 +73,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-189.html",
-          "author": null,
-          "description": "CVE-2024-39480",
-          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-189.html",
-          "publishedOn": "2024-08-28T19:02:00.000Z",
-          "wordCount": 182,
-          "title": "ALASLIVEPATCH-2024-189 (important): kernel-livepatch-4.14.348-265.565",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-083.html",
           "author": null,
           "description": "CVE-2024-27397, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
@@ -90,16 +80,6 @@
           "publishedOn": "2024-08-28T19:02:00.000Z",
           "wordCount": 318,
           "title": "ALASKERNEL-5.4-2024-083 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
-          "author": null,
-          "description": "CVE-2024-27397, CVE-2024-42159, CVE-2024-42259, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
-          "publishedOn": "2024-08-28T19:02:00.000Z",
-          "wordCount": 361,
-          "title": "ALASKERNEL-5.10-2024-069 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -113,6 +93,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
+          "author": null,
+          "description": "CVE-2024-27397, CVE-2024-42159, CVE-2024-42259, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-069.html",
+          "publishedOn": "2024-08-28T19:02:00.000Z",
+          "wordCount": 361,
+          "title": "ALASKERNEL-5.10-2024-069 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-189.html",
+          "author": null,
+          "description": "CVE-2024-39480",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-189.html",
+          "publishedOn": "2024-08-28T19:02:00.000Z",
+          "wordCount": 182,
+          "title": "ALASLIVEPATCH-2024-189 (important): kernel-livepatch-4.14.348-265.565",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNGINX1-2024-007.html",
           "author": null,
           "description": "CVE-2024-7347",
@@ -123,23 +123,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-043.html",
           "author": null,
-          "description": "CVE-2023-39326, CVE-2024-23650, CVE-2024-23652, CVE-2024-23653, CVE-2024-24557",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
+          "description": "CVE-2024-24790",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-043.html",
           "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 723,
-          "title": "ALASECS-2024-041 (important): docker",
+          "wordCount": 237,
+          "title": "ALASDOCKER-2024-043 (medium): runc",
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-044.html",
           "author": null,
-          "description": "CVE-2023-45289, CVE-2024-24786, CVE-2024-24790, CVE-2024-29018, CVE-2024-41110",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
+          "description": "CVE-2023-39326, CVE-2024-23650, CVE-2024-23652, CVE-2024-23653, CVE-2024-24557",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-044.html",
           "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 1116,
-          "title": "ALASECS-2024-042 (important): docker",
+          "wordCount": 723,
+          "title": "ALASDOCKER-2024-044 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-045.html",
+          "author": null,
+          "description": "CVE-2023-45289, CVE-2024-24790",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-045.html",
+          "publishedOn": "2024-08-27T19:16:00.000Z",
+          "wordCount": 306,
+          "title": "ALASDOCKER-2024-045 (medium): docker",
           "imageUrl": null
         },
         {
@@ -173,33 +183,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-043.html",
-          "author": null,
-          "description": "CVE-2024-24790",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-043.html",
-          "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 237,
-          "title": "ALASDOCKER-2024-043 (medium): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-044.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
           "author": null,
           "description": "CVE-2023-39326, CVE-2024-23650, CVE-2024-23652, CVE-2024-23653, CVE-2024-24557",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-044.html",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
           "publishedOn": "2024-08-27T19:16:00.000Z",
           "wordCount": 723,
-          "title": "ALASDOCKER-2024-044 (important): docker",
+          "title": "ALASECS-2024-041 (important): docker",
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-045.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
           "author": null,
-          "description": "CVE-2023-45289, CVE-2024-24790",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-045.html",
+          "description": "CVE-2023-45289, CVE-2024-24786, CVE-2024-24790, CVE-2024-29018, CVE-2024-41110",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
           "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 306,
-          "title": "ALASDOCKER-2024-045 (medium): docker",
+          "wordCount": 1116,
+          "title": "ALASECS-2024-042 (important): docker",
           "imageUrl": null
         }
       ]
