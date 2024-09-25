@@ -83,6 +83,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
+          "author": null,
+          "description": "CVE-2024-41087",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
+          "publishedOn": "2024-09-12T18:30:00.000Z",
+          "wordCount": 249,
+          "title": "ALASKERNEL-5.4-2024-084 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
+          "author": null,
+          "description": "CVE-2024-41011, CVE-2024-41098, CVE-2024-42228",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
+          "publishedOn": "2024-09-12T18:30:00.000Z",
+          "wordCount": 293,
+          "title": "ALASKERNEL-5.4-2024-085 (medium): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-052.html",
           "author": null,
           "description": "CVE-2024-41098",
@@ -110,26 +130,6 @@
           "publishedOn": "2024-09-12T18:30:00.000Z",
           "wordCount": 250,
           "title": "ALASKERNEL-5.15-2024-054 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
-          "author": null,
-          "description": "CVE-2024-41087",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
-          "publishedOn": "2024-09-12T18:30:00.000Z",
-          "wordCount": 249,
-          "title": "ALASKERNEL-5.4-2024-084 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
-          "author": null,
-          "description": "CVE-2024-41011, CVE-2024-41098, CVE-2024-42228",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
-          "publishedOn": "2024-09-12T18:30:00.000Z",
-          "wordCount": 293,
-          "title": "ALASKERNEL-5.4-2024-085 (medium): kernel",
           "imageUrl": null
         },
         {
@@ -223,6 +223,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-083.html",
+          "author": null,
+          "description": "CVE-2024-27397, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-083.html",
+          "publishedOn": "2024-08-28T19:02:00.000Z",
+          "wordCount": 318,
+          "title": "ALASKERNEL-5.4-2024-083 (medium): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-051.html",
           "author": null,
           "description": "CVE-2024-26585, CVE-2024-27397, CVE-2024-42259, CVE-2024-43869, CVE-2024-43870, CVE-2024-43871, CVE-2024-43873, CVE-2024-44934, CVE-2024-44944",
@@ -243,16 +253,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-083.html",
-          "author": null,
-          "description": "CVE-2024-27397, CVE-2024-43871, CVE-2024-43880, CVE-2024-44944",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-083.html",
-          "publishedOn": "2024-08-28T19:02:00.000Z",
-          "wordCount": 318,
-          "title": "ALASKERNEL-5.4-2024-083 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNGINX1-2024-007.html",
           "author": null,
           "description": "CVE-2024-7347",
@@ -260,6 +260,26 @@
           "publishedOn": "2024-08-28T19:02:00.000Z",
           "wordCount": 316,
           "title": "ALASNGINX1-2024-007 (medium): nginx",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
+          "author": null,
+          "description": "CVE-2023-39326, CVE-2024-23650, CVE-2024-23652, CVE-2024-23653, CVE-2024-24557",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
+          "publishedOn": "2024-08-27T19:16:00.000Z",
+          "wordCount": 723,
+          "title": "ALASECS-2024-041 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
+          "author": null,
+          "description": "CVE-2023-45289, CVE-2024-24786, CVE-2024-24790, CVE-2024-29018, CVE-2024-41110",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
+          "publishedOn": "2024-08-27T19:16:00.000Z",
+          "wordCount": 1116,
+          "title": "ALASECS-2024-042 (important): docker",
           "imageUrl": null
         },
         {
@@ -321,26 +341,6 @@
           "wordCount": 306,
           "title": "ALASNITRO-ENCLAVES-2024-046 (medium): docker",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
-          "author": null,
-          "description": "CVE-2023-39326, CVE-2024-23650, CVE-2024-23652, CVE-2024-23653, CVE-2024-24557",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-041.html",
-          "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 723,
-          "title": "ALASECS-2024-041 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
-          "author": null,
-          "description": "CVE-2023-45289, CVE-2024-24786, CVE-2024-24790, CVE-2024-29018, CVE-2024-41110",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-042.html",
-          "publishedOn": "2024-08-27T19:16:00.000Z",
-          "wordCount": 1116,
-          "title": "ALASECS-2024-042 (important): docker",
-          "imageUrl": null
         }
       ]
     },
@@ -349,6 +349,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 24 Sep 2024 17:43:54 GMT",
+          "author": null,
+          "description": "FortiGuest 1.3.1 B0167 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-09-24T17:43:54.000Z",
+          "wordCount": 3279,
+          "title": "FortiGuest 1.3.1",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 23 Sep 2024 19:03:37 GMT",
           "author": null,
