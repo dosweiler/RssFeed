@@ -4,34 +4,13 @@
       "title": "UniFi Access Point | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": [
-        {
-          "id": "b0097366-3989-47b8-b46a-13d36aefa96b",
-          "author": "UI-Edmundas",
-          "description": "Overview\nUniFi Access Point 6.6.78 brings Hotspot 2.0 / Passpoint R3 support and fixes several client interoperability issues.\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+/U6-LR+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded 40 MHz channel width support in the 2.4 GHz band for Indonesia.\nAdded LLDP PD information.\nAdded support for RADIUS TLS (RadSec) private keys with no password.\nDeclared Hotspot 2.0 / Passpoint R3 support.\nImproved CPU usage in congested RF environments.\nImproved IoT connectivity.\nImproved QoS for wireless clients.\nImproved U6+ performance in Japan.\nImproved mesh uplink monitoring to prevent loop conditions.\nImproved multi-device adoption.\nImproved stability.\nImproved wireless stability.\nReduced system log verbosity.\n\nBugfixes\n\nFix VLAN tag stripping through mesh link when U6+ operates as uplink AP.\nFixed channel and channel width sometimes changing after RF scan.\nFixed incorrect channel selection after DFS event when operating at 160MHz channel width.\nFixed secondary NTP server not being used if the primary server is unreachable.\nFixed switch port RADIUS authorization issue for UAP-IW-HD.\n\nAdditional information\nUnless indicated otherwise, improvements and fixes apply to all AP models.\n———\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-6-78/b0097366-3989-47b8-b46a-13d36aefa96b",
-          "publishedOn": "2024-09-03T15:04:06.000Z",
-          "wordCount": 19,
-          "title": "UniFi Access Point 6.6.78",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-047.html",
-          "author": null,
-          "description": "CVE-2024-24790",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-047.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 237,
-          "title": "ALASNITRO-ENCLAVES-2024-047 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
           "author": null,
@@ -40,16 +19,6 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 237,
           "title": "ALASECS-2024-043 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
-          "author": null,
-          "description": "CVE-2024-39494, CVE-2024-44974, CVE-2024-46713, CVE-2024-46714, CVE-2024-46719, CVE-2024-46721, CVE-2024-46722, CVE-2024-46723, CVE-2024-46724, CVE-2024-46731, CVE-2024-46732, CVE-2024-46734, CVE-2024-46737, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46747, CVE-2024-46750, CVE-2024-46752, CVE-2024-46755, CVE-2024-46777, CVE-2024-46782, CVE-2024-46783, CVE-2024-46795, CVE-2024-46798, CVE-2024-46800",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 781,
-          "title": "ALASKERNEL-5.15-2024-055 (important): kernel",
           "imageUrl": null
         },
         {
@@ -63,6 +32,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-047.html",
+          "author": null,
+          "description": "CVE-2024-24790",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-047.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 237,
+          "title": "ALASNITRO-ENCLAVES-2024-047 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
+          "author": null,
+          "description": "CVE-2024-39494, CVE-2024-44974, CVE-2024-46713, CVE-2024-46714, CVE-2024-46719, CVE-2024-46721, CVE-2024-46722, CVE-2024-46723, CVE-2024-46724, CVE-2024-46731, CVE-2024-46732, CVE-2024-46734, CVE-2024-46737, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46747, CVE-2024-46750, CVE-2024-46752, CVE-2024-46755, CVE-2024-46777, CVE-2024-46782, CVE-2024-46783, CVE-2024-46795, CVE-2024-46798, CVE-2024-46800",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 781,
+          "title": "ALASKERNEL-5.15-2024-055 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html",
           "author": null,
           "description": "CVE-2024-39494, CVE-2024-46722, CVE-2024-46723, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46750, CVE-2024-46756, CVE-2024-46757, CVE-2024-46758, CVE-2024-46759, CVE-2024-46771, CVE-2024-46777, CVE-2024-46780, CVE-2024-46781, CVE-2024-46782, CVE-2024-46783, CVE-2024-46798, CVE-2024-46800",
@@ -70,6 +59,16 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 650,
           "title": "ALASKERNEL-5.4-2024-086 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
+          "author": null,
+          "description": "CVE-2024-5458",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 326,
+          "title": "ALASPHP8.2-2024-005 (medium): php",
           "imageUrl": null
         },
         {
@@ -93,16 +92,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
-          "author": null,
-          "description": "CVE-2024-5458",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 326,
-          "title": "ALASPHP8.2-2024-005 (medium): php",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-012.html",
           "author": null,
           "description": "CVE-2024-6345",
@@ -120,26 +109,6 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 233,
           "title": "ALASREDIS6-2024-010 (important): redis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
-          "author": null,
-          "description": "CVE-2024-7348",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 324,
-          "title": "ALASPOSTGRESQL12-2024-011 (important): postgresql",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
-          "author": null,
-          "description": "CVE-2024-7348",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 287,
-          "title": "ALASPOSTGRESQL12-2024-012 (important): libpq",
           "imageUrl": null
         },
         {
@@ -170,6 +139,26 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 284,
           "title": "ALASPOSTGRESQL14-2024-013 (important): libpq",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
+          "author": null,
+          "description": "CVE-2024-7348",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 324,
+          "title": "ALASPOSTGRESQL12-2024-011 (important): postgresql",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
+          "author": null,
+          "description": "CVE-2024-7348",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 287,
+          "title": "ALASPOSTGRESQL12-2024-012 (important): libpq",
           "imageUrl": null
         },
         {
@@ -303,36 +292,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-052.html",
-          "author": null,
-          "description": "CVE-2024-41098, CVE-2024-46679, CVE-2024-46689, CVE-2024-46707, CVE-2024-46763",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-052.html",
-          "publishedOn": "2024-09-12T18:30:00.000Z",
-          "wordCount": 359,
-          "title": "ALASKERNEL-5.15-2024-052 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-053.html",
-          "author": null,
-          "description": "CVE-2022-3566, CVE-2022-3567, CVE-2024-41087, CVE-2024-41092, CVE-2024-42068, CVE-2024-42070, CVE-2024-42090, CVE-2024-42096",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-053.html",
-          "publishedOn": "2024-09-12T18:30:00.000Z",
-          "wordCount": 497,
-          "title": "ALASKERNEL-5.15-2024-053 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-054.html",
-          "author": null,
-          "description": "CVE-2024-35807",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-054.html",
-          "publishedOn": "2024-09-12T18:30:00.000Z",
-          "wordCount": 250,
-          "title": "ALASKERNEL-5.15-2024-054 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2632.html",
           "author": null,
           "description": "CVE-2024-6345",
@@ -390,6 +349,36 @@
           "publishedOn": "2024-09-12T18:30:00.000Z",
           "wordCount": 305,
           "title": "ALAS-2024-2637 (medium): ruby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-052.html",
+          "author": null,
+          "description": "CVE-2024-41098, CVE-2024-46679, CVE-2024-46689, CVE-2024-46707, CVE-2024-46763",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-052.html",
+          "publishedOn": "2024-09-12T18:30:00.000Z",
+          "wordCount": 359,
+          "title": "ALASKERNEL-5.15-2024-052 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-053.html",
+          "author": null,
+          "description": "CVE-2022-3566, CVE-2022-3567, CVE-2024-41087, CVE-2024-41092, CVE-2024-42068, CVE-2024-42070, CVE-2024-42090, CVE-2024-42096",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-053.html",
+          "publishedOn": "2024-09-12T18:30:00.000Z",
+          "wordCount": 497,
+          "title": "ALASKERNEL-5.15-2024-053 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-054.html",
+          "author": null,
+          "description": "CVE-2024-35807",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-054.html",
+          "publishedOn": "2024-09-12T18:30:00.000Z",
+          "wordCount": 250,
+          "title": "ALASKERNEL-5.15-2024-054 (medium): kernel",
           "imageUrl": null
         },
         {
