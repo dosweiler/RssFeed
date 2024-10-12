@@ -12,6 +12,16 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
+          "author": null,
+          "description": "CVE-2024-24790",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 237,
+          "title": "ALASECS-2024-043 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-046.html",
           "author": null,
           "description": "CVE-2024-24790",
@@ -32,13 +42,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html",
           "author": null,
-          "description": "CVE-2024-24790",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
+          "description": "CVE-2024-39494, CVE-2024-46722, CVE-2024-46723, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46750, CVE-2024-46756, CVE-2024-46757, CVE-2024-46758, CVE-2024-46759, CVE-2024-46771, CVE-2024-46777, CVE-2024-46780, CVE-2024-46781, CVE-2024-46782, CVE-2024-46783, CVE-2024-46798, CVE-2024-46800",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html",
           "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 237,
-          "title": "ALASECS-2024-043 (medium): amazon-ecr-credential-helper",
+          "wordCount": 650,
+          "title": "ALASKERNEL-5.4-2024-086 (important): kernel",
           "imageUrl": null
         },
         {
@@ -52,13 +62,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
           "author": null,
-          "description": "CVE-2024-39494, CVE-2024-46722, CVE-2024-46723, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46750, CVE-2024-46756, CVE-2024-46757, CVE-2024-46758, CVE-2024-46759, CVE-2024-46771, CVE-2024-46777, CVE-2024-46780, CVE-2024-46781, CVE-2024-46782, CVE-2024-46783, CVE-2024-46798, CVE-2024-46800",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html",
+          "description": "CVE-2024-5458",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
           "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 650,
-          "title": "ALASKERNEL-5.4-2024-086 (important): kernel",
+          "wordCount": 326,
+          "title": "ALASPHP8.2-2024-005 (medium): php",
           "imageUrl": null
         },
         {
@@ -82,16 +92,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
-          "author": null,
-          "description": "CVE-2024-5458",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 326,
-          "title": "ALASPHP8.2-2024-005 (medium): php",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-012.html",
           "author": null,
           "description": "CVE-2024-6345",
@@ -99,16 +99,6 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 277,
           "title": "ALASPYTHON3.8-2024-012 (important): python38-setuptools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-007.html",
-          "author": null,
-          "description": "CVE-2024-7348",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-007.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 327,
-          "title": "ALASPOSTGRESQL13-2024-007 (important): postgresql",
           "imageUrl": null
         },
         {
@@ -122,23 +112,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-007.html",
           "author": null,
           "description": "CVE-2024-7348",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-007.html",
           "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 324,
-          "title": "ALASPOSTGRESQL12-2024-011 (important): postgresql",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
-          "author": null,
-          "description": "CVE-2024-7348",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 287,
-          "title": "ALASPOSTGRESQL12-2024-012 (important): libpq",
+          "wordCount": 327,
+          "title": "ALASPOSTGRESQL13-2024-007 (important): postgresql",
           "imageUrl": null
         },
         {
@@ -169,6 +149,26 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 592,
           "title": "ALASLIBREOFFICE-2024-004 (important): libreoffice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
+          "author": null,
+          "description": "CVE-2024-7348",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-011.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 324,
+          "title": "ALASPOSTGRESQL12-2024-011 (important): postgresql",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
+          "author": null,
+          "description": "CVE-2024-7348",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL12-2024-012.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 287,
+          "title": "ALASPOSTGRESQL12-2024-012 (important): libpq",
           "imageUrl": null
         },
         {
@@ -352,6 +352,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
+          "author": null,
+          "description": "CVE-2024-38619, CVE-2024-41087, CVE-2024-42070, CVE-2024-42090, CVE-2024-42096",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
+          "publishedOn": "2024-09-12T18:30:00.000Z",
+          "wordCount": 354,
+          "title": "ALASKERNEL-5.4-2024-084 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
+          "author": null,
+          "description": "CVE-2024-41011, CVE-2024-41098, CVE-2024-42228, CVE-2024-46679, CVE-2024-46689, CVE-2024-46763",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
+          "publishedOn": "2024-09-12T18:30:00.000Z",
+          "wordCount": 371,
+          "title": "ALASKERNEL-5.4-2024-085 (medium): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-052.html",
           "author": null,
           "description": "CVE-2024-41098, CVE-2024-46679, CVE-2024-46689, CVE-2024-46707, CVE-2024-46763",
@@ -382,26 +402,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
-          "author": null,
-          "description": "CVE-2024-38619, CVE-2024-41087, CVE-2024-42070, CVE-2024-42090, CVE-2024-42096",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-084.html",
-          "publishedOn": "2024-09-12T18:30:00.000Z",
-          "wordCount": 354,
-          "title": "ALASKERNEL-5.4-2024-084 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
-          "author": null,
-          "description": "CVE-2024-41011, CVE-2024-41098, CVE-2024-42228, CVE-2024-46679, CVE-2024-46689, CVE-2024-46763",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-085.html",
-          "publishedOn": "2024-09-12T18:30:00.000Z",
-          "wordCount": 371,
-          "title": "ALASKERNEL-5.4-2024-085 (medium): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-029.html",
           "author": null,
           "description": "CVE-2024-7652, CVE-2024-8381, CVE-2024-8382, CVE-2024-8383, CVE-2024-8384",
@@ -419,6 +419,16 @@
           "publishedOn": "2024-09-12T18:30:00.000Z",
           "wordCount": 679,
           "title": "ALASFIREFOX-2024-030 (important): firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2024-006.html",
+          "author": null,
+          "description": "CVE-2024-5535",
+          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2024-006.html",
+          "publishedOn": "2024-09-12T18:29:00.000Z",
+          "wordCount": 805,
+          "title": "ALASOPENSSL-SNAPSAFE-2024-006 (medium): openssl-snapsafe",
           "imageUrl": null
         },
         {
@@ -440,16 +450,6 @@
           "wordCount": 184,
           "title": "ALASLIVEPATCH-2024-191 (important): kernel-livepatch-5.10.220-209.867",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2024-006.html",
-          "author": null,
-          "description": "CVE-2024-5535",
-          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2024-006.html",
-          "publishedOn": "2024-09-12T18:29:00.000Z",
-          "wordCount": 805,
-          "title": "ALASOPENSSL-SNAPSAFE-2024-006 (medium): openssl-snapsafe",
-          "imageUrl": null
         }
       ]
     },
@@ -458,6 +458,36 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 11 Oct 2024 18:41:59 GMT",
+          "author": null,
+          "description": "FortiNAC 9.4.7 B0829 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-10-11T18:41:59.000Z",
+          "wordCount": 3279,
+          "title": "FortiNAC 9.4.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 11 Oct 2024 01:21:25 GMT",
+          "author": null,
+          "description": "FortiProxy 7.2.12 B0442 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-10-11T01:21:25.000Z",
+          "wordCount": 3279,
+          "title": "FortiProxy 7.2.12",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 11 Oct 2024 01:11:48 GMT",
+          "author": null,
+          "description": "FortiProxy 7.0.19 B0204 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-10-11T01:11:48.000Z",
+          "wordCount": 3279,
+          "title": "FortiProxy 7.0.19",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 8 Oct 2024 16:43:07 GMT",
           "author": null,
@@ -626,36 +656,6 @@
           "publishedOn": "2024-09-12T19:00:07.000Z",
           "wordCount": 3279,
           "title": "FortiSIEM 7.2.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 11 Sep 2024 18:32:46 GMT",
-          "author": null,
-          "description": "FortiWeb 7.4.5 B0661 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-09-11T18:32:46.000Z",
-          "wordCount": 3279,
-          "title": "FortiWeb 7.4.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 11 Sep 2024 16:38:57 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.2.4 B0206 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-09-11T16:38:57.000Z",
-          "wordCount": 3279,
-          "title": "FortiSIEMWindowsAgent 7.2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 11 Sep 2024 16:37:17 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.1.11 B0076 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-09-11T16:37:17.000Z",
-          "wordCount": 3279,
-          "title": "FortiSIEMWindowsAgent 7.1.11",
           "imageUrl": null
         }
       ]
