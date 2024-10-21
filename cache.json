@@ -72,16 +72,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html",
-          "author": null,
-          "description": "CVE-2024-45310",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 490,
-          "title": "ALASECS-2024-044 (low): runc",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html",
           "author": null,
           "description": "CVE-2024-45310",
@@ -89,6 +79,16 @@
           "publishedOn": "2024-10-10T03:01:00.000Z",
           "wordCount": 490,
           "title": "ALASDOCKER-2024-047 (low): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html",
+          "author": null,
+          "description": "CVE-2024-45310",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html",
+          "publishedOn": "2024-10-10T03:01:00.000Z",
+          "wordCount": 490,
+          "title": "ALASECS-2024-044 (low): runc",
           "imageUrl": null
         },
         {
@@ -112,16 +112,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html",
-          "author": null,
-          "description": "CVE-2024-8508",
-          "link": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 387,
-          "title": "ALASUNBOUND-2024-003 (medium): unbound",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-003.html",
           "author": null,
           "description": "CVE-2024-8508",
@@ -132,13 +122,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html",
           "author": null,
-          "description": "CVE-2024-24790",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 237,
-          "title": "ALASECS-2024-043 (medium): amazon-ecr-credential-helper",
+          "description": "CVE-2024-8508",
+          "link": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html",
+          "publishedOn": "2024-10-10T03:01:00.000Z",
+          "wordCount": 387,
+          "title": "ALASUNBOUND-2024-003 (medium): unbound",
           "imageUrl": null
         },
         {
@@ -152,6 +142,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
+          "author": null,
+          "description": "CVE-2024-24790",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-043.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 237,
+          "title": "ALASECS-2024-043 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-047.html",
           "author": null,
           "description": "CVE-2024-24790",
@@ -159,6 +159,16 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 237,
           "title": "ALASNITRO-ENCLAVES-2024-047 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
+          "author": null,
+          "description": "CVE-2024-39494, CVE-2024-44974, CVE-2024-46713, CVE-2024-46714, CVE-2024-46719, CVE-2024-46721, CVE-2024-46722, CVE-2024-46723, CVE-2024-46724, CVE-2024-46731, CVE-2024-46732, CVE-2024-46734, CVE-2024-46737, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46747, CVE-2024-46750, CVE-2024-46752, CVE-2024-46755, CVE-2024-46777, CVE-2024-46782, CVE-2024-46783, CVE-2024-46795, CVE-2024-46798, CVE-2024-46800",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
+          "publishedOn": "2024-09-26T01:10:00.000Z",
+          "wordCount": 781,
+          "title": "ALASKERNEL-5.15-2024-055 (important): kernel",
           "imageUrl": null
         },
         {
@@ -189,16 +199,6 @@
           "publishedOn": "2024-09-26T01:10:00.000Z",
           "wordCount": 324,
           "title": "ALASKERNEL-5.10-2024-071 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
-          "author": null,
-          "description": "CVE-2024-39494, CVE-2024-44974, CVE-2024-46713, CVE-2024-46714, CVE-2024-46719, CVE-2024-46721, CVE-2024-46722, CVE-2024-46723, CVE-2024-46724, CVE-2024-46731, CVE-2024-46732, CVE-2024-46734, CVE-2024-46737, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46747, CVE-2024-46750, CVE-2024-46752, CVE-2024-46755, CVE-2024-46777, CVE-2024-46782, CVE-2024-46783, CVE-2024-46795, CVE-2024-46798, CVE-2024-46800",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html",
-          "publishedOn": "2024-09-26T01:10:00.000Z",
-          "wordCount": 781,
-          "title": "ALASKERNEL-5.15-2024-055 (important): kernel",
           "imageUrl": null
         },
         {
@@ -566,26 +566,6 @@
           "publishedOn": "2024-09-23T19:03:37.000Z",
           "wordCount": 3279,
           "title": "FortiWebManager 7.6.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 20 Sep 2024 20:55:33 GMT",
-          "author": null,
-          "description": "FortiVoice 6.4.10 B0514 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-09-20T20:55:33.000Z",
-          "wordCount": 3279,
-          "title": "FortiVoice 6.4.10",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 20 Sep 2024 16:22:15 GMT",
-          "author": null,
-          "description": "FortiVoice 7.0.5 B0232 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-09-20T16:22:15.000Z",
-          "wordCount": 3279,
-          "title": "FortiVoice 7.0.5",
           "imageUrl": null
         }
       ]
