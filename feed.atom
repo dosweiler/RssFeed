@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-21T00:50:26.276Z</id>
+    <id>urn:2024-10-22T00:48:41.951Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T00:50:26.276Z</updated>
+    <updated>2024-10-22T00:48:41.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiProxy 7.4.6]]></title>
+        <id>Mon, 21 Oct 2024 17:38:15 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-10-21T17:38:15.000Z</updated>
+        <summary type="html"><![CDATA[FortiProxy 7.4.6 B0626 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiAnalyzer 7.2.8]]></title>
         <id>Fri, 18 Oct 2024 22:36:01 GMT</id>
@@ -186,9 +196,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASUNBOUND-1.17-2024-003 (medium): unbound]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-003.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-003.html"/>
+        <title type="html"><![CDATA[ALASUNBOUND-2024-003 (medium): unbound]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html"/>
         <updated>2024-10-10T03:01:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-8508]]></summary>
         <author>
@@ -196,9 +206,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASUNBOUND-2024-003 (medium): unbound]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html"/>
+        <title type="html"><![CDATA[ALASUNBOUND-1.17-2024-003 (medium): unbound]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-003.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-003.html"/>
         <updated>2024-10-10T03:01:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-8508]]></summary>
         <author>
@@ -286,6 +296,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-086 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html"/>
+        <updated>2024-09-26T01:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-39494, CVE-2024-46722, CVE-2024-46723, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46750, CVE-2024-46756, CVE-2024-46757, CVE-2024-46758, CVE-2024-46759, CVE-2024-46771, CVE-2024-46777, CVE-2024-46780, CVE-2024-46781, CVE-2024-46782, CVE-2024-46783, CVE-2024-46798, CVE-2024-46800]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.15-2024-055 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-055.html"/>
@@ -296,11 +316,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-086 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-086.html"/>
+        <title type="html"><![CDATA[ALASPHP8.2-2024-005 (medium): php]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html"/>
         <updated>2024-09-26T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-39494, CVE-2024-46722, CVE-2024-46723, CVE-2024-46738, CVE-2024-46739, CVE-2024-46743, CVE-2024-46744, CVE-2024-46745, CVE-2024-46750, CVE-2024-46756, CVE-2024-46757, CVE-2024-46758, CVE-2024-46759, CVE-2024-46771, CVE-2024-46777, CVE-2024-46780, CVE-2024-46781, CVE-2024-46782, CVE-2024-46783, CVE-2024-46798, CVE-2024-46800]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-5458]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -321,16 +341,6 @@
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-071.html"/>
         <updated>2024-09-26T01:10:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-46679, CVE-2024-46689, CVE-2024-46707, CVE-2024-46763]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPHP8.2-2024-005 (medium): php]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPHP8.2-2024-005.html"/>
-        <updated>2024-09-26T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-5458]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
