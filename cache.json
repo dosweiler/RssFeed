@@ -382,16 +382,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
-          "author": null,
-          "description": "CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
-          "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 925,
-          "title": "ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html",
           "author": null,
           "description": "CVE-2024-46865",
@@ -399,16 +389,6 @@
           "publishedOn": "2024-10-24T16:45:00.000Z",
           "wordCount": 256,
           "title": "ALASKERNEL-5.4-2024-087 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
-          "author": null,
-          "description": "CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
-          "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 317,
-          "title": "ALASKERNEL-5.10-2024-072 (important): kernel",
           "imageUrl": null
         },
         {
@@ -422,13 +402,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-014.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
           "author": null,
-          "description": "CVE-2023-27043",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-014.html",
+          "description": "CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
           "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 295,
-          "title": "ALASPYTHON3.8-2024-014 (medium): python38",
+          "wordCount": 925,
+          "title": "ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
+          "author": null,
+          "description": "CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
+          "publishedOn": "2024-10-24T16:45:00.000Z",
+          "wordCount": 317,
+          "title": "ALASKERNEL-5.10-2024-072 (important): kernel",
           "imageUrl": null
         },
         {
@@ -439,6 +429,16 @@
           "publishedOn": "2024-10-24T16:45:00.000Z",
           "wordCount": 507,
           "title": "ALASFIREFOX-2024-031 (important): firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-014.html",
+          "author": null,
+          "description": "CVE-2023-27043",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-014.html",
+          "publishedOn": "2024-10-24T16:45:00.000Z",
+          "wordCount": 295,
+          "title": "ALASPYTHON3.8-2024-014 (medium): python38",
           "imageUrl": null
         },
         {
@@ -569,12 +569,72 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Fri, 1 Nov 2024 19:36:37 GMT",
+          "author": null,
+          "description": "FortiDeceptor 5.3.3 B0370 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-01T19:36:37.000Z",
+          "wordCount": 3247,
+          "title": "FortiDeceptor 5.3.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 1 Nov 2024 19:31:13 GMT",
+          "author": null,
+          "description": "FortiDeceptor 6.0.2 B0058 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-01T19:31:13.000Z",
+          "wordCount": 3247,
+          "title": "FortiDeceptor 6.0.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 1 Nov 2024 19:05:56 GMT",
+          "author": null,
+          "description": "FortiClientEMS 7.4.1 B1872 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-01T19:05:56.000Z",
+          "wordCount": 3247,
+          "title": "FortiClientEMS 7.4.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 1 Nov 2024 19:04:15 GMT",
+          "author": null,
+          "description": "FortiClientMac 7.4.1 B1716 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-01T19:04:15.000Z",
+          "wordCount": 3247,
+          "title": "FortiClientMac 7.4.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 1 Nov 2024 19:00:17 GMT",
+          "author": null,
+          "description": "FortiClientLinux 7.4.1 B1697 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-01T19:00:17.000Z",
+          "wordCount": 3247,
+          "title": "FortiClientLinux 7.4.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 1 Nov 2024 18:57:59 GMT",
+          "author": null,
+          "description": "FortiClient 7.4.1 B1736 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-01T18:57:59.000Z",
+          "wordCount": 3247,
+          "title": "FortiClient 7.4.1",
+          "imageUrl": null
+        },
+        {
           "id": "Thu, 31 Oct 2024 21:12:30 GMT",
           "author": null,
           "description": "FortiAP-W2 7.4.4 B0644 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-31T21:12:30.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAP-W2 7.4.4",
           "imageUrl": null
         },
@@ -584,7 +644,7 @@
           "description": "FortiPortal 7.0.10 B0264 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-30T21:37:28.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiPortal 7.0.10",
           "imageUrl": null
         },
@@ -594,7 +654,7 @@
           "description": "FortiSwitch 6.4.15 B0518 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-30T00:39:08.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiSwitch 6.4.15",
           "imageUrl": null
         },
@@ -604,7 +664,7 @@
           "description": "FortiOS-6K7K 7.0.16 B0282 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-28T20:16:36.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiOS-6K7K 7.0.16",
           "imageUrl": null
         },
@@ -614,7 +674,7 @@
           "description": "FortiAnalyzer 6.4.15 B2689 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-24T23:57:39.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAnalyzer 6.4.15",
           "imageUrl": null
         },
@@ -624,7 +684,7 @@
           "description": "FortiManager 6.4.15 B2689 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-24T23:52:05.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiManager 6.4.15",
           "imageUrl": null
         },
@@ -634,7 +694,7 @@
           "description": "FortiAnalyzer 7.6.1 B3344 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-24T21:17:12.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAnalyzer 7.6.1",
           "imageUrl": null
         },
@@ -644,7 +704,7 @@
           "description": "FortiManager 7.6.1 B3344 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-24T21:03:59.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiManager 7.6.1",
           "imageUrl": null
         },
@@ -654,7 +714,7 @@
           "description": "FortiAnalyzer-BigData 7.4.2 B0933 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-23T23:38:51.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAnalyzer-BigData 7.4.2",
           "imageUrl": null
         },
@@ -664,7 +724,7 @@
           "description": "FortiAnalyzer 6.2.13 B1565 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-23T23:04:24.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAnalyzer 6.2.13",
           "imageUrl": null
         },
@@ -674,7 +734,7 @@
           "description": "FortiManager 6.2.13 B1565 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-23T22:53:47.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiManager 6.2.13",
           "imageUrl": null
         },
@@ -684,7 +744,7 @@
           "description": "FortiConverter 7.0.6 B0330 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-23T17:00:24.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiConverter 7.0.6",
           "imageUrl": null
         },
@@ -694,7 +754,7 @@
           "description": "FortiAuthenticator 6.4.10 B1070 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-23T16:58:29.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAuthenticator 6.4.10",
           "imageUrl": null
         },
@@ -704,7 +764,7 @@
           "description": "FortiNDR 7.6.0 B0637 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-22T22:51:01.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiNDR 7.6.0",
           "imageUrl": null
         },
@@ -714,7 +774,7 @@
           "description": "FortiAnalyzer 7.0.13 B0653 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-22T21:22:55.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAnalyzer 7.0.13",
           "imageUrl": null
         },
@@ -724,7 +784,7 @@
           "description": "FortiManager 7.0.13 B0653 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-22T21:14:47.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiManager 7.0.13",
           "imageUrl": null
         },
@@ -734,7 +794,7 @@
           "description": "FortiOS 7.0.16 B0667 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-22T21:05:37.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiOS 7.0.16",
           "imageUrl": null
         },
@@ -744,7 +804,7 @@
           "description": "FortiProxy 7.4.6 B0626 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-21T17:38:15.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiProxy 7.4.6",
           "imageUrl": null
         },
@@ -754,7 +814,7 @@
           "description": "FortiAnalyzer 7.2.8 B1634 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-18T22:36:01.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAnalyzer 7.2.8",
           "imageUrl": null
         },
@@ -764,7 +824,7 @@
           "description": "FortiManager 7.2.8 B1634 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-18T22:24:36.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiManager 7.2.8",
           "imageUrl": null
         },
@@ -774,7 +834,7 @@
           "description": "FortiAnalyzer 7.4.5 B2553 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-17T22:07:12.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAnalyzer 7.4.5",
           "imageUrl": null
         },
@@ -784,7 +844,7 @@
           "description": "FortiManager 7.4.5 B2553 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-17T21:55:47.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiManager 7.4.5",
           "imageUrl": null
         },
@@ -794,7 +854,7 @@
           "description": "FortiAP 7.4.4 B0713 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-17T21:11:27.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAP 7.4.4",
           "imageUrl": null
         },
@@ -804,7 +864,7 @@
           "description": "FortiNAC 9.4.7 B0829 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-11T18:41:59.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiNAC 9.4.7",
           "imageUrl": null
         },
@@ -814,7 +874,7 @@
           "description": "FortiProxy 7.2.12 B0442 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-11T01:21:25.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiProxy 7.2.12",
           "imageUrl": null
         },
@@ -824,7 +884,7 @@
           "description": "FortiProxy 7.0.19 B0204 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-11T01:11:48.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiProxy 7.0.19",
           "imageUrl": null
         },
@@ -834,7 +894,7 @@
           "description": "FortiAIOps 2.1.0 B0313 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-08T16:43:07.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiAIOps 2.1.0",
           "imageUrl": null
         },
@@ -844,7 +904,7 @@
           "description": "FortiSwitch 7.4.4 B0861 and release notes are available for download from the Support site : https://support.fortinet.com",
           "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
           "publishedOn": "2024-10-07T22:35:19.000Z",
-          "wordCount": 3279,
+          "wordCount": 3247,
           "title": "FortiSwitch 7.4.4",
           "imageUrl": null
         }
