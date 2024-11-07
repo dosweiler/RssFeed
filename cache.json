@@ -412,13 +412,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
           "author": null,
-          "description": "CVE-2024-9392, CVE-2024-9393, CVE-2024-9394, CVE-2024-9401, CVE-2024-9680",
-          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
+          "description": "CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
           "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 507,
-          "title": "ALASFIREFOX-2024-031 (important): firefox",
+          "wordCount": 317,
+          "title": "ALASKERNEL-5.10-2024-072 (important): kernel",
           "imageUrl": null
         },
         {
@@ -432,13 +432,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
           "author": null,
-          "description": "CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
+          "description": "CVE-2024-9392, CVE-2024-9393, CVE-2024-9394, CVE-2024-9401, CVE-2024-9680",
+          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
           "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 317,
-          "title": "ALASKERNEL-5.10-2024-072 (important): kernel",
+          "wordCount": 507,
+          "title": "ALASFIREFOX-2024-031 (important): firefox",
           "imageUrl": null
         },
         {
@@ -502,16 +502,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html",
-          "author": null,
-          "description": "CVE-2024-45310",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 490,
-          "title": "ALASDOCKER-2024-047 (low): runc",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html",
           "author": null,
           "description": "CVE-2024-45310",
@@ -529,6 +519,16 @@
           "publishedOn": "2024-10-10T03:01:00.000Z",
           "wordCount": 490,
           "title": "ALASNITRO-ENCLAVES-2024-048 (low): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html",
+          "author": null,
+          "description": "CVE-2024-45310",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html",
+          "publishedOn": "2024-10-10T03:01:00.000Z",
+          "wordCount": 490,
+          "title": "ALASDOCKER-2024-047 (low): runc",
           "imageUrl": null
         },
         {
@@ -568,6 +568,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 6 Nov 2024 22:56:55 GMT",
+          "author": null,
+          "description": "FortiSandbox 5.0.0 B0073 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-06T22:56:55.000Z",
+          "wordCount": 3276,
+          "title": "FortiSandbox 5.0.0",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 4 Nov 2024 20:54:23 GMT",
           "author": null,
@@ -956,16 +966,6 @@
           "publishedOn": "2024-10-08T16:43:07.000Z",
           "wordCount": 3276,
           "title": "FortiAIOps 2.1.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 7 Oct 2024 22:35:19 GMT",
-          "author": null,
-          "description": "FortiSwitch 7.4.4 B0861 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-10-07T22:35:19.000Z",
-          "wordCount": 3276,
-          "title": "FortiSwitch 7.4.4",
           "imageUrl": null
         }
       ]

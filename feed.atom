@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-06T00:46:58.022Z</id>
+    <id>urn:2024-11-07T00:47:12.978Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T00:46:58.022Z</updated>
+    <updated>2024-11-07T00:47:12.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSandbox 5.0.0]]></title>
+        <id>Wed, 6 Nov 2024 22:56:55 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-11-06T22:56:55.000Z</updated>
+        <summary type="html"><![CDATA[FortiSandbox 5.0.0 B0073 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiWebManager 7.0.6]]></title>
         <id>Mon, 4 Nov 2024 20:54:23 GMT</id>
@@ -606,11 +616,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASFIREFOX-2024-031 (important): firefox]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html"/>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-072 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html"/>
         <updated>2024-10-24T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-9392, CVE-2024-9393, CVE-2024-9394, CVE-2024-9401, CVE-2024-9680]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -626,11 +636,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-072 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html"/>
+        <title type="html"><![CDATA[ALASFIREFOX-2024-031 (important): firefox]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html"/>
         <updated>2024-10-24T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-9392, CVE-2024-9393, CVE-2024-9394, CVE-2024-9401, CVE-2024-9680]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -876,16 +886,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2024-047 (low): runc]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html"/>
-        <updated>2024-10-10T03:01:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-45310]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASECS-2024-044 (low): runc]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html"/>
@@ -899,6 +899,16 @@
         <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2024-048 (low): runc]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-048.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-048.html"/>
+        <updated>2024-10-10T03:01:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-45310]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2024-047 (low): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html"/>
         <updated>2024-10-10T03:01:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-45310]]></summary>
         <author>
@@ -941,16 +951,6 @@
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-10-08T16:43:07.000Z</updated>
         <summary type="html"><![CDATA[FortiAIOps 2.1.0 B0313 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSwitch 7.4.4]]></title>
-        <id>Mon, 7 Oct 2024 22:35:19 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-10-07T22:35:19.000Z</updated>
-        <summary type="html"><![CDATA[FortiSwitch 7.4.4 B0861 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
