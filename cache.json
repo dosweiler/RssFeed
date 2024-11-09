@@ -352,6 +352,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
+          "author": null,
+          "description": "CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
+          "publishedOn": "2024-10-24T16:45:00.000Z",
+          "wordCount": 925,
+          "title": "ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html",
+          "author": null,
+          "description": "CVE-2024-46865",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html",
+          "publishedOn": "2024-10-24T16:45:00.000Z",
+          "wordCount": 256,
+          "title": "ALASKERNEL-5.4-2024-087 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
+          "author": null,
+          "description": "CVE-2024-26921, CVE-2024-38632, CVE-2024-46695, CVE-2024-46855, CVE-2024-46858, CVE-2024-46865",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
+          "publishedOn": "2024-10-24T16:45:00.000Z",
+          "wordCount": 354,
+          "title": "ALASKERNEL-5.15-2024-056 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-192.html",
           "author": null,
           "description": "CVE-2024-46673",
@@ -382,36 +412,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html",
-          "author": null,
-          "description": "CVE-2024-46865",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html",
-          "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 256,
-          "title": "ALASKERNEL-5.4-2024-087 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
-          "author": null,
-          "description": "CVE-2024-26921, CVE-2024-38632, CVE-2024-46695, CVE-2024-46855, CVE-2024-46858, CVE-2024-46865",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
-          "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 354,
-          "title": "ALASKERNEL-5.15-2024-056 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
-          "author": null,
-          "description": "CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
-          "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 925,
-          "title": "ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html",
           "author": null,
           "description": "CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865",
@@ -419,16 +419,6 @@
           "publishedOn": "2024-10-24T16:45:00.000Z",
           "wordCount": 317,
           "title": "ALASKERNEL-5.10-2024-072 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
-          "author": null,
-          "description": "CVE-2024-9392, CVE-2024-9393, CVE-2024-9394, CVE-2024-9401, CVE-2024-9680",
-          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
-          "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 507,
-          "title": "ALASFIREFOX-2024-031 (important): firefox",
           "imageUrl": null
         },
         {
@@ -442,123 +432,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2650.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
           "author": null,
-          "description": "CVE-2024-8508",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2650.html",
-          "publishedOn": "2024-10-10T03:05:00.000Z",
-          "wordCount": 381,
-          "title": "ALAS-2024-2650 (medium): unbound",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2651.html",
-          "author": null,
-          "description": "CVE-2024-42934",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2651.html",
-          "publishedOn": "2024-10-10T03:05:00.000Z",
-          "wordCount": 227,
-          "title": "ALAS-2024-2651 (medium): OpenIPMI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2652.html",
-          "author": null,
-          "description": "CVE-2024-37891",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2652.html",
-          "publishedOn": "2024-10-10T03:05:00.000Z",
-          "wordCount": 474,
-          "title": "ALAS-2024-2652 (medium): python-pip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2653.html",
-          "author": null,
-          "description": "CVE-2024-37891",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2653.html",
-          "publishedOn": "2024-10-10T03:05:00.000Z",
-          "wordCount": 472,
-          "title": "ALAS-2024-2653 (medium): python-urllib3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2654.html",
-          "author": null,
-          "description": "CVE-2024-35195",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2654.html",
-          "publishedOn": "2024-10-10T03:05:00.000Z",
-          "wordCount": 261,
-          "title": "ALAS-2024-2654 (medium): aws-cfn-bootstrap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2024-2655.html",
-          "author": null,
-          "description": "CVE-2023-41175",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2024-2655.html",
-          "publishedOn": "2024-10-10T03:05:00.000Z",
-          "wordCount": 246,
-          "title": "ALAS-2024-2655 (medium): libtiff",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html",
-          "author": null,
-          "description": "CVE-2024-45310",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2024-047.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 490,
-          "title": "ALASDOCKER-2024-047 (low): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html",
-          "author": null,
-          "description": "CVE-2024-45310",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-044.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 490,
-          "title": "ALASECS-2024-044 (low): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-048.html",
-          "author": null,
-          "description": "CVE-2024-45310",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2024-048.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 490,
-          "title": "ALASNITRO-ENCLAVES-2024-048 (low): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-013.html",
-          "author": null,
-          "description": "CVE-2024-37891",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-013.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 484,
-          "title": "ALASPYTHON3.8-2024-013 (medium): python38-pip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-003.html",
-          "author": null,
-          "description": "CVE-2024-8508",
-          "link": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-1.17-2024-003.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 391,
-          "title": "ALASUNBOUND-1.17-2024-003 (medium): unbound",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html",
-          "author": null,
-          "description": "CVE-2024-8508",
-          "link": "https://alas.aws.amazon.com/AL2/ALASUNBOUND-2024-003.html",
-          "publishedOn": "2024-10-10T03:01:00.000Z",
-          "wordCount": 387,
-          "title": "ALASUNBOUND-2024-003 (medium): unbound",
+          "description": "CVE-2024-9392, CVE-2024-9393, CVE-2024-9394, CVE-2024-9401, CVE-2024-9680",
+          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-031.html",
+          "publishedOn": "2024-10-24T16:45:00.000Z",
+          "wordCount": 507,
+          "title": "ALASFIREFOX-2024-031 (important): firefox",
           "imageUrl": null
         }
       ]
