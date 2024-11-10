@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-09T00:45:28.342Z</id>
+    <id>urn:2024-11-10T00:51:13.666Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T00:45:28.342Z</updated>
+    <updated>2024-11-10T00:51:13.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -566,36 +566,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html"/>
-        <updated>2024-10-24T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-087 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html"/>
-        <updated>2024-10-24T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-46865]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-056 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html"/>
-        <updated>2024-10-24T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-38632, CVE-2024-46695, CVE-2024-46855, CVE-2024-46858, CVE-2024-46865]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASLIVEPATCH-2024-192 (important): kernel-livepatch-5.10.223-212.873]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-192.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-192.html"/>
@@ -626,11 +596,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-087 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-087.html"/>
+        <updated>2024-10-24T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-46865]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-056 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html"/>
+        <updated>2024-10-24T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-38632, CVE-2024-46695, CVE-2024-46855, CVE-2024-46858, CVE-2024-46865]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.10-2024-072 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-072.html"/>
         <updated>2024-10-24T16:45:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-46695, CVE-2024-46858, CVE-2024-46865]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html"/>
+        <updated>2024-10-24T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -811,26 +811,6 @@
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-10-11T18:41:59.000Z</updated>
         <summary type="html"><![CDATA[FortiNAC 9.4.7 B0829 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiProxy 7.2.12]]></title>
-        <id>Fri, 11 Oct 2024 01:21:25 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-10-11T01:21:25.000Z</updated>
-        <summary type="html"><![CDATA[FortiProxy 7.2.12 B0442 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiProxy 7.0.19]]></title>
-        <id>Fri, 11 Oct 2024 01:11:48 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-10-11T01:11:48.000Z</updated>
-        <summary type="html"><![CDATA[FortiProxy 7.0.19 B0204 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
