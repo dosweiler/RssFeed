@@ -132,16 +132,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-045.html",
-          "author": null,
-          "description": "CVE-2024-45806, CVE-2024-45808, CVE-2024-45809, CVE-2024-45810, CVE-2024-7264",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-045.html",
-          "publishedOn": "2024-11-08T17:57:00.000Z",
-          "wordCount": 805,
-          "title": "ALASECS-2024-045 (medium): ecs-service-connect-agent",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-073.html",
           "author": null,
           "description": "CVE-2024-35807",
@@ -149,6 +139,16 @@
           "publishedOn": "2024-11-08T17:57:00.000Z",
           "wordCount": 259,
           "title": "ALASKERNEL-5.10-2024-073 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2024-045.html",
+          "author": null,
+          "description": "CVE-2024-45806, CVE-2024-45808, CVE-2024-45809, CVE-2024-45810, CVE-2024-7264",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2024-045.html",
+          "publishedOn": "2024-11-08T17:57:00.000Z",
+          "wordCount": 805,
+          "title": "ALASECS-2024-045 (medium): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
@@ -532,16 +532,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
-          "author": null,
-          "description": "CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
-          "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 925,
-          "title": "ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2024-192.html",
           "author": null,
           "description": "CVE-2024-46673",
@@ -572,13 +562,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
           "author": null,
-          "description": "CVE-2024-26921, CVE-2024-38632, CVE-2024-46695, CVE-2024-46855, CVE-2024-46858, CVE-2024-46865, CVE-2024-47685",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
+          "description": "CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2024-014.html",
           "publishedOn": "2024-10-24T16:45:00.000Z",
-          "wordCount": 389,
-          "title": "ALASKERNEL-5.15-2024-056 (important): kernel",
+          "wordCount": 925,
+          "title": "ALASCORRETTO8-2024-014 (medium): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -599,6 +589,16 @@
           "publishedOn": "2024-10-24T16:45:00.000Z",
           "wordCount": 352,
           "title": "ALASKERNEL-5.10-2024-072 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
+          "author": null,
+          "description": "CVE-2024-26921, CVE-2024-38632, CVE-2024-46695, CVE-2024-46855, CVE-2024-46858, CVE-2024-46865, CVE-2024-47685",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-056.html",
+          "publishedOn": "2024-10-24T16:45:00.000Z",
+          "wordCount": 389,
+          "title": "ALASKERNEL-5.15-2024-056 (important): kernel",
           "imageUrl": null
         },
         {
@@ -628,6 +628,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 20 Nov 2024 00:44:33 GMT",
+          "author": null,
+          "description": "FortiCamera 2.1.1 B0047 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-20T00:44:33.000Z",
+          "wordCount": 3276,
+          "title": "FortiCamera 2.1.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 19 Nov 2024 18:54:44 GMT",
+          "author": null,
+          "description": "FortiMonitorOnSight 7.2.5 B0014 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-11-19T18:54:44.000Z",
+          "wordCount": 3276,
+          "title": "FortiMonitorOnSight 7.2.5",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 12 Nov 2024 22:13:33 GMT",
           "author": null,
