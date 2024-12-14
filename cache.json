@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "2bf8bcbb-dd43-4bac-865f-e579844c458d",
+          "author": "UI-Edmundas",
+          "description": "Improvements\n\nImproved 2.4 GHz band connectivity and stability.\nImproved Packet Capture feature.\nImproved TX Retries reporting.\nImproved connectivity at low signal levels.\nImproved stability.\n\nBugfixes\n\nFixed various mobile device 6 GHz connectivity issues.\nFixed incorrectly reported disconnect events during client roam.\nFixed AP going offline when the Network application is unreachable for some time.\n\nAdditional information\nPlease note that this firmware is not available for U7 Pro Max. We are actively working on adapting recent improvements for the U7 Pro Max and anticipate its release at a later date.\n\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Official.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nPlease post a support file as well",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-92/2bf8bcbb-dd43-4bac-865f-e579844c458d",
+          "publishedOn": "2024-12-13T19:44:13.000Z",
+          "wordCount": 19,
+          "title": "UniFi Access Point 7.0.92",
+          "imageUrl": null
+        },
+        {
           "id": "fe1259cb-fb08-4137-8c69-66c7c83ffca7",
           "author": "UI-Edmundas",
           "description": "Overview\n* This release is the initial release for the E7.\nE7 is an enterprise-grade indoor access point delivering 10-stream Wi-Fi 7 performance for unmatched wireless connectivity. Equipped with two Ethernet ports—10GbE and 1GbE—it ensures power and data redundancy, providing increased reliability for critical operations. The E7 features a dedicated scanning radio, enabling real-time spectrum analysis.\n\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -28,6 +38,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 13 Dec 2024 01:29:09 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.6.2 B3415 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-12-13T01:29:09.000Z",
+          "wordCount": 3276,
+          "title": "FortiAnalyzer 7.6.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 13 Dec 2024 01:08:56 GMT",
+          "author": null,
+          "description": "FortiManager 7.6.2 B3415 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-12-13T01:08:56.000Z",
+          "wordCount": 3276,
+          "title": "FortiManager 7.6.2",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 12 Dec 2024 23:48:42 GMT",
           "author": null,
