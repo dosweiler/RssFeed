@@ -1,10 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-19T00:51:50.008Z</id>
+    <id>urn:2024-12-20T00:48:47.636Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T00:51:50.008Z</updated>
+    <updated>2024-12-20T00:48:47.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiVoice 7.2.0]]></title>
+        <id>Thu, 19 Dec 2024 22:12:10 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-12-19T22:12:10.000Z</updated>
+        <summary type="html"><![CDATA[FortiVoice 7.2.0 B0451 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Access Point 7.0.95]]></title>
+        <id>e2aa5440-1995-4ef5-b5ef-7706d8e39b61</id>
+        <link href="https://community.ui.com/releases/UniFi-Access-Point-7-0-95/e2aa5440-1995-4ef5-b5ef-7706d8e39b61"/>
+        <updated>2024-12-19T10:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Improvements
+
+Improved 2.4 GHz band connectivity and stability.
+Improved 5 GHz auto-channel selection.
+Improved Packet Capture feature.
+Improved TX Retries reporting.
+Improved connectivity at low signal levels.
+Improved stability.
+
+Bugfixes
+
+Fixed various mobile device 6 GHz connectivity issues.
+Fixed incorrectly reported disconnect events during client roam.
+Fixed AP going offline when the Network application is unreachable for some time.
+
+Additional information
+Please note that this firmware is not available for U7 Pro Max. We are actively working on adapting recent improvements for the U7 Pro Max and anticipate its release at a later date.
+
+
+To update your devices, set the Device Firmware Release Channel in the UniFi Network application to Official.
+If you decide to switch back to the Official release after the upgrade, simply ensure the release channel remains set to Official.
+
+
+If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
+
+AP model(s)
+Previous AP release version
+UniFi Network application version
+Please post a support file as well]]></summary>
+        <author>
+            <name>UI-liusats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer 7.4.6]]></title>
+        <id>Thu, 19 Dec 2024 01:52:56 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-12-19T01:52:56.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer 7.4.6 B2588 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiManager 7.4.6]]></title>
+        <id>Thu, 19 Dec 2024 01:42:25 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2024-12-19T01:42:25.000Z</updated>
+        <summary type="html"><![CDATA[FortiManager 7.4.6 B2588 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSandbox 5.0.1]]></title>
         <id>Wed, 18 Dec 2024 19:35:01 GMT</id>
@@ -303,6 +371,346 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS-2024-2702 (medium): jetty]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2702.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2702.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-9823]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2703 (medium): NetworkManager-libreswan]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2703.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2703.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-9050]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2704 (medium): avahi]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2704.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2704.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-52615, CVE-2024-52616]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2705 (important): libsoup]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2705.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2705.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-52530, CVE-2024-52531, CVE-2024-52532]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2706 (important): ruby]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2706.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2706.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-47220]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2707 (important): xstream]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2707.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2707.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-47072]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2708 (important): ghostscript]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2708.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2708.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-46951, CVE-2024-46953, CVE-2024-46956]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2709 (low): opensc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2709.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2709.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-45615, CVE-2024-45616, CVE-2024-45617, CVE-2024-45618, CVE-2024-45619, CVE-2024-45620]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2710 (important): expat]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2710.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2710.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-45490]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2711 (medium): vim]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2711.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2711.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-43802]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2712 (important): flatpak]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2712.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2712.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-42472]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2713 (medium): zziplib]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2713.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2713.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-39134]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2714 (medium): gnome-shell]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2714.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2714.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-36472]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2715 (medium): python-pip]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2715.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2715.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-35195]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2717 (medium): libxml2]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2717.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2717.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-34459]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2718 (medium): glibc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2718.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2718.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-33600]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2719 (medium): dovecot]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2719.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2719.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-23185]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2720 (important): java-1.8.0-openjdk]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2720.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2720.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-21131, CVE-2024-21138, CVE-2024-21140, CVE-2024-21144, CVE-2024-21145, CVE-2024-21147, CVE-2024-21208, CVE-2024-21210, CVE-2024-21217, CVE-2024-21235]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2721 (medium): apr]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2721.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2721.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-49582]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2024-2722 (important): edk2]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2024-2722.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2024-2722.html"/>
+        <updated>2024-12-05T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-28211, CVE-2021-28216, CVE-2021-38576, CVE-2021-38578, CVE-2023-45236, CVE-2023-45237, CVE-2024-38796, CVE-2024-9143]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASJAVA-OPENJDK11-2024-010 (important): java-11-openjdk]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-010.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-010.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-21131, CVE-2024-21138, CVE-2024-21140, CVE-2024-21144, CVE-2024-21145, CVE-2024-21147]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-088 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-38538, CVE-2024-47685, CVE-2024-49996]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-089 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26852]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-074 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-38538, CVE-2024-41080, CVE-2024-49996]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-075 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-075.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-075.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26870, CVE-2024-26882, CVE-2024-26891, CVE-2024-26894, CVE-2024-26906, CVE-2024-26907, CVE-2024-27047]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2024-076 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-076.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-076.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26733, CVE-2024-26754, CVE-2024-26843, CVE-2024-26852, CVE-2024-27414]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-057 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-057.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-057.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26870, CVE-2024-26882, CVE-2024-26891, CVE-2024-26894, CVE-2024-26906, CVE-2024-26907, CVE-2024-27047]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-058 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-058.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-058.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-52640, CVE-2024-26733, CVE-2024-26737, CVE-2024-26754, CVE-2024-26843, CVE-2024-26852, CVE-2024-27403, CVE-2024-27414]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2024-059 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-059.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-059.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-52913, CVE-2024-26718, CVE-2024-38538, CVE-2024-41080, CVE-2024-49996]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASFIREFOX-2024-033 (medium): firefox]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-033.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-033.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-11694]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASPYTHON3.8-2024-017 (medium): python38-pip]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-35195]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASPOSTGRESQL13-2024-008 (important): postgresql]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASPOSTGRESQL14-2024-014 (important): postgresql]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-014.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-014.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASPOSTGRESQL14-2024-015 (important): libpq]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-015.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-015.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FortiClientMac 7.0.14]]></title>
         <id>Wed, 4 Dec 2024 21:19:09 GMT</id>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
@@ -508,26 +916,6 @@ UniFi Network application version]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-11-22T15:59:40.000Z</updated>
         <summary type="html"><![CDATA[FortiSwitch 7.0.11 B0137 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiCamera 2.1.1]]></title>
-        <id>Wed, 20 Nov 2024 00:44:33 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-11-20T00:44:33.000Z</updated>
-        <summary type="html"><![CDATA[FortiCamera 2.1.1 B0047 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiMonitorOnSight 7.2.5]]></title>
-        <id>Tue, 19 Nov 2024 18:54:44 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-11-19T18:54:44.000Z</updated>
-        <summary type="html"><![CDATA[FortiMonitorOnSight 7.2.5 B0014 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
