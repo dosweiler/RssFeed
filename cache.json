@@ -8,7 +8,7 @@
         {
           "id": "e2aa5440-1995-4ef5-b5ef-7706d8e39b61",
           "author": "UI-liusats",
-          "description": "Improvements\n\nImproved 2.4 GHz band connectivity and stability.\nImproved 5 GHz auto-channel selection.\nImproved Packet Capture feature.\nImproved TX Retries reporting.\nImproved connectivity at low signal levels.\nImproved stability.\n\nBugfixes\n\nFixed various mobile device 6 GHz connectivity issues.\nFixed incorrectly reported disconnect events during client roam.\nFixed AP going offline when the Network application is unreachable for some time.\n\nAdditional information\nPlease note that this firmware is not available for U7 Pro Max. We are actively working on adapting recent improvements for the U7 Pro Max and anticipate its release at a later date.\n\n\nTo update your devices, set the Device Firmware Release Channel in the UniFi Network application to Official.\nIf you decide to switch back to the Official release after the upgrade, simply ensure the release channel remains set to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nPlease post a support file as well",
+          "description": "Improvements\n\nImproved 2.4 GHz band connectivity and stability.\nImproved 5 GHz auto-channel selection.\nImproved Packet Capture feature.\nImproved TX Retries reporting.\nImproved connectivity at low signal levels.\nImproved stability.\n\nBugfixes\n\nFixed various mobile device 6 GHz connectivity issues.\nFixed incorrectly reported disconnect events during client roam.\nFixed AP going offline when the Network application is unreachable for some time.\n\nAdditional information\nPlease note that this firmware is not available for U7 Pro Max. We are actively working on adapting recent improvements for the U7 Pro Max and anticipate its release at a later date.\n\n\nTo update your devices, set the Device Firmware Release Channel in the UniFi Network application to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nPlease post a support file as well",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-95/e2aa5440-1995-4ef5-b5ef-7706d8e39b61",
           "publishedOn": "2024-12-19T10:26:32.000Z",
           "wordCount": 19,
@@ -253,6 +253,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-057.html",
+          "author": null,
+          "description": "CVE-2024-26870, CVE-2024-26882, CVE-2024-26891, CVE-2024-26894, CVE-2024-26906, CVE-2024-26907, CVE-2024-27047",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-057.html",
+          "publishedOn": "2024-12-05T01:00:00.000Z",
+          "wordCount": 374,
+          "title": "ALASKERNEL-5.15-2024-057 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-058.html",
+          "author": null,
+          "description": "CVE-2023-52640, CVE-2024-26733, CVE-2024-26737, CVE-2024-26754, CVE-2024-26843, CVE-2024-26852, CVE-2024-27403, CVE-2024-27414",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-058.html",
+          "publishedOn": "2024-12-05T01:00:00.000Z",
+          "wordCount": 386,
+          "title": "ALASKERNEL-5.15-2024-058 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-059.html",
+          "author": null,
+          "description": "CVE-2023-52913, CVE-2024-26718, CVE-2024-38538, CVE-2024-41080, CVE-2024-49996",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-059.html",
+          "publishedOn": "2024-12-05T01:00:00.000Z",
+          "wordCount": 338,
+          "title": "ALASKERNEL-5.15-2024-059 (medium): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html",
           "author": null,
           "description": "CVE-2024-26921, CVE-2024-38538, CVE-2024-47685, CVE-2024-49996",
@@ -303,33 +333,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-057.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
           "author": null,
-          "description": "CVE-2024-26870, CVE-2024-26882, CVE-2024-26891, CVE-2024-26894, CVE-2024-26906, CVE-2024-26907, CVE-2024-27047",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-057.html",
+          "description": "CVE-2024-35195",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
           "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 374,
-          "title": "ALASKERNEL-5.15-2024-057 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-058.html",
-          "author": null,
-          "description": "CVE-2023-52640, CVE-2024-26733, CVE-2024-26737, CVE-2024-26754, CVE-2024-26843, CVE-2024-26852, CVE-2024-27403, CVE-2024-27414",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-058.html",
-          "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 386,
-          "title": "ALASKERNEL-5.15-2024-058 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-059.html",
-          "author": null,
-          "description": "CVE-2023-52913, CVE-2024-26718, CVE-2024-38538, CVE-2024-41080, CVE-2024-49996",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-059.html",
-          "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 338,
-          "title": "ALASKERNEL-5.15-2024-059 (medium): kernel",
+          "wordCount": 273,
+          "title": "ALASPYTHON3.8-2024-017 (medium): python38-pip",
           "imageUrl": null
         },
         {
@@ -340,16 +350,6 @@
           "publishedOn": "2024-12-05T01:00:00.000Z",
           "wordCount": 268,
           "title": "ALASFIREFOX-2024-033 (medium): firefox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
-          "author": null,
-          "description": "CVE-2024-35195",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
-          "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 273,
-          "title": "ALASPYTHON3.8-2024-017 (medium): python38-pip",
           "imageUrl": null
         },
         {
@@ -389,6 +389,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 20 Dec 2024 19:48:36 GMT",
+          "author": null,
+          "description": "FortiPAM 1.5.0 B1193 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-12-20T19:48:36.000Z",
+          "wordCount": 3276,
+          "title": "FortiPAM 1.5.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 20 Dec 2024 19:28:16 GMT",
+          "author": null,
+          "description": "FortiSRA 1.5.0 B1193 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-12-20T19:28:16.000Z",
+          "wordCount": 3276,
+          "title": "FortiSRA 1.5.0",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 19 Dec 2024 22:12:10 GMT",
           "author": null,
