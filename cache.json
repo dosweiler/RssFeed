@@ -243,6 +243,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-010.html",
+          "author": null,
+          "description": "CVE-2024-21131, CVE-2024-21138, CVE-2024-21140, CVE-2024-21144, CVE-2024-21145, CVE-2024-21147",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-010.html",
+          "publishedOn": "2024-12-05T01:00:00.000Z",
+          "wordCount": 1403,
+          "title": "ALASJAVA-OPENJDK11-2024-010 (important): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2024-057.html",
           "author": null,
           "description": "CVE-2024-26870, CVE-2024-26882, CVE-2024-26891, CVE-2024-26894, CVE-2024-26906, CVE-2024-26907, CVE-2024-27047",
@@ -270,16 +280,6 @@
           "publishedOn": "2024-12-05T01:00:00.000Z",
           "wordCount": 338,
           "title": "ALASKERNEL-5.15-2024-059 (medium): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-010.html",
-          "author": null,
-          "description": "CVE-2024-21131, CVE-2024-21138, CVE-2024-21140, CVE-2024-21144, CVE-2024-21145, CVE-2024-21147",
-          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2024-010.html",
-          "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 1403,
-          "title": "ALASJAVA-OPENJDK11-2024-010 (important): java-11-openjdk",
           "imageUrl": null
         },
         {
@@ -333,16 +333,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-033.html",
-          "author": null,
-          "description": "CVE-2024-11694",
-          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-033.html",
-          "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 268,
-          "title": "ALASFIREFOX-2024-033 (medium): firefox",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
           "author": null,
           "description": "CVE-2024-35195",
@@ -353,13 +343,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-033.html",
           "author": null,
-          "description": "CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html",
+          "description": "CVE-2024-11694",
+          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2024-033.html",
           "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 720,
-          "title": "ALASPOSTGRESQL13-2024-008 (important): postgresql",
+          "wordCount": 268,
+          "title": "ALASFIREFOX-2024-033 (medium): firefox",
           "imageUrl": null
         },
         {
@@ -381,6 +371,16 @@
           "wordCount": 677,
           "title": "ALASPOSTGRESQL14-2024-015 (important): libpq",
           "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html",
+          "author": null,
+          "description": "CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html",
+          "publishedOn": "2024-12-05T01:00:00.000Z",
+          "wordCount": 720,
+          "title": "ALASPOSTGRESQL13-2024-008 (important): postgresql",
+          "imageUrl": null
         }
       ]
     },
@@ -389,6 +389,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 24 Dec 2024 00:06:01 GMT",
+          "author": null,
+          "description": "FortiTester 7.4.3 B0979 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-12-24T00:06:01.000Z",
+          "wordCount": 3276,
+          "title": "FortiTester 7.4.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 23 Dec 2024 20:43:50 GMT",
+          "author": null,
+          "description": "FortiNACAgent 7.6.0 B0014 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2024-12-23T20:43:50.000Z",
+          "wordCount": 3276,
+          "title": "FortiNACAgent 7.6.0",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 20 Dec 2024 19:48:36 GMT",
           "author": null,
