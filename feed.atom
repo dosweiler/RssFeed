@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-27T00:48:07.519Z</id>
+    <id>urn:2024-12-28T00:46:57.433Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T00:48:07.519Z</updated>
+    <updated>2024-12-28T00:46:57.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -650,6 +650,26 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-088 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-38538, CVE-2024-47685, CVE-2024-49996]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-089 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-26852]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.10-2024-074 (medium): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html"/>
@@ -680,26 +700,6 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-088 (medium): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html"/>
-        <updated>2024-12-05T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26921, CVE-2024-38538, CVE-2024-47685, CVE-2024-49996]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.4-2024-089 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html"/>
-        <updated>2024-12-05T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-26852]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASPYTHON3.8-2024-017 (medium): python38-pip]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html"/>
@@ -720,16 +720,6 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASPOSTGRESQL13-2024-008 (important): postgresql]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html"/>
-        <updated>2024-12-05T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASPOSTGRESQL14-2024-014 (important): postgresql]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-014.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-014.html"/>
@@ -743,6 +733,16 @@ Please post a support file as well]]></summary>
         <title type="html"><![CDATA[ALASPOSTGRESQL14-2024-015 (important): libpq]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-015.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2024-015.html"/>
+        <updated>2024-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASPOSTGRESQL13-2024-008 (important): postgresql]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2024-008.html"/>
         <updated>2024-12-05T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-10976, CVE-2024-10977, CVE-2024-10978, CVE-2024-10979]]></summary>
         <author>
@@ -825,26 +825,6 @@ UniFi Network application version]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-11-28T18:51:46.000Z</updated>
         <summary type="html"><![CDATA[FortiOS 7.6.1 B3457 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSwitch 7.4.5]]></title>
-        <id>Thu, 28 Nov 2024 11:35:15 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-11-28T11:35:15.000Z</updated>
-        <summary type="html"><![CDATA[FortiSwitch 7.4.5 B0880 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiWeb 7.6.1]]></title>
-        <id>Thu, 28 Nov 2024 00:36:47 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-11-28T00:36:47.000Z</updated>
-        <summary type="html"><![CDATA[FortiWeb 7.6.1 B1010 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
