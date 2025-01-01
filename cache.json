@@ -253,23 +253,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html",
           "author": null,
-          "description": "CVE-2024-26921, CVE-2024-38538, CVE-2024-47685, CVE-2024-49996",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html",
+          "description": "CVE-2024-38538, CVE-2024-41080, CVE-2024-49996",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html",
           "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 335,
-          "title": "ALASKERNEL-5.4-2024-088 (medium): kernel",
+          "wordCount": 305,
+          "title": "ALASKERNEL-5.10-2024-074 (medium): kernel",
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-075.html",
           "author": null,
-          "description": "CVE-2024-26852",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html",
+          "description": "CVE-2024-26870, CVE-2024-26882, CVE-2024-26891, CVE-2024-26894, CVE-2024-26906, CVE-2024-26907, CVE-2024-27047",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-075.html",
           "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 248,
-          "title": "ALASKERNEL-5.4-2024-089 (important): kernel",
+          "wordCount": 374,
+          "title": "ALASKERNEL-5.10-2024-075 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-076.html",
+          "author": null,
+          "description": "CVE-2024-26733, CVE-2024-26754, CVE-2024-26843, CVE-2024-26852, CVE-2024-27414",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-076.html",
+          "publishedOn": "2024-12-05T01:00:00.000Z",
+          "wordCount": 327,
+          "title": "ALASKERNEL-5.10-2024-076 (important): kernel",
           "imageUrl": null
         },
         {
@@ -303,43 +313,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html",
           "author": null,
-          "description": "CVE-2024-38538, CVE-2024-41080, CVE-2024-49996",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-074.html",
+          "description": "CVE-2024-26921, CVE-2024-38538, CVE-2024-47685, CVE-2024-49996",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-088.html",
           "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 305,
-          "title": "ALASKERNEL-5.10-2024-074 (medium): kernel",
+          "wordCount": 335,
+          "title": "ALASKERNEL-5.4-2024-088 (medium): kernel",
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-075.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html",
           "author": null,
-          "description": "CVE-2024-26870, CVE-2024-26882, CVE-2024-26891, CVE-2024-26894, CVE-2024-26906, CVE-2024-26907, CVE-2024-27047",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-075.html",
+          "description": "CVE-2024-26852",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2024-089.html",
           "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 374,
-          "title": "ALASKERNEL-5.10-2024-075 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-076.html",
-          "author": null,
-          "description": "CVE-2024-26733, CVE-2024-26754, CVE-2024-26843, CVE-2024-26852, CVE-2024-27414",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2024-076.html",
-          "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 327,
-          "title": "ALASKERNEL-5.10-2024-076 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
-          "author": null,
-          "description": "CVE-2024-35195",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
-          "publishedOn": "2024-12-05T01:00:00.000Z",
-          "wordCount": 273,
-          "title": "ALASPYTHON3.8-2024-017 (medium): python38-pip",
+          "wordCount": 248,
+          "title": "ALASKERNEL-5.4-2024-089 (important): kernel",
           "imageUrl": null
         },
         {
@@ -350,6 +340,16 @@
           "publishedOn": "2024-12-05T01:00:00.000Z",
           "wordCount": 268,
           "title": "ALASFIREFOX-2024-033 (medium): firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
+          "author": null,
+          "description": "CVE-2024-35195",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2024-017.html",
+          "publishedOn": "2024-12-05T01:00:00.000Z",
+          "wordCount": 273,
+          "title": "ALASPYTHON3.8-2024-017 (medium): python38-pip",
           "imageUrl": null
         },
         {
@@ -389,6 +389,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 1 Jan 2025 00:06:36 GMT",
+          "author": null,
+          "description": "FortiADCManager 7.2.2 B0045 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-01-01T00:06:36.000Z",
+          "wordCount": 3276,
+          "title": "FortiADCManager 7.2.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 1 Jan 2025 00:04:40 GMT",
+          "author": null,
+          "description": "FortiADCManager 7.4.2 B0066 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-01-01T00:04:40.000Z",
+          "wordCount": 3276,
+          "title": "FortiADCManager 7.4.2",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 24 Dec 2024 00:06:01 GMT",
           "author": null,
