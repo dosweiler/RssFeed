@@ -51,13 +51,104 @@
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
+          "author": null,
+          "description": "CVE-2024-50083",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
+          "publishedOn": "2025-01-04T00:05:00.000Z",
+          "wordCount": 254,
+          "title": "ALASKERNEL-5.15-2025-060 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html",
+          "author": null,
+          "description": "CVE-2024-50083",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html",
+          "publishedOn": "2025-01-04T00:05:00.000Z",
+          "wordCount": 263,
+          "title": "ALASKERNEL-5.10-2025-077 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2724.html",
+          "author": null,
+          "description": "CVE-2024-9681",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2724.html",
+          "publishedOn": "2025-01-04T00:04:00.000Z",
+          "wordCount": 392,
+          "title": "ALAS-2025-2724 (medium): curl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2725.html",
+          "author": null,
+          "description": "CVE-2024-52804",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2725.html",
+          "publishedOn": "2025-01-04T00:04:00.000Z",
+          "wordCount": 259,
+          "title": "ALAS-2025-2725 (medium): python3-tornado",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2726.html",
+          "author": null,
+          "description": "CVE-2024-42353",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2726.html",
+          "publishedOn": "2025-01-04T00:04:00.000Z",
+          "wordCount": 292,
+          "title": "ALAS-2025-2726 (medium): python-webob",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2727.html",
+          "author": null,
+          "description": "CVE-2024-40897",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2727.html",
+          "publishedOn": "2025-01-04T00:04:00.000Z",
+          "wordCount": 245,
+          "title": "ALAS-2025-2727 (medium): orc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2728.html",
+          "author": null,
+          "description": "CVE-2024-24826, CVE-2024-25112",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2728.html",
+          "publishedOn": "2025-01-04T00:04:00.000Z",
+          "wordCount": 395,
+          "title": "ALAS-2025-2728 (medium): exiv2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2729.html",
+          "author": null,
+          "description": "CVE-2022-3094",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2729.html",
+          "publishedOn": "2025-01-04T00:04:00.000Z",
+          "wordCount": 457,
+          "title": "ALAS-2025-2729 (medium): bind",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Fortinet Firmware Updates",
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 9 Jan 2025 22:18:15 GMT",
+          "author": null,
+          "description": "FortiAP 7.4.5 B0734 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-01-09T22:18:15.000Z",
+          "wordCount": 3276,
+          "title": "FortiAP 7.4.5",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 1 Jan 2025 00:06:36 GMT",
           "author": null,
@@ -376,26 +467,6 @@
           "publishedOn": "2024-12-11T17:39:54.000Z",
           "wordCount": 3276,
           "title": "FortiClient 7.4.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 11 Dec 2024 05:31:06 GMT",
-          "author": null,
-          "description": "FortiSwitchManager 7.2.5 B0151 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-11T05:31:06.000Z",
-          "wordCount": 3276,
-          "title": "FortiSwitchManager 7.2.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 11 Dec 2024 05:24:58 GMT",
-          "author": null,
-          "description": "FortiRecorder 7.0.5 B0084 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-11T05:24:58.000Z",
-          "wordCount": 3276,
-          "title": "FortiRecorder 7.0.5",
           "imageUrl": null
         }
       ]

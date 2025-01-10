@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-09T00:48:38.054Z</id>
+    <id>urn:2025-01-10T00:50:38.221Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T00:48:38.054Z</updated>
+    <updated>2025-01-10T00:50:38.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAP 7.4.5]]></title>
+        <id>Thu, 9 Jan 2025 22:18:15 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-01-09T22:18:15.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP 7.4.5 B0734 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UniFi Access Point 7.0.100]]></title>
         <id>e298e37b-eab8-4523-8550-2b8627151965</id>
@@ -30,6 +40,86 @@ UniFi Network application version
 Please post a support file as well]]></summary>
         <author>
             <name>UI-Edmundas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-060 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html"/>
+        <updated>2025-01-04T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-50083]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2025-077 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html"/>
+        <updated>2025-01-04T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-50083]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2025-2724 (medium): curl]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2724.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2724.html"/>
+        <updated>2025-01-04T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-9681]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2025-2725 (medium): python3-tornado]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2725.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2725.html"/>
+        <updated>2025-01-04T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-52804]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2025-2726 (medium): python-webob]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2726.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2726.html"/>
+        <updated>2025-01-04T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-42353]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2025-2727 (medium): orc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2727.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2727.html"/>
+        <updated>2025-01-04T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-40897]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2025-2728 (medium): exiv2]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2728.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2728.html"/>
+        <updated>2025-01-04T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-24826, CVE-2024-25112]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2025-2729 (medium): bind]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2729.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2729.html"/>
+        <updated>2025-01-04T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-3094]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -453,26 +543,6 @@ Please post a support file as well]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-12-11T17:39:54.000Z</updated>
         <summary type="html"><![CDATA[FortiClient 7.4.2 B1737 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSwitchManager 7.2.5]]></title>
-        <id>Wed, 11 Dec 2024 05:31:06 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-11T05:31:06.000Z</updated>
-        <summary type="html"><![CDATA[FortiSwitchManager 7.2.5 B0151 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiRecorder 7.0.5]]></title>
-        <id>Wed, 11 Dec 2024 05:24:58 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-11T05:24:58.000Z</updated>
-        <summary type="html"><![CDATA[FortiRecorder 7.0.5 B0084 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
