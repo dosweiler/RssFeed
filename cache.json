@@ -34,16 +34,6 @@
           "wordCount": 19,
           "title": "UniFi Access Point 7.0.98",
           "imageUrl": null
-        },
-        {
-          "id": "e2aa5440-1995-4ef5-b5ef-7706d8e39b61",
-          "author": "UI-liusats",
-          "description": "Improvements\n\nImproved 2.4 GHz band connectivity and stability.\nImproved 5 GHz auto-channel selection.\nImproved Packet Capture feature.\nImproved TX Retries reporting.\nImproved connectivity at low signal levels.\nImproved stability.\n\nBugfixes\n\nFixed various mobile device 6 GHz connectivity issues.\nFixed incorrectly reported disconnect events during client roam.\nFixed AP going offline when the Network application is unreachable for some time.\n\nAdditional information\nPlease note that this firmware is not available for U7 Pro Max. We are actively working on adapting recent improvements for the U7 Pro Max and anticipate its release at a later date.\n\n\nTo update your devices, set the Device Firmware Release Channel in the UniFi Network application to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nPlease post a support file as well",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-95/e2aa5440-1995-4ef5-b5ef-7706d8e39b61",
-          "publishedOn": "2024-12-19T10:26:32.000Z",
-          "wordCount": 19,
-          "title": "UniFi Access Point 7.0.95",
-          "imageUrl": null
         }
       ]
     },
@@ -53,13 +43,13 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2731.html",
           "author": null,
-          "description": "CVE-2024-50083",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
-          "publishedOn": "2025-01-04T00:05:00.000Z",
-          "wordCount": 254,
-          "title": "ALASKERNEL-5.15-2025-060 (important): kernel",
+          "description": "CVE-2024-12085, CVE-2024-12086, CVE-2024-12087, CVE-2024-12088, CVE-2024-12747",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2731.html",
+          "publishedOn": "2025-01-16T06:56:00.000Z",
+          "wordCount": 566,
+          "title": "ALAS-2025-2731 (important): rsync",
           "imageUrl": null
         },
         {
@@ -70,6 +60,16 @@
           "publishedOn": "2025-01-04T00:05:00.000Z",
           "wordCount": 263,
           "title": "ALASKERNEL-5.10-2025-077 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
+          "author": null,
+          "description": "CVE-2024-50083",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
+          "publishedOn": "2025-01-04T00:05:00.000Z",
+          "wordCount": 254,
+          "title": "ALASKERNEL-5.15-2025-060 (important): kernel",
           "imageUrl": null
         },
         {
@@ -357,56 +357,6 @@
           "publishedOn": "2024-12-19T22:12:10.000Z",
           "wordCount": 3276,
           "title": "FortiVoice 7.2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 19 Dec 2024 01:52:56 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 7.4.6 B2588 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-19T01:52:56.000Z",
-          "wordCount": 3276,
-          "title": "FortiAnalyzer 7.4.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 19 Dec 2024 01:42:25 GMT",
-          "author": null,
-          "description": "FortiManager 7.4.6 B2588 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-19T01:42:25.000Z",
-          "wordCount": 3276,
-          "title": "FortiManager 7.4.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 18 Dec 2024 19:35:01 GMT",
-          "author": null,
-          "description": "FortiSandbox 5.0.1 B0080 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-18T19:35:01.000Z",
-          "wordCount": 3276,
-          "title": "FortiSandbox 5.0.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 18 Dec 2024 19:28:41 GMT",
-          "author": null,
-          "description": "FortiWeb 7.4.6 B0674 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-18T19:28:41.000Z",
-          "wordCount": 3276,
-          "title": "FortiWeb 7.4.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 18 Dec 2024 18:03:08 GMT",
-          "author": null,
-          "description": "FortiSOAR 7.6.1 B5275 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-18T18:03:08.000Z",
-          "wordCount": 3276,
-          "title": "FortiSOAR 7.6.1",
           "imageUrl": null
         }
       ]

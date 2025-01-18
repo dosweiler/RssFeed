@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-17T00:46:28.288Z</id>
+    <id>urn:2025-01-18T00:44:52.163Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-17T00:46:28.288Z</updated>
+    <updated>2025-01-18T00:44:52.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,6 +56,16 @@ UniFi Network application version
 Please post a support file as well]]></summary>
         <author>
             <name>UI-Edmundas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS-2025-2731 (important): rsync]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2731.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2731.html"/>
+        <updated>2025-01-16T06:56:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-12085, CVE-2024-12086, CVE-2024-12087, CVE-2024-12088, CVE-2024-12747]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -216,9 +226,9 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-060 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html"/>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2025-077 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html"/>
         <updated>2025-01-04T00:05:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-50083]]></summary>
         <author>
@@ -226,9 +236,9 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2025-077 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-077.html"/>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-060 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html"/>
         <updated>2025-01-04T00:05:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-50083]]></summary>
         <author>
@@ -392,93 +402,6 @@ Please post a support file as well]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2024-12-19T22:12:10.000Z</updated>
         <summary type="html"><![CDATA[FortiVoice 7.2.0 B0451 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point 7.0.95]]></title>
-        <id>e2aa5440-1995-4ef5-b5ef-7706d8e39b61</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-7-0-95/e2aa5440-1995-4ef5-b5ef-7706d8e39b61"/>
-        <updated>2024-12-19T10:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
-
-Improved 2.4 GHz band connectivity and stability.
-Improved 5 GHz auto-channel selection.
-Improved Packet Capture feature.
-Improved TX Retries reporting.
-Improved connectivity at low signal levels.
-Improved stability.
-
-Bugfixes
-
-Fixed various mobile device 6 GHz connectivity issues.
-Fixed incorrectly reported disconnect events during client roam.
-Fixed AP going offline when the Network application is unreachable for some time.
-
-Additional information
-Please note that this firmware is not available for U7 Pro Max. We are actively working on adapting recent improvements for the U7 Pro Max and anticipate its release at a later date.
-
-
-To update your devices, set the Device Firmware Release Channel in the UniFi Network application to Official.
-
-
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version
-Please post a support file as well]]></summary>
-        <author>
-            <name>UI-liusats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAnalyzer 7.4.6]]></title>
-        <id>Thu, 19 Dec 2024 01:52:56 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-19T01:52:56.000Z</updated>
-        <summary type="html"><![CDATA[FortiAnalyzer 7.4.6 B2588 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiManager 7.4.6]]></title>
-        <id>Thu, 19 Dec 2024 01:42:25 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-19T01:42:25.000Z</updated>
-        <summary type="html"><![CDATA[FortiManager 7.4.6 B2588 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSandbox 5.0.1]]></title>
-        <id>Wed, 18 Dec 2024 19:35:01 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-18T19:35:01.000Z</updated>
-        <summary type="html"><![CDATA[FortiSandbox 5.0.1 B0080 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiWeb 7.4.6]]></title>
-        <id>Wed, 18 Dec 2024 19:28:41 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-18T19:28:41.000Z</updated>
-        <summary type="html"><![CDATA[FortiWeb 7.4.6 B0674 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSOAR 7.6.1]]></title>
-        <id>Wed, 18 Dec 2024 18:03:08 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-18T18:03:08.000Z</updated>
-        <summary type="html"><![CDATA[FortiSOAR 7.6.1 B5275 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
