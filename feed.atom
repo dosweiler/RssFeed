@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-22T00:48:32.677Z</id>
+    <id>urn:2025-01-23T00:47:08.489Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T00:48:32.677Z</updated>
+    <updated>2025-01-23T00:47:08.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiPortal 7.2.6]]></title>
+        <id>Wed, 22 Jan 2025 19:23:17 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-01-22T19:23:17.000Z</updated>
+        <summary type="html"><![CDATA[FortiPortal 7.2.6 B1280 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiOS 7.4.7]]></title>
         <id>Tue, 21 Jan 2025 22:35:11 GMT</id>
@@ -60,11 +70,18 @@
         <id>fc73350d-3668-40dd-b7ea-39b7e4660b6e</id>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-7-0-103/fc73350d-3668-40dd-b7ea-39b7e4660b6e"/>
         <updated>2025-01-16T18:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
+        <summary type="html"><![CDATA[Overview
+This release is promoted to Official/Stable release channel for these models:
+
+U7-Pro-Wall
+U7-Outdoor
+E7
+U6-Mesh-Pro
+
+Improvements
 
 Improved 6GHz Auto channel selection algorithm.
 Improved 6GHz lower band frequency performance for the U7-Pro.
-
 
 Bugfixes
 
@@ -260,7 +277,7 @@ Please post a support file as well]]></summary>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html"/>
         <updated>2025-01-04T00:05:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-50083]]></summary>
+        <summary type="html"><![CDATA[CVE-2023-52913, CVE-2024-26718, CVE-2024-38538, CVE-2024-41080, CVE-2024-49996, CVE-2024-50036, CVE-2024-50083, CVE-2024-50127, CVE-2024-50128, CVE-2024-50131, CVE-2024-50143, CVE-2024-50150, CVE-2024-50151, CVE-2024-50154, CVE-2024-50247, CVE-2024-50257, CVE-2024-50262]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -382,26 +399,6 @@ Please post a support file as well]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2025-01-01T00:04:40.000Z</updated>
         <summary type="html"><![CDATA[FortiADCManager 7.4.2 B0066 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiTester 7.4.3]]></title>
-        <id>Tue, 24 Dec 2024 00:06:01 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-24T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA[FortiTester 7.4.3 B0979 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiNACAgent 7.6.0]]></title>
-        <id>Mon, 23 Dec 2024 20:43:50 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2024-12-23T20:43:50.000Z</updated>
-        <summary type="html"><![CDATA[FortiNACAgent 7.6.0 B0014 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>

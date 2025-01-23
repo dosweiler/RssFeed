@@ -8,7 +8,7 @@
         {
           "id": "fc73350d-3668-40dd-b7ea-39b7e4660b6e",
           "author": "UI-Edmundas",
-          "description": "Improvements\n\nImproved 6GHz Auto channel selection algorithm.\nImproved 6GHz lower band frequency performance for the U7-Pro.\n\n\nBugfixes\n\nFixed an issue where the 6GHz radio sometimes did not broadcast Wi-Fi.\n\nAdditional information\nNOTE: Please note that this firmware release is not available for U7 Pro Max.\n\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nPlease post a support file as well",
+          "description": "Overview\nThis release is promoted to Official/Stable release channel for these models:\n\nU7-Pro-Wall\nU7-Outdoor\nE7\nU6-Mesh-Pro\n\nImprovements\n\nImproved 6GHz Auto channel selection algorithm.\nImproved 6GHz lower band frequency performance for the U7-Pro.\n\nBugfixes\n\nFixed an issue where the 6GHz radio sometimes did not broadcast Wi-Fi.\n\nAdditional information\nNOTE: Please note that this firmware release is not available for U7 Pro Max.\n\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nPlease post a support file as well",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-103/fc73350d-3668-40dd-b7ea-39b7e4660b6e",
           "publishedOn": "2025-01-16T18:59:09.000Z",
           "wordCount": 19,
@@ -55,7 +55,7 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
           "author": null,
-          "description": "CVE-2024-50083",
+          "description": "CVE-2023-52913, CVE-2024-26718, CVE-2024-38538, CVE-2024-41080, CVE-2024-49996, CVE-2024-50036, CVE-2024-50083, CVE-2024-50127, CVE-2024-50128, CVE-2024-50131, CVE-2024-50143, CVE-2024-50150, CVE-2024-50151, CVE-2024-50154, CVE-2024-50247, CVE-2024-50257, CVE-2024-50262",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-060.html",
           "publishedOn": "2025-01-04T00:05:00.000Z",
           "wordCount": 657,
@@ -139,6 +139,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 22 Jan 2025 19:23:17 GMT",
+          "author": null,
+          "description": "FortiPortal 7.2.6 B1280 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-01-22T19:23:17.000Z",
+          "wordCount": 3276,
+          "title": "FortiPortal 7.2.6",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 21 Jan 2025 22:35:11 GMT",
           "author": null,
@@ -337,26 +347,6 @@
           "publishedOn": "2025-01-01T00:04:40.000Z",
           "wordCount": 3276,
           "title": "FortiADCManager 7.4.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 24 Dec 2024 00:06:01 GMT",
-          "author": null,
-          "description": "FortiTester 7.4.3 B0979 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-24T00:06:01.000Z",
-          "wordCount": 3276,
-          "title": "FortiTester 7.4.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 23 Dec 2024 20:43:50 GMT",
-          "author": null,
-          "description": "FortiNACAgent 7.6.0 B0014 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2024-12-23T20:43:50.000Z",
-          "wordCount": 3276,
-          "title": "FortiNACAgent 7.6.0",
           "imageUrl": null
         }
       ]
