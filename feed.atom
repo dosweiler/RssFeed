@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-01T00:51:16.398Z</id>
+    <id>urn:2025-02-02T00:50:56.187Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T00:51:16.398Z</updated>
+    <updated>2025-02-02T00:50:56.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UniFi Access Point 7.0.107]]></title>
+        <id>c7002199-e1ce-420b-b8df-6a3194ecfdc8</id>
+        <link href="https://community.ui.com/releases/UniFi-Access-Point-7-0-107/c7002199-e1ce-420b-b8df-6a3194ecfdc8"/>
+        <updated>2025-02-01T16:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+This release is available for these models:
+
+E7
+
+Improvements
+
+Improved 6GHz Auto channel selection algorithm.
+
+Bugfixes
+
+Fixed 6GHz SSIDs occasionally not broadcasting after a configuration change when "Extended 6 GHz Range" is enabled.
+
+Additional information
+If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
+
+AP model(s)
+Previous AP release version
+UniFi Network application version
+Please post a support file as well]]></summary>
+        <author>
+            <name>UI-Edmundas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiNAC-F 7.4.1]]></title>
         <id>Fri, 31 Jan 2025 23:01:50 GMT</id>
@@ -186,6 +215,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2025-048 (medium): runfinch-finch]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-048.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-048.html"/>
+        <updated>2025-01-21T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-45338, CVE-2024-51744]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.4-2025-090 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-090.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-090.html"/>
@@ -201,16 +240,6 @@
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-091.html"/>
         <updated>2025-01-21T20:23:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-26907]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2025-048 (medium): runfinch-finch]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-048.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-048.html"/>
-        <updated>2025-01-21T20:23:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-45338, CVE-2024-51744]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -330,10 +359,6 @@ Fixed an issue where the 6GHz radio sometimes did not broadcast Wi-Fi.
 
 Additional information
 NOTE: Please note that this firmware release is not available for U7 Pro Max.
-
-
-Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
-If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
 
 
 If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
@@ -591,37 +616,6 @@ Please post a support file as well]]></summary>
         <summary type="html"><![CDATA[CVE-2022-3094]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point 7.0.98]]></title>
-        <id>06f402a2-b168-44ce-be63-0a59fc496f24</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-7-0-98/06f402a2-b168-44ce-be63-0a59fc496f24"/>
-        <updated>2025-01-02T18:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
-
-Enhancements to increase reliability for 2.4 GHz wireless networks.
-
-Bugfixes
-
-Fixed IPv6 prefix assignment issue on RADIUS-assigned VLANs causing connectivity problems.
-Fixed wireless uplink on the E7 model in scenarios where VLANs are configured for the SSID
-
-Additional information
-Please note that this firmware is not available for U7 Pro Max. We are actively working on adapting recent improvements for the U7 Pro Max and anticipate its release at a later date.
-
-Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Official.
-If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
-
-
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version
-Please post a support file as well]]></summary>
-        <author>
-            <name>UI-liusats</name>
         </author>
     </entry>
 </feed>
