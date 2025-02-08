@@ -24,16 +24,6 @@
           "wordCount": 19,
           "title": "UniFi Access Point 7.0.103",
           "imageUrl": null
-        },
-        {
-          "id": "e298e37b-eab8-4523-8550-2b8627151965",
-          "author": "UI-Edmundas",
-          "description": "Bugfixes\n\nFixed unresponsiveness issues across various connected devices.\n\nAdditional information\nNOTE: Please note that this firmware release is not available for U7 Pro Max.\n\n\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nPlease post a support file as well",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-7-0-100/e298e37b-eab8-4523-8550-2b8627151965",
-          "publishedOn": "2025-01-08T20:50:01.000Z",
-          "wordCount": 19,
-          "title": "UniFi Access Point 7.0.100",
-          "imageUrl": null
         }
       ]
     },
@@ -42,6 +32,16 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "author": null,
+          "description": "CVE-2024-45337",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 539,
+          "title": "ALASNITRO-ENCLAVES-2025-049 (important): containerd",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
           "author": null,
@@ -70,36 +70,6 @@
           "publishedOn": "2025-01-31T05:43:00.000Z",
           "wordCount": 535,
           "title": "ALASDOCKER-2025-050 (important): runfinch-finch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-092.html",
-          "author": null,
-          "description": "CVE-2024-10929, CVE-2024-49884, CVE-2024-49936, CVE-2024-50067",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-092.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 300,
-          "title": "ALASKERNEL-5.4-2025-092 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-093.html",
-          "author": null,
-          "description": "CVE-2021-47483",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-093.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 248,
-          "title": "ALASKERNEL-5.4-2025-093 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
-          "author": null,
-          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50143",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 286,
-          "title": "ALASKERNEL-5.10-2025-081 (important): kernel",
           "imageUrl": null
         },
         {
@@ -143,6 +113,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-092.html",
+          "author": null,
+          "description": "CVE-2024-10929, CVE-2024-49884, CVE-2024-49936, CVE-2024-50067",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-092.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 300,
+          "title": "ALASKERNEL-5.4-2025-092 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-093.html",
+          "author": null,
+          "description": "CVE-2021-47483",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-093.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 248,
+          "title": "ALASKERNEL-5.4-2025-093 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html",
           "author": null,
           "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50242, CVE-2024-50246, CVE-2024-56658",
@@ -153,13 +143,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
           "author": null,
-          "description": "CVE-2024-45337",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50143",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
           "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 539,
-          "title": "ALASNITRO-ENCLAVES-2025-049 (important): containerd",
+          "wordCount": 286,
+          "title": "ALASKERNEL-5.10-2025-081 (important): kernel",
           "imageUrl": null
         },
         {
@@ -393,6 +383,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-061.html",
+          "author": null,
+          "description": "CVE-2024-49974, CVE-2024-50055, CVE-2024-50121, CVE-2024-53206",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-061.html",
+          "publishedOn": "2025-01-21T20:23:00.000Z",
+          "wordCount": 323,
+          "title": "ALASKERNEL-5.15-2025-061 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-078.html",
           "author": null,
           "description": "CVE-2024-50036, CVE-2024-50127, CVE-2024-50131, CVE-2024-50150, CVE-2024-50151, CVE-2024-50230, CVE-2024-50262",
@@ -410,16 +410,6 @@
           "publishedOn": "2025-01-21T20:23:00.000Z",
           "wordCount": 324,
           "title": "ALASKERNEL-5.10-2025-079 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-061.html",
-          "author": null,
-          "description": "CVE-2024-49974, CVE-2024-50055, CVE-2024-50121, CVE-2024-53206",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-061.html",
-          "publishedOn": "2025-01-21T20:23:00.000Z",
-          "wordCount": 323,
-          "title": "ALASKERNEL-5.15-2025-061 (important): kernel",
           "imageUrl": null
         },
         {
@@ -459,6 +449,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 7 Feb 2025 18:40:05 GMT",
+          "author": null,
+          "description": "FortiDDoS-F 7.0.4 B0746 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-07T18:40:05.000Z",
+          "wordCount": 3276,
+          "title": "FortiDDoS-F 7.0.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 7 Feb 2025 17:58:08 GMT",
+          "author": null,
+          "description": "FortiGuest 2.0.0 B0205 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-07T17:58:08.000Z",
+          "wordCount": 3276,
+          "title": "FortiGuest 2.0.0",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 6 Feb 2025 23:38:39 GMT",
           "author": null,
