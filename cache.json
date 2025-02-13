@@ -33,16 +33,6 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
-          "author": null,
-          "description": "CVE-2024-45337",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 539,
-          "title": "ALASNITRO-ENCLAVES-2025-049 (important): containerd",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html",
           "author": null,
           "description": "CVE-2024-45337",
@@ -70,26 +60,6 @@
           "publishedOn": "2025-01-31T05:43:00.000Z",
           "wordCount": 539,
           "title": "ALASECS-2025-046 (important): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html",
-          "author": null,
-          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50242, CVE-2024-50246, CVE-2024-56658",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 324,
-          "title": "ALASKERNEL-5.15-2025-062 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
-          "author": null,
-          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50143",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 286,
-          "title": "ALASKERNEL-5.10-2025-081 (important): kernel",
           "imageUrl": null
         },
         {
@@ -133,6 +103,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html",
+          "author": null,
+          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50242, CVE-2024-50246, CVE-2024-56658",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 324,
+          "title": "ALASKERNEL-5.15-2025-062 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "author": null,
+          "description": "CVE-2024-45337",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 539,
+          "title": "ALASNITRO-ENCLAVES-2025-049 (important): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-092.html",
           "author": null,
           "description": "CVE-2024-10929, CVE-2024-49884, CVE-2024-49936, CVE-2024-50067",
@@ -150,6 +140,16 @@
           "publishedOn": "2025-01-31T05:43:00.000Z",
           "wordCount": 248,
           "title": "ALASKERNEL-5.4-2025-093 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
+          "author": null,
+          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50143",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 286,
+          "title": "ALASKERNEL-5.10-2025-081 (important): kernel",
           "imageUrl": null
         },
         {
@@ -373,26 +373,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-078.html",
-          "author": null,
-          "description": "CVE-2024-50036, CVE-2024-50127, CVE-2024-50131, CVE-2024-50150, CVE-2024-50151, CVE-2024-50230, CVE-2024-50262",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-078.html",
-          "publishedOn": "2025-01-21T20:23:00.000Z",
-          "wordCount": 372,
-          "title": "ALASKERNEL-5.10-2025-078 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-079.html",
-          "author": null,
-          "description": "CVE-2024-49974, CVE-2024-50055, CVE-2024-50121, CVE-2024-56642",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-079.html",
-          "publishedOn": "2025-01-21T20:23:00.000Z",
-          "wordCount": 324,
-          "title": "ALASKERNEL-5.10-2025-079 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-090.html",
           "author": null,
           "description": "CVE-2024-26921, CVE-2024-38538, CVE-2024-47685, CVE-2024-47701, CVE-2024-47742, CVE-2024-47757, CVE-2024-49860, CVE-2024-49882, CVE-2024-49883, CVE-2024-49995, CVE-2024-49996, CVE-2024-50033, CVE-2024-50035, CVE-2024-50127, CVE-2024-50131, CVE-2024-50143, CVE-2024-50150, CVE-2024-50151, CVE-2024-50230, CVE-2024-50262",
@@ -410,6 +390,26 @@
           "publishedOn": "2025-01-21T20:23:00.000Z",
           "wordCount": 260,
           "title": "ALASKERNEL-5.4-2025-091 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-078.html",
+          "author": null,
+          "description": "CVE-2024-50036, CVE-2024-50127, CVE-2024-50131, CVE-2024-50150, CVE-2024-50151, CVE-2024-50230, CVE-2024-50262",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-078.html",
+          "publishedOn": "2025-01-21T20:23:00.000Z",
+          "wordCount": 372,
+          "title": "ALASKERNEL-5.10-2025-078 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-079.html",
+          "author": null,
+          "description": "CVE-2024-49974, CVE-2024-50055, CVE-2024-50121, CVE-2024-56642",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-079.html",
+          "publishedOn": "2025-01-21T20:23:00.000Z",
+          "wordCount": 324,
+          "title": "ALASKERNEL-5.10-2025-079 (important): kernel",
           "imageUrl": null
         },
         {
@@ -449,6 +449,46 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 12 Feb 2025 23:30:34 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.2.10 B1682 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-12T23:30:34.000Z",
+          "wordCount": 3276,
+          "title": "FortiAnalyzer 7.2.10",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 12 Feb 2025 23:24:24 GMT",
+          "author": null,
+          "description": "FortiManager 7.2.10 B1682 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-12T23:24:24.000Z",
+          "wordCount": 3276,
+          "title": "FortiManager 7.2.10",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 12 Feb 2025 23:09:35 GMT",
+          "author": null,
+          "description": "FortiOS 7.2.11 B1740 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-12T23:09:35.000Z",
+          "wordCount": 3276,
+          "title": "FortiOS 7.2.11",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 12 Feb 2025 16:36:38 GMT",
+          "author": null,
+          "description": "FortiWeb 7.4.7 B0685 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-12T16:36:38.000Z",
+          "wordCount": 3276,
+          "title": "FortiWeb 7.4.7",
+          "imageUrl": null
+        },
         {
           "id": "Sat, 8 Feb 2025 00:49:42 GMT",
           "author": null,
@@ -727,36 +767,6 @@
           "publishedOn": "2025-01-14T18:29:22.000Z",
           "wordCount": 3276,
           "title": "FortiOS 7.0.17",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 13 Jan 2025 21:45:15 GMT",
-          "author": null,
-          "description": "FortiPAM 1.4.2 B1142 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-01-13T21:45:15.000Z",
-          "wordCount": 3276,
-          "title": "FortiPAM 1.4.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 13 Jan 2025 21:40:39 GMT",
-          "author": null,
-          "description": "FortiPAM 1.3.1 B0865 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-01-13T21:40:39.000Z",
-          "wordCount": 3276,
-          "title": "FortiPAM 1.3.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 13 Jan 2025 21:37:55 GMT",
-          "author": null,
-          "description": "FortiSRA 1.4.2 B1142 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-01-13T21:37:55.000Z",
-          "wordCount": 3276,
-          "title": "FortiSRA 1.4.2",
           "imageUrl": null
         }
       ]
