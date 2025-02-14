@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T00:48:40.614Z</id>
+    <id>urn:2025-02-14T00:48:09.939Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T00:48:40.614Z</updated>
+    <updated>2025-02-14T00:48:09.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -145,36 +145,6 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2025-049 (important): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html"/>
-        <updated>2025-01-31T05:43:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-45337]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2025-050 (important): runfinch-finch]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html"/>
-        <updated>2025-01-31T05:43:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-45337]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASECS-2025-046 (important): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html"/>
-        <updated>2025-01-31T05:43:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-45337]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASLIVEPATCH-2025-195 (important): kernel-livepatch-5.10.228-219.884]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-195.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-195.html"/>
@@ -215,11 +185,11 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-062 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html"/>
+        <title type="html"><![CDATA[ALASECS-2025-046 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html"/>
         <updated>2025-01-31T05:43:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-10929, CVE-2024-50067, CVE-2024-50242, CVE-2024-50246, CVE-2024-56658]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-45337]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -230,6 +200,36 @@ Please post a support file as well]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html"/>
         <updated>2025-01-31T05:43:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-45337]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2025-049 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html"/>
+        <updated>2025-01-31T05:43:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-45337]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2025-050 (important): runfinch-finch]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html"/>
+        <updated>2025-01-31T05:43:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-45337, CVE-2024-45338, CVE-2024-51744]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-062 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-062.html"/>
+        <updated>2025-01-31T05:43:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-10929, CVE-2024-50067, CVE-2024-50242, CVE-2024-50246, CVE-2024-56658]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -249,7 +249,7 @@ Please post a support file as well]]></summary>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-093.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-093.html"/>
         <updated>2025-01-31T05:43:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2021-47483]]></summary>
+        <summary type="html"><![CDATA[CVE-2020-27820, CVE-2021-3640, CVE-2021-3772, CVE-2021-4001, CVE-2021-4002, CVE-2021-47184, CVE-2021-47185, CVE-2021-47189, CVE-2021-47190, CVE-2021-47192, CVE-2021-47201, CVE-2021-47203, CVE-2021-47217, CVE-2021-47483]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -409,7 +409,7 @@ Please post a support file as well]]></summary>
         <id>https://alas.aws.amazon.com/AL2/ALAS-2025-2752.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS-2025-2752.html"/>
         <updated>2025-01-30T22:56:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2021-47483]]></summary>
+        <summary type="html"><![CDATA[CVE-2021-3640, CVE-2021-3772, CVE-2021-4002, CVE-2021-47184, CVE-2021-47185, CVE-2021-47189, CVE-2021-47203, CVE-2021-47483]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -615,11 +615,21 @@ Please post a support file as well]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASTOMCAT9-2025-015 (important): tomcat]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2025-015.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2025-015.html"/>
+        <updated>2025-01-21T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-50379, CVE-2024-52316, CVE-2024-56337]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.10-2025-078 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-078.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-078.html"/>
         <updated>2025-01-21T20:23:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-50036, CVE-2024-50127, CVE-2024-50131, CVE-2024-50150, CVE-2024-50151, CVE-2024-50230, CVE-2024-50262]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-38538, CVE-2024-41080, CVE-2024-49996, CVE-2024-50036, CVE-2024-50127, CVE-2024-50131, CVE-2024-50150, CVE-2024-50151, CVE-2024-50230, CVE-2024-50262]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -630,16 +640,6 @@ Please post a support file as well]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-079.html"/>
         <updated>2025-01-21T20:23:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-49974, CVE-2024-50055, CVE-2024-50121, CVE-2024-56642]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASTOMCAT9-2025-015 (important): tomcat]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2025-015.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2025-015.html"/>
-        <updated>2025-01-21T20:23:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-50379, CVE-2024-52316, CVE-2024-56337]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -767,36 +767,6 @@ Please post a support file as well]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2025-01-15T19:47:52.000Z</updated>
         <summary type="html"><![CDATA[FortiClient 7.2.8 B1140 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiOS-6K7K 7.0.17]]></title>
-        <id>Tue, 14 Jan 2025 23:10:58 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-01-14T23:10:58.000Z</updated>
-        <summary type="html"><![CDATA[FortiOS-6K7K 7.0.17 B0287 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClientEMS 7.2.8]]></title>
-        <id>Tue, 14 Jan 2025 19:54:07 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-01-14T19:54:07.000Z</updated>
-        <summary type="html"><![CDATA[FortiClientEMS 7.2.8 B1152 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiOS 7.0.17]]></title>
-        <id>Tue, 14 Jan 2025 18:29:22 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-01-14T18:29:22.000Z</updated>
-        <summary type="html"><![CDATA[FortiOS 7.0.17 B0682 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
