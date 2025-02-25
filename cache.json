@@ -23,36 +23,6 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html",
-          "author": null,
-          "description": "CVE-2024-45337",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 539,
-          "title": "ALASDOCKER-2025-049 (important): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html",
-          "author": null,
-          "description": "CVE-2024-45337, CVE-2024-45338, CVE-2024-51744",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 790,
-          "title": "ALASDOCKER-2025-050 (important): runfinch-finch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
-          "author": null,
-          "description": "CVE-2024-45337",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 539,
-          "title": "ALASECS-2025-046 (important): containerd",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-195.html",
           "author": null,
           "description": "CVE-2023-52760, CVE-2024-36899, CVE-2024-49960, CVE-2024-49996, CVE-2024-50055, CVE-2024-50121, CVE-2024-50143, CVE-2024-50151, CVE-2024-50230, CVE-2024-50262, CVE-2024-56642",
@@ -93,6 +63,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
+          "author": null,
+          "description": "CVE-2024-45337",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 539,
+          "title": "ALASECS-2025-046 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html",
+          "author": null,
+          "description": "CVE-2024-45337",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 539,
+          "title": "ALASDOCKER-2025-049 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html",
+          "author": null,
+          "description": "CVE-2024-45337, CVE-2024-45338, CVE-2024-51744",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-050.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 790,
+          "title": "ALASDOCKER-2025-050 (important): runfinch-finch",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
           "author": null,
           "description": "CVE-2024-45337",
@@ -100,6 +100,16 @@
           "publishedOn": "2025-01-31T05:43:00.000Z",
           "wordCount": 539,
           "title": "ALASNITRO-ENCLAVES-2025-049 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
+          "author": null,
+          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50143",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 286,
+          "title": "ALASKERNEL-5.10-2025-081 (important): kernel",
           "imageUrl": null
         },
         {
@@ -120,16 +130,6 @@
           "publishedOn": "2025-01-31T05:43:00.000Z",
           "wordCount": 748,
           "title": "ALASKERNEL-5.4-2025-093 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
-          "author": null,
-          "description": "CVE-2024-10929, CVE-2024-50067, CVE-2024-50143",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-081.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 286,
-          "title": "ALASKERNEL-5.10-2025-081 (important): kernel",
           "imageUrl": null
         },
         {
@@ -289,6 +289,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 24 Feb 2025 22:39:52 GMT",
+          "author": null,
+          "description": "FortiDeceptor 6.1.0 B0148 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-24T22:39:52.000Z",
+          "wordCount": 3276,
+          "title": "FortiDeceptor 6.1.0",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 21 Feb 2025 22:16:24 GMT",
           "author": null,
