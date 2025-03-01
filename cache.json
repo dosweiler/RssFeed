@@ -243,16 +243,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-006.html",
-          "author": null,
-          "description": "CVE-2024-11233, CVE-2024-11234, CVE-2024-8925, CVE-2024-8927, CVE-2024-8929, CVE-2024-8932, CVE-2024-9026",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-006.html",
-          "publishedOn": "2025-02-12T23:07:00.000Z",
-          "wordCount": 551,
-          "title": "ALASPHP8.2-2025-006 (medium): php",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-063.html",
           "author": null,
           "description": "CVE-2024-35966, CVE-2024-36899, CVE-2024-47707, CVE-2024-49960, CVE-2024-50304, CVE-2024-56631, CVE-2024-56672, CVE-2025-21631, CVE-2025-21653",
@@ -260,6 +250,16 @@
           "publishedOn": "2025-02-12T23:07:00.000Z",
           "wordCount": 412,
           "title": "ALASKERNEL-5.15-2025-063 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-006.html",
+          "author": null,
+          "description": "CVE-2024-11233, CVE-2024-11234, CVE-2024-8925, CVE-2024-8927, CVE-2024-8929, CVE-2024-8932, CVE-2024-9026",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-006.html",
+          "publishedOn": "2025-02-12T23:07:00.000Z",
+          "wordCount": 551,
+          "title": "ALASPHP8.2-2025-006 (medium): php",
           "imageUrl": null
         },
         {
@@ -303,16 +303,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
-          "author": null,
-          "description": "CVE-2024-45337",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 539,
-          "title": "ALASNITRO-ENCLAVES-2025-049 (important): containerd",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-049.html",
           "author": null,
           "description": "CVE-2024-45337",
@@ -333,6 +323,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
+          "author": null,
+          "description": "CVE-2024-45337",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 539,
+          "title": "ALASECS-2025-046 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "author": null,
+          "description": "CVE-2024-45337",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-049.html",
+          "publishedOn": "2025-01-31T05:43:00.000Z",
+          "wordCount": 539,
+          "title": "ALASNITRO-ENCLAVES-2025-049 (important): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-092.html",
           "author": null,
           "description": "CVE-2024-10929, CVE-2024-49884, CVE-2024-49936, CVE-2024-50067",
@@ -350,16 +360,6 @@
           "publishedOn": "2025-01-31T05:43:00.000Z",
           "wordCount": 748,
           "title": "ALASKERNEL-5.4-2025-093 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
-          "author": null,
-          "description": "CVE-2024-45337",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-046.html",
-          "publishedOn": "2025-01-31T05:43:00.000Z",
-          "wordCount": 539,
-          "title": "ALASECS-2025-046 (important): containerd",
           "imageUrl": null
         },
         {
@@ -529,6 +529,36 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Sat, 1 Mar 2025 00:47:53 GMT",
+          "author": null,
+          "description": "FortiSwitchManager 7.2.6 B0154 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-03-01T00:47:53.000Z",
+          "wordCount": 3276,
+          "title": "FortiSwitchManager 7.2.6",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 28 Feb 2025 18:23:16 GMT",
+          "author": null,
+          "description": "FortiNACAgent 7.6.1 B0016 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-28T18:23:16.000Z",
+          "wordCount": 3276,
+          "title": "FortiNACAgent 7.6.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 28 Feb 2025 01:12:34 GMT",
+          "author": null,
+          "description": "FortiMail 7.4.4 B0607 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-02-28T01:12:34.000Z",
+          "wordCount": 3276,
+          "title": "FortiMail 7.4.4",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 26 Feb 2025 22:08:54 GMT",
           "author": null,
@@ -727,16 +757,6 @@
           "publishedOn": "2025-01-30T18:35:27.000Z",
           "wordCount": 3276,
           "title": "FortiPortal 7.0.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 29 Jan 2025 20:29:56 GMT",
-          "author": null,
-          "description": "FortiSwitch 7.4.6 B0895 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-01-29T20:29:56.000Z",
-          "wordCount": 3276,
-          "title": "FortiSwitch 7.4.6",
           "imageUrl": null
         }
       ]
