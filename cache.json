@@ -163,26 +163,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html",
-          "author": null,
-          "description": "CVE-2025-1094",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html",
-          "publishedOn": "2025-03-03T19:09:00.000Z",
-          "wordCount": 326,
-          "title": "ALASPOSTGRESQL14-2025-016 (important): postgresql",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html",
-          "author": null,
-          "description": "CVE-2025-1094",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html",
-          "publishedOn": "2025-03-03T19:09:00.000Z",
-          "wordCount": 303,
-          "title": "ALASPOSTGRESQL14-2025-017 (important): libpq",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-009.html",
           "author": null,
           "description": "CVE-2025-1094",
@@ -200,6 +180,26 @@
           "publishedOn": "2025-03-03T19:09:00.000Z",
           "wordCount": 306,
           "title": "ALASPOSTGRESQL13-2025-010 (important): libpq",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html",
+          "author": null,
+          "description": "CVE-2025-1094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html",
+          "publishedOn": "2025-03-03T19:09:00.000Z",
+          "wordCount": 326,
+          "title": "ALASPOSTGRESQL14-2025-016 (important): postgresql",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html",
+          "author": null,
+          "description": "CVE-2025-1094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html",
+          "publishedOn": "2025-03-03T19:09:00.000Z",
+          "wordCount": 303,
+          "title": "ALASPOSTGRESQL14-2025-017 (important): libpq",
           "imageUrl": null
         },
         {
@@ -553,6 +553,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html",
+          "author": null,
+          "description": "CVE-2024-53270",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html",
+          "publishedOn": "2025-02-12T23:08:00.000Z",
+          "wordCount": 305,
+          "title": "ALASECS-2025-047 (important): ecs-service-connect-agent",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-051.html",
           "author": null,
           "description": "CVE-2024-51744",
@@ -570,16 +580,6 @@
           "publishedOn": "2025-02-12T23:08:00.000Z",
           "wordCount": 238,
           "title": "ALASDOCKER-2025-052 (medium): soci-snapshotter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html",
-          "author": null,
-          "description": "CVE-2024-53270",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html",
-          "publishedOn": "2025-02-12T23:08:00.000Z",
-          "wordCount": 305,
-          "title": "ALASECS-2025-047 (important): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
@@ -603,6 +603,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-094.html",
+          "author": null,
+          "description": "CVE-2024-44986, CVE-2024-47707, CVE-2024-49884, CVE-2024-49936, CVE-2024-49960, CVE-2024-50055, CVE-2024-50067, CVE-2024-53124, CVE-2024-53164, CVE-2024-56631, CVE-2024-56658, CVE-2024-57900, CVE-2025-21653",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-094.html",
+          "publishedOn": "2025-02-12T23:07:00.000Z",
+          "wordCount": 481,
+          "title": "ALASKERNEL-5.4-2025-094 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.1-2025-006.html",
           "author": null,
           "description": "CVE-2024-11233, CVE-2024-11234, CVE-2024-8925, CVE-2024-8927, CVE-2024-8929, CVE-2024-8932, CVE-2024-9026",
@@ -621,16 +631,6 @@
           "wordCount": 551,
           "title": "ALASPHP8.2-2025-006 (medium): php",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-094.html",
-          "author": null,
-          "description": "CVE-2024-44986, CVE-2024-47707, CVE-2024-49884, CVE-2024-49936, CVE-2024-49960, CVE-2024-50055, CVE-2024-50067, CVE-2024-53124, CVE-2024-53164, CVE-2024-56631, CVE-2024-56658, CVE-2024-57900, CVE-2025-21653",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-094.html",
-          "publishedOn": "2025-02-12T23:07:00.000Z",
-          "wordCount": 481,
-          "title": "ALASKERNEL-5.4-2025-094 (important): kernel",
-          "imageUrl": null
         }
       ]
     },
@@ -639,6 +639,46 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 7 Mar 2025 18:07:53 GMT",
+          "author": null,
+          "description": "FortiIsolator 2.4.7 B1120 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-03-07T18:07:53.000Z",
+          "wordCount": 3687,
+          "title": "FortiIsolator 2.4.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 6 Mar 2025 17:22:00 GMT",
+          "author": null,
+          "description": "FortiADC 7.4.7 B0387 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-03-06T17:22:00.000Z",
+          "wordCount": 3687,
+          "title": "FortiADC 7.4.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 4 Mar 2025 21:37:20 GMT",
+          "author": null,
+          "description": "FortiSIEM 7.3.1 B0369 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-03-04T21:37:20.000Z",
+          "wordCount": 3687,
+          "title": "FortiSIEM 7.3.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 3 Mar 2025 17:21:40 GMT",
+          "author": null,
+          "description": "FortiVoiceUCDesktop 7.0.1 B0102 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-03-03T17:21:40.000Z",
+          "wordCount": 3687,
+          "title": "FortiVoiceUCDesktop 7.0.1",
+          "imageUrl": null
+        },
         {
           "id": "Sat, 1 Mar 2025 00:47:53 GMT",
           "author": null,
@@ -757,36 +797,6 @@
           "publishedOn": "2025-02-12T16:36:38.000Z",
           "wordCount": 3687,
           "title": "FortiWeb 7.4.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Sat, 8 Feb 2025 00:49:42 GMT",
-          "author": null,
-          "description": "FortiRecorder 7.2.3 B0257 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-02-08T00:49:42.000Z",
-          "wordCount": 3687,
-          "title": "FortiRecorder 7.2.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 7 Feb 2025 18:40:05 GMT",
-          "author": null,
-          "description": "FortiDDoS-F 7.0.4 B0746 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-02-07T18:40:05.000Z",
-          "wordCount": 3687,
-          "title": "FortiDDoS-F 7.0.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 7 Feb 2025 17:58:08 GMT",
-          "author": null,
-          "description": "FortiGuest 2.0.0 B0205 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-02-07T17:58:08.000Z",
-          "wordCount": 3687,
-          "title": "FortiGuest 2.0.0",
           "imageUrl": null
         }
       ]
