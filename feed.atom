@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T00:51:46.953Z</id>
+    <id>urn:2025-03-12T00:51:06.967Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T00:51:46.953Z</updated>
+    <updated>2025-03-12T00:51:06.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiAP 7.2.6]]></title>
+        <id>Tue, 11 Mar 2025 16:34:00 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-03-11T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP 7.2.6 B0424 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSwitchManager 7.0.5]]></title>
         <id>Mon, 10 Mar 2025 17:21:46 GMT</id>
@@ -761,6 +771,16 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALASECS-2025-047 (important): ecs-service-connect-agent]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html"/>
+        <updated>2025-02-12T23:08:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-53270]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALASDOCKER-2025-051 (low): docker]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-051.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-051.html"/>
@@ -781,21 +801,21 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASECS-2025-047 (important): ecs-service-connect-agent]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-047.html"/>
-        <updated>2025-02-12T23:08:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-53270]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASNITRO-ENCLAVES-2025-050 (low): docker]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-050.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-050.html"/>
         <updated>2025-02-12T23:07:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-51744]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-063 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-063.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-063.html"/>
+        <updated>2025-02-12T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-35966, CVE-2024-36899, CVE-2024-47707, CVE-2024-49960, CVE-2024-50304, CVE-2024-56631, CVE-2024-56672, CVE-2025-21631, CVE-2025-21653]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -826,16 +846,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-006.html"/>
         <updated>2025-02-12T23:07:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-11233, CVE-2024-11234, CVE-2024-8925, CVE-2024-8927, CVE-2024-8929, CVE-2024-8932, CVE-2024-9026]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-063 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-063.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-063.html"/>
-        <updated>2025-02-12T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-35966, CVE-2024-36899, CVE-2024-47707, CVE-2024-49960, CVE-2024-50304, CVE-2024-56631, CVE-2024-56672, CVE-2025-21631, CVE-2025-21653]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
