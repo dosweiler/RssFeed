@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-17T00:53:40.007Z</id>
+    <id>urn:2025-03-18T00:51:41.274Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-17T00:53:40.007Z</updated>
+    <updated>2025-03-18T00:51:41.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiPortal 7.4.4]]></title>
+        <id>Mon, 17 Mar 2025 17:37:35 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-03-17T17:37:35.000Z</updated>
+        <summary type="html"><![CDATA[FortiPortal 7.4.4 B2110 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.10-2025-085 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-085.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-085.html"/>
+        <updated>2025-03-13T01:33:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-33061, CVE-2024-46830, CVE-2025-21647, CVE-2025-21702, CVE-2025-21703]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiAP 7.2.6]]></title>
         <id>Tue, 11 Mar 2025 16:34:00 GMT</id>
@@ -177,16 +197,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASOPENSSL-SNAPSAFE-2025-007 (medium): openssl-snapsafe]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html"/>
-        <updated>2025-03-03T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-13176]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASLIVEPATCH-2025-199 (important): kernel-livepatch-5.10.233-224.894]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-199.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-199.html"/>
@@ -252,6 +262,16 @@ UniFi Console Support File (as private attachment)]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-205.html"/>
         <updated>2025-03-03T19:09:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-49995, CVE-2024-50279]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASOPENSSL-SNAPSAFE-2025-007 (medium): openssl-snapsafe]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html"/>
+        <updated>2025-03-03T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-13176]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
