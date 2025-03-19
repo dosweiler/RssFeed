@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-18T00:51:41.274Z</id>
+    <id>urn:2025-03-19T00:52:12.156Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T00:51:41.274Z</updated>
+    <updated>2025-03-19T00:52:12.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiNDR 7.4.7]]></title>
+        <id>Tue, 18 Mar 2025 19:01:47 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-03-18T19:01:47.000Z</updated>
+        <summary type="html"><![CDATA[FortiNDR 7.4.7 B0544 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAP-W2 7.2.5]]></title>
+        <id>Tue, 18 Mar 2025 18:20:27 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-03-18T18:20:27.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP-W2 7.2.5 B0386 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiPortal 7.4.4]]></title>
         <id>Mon, 17 Mar 2025 17:37:35 GMT</id>
@@ -13,16 +33,6 @@
         <summary type="html"><![CDATA[FortiPortal 7.4.4 B2110 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.10-2025-085 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-085.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-085.html"/>
-        <updated>2025-03-13T01:33:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2021-33061, CVE-2024-46830, CVE-2025-21647, CVE-2025-21702, CVE-2025-21703]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
@@ -277,26 +287,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASPOSTGRESQL14-2025-016 (important): postgresql]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html"/>
-        <updated>2025-03-03T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-1094]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASPOSTGRESQL14-2025-017 (important): libpq]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html"/>
-        <updated>2025-03-03T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-1094]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASPOSTGRESQL13-2025-009 (important): postgresql]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-009.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-009.html"/>
@@ -310,6 +300,26 @@ UniFi Console Support File (as private attachment)]]></summary>
         <title type="html"><![CDATA[ALASPOSTGRESQL13-2025-010 (important): libpq]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-010.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-010.html"/>
+        <updated>2025-03-03T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-1094]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASPOSTGRESQL14-2025-016 (important): postgresql]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-016.html"/>
+        <updated>2025-03-03T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-1094]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASPOSTGRESQL14-2025-017 (important): libpq]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-017.html"/>
         <updated>2025-03-03T19:09:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-1094]]></summary>
         <author>
