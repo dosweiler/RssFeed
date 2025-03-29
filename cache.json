@@ -403,16 +403,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
-          "author": null,
-          "description": "CVE-2024-13176",
-          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
-          "publishedOn": "2025-03-03T19:09:00.000Z",
-          "wordCount": 352,
-          "title": "ALASOPENSSL-SNAPSAFE-2025-007 (medium): openssl-snapsafe",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-095.html",
           "author": null,
           "description": "CVE-2024-27397, CVE-2024-41042, CVE-2024-42284, CVE-2024-42285, CVE-2024-42287, CVE-2024-43871, CVE-2024-43880, CVE-2024-43882, CVE-2024-44944",
@@ -453,23 +443,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-009.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
           "author": null,
-          "description": "CVE-2025-1094",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-009.html",
+          "description": "CVE-2024-13176",
+          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
           "publishedOn": "2025-03-03T19:09:00.000Z",
-          "wordCount": 346,
-          "title": "ALASPOSTGRESQL13-2025-009 (important): postgresql",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-010.html",
-          "author": null,
-          "description": "CVE-2025-1094",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-010.html",
-          "publishedOn": "2025-03-03T19:09:00.000Z",
-          "wordCount": 306,
-          "title": "ALASPOSTGRESQL13-2025-010 (important): libpq",
+          "wordCount": 352,
+          "title": "ALASOPENSSL-SNAPSAFE-2025-007 (medium): openssl-snapsafe",
           "imageUrl": null
         },
         {
@@ -493,6 +473,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-009.html",
+          "author": null,
+          "description": "CVE-2025-1094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-009.html",
+          "publishedOn": "2025-03-03T19:09:00.000Z",
+          "wordCount": 346,
+          "title": "ALASPOSTGRESQL13-2025-009 (important): postgresql",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-010.html",
+          "author": null,
+          "description": "CVE-2025-1094",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-010.html",
+          "publishedOn": "2025-03-03T19:09:00.000Z",
+          "wordCount": 306,
+          "title": "ALASPOSTGRESQL13-2025-010 (important): libpq",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2025-035.html",
           "author": null,
           "description": "CVE-2024-10460, CVE-2024-10461, CVE-2024-10462, CVE-2024-10464, CVE-2024-10465, CVE-2024-10466, CVE-2024-10467, CVE-2024-10468, CVE-2024-10941, CVE-2024-8900, CVE-2024-9396, CVE-2024-9397, CVE-2024-9399, CVE-2024-9400, CVE-2025-0238, CVE-2025-0242, CVE-2025-1009, CVE-2025-1010, CVE-2025-1011, CVE-2025-1012, CVE-2025-1013, CVE-2025-1014, CVE-2025-1016, CVE-2025-1017",
@@ -510,186 +510,6 @@
           "publishedOn": "2025-03-01T01:31:00.000Z",
           "wordCount": 1464,
           "title": "ALAS-2025-2789 (important): thunderbird",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2787.html",
-          "author": null,
-          "description": "CVE-2024-31068, CVE-2024-37020, CVE-2024-39279",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2787.html",
-          "publishedOn": "2025-02-26T23:16:00.000Z",
-          "wordCount": 294,
-          "title": "ALAS-2025-2787 (medium): microcode_ctl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2788.html",
-          "author": null,
-          "description": "CVE-2022-42004",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2788.html",
-          "publishedOn": "2025-02-26T23:16:00.000Z",
-          "wordCount": 229,
-          "title": "ALAS-2025-2788 (important): aws-kinesis-agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2769.html",
-          "author": null,
-          "description": "CVE-2025-26465",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2769.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 290,
-          "title": "ALAS-2025-2769 (medium): openssh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2770.html",
-          "author": null,
-          "description": "CVE-2025-1244",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2770.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 251,
-          "title": "ALAS-2025-2770 (important): emacs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2771.html",
-          "author": null,
-          "description": "CVE-2025-0840",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2771.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 296,
-          "title": "ALAS-2025-2771 (medium): binutils",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2772.html",
-          "author": null,
-          "description": "CVE-2025-0840",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2772.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 299,
-          "title": "ALAS-2025-2772 (medium): gcc10-binutils",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2773.html",
-          "author": null,
-          "description": "CVE-2024-56826, CVE-2024-56827",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2773.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 220,
-          "title": "ALAS-2025-2773 (medium): openjpeg2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2774.html",
-          "author": null,
-          "description": "CVE-2024-50602",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2774.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 227,
-          "title": "ALAS-2025-2774 (medium): expat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2775.html",
-          "author": null,
-          "description": "CVE-2021-47163, CVE-2024-49995, CVE-2024-50035, CVE-2024-50143, CVE-2024-50279, CVE-2024-53095, CVE-2024-56631, CVE-2024-56642",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2775.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 380,
-          "title": "ALAS-2025-2775 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2776.html",
-          "author": null,
-          "description": "CVE-2024-47540, CVE-2024-47606",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2776.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 480,
-          "title": "ALAS-2025-2776 (important): gstreamer1-plugins-good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2777.html",
-          "author": null,
-          "description": "CVE-2024-42284, CVE-2024-42285, CVE-2024-43871, CVE-2024-43882, CVE-2024-44944",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2777.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 339,
-          "title": "ALAS-2025-2777 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2778.html",
-          "author": null,
-          "description": "CVE-2024-36484, CVE-2024-39487, CVE-2024-40984, CVE-2024-40988, CVE-2024-41020, CVE-2024-41034, CVE-2024-41035, CVE-2024-41059, CVE-2024-41097, CVE-2024-42084, CVE-2024-42104, CVE-2024-42148",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2778.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 516,
-          "title": "ALAS-2025-2778 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2779.html",
-          "author": null,
-          "description": "CVE-2024-34155, CVE-2024-34156, CVE-2024-34158, CVE-2024-45337, CVE-2024-45338",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2779.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 635,
-          "title": "ALAS-2025-2779 (important): amazon-cloudwatch-agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2780.html",
-          "author": null,
-          "description": "CVE-2024-13176",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2780.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 340,
-          "title": "ALAS-2025-2780 (medium): openssl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2781.html",
-          "author": null,
-          "description": "CVE-2024-13176",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2781.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 337,
-          "title": "ALAS-2025-2781 (medium): openssl11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2782.html",
-          "author": null,
-          "description": "CVE-2023-45924",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2782.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 252,
-          "title": "ALAS-2025-2782 (medium): libglvnd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2783.html",
-          "author": null,
-          "description": "CVE-2022-49043",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2783.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 217,
-          "title": "ALAS-2025-2783 (important): libxml2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2784.html",
-          "author": null,
-          "description": "CVE-2016-0740",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2784.html",
-          "publishedOn": "2025-02-26T22:35:00.000Z",
-          "wordCount": 233,
-          "title": "ALAS-2025-2784 (medium): python-pillow",
           "imageUrl": null
         }
       ]
@@ -927,16 +747,6 @@
           "publishedOn": "2025-02-28T01:12:34.000Z",
           "wordCount": 3687,
           "title": "FortiMail 7.4.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 26 Feb 2025 22:08:54 GMT",
-          "author": null,
-          "description": "FortiData 7.6.0 B0050 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-02-26T22:08:54.000Z",
-          "wordCount": 3687,
-          "title": "FortiData 7.6.0",
           "imageUrl": null
         }
       ]
