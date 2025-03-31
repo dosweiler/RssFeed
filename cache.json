@@ -14,16 +14,6 @@
           "wordCount": 19,
           "title": "UniFi Access Point (all U7 models) 8.0.19",
           "imageUrl": null
-        },
-        {
-          "id": "32bab23b-a499-433c-81bd-9cede2cd1f31",
-          "author": "UI-Edmundas",
-          "description": "Overview\nUniFi Access Point 8.0.19 introduces the Multi-Link Operation (MLO) feature and includes further improvements for 2.4 GHz IoT connectivity.\nImprovements\n\nImproved client connectivity.\nImproved AP stability. \n\nBugfixes\n\nFixed an issue causing inter-client communication to drop.\nFixed cloud connectivity for some IoT devices.\n\nAdditional information\nNOTE: For the best connectivity and roaming experience when using MLO (Multi-Link Operation) mode, it is required to enable WPA3 or WPA3 Enterprise security mode. When MLO is selected, the UniFi Network application will automatically enforce this security mode.\n———\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nUniFi Console Support File (as private attachment)",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-all-U7-and-E7-models-8-0-19/32bab23b-a499-433c-81bd-9cede2cd1f31",
-          "publishedOn": "2025-03-01T01:29:11.000Z",
-          "wordCount": 19,
-          "title": "UniFi Access Point (all U7 and E7 models) 8.0.19",
-          "imageUrl": null
         }
       ]
     },
@@ -63,16 +53,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-096.html",
-          "author": null,
-          "description": "CVE-2021-33061, CVE-2024-35870, CVE-2024-53179, CVE-2025-21702, CVE-2025-21703",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-096.html",
-          "publishedOn": "2025-03-13T01:32:00.000Z",
-          "wordCount": 342,
-          "title": "ALASKERNEL-5.4-2025-096 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-067.html",
           "author": null,
           "description": "CVE-2024-35870, CVE-2024-53179, CVE-2025-21647, CVE-2025-21702, CVE-2025-21703",
@@ -90,6 +70,16 @@
           "publishedOn": "2025-03-13T01:32:00.000Z",
           "wordCount": 610,
           "title": "ALASKERNEL-5.15-2025-068 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-096.html",
+          "author": null,
+          "description": "CVE-2021-33061, CVE-2024-35870, CVE-2024-53179, CVE-2025-21702, CVE-2025-21703",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-096.html",
+          "publishedOn": "2025-03-13T01:32:00.000Z",
+          "wordCount": 342,
+          "title": "ALASKERNEL-5.4-2025-096 (important): kernel",
           "imageUrl": null
         },
         {
@@ -403,26 +393,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
-          "author": null,
-          "description": "CVE-2024-13176",
-          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
-          "publishedOn": "2025-03-03T19:09:00.000Z",
-          "wordCount": 352,
-          "title": "ALASOPENSSL-SNAPSAFE-2025-007 (medium): openssl-snapsafe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-095.html",
-          "author": null,
-          "description": "CVE-2024-27397, CVE-2024-41042, CVE-2024-42284, CVE-2024-42285, CVE-2024-42287, CVE-2024-43871, CVE-2024-43880, CVE-2024-43882, CVE-2024-44944",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-095.html",
-          "publishedOn": "2025-03-03T19:09:00.000Z",
-          "wordCount": 409,
-          "title": "ALASKERNEL-5.4-2025-095 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-064.html",
           "author": null,
           "description": "CVE-2024-41098, CVE-2024-44983, CVE-2024-44986, CVE-2024-45003, CVE-2024-46679, CVE-2024-46689, CVE-2024-46707, CVE-2024-46763",
@@ -450,6 +420,26 @@
           "publishedOn": "2025-03-03T19:09:00.000Z",
           "wordCount": 258,
           "title": "ALASKERNEL-5.15-2025-066 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-095.html",
+          "author": null,
+          "description": "CVE-2024-27397, CVE-2024-41042, CVE-2024-42284, CVE-2024-42285, CVE-2024-42287, CVE-2024-43871, CVE-2024-43880, CVE-2024-43882, CVE-2024-44944",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-095.html",
+          "publishedOn": "2025-03-03T19:09:00.000Z",
+          "wordCount": 409,
+          "title": "ALASKERNEL-5.4-2025-095 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
+          "author": null,
+          "description": "CVE-2024-13176",
+          "link": "https://alas.aws.amazon.com/AL2/ALASOPENSSL-SNAPSAFE-2025-007.html",
+          "publishedOn": "2025-03-03T19:09:00.000Z",
+          "wordCount": 352,
+          "title": "ALASOPENSSL-SNAPSAFE-2025-007 (medium): openssl-snapsafe",
           "imageUrl": null
         },
         {
@@ -490,26 +480,6 @@
           "publishedOn": "2025-03-03T19:09:00.000Z",
           "wordCount": 303,
           "title": "ALASPOSTGRESQL14-2025-017 (important): libpq",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2025-035.html",
-          "author": null,
-          "description": "CVE-2024-10460, CVE-2024-10461, CVE-2024-10462, CVE-2024-10464, CVE-2024-10465, CVE-2024-10466, CVE-2024-10467, CVE-2024-10468, CVE-2024-10941, CVE-2024-8900, CVE-2024-9396, CVE-2024-9397, CVE-2024-9399, CVE-2024-9400, CVE-2025-0238, CVE-2025-0242, CVE-2025-1009, CVE-2025-1010, CVE-2025-1011, CVE-2025-1012, CVE-2025-1013, CVE-2025-1014, CVE-2025-1016, CVE-2025-1017",
-          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2025-035.html",
-          "publishedOn": "2025-03-01T02:03:00.000Z",
-          "wordCount": 1265,
-          "title": "ALASFIREFOX-2025-035 (important): firefox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2789.html",
-          "author": null,
-          "description": "CVE-2024-10458, CVE-2024-10459, CVE-2024-10460, CVE-2024-10461, CVE-2024-10462, CVE-2024-10463, CVE-2024-10464, CVE-2024-10465, CVE-2024-10466, CVE-2024-10467, CVE-2024-11159, CVE-2024-50336, CVE-2024-8900, CVE-2024-9396, CVE-2024-9397, CVE-2024-9399, CVE-2024-9400, CVE-2025-0242, CVE-2025-0510, CVE-2025-1009, CVE-2025-1010, CVE-2025-1011, CVE-2025-1012, CVE-2025-1013, CVE-2025-1014, CVE-2025-1015, CVE-2025-1016, CVE-2025-1017",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2789.html",
-          "publishedOn": "2025-03-01T01:31:00.000Z",
-          "wordCount": 1464,
-          "title": "ALAS-2025-2789 (important): thunderbird",
           "imageUrl": null
         }
       ]
@@ -717,26 +687,6 @@
           "publishedOn": "2025-03-03T17:21:40.000Z",
           "wordCount": 3687,
           "title": "FortiVoiceUCDesktop 7.0.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Sat, 1 Mar 2025 00:47:53 GMT",
-          "author": null,
-          "description": "FortiSwitchManager 7.2.6 B0154 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-03-01T00:47:53.000Z",
-          "wordCount": 3687,
-          "title": "FortiSwitchManager 7.2.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 28 Feb 2025 18:23:16 GMT",
-          "author": null,
-          "description": "FortiNACAgent 7.6.1 B0016 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-02-28T18:23:16.000Z",
-          "wordCount": 3687,
-          "title": "FortiNACAgent 7.6.1",
           "imageUrl": null
         }
       ]
