@@ -293,6 +293,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-052.html",
+          "author": null,
+          "description": "CVE-2025-27144",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-052.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 347,
+          "title": "ALASNITRO-ENCLAVES-2025-052 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-053.html",
+          "author": null,
+          "description": "CVE-2025-22868, CVE-2025-22869",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-053.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 273,
+          "title": "ALASNITRO-ENCLAVES-2025-053 (important): docker",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-052.html",
           "author": null,
           "description": "CVE-2025-30157",
@@ -320,26 +340,6 @@
           "publishedOn": "2025-04-09T19:43:00.000Z",
           "wordCount": 273,
           "title": "ALASECS-2025-054 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-052.html",
-          "author": null,
-          "description": "CVE-2025-27144",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-052.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 347,
-          "title": "ALASNITRO-ENCLAVES-2025-052 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-053.html",
-          "author": null,
-          "description": "CVE-2025-22868, CVE-2025-22869",
-          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-053.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 273,
-          "title": "ALASNITRO-ENCLAVES-2025-053 (important): docker",
           "imageUrl": null
         },
         {
@@ -553,16 +553,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-097.html",
-          "author": null,
-          "description": "CVE-2024-26982, CVE-2024-35870, CVE-2024-57979, CVE-2024-58069, CVE-2024-58083, CVE-2025-21647, CVE-2025-21700, CVE-2025-21702, CVE-2025-21722, CVE-2025-21731, CVE-2025-21753, CVE-2025-21760, CVE-2025-21761, CVE-2025-21762, CVE-2025-21763, CVE-2025-21764, CVE-2025-21785, CVE-2025-21791, CVE-2025-21811, CVE-2025-21858",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-097.html",
-          "publishedOn": "2025-03-26T19:21:00.000Z",
-          "wordCount": 668,
-          "title": "ALASKERNEL-5.4-2025-097 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-051.html",
           "author": null,
           "description": "CVE-2024-40635",
@@ -570,6 +560,16 @@
           "publishedOn": "2025-03-26T19:21:00.000Z",
           "wordCount": 314,
           "title": "ALASNITRO-ENCLAVES-2025-051 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-097.html",
+          "author": null,
+          "description": "CVE-2024-26982, CVE-2024-35870, CVE-2024-57979, CVE-2024-58069, CVE-2024-58083, CVE-2025-21647, CVE-2025-21700, CVE-2025-21702, CVE-2025-21722, CVE-2025-21731, CVE-2025-21753, CVE-2025-21760, CVE-2025-21761, CVE-2025-21762, CVE-2025-21763, CVE-2025-21764, CVE-2025-21785, CVE-2025-21791, CVE-2025-21811, CVE-2025-21858",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-097.html",
+          "publishedOn": "2025-03-26T19:21:00.000Z",
+          "wordCount": 668,
+          "title": "ALASKERNEL-5.4-2025-097 (important): kernel",
           "imageUrl": null
         },
         {
@@ -583,16 +583,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-007.html",
-          "author": null,
-          "description": "CVE-2025-1217, CVE-2025-1219, CVE-2025-1734, CVE-2025-1736, CVE-2025-1861",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-007.html",
-          "publishedOn": "2025-03-26T19:21:00.000Z",
-          "wordCount": 349,
-          "title": "ALASPHP8.2-2025-007 (medium): php",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-087.html",
           "author": null,
           "description": "CVE-2024-35870, CVE-2024-53179",
@@ -600,6 +590,16 @@
           "publishedOn": "2025-03-26T19:21:00.000Z",
           "wordCount": 285,
           "title": "ALASKERNEL-5.10-2025-087 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-007.html",
+          "author": null,
+          "description": "CVE-2025-1217, CVE-2025-1219, CVE-2025-1734, CVE-2025-1736, CVE-2025-1861",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-007.html",
+          "publishedOn": "2025-03-26T19:21:00.000Z",
+          "wordCount": 349,
+          "title": "ALASPHP8.2-2025-007 (medium): php",
           "imageUrl": null
         },
         {
@@ -659,6 +659,46 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 17 Apr 2025 21:07:24 GMT",
+          "author": null,
+          "description": "FortiRecorder 6.4.6 B0271 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-17T21:07:24.000Z",
+          "wordCount": 3687,
+          "title": "FortiRecorder 6.4.6",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 17 Apr 2025 20:50:32 GMT",
+          "author": null,
+          "description": "FortiRecorder 7.0.6 B0088 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-17T20:50:32.000Z",
+          "wordCount": 3687,
+          "title": "FortiRecorder 7.0.6",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 17 Apr 2025 20:47:03 GMT",
+          "author": null,
+          "description": "FortiRecorder 7.2.4 B0265 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-17T20:47:03.000Z",
+          "wordCount": 3687,
+          "title": "FortiRecorder 7.2.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 17 Apr 2025 20:40:33 GMT",
+          "author": null,
+          "description": "FortiCamera 2.1.4 B0069 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-17T20:40:33.000Z",
+          "wordCount": 3687,
+          "title": "FortiCamera 2.1.4",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 16 Apr 2025 18:41:06 GMT",
           "author": null,
@@ -1047,26 +1087,6 @@
           "publishedOn": "2025-03-19T17:04:53.000Z",
           "wordCount": 3687,
           "title": "FortiADCManager 7.6.0",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 18 Mar 2025 19:01:47 GMT",
-          "author": null,
-          "description": "FortiNDR 7.4.7 B0544 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-03-18T19:01:47.000Z",
-          "wordCount": 3687,
-          "title": "FortiNDR 7.4.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 18 Mar 2025 18:20:27 GMT",
-          "author": null,
-          "description": "FortiAP-W2 7.2.5 B0386 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-03-18T18:20:27.000Z",
-          "wordCount": 3687,
-          "title": "FortiAP-W2 7.2.5",
           "imageUrl": null
         }
       ]
