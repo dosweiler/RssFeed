@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "5aee62a8-e45c-42f5-88f5-56e0e49b12d5",
+          "author": "UI-Edmundas",
+          "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+/U6-LR+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nImproved AP stability.\n\nAdditional information\nUnless indicated otherwise, improvements and fixes apply to all AP models.\n* Supported models: U6-Lite, U6-LR, U6+.\n———\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-7-17/5aee62a8-e45c-42f5-88f5-56e0e49b12d5",
+          "publishedOn": "2025-04-22T10:19:35.000Z",
+          "wordCount": 19,
+          "title": "UniFi Access Point 6.7.17",
+          "imageUrl": null
+        },
+        {
           "id": "43aae734-c1e7-49e5-864d-0f1943906c71",
           "author": "UI-Edmundas",
           "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+/U6-LR+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded packet capture support. *\nEliminate client connectivity disruption when adding, deleting, editing or pausing wireless networks.\nImproved TX Retries reporting.\nImproved the 5GHz auto-channel selection algorithm ensuring a less noisy channel selection.\nUpdated regulatory information for Indonesia.\nUpdated regulatory information for Brazil.\nUpdated regulatory information for Taiwan.\nImproved AP stability.\n\nBugfixes\n\nFixed incorrect rate selection.\nFixed Outdoor Mode incorrect channel selection after a DFS event.\nFixed Proxy ARP issue with DHCP BOOTP packets.\nFixed authentication failures when RADIUS MAC Auth + WPA2/WPA3-Enterprise security are used together and a local gateway RADIUS server is used for user authentication.\nFixed an issue where the UniFi Network application reports a duplicate IP address alert.\nFixed ARP broadcast control when Multicast and Broadcast Control and Client Device Isolation are enabled.\nFixed DHCP offers being dropped when a U6+ is acting as a wireless uplink AP.\n\nAdditional information\nUnless indicated otherwise, improvements and fixes apply to all AP models.\n* Supported models: U6-Lite, U6-LR, U6+.\n———\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -173,6 +183,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "author": null,
+          "description": "CVE-2025-27144",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 347,
+          "title": "ALASDOCKER-2025-055 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "author": null,
+          "description": "CVE-2025-22868, CVE-2025-22869",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 273,
+          "title": "ALASDOCKER-2025-056 (important): docker",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-211.html",
           "author": null,
           "description": "CVE-2025-21796",
@@ -270,26 +300,6 @@
           "publishedOn": "2025-04-09T19:43:00.000Z",
           "wordCount": 215,
           "title": "ALASLIVEPATCH-2025-220 (important): kernel-livepatch-4.14.355-275.572",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
-          "author": null,
-          "description": "CVE-2025-27144",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 347,
-          "title": "ALASDOCKER-2025-055 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
-          "author": null,
-          "description": "CVE-2025-22868, CVE-2025-22869",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 273,
-          "title": "ALASDOCKER-2025-056 (important): docker",
           "imageUrl": null
         },
         {
@@ -493,6 +503,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-053.html",
+          "author": null,
+          "description": "CVE-2025-22869, CVE-2025-27144",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-053.html",
+          "publishedOn": "2025-03-26T19:21:00.000Z",
+          "wordCount": 384,
+          "title": "ALASDOCKER-2025-053 (important): runfinch-finch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-054.html",
+          "author": null,
+          "description": "CVE-2024-40635",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-054.html",
+          "publishedOn": "2025-03-26T19:21:00.000Z",
+          "wordCount": 314,
+          "title": "ALASDOCKER-2025-054 (medium): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-207.html",
           "author": null,
           "description": "CVE-2025-21702",
@@ -533,26 +563,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-053.html",
-          "author": null,
-          "description": "CVE-2025-22869, CVE-2025-27144",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-053.html",
-          "publishedOn": "2025-03-26T19:21:00.000Z",
-          "wordCount": 384,
-          "title": "ALASDOCKER-2025-053 (important): runfinch-finch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-054.html",
-          "author": null,
-          "description": "CVE-2024-40635",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-054.html",
-          "publishedOn": "2025-03-26T19:21:00.000Z",
-          "wordCount": 314,
-          "title": "ALASDOCKER-2025-054 (medium): containerd",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-051.html",
           "author": null,
           "description": "CVE-2024-40635",
@@ -560,16 +570,6 @@
           "publishedOn": "2025-03-26T19:21:00.000Z",
           "wordCount": 314,
           "title": "ALASNITRO-ENCLAVES-2025-051 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-069.html",
-          "author": null,
-          "description": "CVE-2024-26982, CVE-2024-46830, CVE-2024-57979, CVE-2024-58083, CVE-2025-21700, CVE-2025-21701, CVE-2025-21726, CVE-2025-21727, CVE-2025-21731, CVE-2025-21753, CVE-2025-21756, CVE-2025-21758, CVE-2025-21760, CVE-2025-21761, CVE-2025-21762, CVE-2025-21763, CVE-2025-21764, CVE-2025-21785, CVE-2025-21791, CVE-2025-21796, CVE-2025-21858, CVE-2025-21887",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-069.html",
-          "publishedOn": "2025-03-26T19:21:00.000Z",
-          "wordCount": 696,
-          "title": "ALASKERNEL-5.15-2025-069 (important): kernel",
           "imageUrl": null
         },
         {
@@ -593,6 +593,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-069.html",
+          "author": null,
+          "description": "CVE-2024-26982, CVE-2024-46830, CVE-2024-57979, CVE-2024-58083, CVE-2025-21700, CVE-2025-21701, CVE-2025-21726, CVE-2025-21727, CVE-2025-21731, CVE-2025-21753, CVE-2025-21756, CVE-2025-21758, CVE-2025-21760, CVE-2025-21761, CVE-2025-21762, CVE-2025-21763, CVE-2025-21764, CVE-2025-21785, CVE-2025-21791, CVE-2025-21796, CVE-2025-21858, CVE-2025-21887",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-069.html",
+          "publishedOn": "2025-03-26T19:21:00.000Z",
+          "wordCount": 696,
+          "title": "ALASKERNEL-5.15-2025-069 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASPHP8.2-2025-007.html",
           "author": null,
           "description": "CVE-2025-1217, CVE-2025-1219, CVE-2025-1734, CVE-2025-1736, CVE-2025-1861",
@@ -603,16 +613,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2025-018.html",
-          "author": null,
-          "description": "CVE-2007-4559",
-          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2025-018.html",
-          "publishedOn": "2025-03-26T19:21:00.000Z",
-          "wordCount": 254,
-          "title": "ALASPYTHON3.8-2025-018 (medium): python38-pip",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2025-016.html",
           "author": null,
           "description": "CVE-2025-24813",
@@ -620,6 +620,16 @@
           "publishedOn": "2025-03-26T19:21:00.000Z",
           "wordCount": 428,
           "title": "ALASTOMCAT9-2025-016 (important): tomcat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2025-018.html",
+          "author": null,
+          "description": "CVE-2007-4559",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPYTHON3.8-2025-018.html",
+          "publishedOn": "2025-03-26T19:21:00.000Z",
+          "wordCount": 254,
+          "title": "ALASPYTHON3.8-2025-018 (medium): python38-pip",
           "imageUrl": null
         },
         {
@@ -649,6 +659,56 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 22 Apr 2025 21:51:07 GMT",
+          "author": null,
+          "description": "FortiAnalyzer 7.6.3 B3492 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-22T21:51:07.000Z",
+          "wordCount": 3687,
+          "title": "FortiAnalyzer 7.6.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 22 Apr 2025 21:43:02 GMT",
+          "author": null,
+          "description": "FortiManager 7.6.3 B3492 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-22T21:43:02.000Z",
+          "wordCount": 3687,
+          "title": "FortiManager 7.6.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 22 Apr 2025 19:07:31 GMT",
+          "author": null,
+          "description": "FortiProxy 7.6.3 B1559 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-22T19:07:31.000Z",
+          "wordCount": 3687,
+          "title": "FortiProxy 7.6.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 22 Apr 2025 17:57:48 GMT",
+          "author": null,
+          "description": "FortiTelemetryAgentWindows 7.6.3 B0016 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-22T17:57:48.000Z",
+          "wordCount": 3687,
+          "title": "FortiTelemetryAgentWindows 7.6.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Tue, 22 Apr 2025 17:54:07 GMT",
+          "author": null,
+          "description": "FortiTelemetryAgent 7.6.3 B0024 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-22T17:54:07.000Z",
+          "wordCount": 3687,
+          "title": "FortiTelemetryAgent 7.6.3",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 21 Apr 2025 22:52:59 GMT",
           "author": null,
