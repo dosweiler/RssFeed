@@ -183,23 +183,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-052.html",
           "author": null,
-          "description": "CVE-2025-27144",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "description": "CVE-2025-30157",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-052.html",
           "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 347,
-          "title": "ALASDOCKER-2025-055 (medium): containerd",
+          "wordCount": 284,
+          "title": "ALASECS-2025-052 (medium): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-053.html",
+          "author": null,
+          "description": "CVE-2025-27144",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-053.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 347,
+          "title": "ALASECS-2025-053 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-054.html",
           "author": null,
           "description": "CVE-2025-22868, CVE-2025-22869",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-054.html",
           "publishedOn": "2025-04-09T19:43:00.000Z",
           "wordCount": 273,
-          "title": "ALASDOCKER-2025-056 (important): docker",
+          "title": "ALASECS-2025-054 (important): docker",
           "imageUrl": null
         },
         {
@@ -303,36 +313,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-052.html",
-          "author": null,
-          "description": "CVE-2025-30157",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-052.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 284,
-          "title": "ALASECS-2025-052 (medium): ecs-service-connect-agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-053.html",
-          "author": null,
-          "description": "CVE-2025-27144",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-053.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 347,
-          "title": "ALASECS-2025-053 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-054.html",
-          "author": null,
-          "description": "CVE-2025-22868, CVE-2025-22869",
-          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-054.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 273,
-          "title": "ALASECS-2025-054 (important): docker",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-052.html",
           "author": null,
           "description": "CVE-2025-27144",
@@ -350,6 +330,26 @@
           "publishedOn": "2025-04-09T19:43:00.000Z",
           "wordCount": 273,
           "title": "ALASNITRO-ENCLAVES-2025-053 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "author": null,
+          "description": "CVE-2025-27144",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 347,
+          "title": "ALASDOCKER-2025-055 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "author": null,
+          "description": "CVE-2025-22868, CVE-2025-22869",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 273,
+          "title": "ALASDOCKER-2025-056 (important): docker",
           "imageUrl": null
         },
         {
@@ -389,6 +389,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Sat, 26 Apr 2025 00:59:54 GMT",
+          "author": null,
+          "description": "FortiADC 7.6.2 B0584 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-04-26T00:59:54.000Z",
+          "wordCount": 3687,
+          "title": "FortiADC 7.6.2",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 25 Apr 2025 22:40:59 GMT",
           "author": null,
@@ -937,26 +947,6 @@
           "publishedOn": "2025-03-31T17:08:23.000Z",
           "wordCount": 3687,
           "title": "FortiMonitorOnSight 7.2.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 27 Mar 2025 18:29:13 GMT",
-          "author": null,
-          "description": "FortiOS 6.4.16 B2098 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-03-27T18:29:13.000Z",
-          "wordCount": 3687,
-          "title": "FortiOS 6.4.16",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 27 Mar 2025 18:27:04 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.3.1 B0323 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-03-27T18:27:04.000Z",
-          "wordCount": 3687,
-          "title": "FortiSIEMWindowsAgent 7.3.1",
           "imageUrl": null
         }
       ]
