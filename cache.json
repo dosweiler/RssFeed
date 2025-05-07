@@ -11,7 +11,7 @@
           "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+/U6-LR+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded packet capture support. *\nEliminate client connectivity disruption when adding, deleting, editing or pausing wireless networks.\nImproved TX Retries reporting.\nImproved the 5GHz auto-channel selection algorithm ensuring a less noisy channel selection.\nUpdated regulatory information for Indonesia.\nUpdated regulatory information for Brazil.\nUpdated regulatory information for Taiwan.\nImproved AP stability.\n\nBugfixes\n\nFixed incorrect rate selection.\nFixed Outdoor Mode incorrect channel selection after a DFS event.\nFixed Proxy ARP issue with DHCP BOOTP packets.\nFixed authentication failures when RADIUS MAC Auth + WPA2/WPA3-Enterprise security are used together and a local gateway RADIUS server is used for user authentication.\nFixed an issue where the UniFi Network application reports a duplicate IP address alert.\nFixed ARP broadcast control when Multicast and Broadcast Control and Client Device Isolation are enabled.\nFixed DHCP offers being dropped when a U6+ is acting as a wireless uplink AP.\n\nAdditional information\nUnless indicated otherwise, improvements and fixes apply to all AP models.\n* Supported models: U6-Lite, U6-LR, U6+.\n———\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-7-17/5aee62a8-e45c-42f5-88f5-56e0e49b12d5",
           "publishedOn": "2025-04-22T10:19:35.000Z",
-          "wordCount": 20,
+          "wordCount": 6,
           "title": "UniFi Access Point 6.7.17",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+/U6-LR+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded packet capture support. *\nEliminate client connectivity disruption when adding, deleting, editing or pausing wireless networks.\nImproved TX Retries reporting.\nImproved the 5GHz auto-channel selection algorithm ensuring a less noisy channel selection.\nUpdated regulatory information for Indonesia.\nUpdated regulatory information for Brazil.\nUpdated regulatory information for Taiwan.\nImproved AP stability.\n\nBugfixes\n\nFixed incorrect rate selection.\nFixed Outdoor Mode incorrect channel selection after a DFS event.\nFixed Proxy ARP issue with DHCP BOOTP packets.\nFixed authentication failures when RADIUS MAC Auth + WPA2/WPA3-Enterprise security are used together and a local gateway RADIUS server is used for user authentication.\nFixed an issue where the UniFi Network application reports a duplicate IP address alert.\nFixed ARP broadcast control when Multicast and Broadcast Control and Client Device Isolation are enabled.\nFixed DHCP offers being dropped when a U6+ is acting as a wireless uplink AP.\n\nAdditional information\nUnless indicated otherwise, improvements and fixes apply to all AP models.\n* Supported models: U6-Lite, U6-LR, U6+.\n———\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-6-7-12/43aae734-c1e7-49e5-864d-0f1943906c71",
           "publishedOn": "2025-04-08T14:45:25.000Z",
-          "wordCount": 20,
+          "wordCount": 6,
           "title": "UniFi Access Point 6.7.12",
           "imageUrl": null
         }
@@ -133,6 +133,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-011.html",
+          "author": null,
+          "description": "CVE-2021-2341, CVE-2021-2369, CVE-2021-2388",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-011.html",
+          "publishedOn": "2025-04-23T21:59:00.000Z",
+          "wordCount": 749,
+          "title": "ALASJAVA-OPENJDK11-2025-011 (important): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-012.html",
+          "author": null,
+          "description": "CVE-2020-2754, CVE-2020-2755, CVE-2020-2756, CVE-2020-2757, CVE-2020-2773, CVE-2020-2781, CVE-2020-2800, CVE-2020-2803, CVE-2020-2805, CVE-2020-2830",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-012.html",
+          "publishedOn": "2025-04-23T21:59:00.000Z",
+          "wordCount": 1478,
+          "title": "ALASJAVA-OPENJDK11-2025-012 (important): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-013.html",
+          "author": null,
+          "description": "CVE-2020-14779, CVE-2020-14781, CVE-2020-14782, CVE-2020-14792, CVE-2020-14796, CVE-2020-14797, CVE-2020-14803",
+          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-013.html",
+          "publishedOn": "2025-04-23T21:59:00.000Z",
+          "wordCount": 1296,
+          "title": "ALASJAVA-OPENJDK11-2025-013 (medium): java-11-openjdk",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-057.html",
           "author": null,
           "description": "CVE-2025-30204",
@@ -190,36 +220,6 @@
           "publishedOn": "2025-04-23T21:59:00.000Z",
           "wordCount": 265,
           "title": "ALASDOCKER-2025-062 (medium): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-011.html",
-          "author": null,
-          "description": "CVE-2021-2341, CVE-2021-2369, CVE-2021-2388",
-          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-011.html",
-          "publishedOn": "2025-04-23T21:59:00.000Z",
-          "wordCount": 749,
-          "title": "ALASJAVA-OPENJDK11-2025-011 (important): java-11-openjdk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-012.html",
-          "author": null,
-          "description": "CVE-2020-2754, CVE-2020-2755, CVE-2020-2756, CVE-2020-2757, CVE-2020-2773, CVE-2020-2781, CVE-2020-2800, CVE-2020-2803, CVE-2020-2805, CVE-2020-2830",
-          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-012.html",
-          "publishedOn": "2025-04-23T21:59:00.000Z",
-          "wordCount": 1478,
-          "title": "ALASJAVA-OPENJDK11-2025-012 (important): java-11-openjdk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-013.html",
-          "author": null,
-          "description": "CVE-2020-14779, CVE-2020-14781, CVE-2020-14782, CVE-2020-14792, CVE-2020-14796, CVE-2020-14797, CVE-2020-14803",
-          "link": "https://alas.aws.amazon.com/AL2/ALASJAVA-OPENJDK11-2025-013.html",
-          "publishedOn": "2025-04-23T21:59:00.000Z",
-          "wordCount": 1296,
-          "title": "ALASJAVA-OPENJDK11-2025-013 (medium): java-11-openjdk",
           "imageUrl": null
         },
         {
@@ -873,26 +873,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
-          "author": null,
-          "description": "CVE-2025-27144",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 347,
-          "title": "ALASDOCKER-2025-055 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
-          "author": null,
-          "description": "CVE-2025-22868, CVE-2025-22869",
-          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
-          "publishedOn": "2025-04-09T19:43:00.000Z",
-          "wordCount": 273,
-          "title": "ALASDOCKER-2025-056 (important): docker",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-052.html",
           "author": null,
           "description": "CVE-2025-27144",
@@ -930,6 +910,26 @@
           "publishedOn": "2025-04-09T19:43:00.000Z",
           "wordCount": 522,
           "title": "ALASKERNEL-5.4-2025-099 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "author": null,
+          "description": "CVE-2025-27144",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-055.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 347,
+          "title": "ALASDOCKER-2025-055 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "author": null,
+          "description": "CVE-2025-22868, CVE-2025-22869",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-056.html",
+          "publishedOn": "2025-04-09T19:43:00.000Z",
+          "wordCount": 273,
+          "title": "ALASDOCKER-2025-056 (important): docker",
           "imageUrl": null
         },
         {
