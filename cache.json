@@ -24,16 +24,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point (U7-Pro-Outdoor-US) 8.0.37",
           "imageUrl": null
-        },
-        {
-          "id": "5aee62a8-e45c-42f5-88f5-56e0e49b12d5",
-          "author": "UI-Edmundas",
-          "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+/U6-LR+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded packet capture support. *\nEliminate client connectivity disruption when adding, deleting, editing or pausing wireless networks.\nImproved TX Retries reporting.\nImproved the 5GHz auto-channel selection algorithm ensuring a less noisy channel selection.\nUpdated regulatory information for Indonesia.\nUpdated regulatory information for Brazil.\nUpdated regulatory information for Taiwan.\nImproved AP stability.\n\nBugfixes\n\nFixed incorrect rate selection.\nFixed Outdoor Mode incorrect channel selection after a DFS event.\nFixed Proxy ARP issue with DHCP BOOTP packets.\nFixed authentication failures when RADIUS MAC Auth + WPA2/WPA3-Enterprise security are used together and a local gateway RADIUS server is used for user authentication.\nFixed an issue where the UniFi Network application reports a duplicate IP address alert.\nFixed ARP broadcast control when Multicast and Broadcast Control and Client Device Isolation are enabled.\nFixed DHCP offers being dropped when a U6+ is acting as a wireless uplink AP.\n\nAdditional information\nUnless indicated otherwise, improvements and fixes apply to all AP models.\n* Supported models: U6-Lite, U6-LR, U6+.\n———\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-6-7-17/5aee62a8-e45c-42f5-88f5-56e0e49b12d5",
-          "publishedOn": "2025-04-22T10:19:35.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point 6.7.17",
-          "imageUrl": null
         }
       ]
     },
@@ -195,10 +185,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2837.html",
           "author": null,
-          "description": "CVE-2022-49753, CVE-2023-1073",
+          "description": "CVE-2022-49753, CVE-2023-1073, CVE-2023-52993, CVE-2023-53007, CVE-2023-53015, CVE-2023-53019",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2837.html",
           "publishedOn": "2025-04-30T17:38:00.000Z",
-          "wordCount": 281,
+          "wordCount": 389,
           "title": "ALAS-2025-2837 (important): kernel",
           "imageUrl": null
         },
@@ -255,10 +245,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS-2025-2843.html",
           "author": null,
-          "description": "CVE-2021-46981, CVE-2023-1611, CVE-2023-39189, CVE-2023-52784, CVE-2023-52975, CVE-2024-47745, CVE-2024-49882, CVE-2024-50036, CVE-2024-50278, CVE-2024-50301, CVE-2025-21759, CVE-2025-21791, CVE-2025-21796, CVE-2025-21858",
+          "description": "CVE-2021-46981, CVE-2023-1611, CVE-2023-39189, CVE-2023-52784, CVE-2023-52975, CVE-2024-47745, CVE-2024-49882, CVE-2024-50036, CVE-2024-50278, CVE-2024-50301, CVE-2025-21759, CVE-2025-21791, CVE-2025-21796, CVE-2025-21858, CVE-2025-21991",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2843.html",
           "publishedOn": "2025-04-30T17:38:00.000Z",
-          "wordCount": 579,
+          "wordCount": 606,
           "title": "ALAS-2025-2843 (important): kernel",
           "imageUrl": null
         },
@@ -593,46 +583,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-015.html",
-          "author": null,
-          "description": "CVE-2025-21587, CVE-2025-30691, CVE-2025-30698",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-015.html",
-          "publishedOn": "2025-04-29T20:30:00.000Z",
-          "wordCount": 813,
-          "title": "ALASCORRETTO8-2025-015 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-016.html",
-          "author": null,
-          "description": "CVE-2022-21248, CVE-2022-21282, CVE-2022-21283, CVE-2022-21293, CVE-2022-21294, CVE-2022-21296, CVE-2022-21299, CVE-2022-21305, CVE-2022-21340, CVE-2022-21341, CVE-2022-21349, CVE-2022-21360, CVE-2022-21365",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-016.html",
-          "publishedOn": "2025-04-29T20:30:00.000Z",
-          "wordCount": 2316,
-          "title": "ALASCORRETTO8-2025-016 (medium): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-017.html",
-          "author": null,
-          "description": "CVE-2021-2341, CVE-2021-2369, CVE-2021-2388",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-017.html",
-          "publishedOn": "2025-04-29T20:30:00.000Z",
-          "wordCount": 711,
-          "title": "ALASCORRETTO8-2025-017 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-018.html",
-          "author": null,
-          "description": "CVE-2020-2754, CVE-2020-2755, CVE-2020-2756, CVE-2020-2757, CVE-2020-2773, CVE-2020-2800, CVE-2020-2803, CVE-2020-2805, CVE-2020-2830",
-          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-018.html",
-          "publishedOn": "2025-04-29T20:30:00.000Z",
-          "wordCount": 1300,
-          "title": "ALASCORRETTO8-2025-018 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-057.html",
           "author": null,
           "description": "CVE-2025-30204",
@@ -690,6 +640,46 @@
           "publishedOn": "2025-04-29T20:30:00.000Z",
           "wordCount": 261,
           "title": "ALASDOCKER-2025-062 (medium): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-015.html",
+          "author": null,
+          "description": "CVE-2025-21587, CVE-2025-30691, CVE-2025-30698",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-015.html",
+          "publishedOn": "2025-04-29T20:30:00.000Z",
+          "wordCount": 813,
+          "title": "ALASCORRETTO8-2025-015 (important): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-016.html",
+          "author": null,
+          "description": "CVE-2022-21248, CVE-2022-21282, CVE-2022-21283, CVE-2022-21293, CVE-2022-21294, CVE-2022-21296, CVE-2022-21299, CVE-2022-21305, CVE-2022-21340, CVE-2022-21341, CVE-2022-21349, CVE-2022-21360, CVE-2022-21365",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-016.html",
+          "publishedOn": "2025-04-29T20:30:00.000Z",
+          "wordCount": 2316,
+          "title": "ALASCORRETTO8-2025-016 (medium): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-017.html",
+          "author": null,
+          "description": "CVE-2021-2341, CVE-2021-2369, CVE-2021-2388",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-017.html",
+          "publishedOn": "2025-04-29T20:30:00.000Z",
+          "wordCount": 711,
+          "title": "ALASCORRETTO8-2025-017 (important): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-018.html",
+          "author": null,
+          "description": "CVE-2020-2754, CVE-2020-2755, CVE-2020-2756, CVE-2020-2757, CVE-2020-2773, CVE-2020-2800, CVE-2020-2803, CVE-2020-2805, CVE-2020-2830",
+          "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-018.html",
+          "publishedOn": "2025-04-29T20:30:00.000Z",
+          "wordCount": 1300,
+          "title": "ALASCORRETTO8-2025-018 (important): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -769,6 +759,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 21 May 2025 23:31:21 GMT",
+          "author": null,
+          "description": "FortiAP 7.6.2 B0972 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-05-21T23:31:21.000Z",
+          "wordCount": 3687,
+          "title": "FortiAP 7.6.2",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 20 May 2025 18:48:18 GMT",
           "author": null,
@@ -1047,56 +1047,6 @@
           "publishedOn": "2025-04-22T17:54:07.000Z",
           "wordCount": 3687,
           "title": "FortiTelemetryAgent 7.6.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 21 Apr 2025 22:52:59 GMT",
-          "author": null,
-          "description": "FortiSIEM 7.0.4 B0062 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-21T22:52:59.000Z",
-          "wordCount": 3687,
-          "title": "FortiSIEM 7.0.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 21 Apr 2025 22:34:44 GMT",
-          "author": null,
-          "description": "FortiMail 7.2.8 B0423 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-21T22:34:44.000Z",
-          "wordCount": 3687,
-          "title": "FortiMail 7.2.8",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 21 Apr 2025 20:32:19 GMT",
-          "author": null,
-          "description": "FortiAuthenticator 6.6.3 B1740 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-21T20:32:19.000Z",
-          "wordCount": 3687,
-          "title": "FortiAuthenticator 6.6.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 21 Apr 2025 17:48:15 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.2.6 B0208 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-21T17:48:15.000Z",
-          "wordCount": 3687,
-          "title": "FortiSIEMWindowsAgent 7.2.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Mon, 21 Apr 2025 17:46:07 GMT",
-          "author": null,
-          "description": "FortiVoice 6.4.11 B0515 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-21T17:46:07.000Z",
-          "wordCount": 3687,
-          "title": "FortiVoice 6.4.11",
           "imageUrl": null
         }
       ]
