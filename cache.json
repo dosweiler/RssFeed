@@ -395,10 +395,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-100.html",
           "author": null,
-          "description": "CVE-2021-47247, CVE-2023-52975, CVE-2024-47745, CVE-2024-50036, CVE-2025-21726, CVE-2025-21759, CVE-2025-21796, CVE-2025-22004",
+          "description": "CVE-2021-47247, CVE-2023-52975, CVE-2024-47745, CVE-2024-50036, CVE-2025-21726, CVE-2025-21759, CVE-2025-21796, CVE-2025-21991, CVE-2025-22004, CVE-2025-22035",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-100.html",
           "publishedOn": "2025-04-29T20:34:00.000Z",
-          "wordCount": 408,
+          "wordCount": 461,
           "title": "ALASKERNEL-5.4-2025-100 (important): kernel",
           "imageUrl": null
         },
@@ -415,11 +415,31 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-070.html",
           "author": null,
-          "description": "CVE-2022-49465, CVE-2022-49636, CVE-2022-49728, CVE-2024-26928, CVE-2024-46753, CVE-2024-47745, CVE-2024-56664, CVE-2025-21759, CVE-2025-21999",
+          "description": "CVE-2022-49465, CVE-2022-49636, CVE-2022-49728, CVE-2024-26928, CVE-2024-46753, CVE-2024-47745, CVE-2024-56664, CVE-2025-21759, CVE-2025-21963, CVE-2025-21964, CVE-2025-21999, CVE-2025-22035, CVE-2025-22056",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-070.html",
           "publishedOn": "2025-04-29T20:33:00.000Z",
-          "wordCount": 415,
+          "wordCount": 522,
           "title": "ALASKERNEL-5.15-2025-070 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-089.html",
+          "author": null,
+          "description": "CVE-2022-4129, CVE-2022-49748, CVE-2022-49749, CVE-2022-49753, CVE-2023-1073, CVE-2023-52991, CVE-2023-52992, CVE-2023-52993, CVE-2023-52996, CVE-2023-52997, CVE-2023-52999, CVE-2023-53000, CVE-2023-53006, CVE-2023-53007, CVE-2023-53015, CVE-2023-53019, CVE-2023-53020, CVE-2023-53021, CVE-2023-53024, CVE-2023-53026",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-089.html",
+          "publishedOn": "2025-04-29T20:32:00.000Z",
+          "wordCount": 781,
+          "title": "ALASKERNEL-5.10-2025-089 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-090.html",
+          "author": null,
+          "description": "CVE-2021-47247, CVE-2022-49046, CVE-2022-49465, CVE-2022-49546, CVE-2022-49728, CVE-2023-52975, CVE-2024-46753, CVE-2024-47745, CVE-2024-56664, CVE-2025-21759, CVE-2025-21779, CVE-2025-21887, CVE-2025-21975, CVE-2025-21991, CVE-2025-21999, CVE-2025-22004, CVE-2025-22035, CVE-2025-22056",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-090.html",
+          "publishedOn": "2025-04-29T20:32:00.000Z",
+          "wordCount": 625,
+          "title": "ALASKERNEL-5.10-2025-090 (important): kernel",
           "imageUrl": null
         },
         {
@@ -453,32 +473,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-089.html",
-          "author": null,
-          "description": "CVE-2022-4129, CVE-2022-49753, CVE-2023-1073, CVE-2023-52999, CVE-2023-53021",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-089.html",
-          "publishedOn": "2025-04-29T20:32:00.000Z",
-          "wordCount": 385,
-          "title": "ALASKERNEL-5.10-2025-089 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-090.html",
-          "author": null,
-          "description": "CVE-2021-47247, CVE-2022-49046, CVE-2022-49465, CVE-2022-49546, CVE-2022-49728, CVE-2023-52975, CVE-2024-46753, CVE-2024-47745, CVE-2024-56664, CVE-2025-21759, CVE-2025-21779, CVE-2025-21887, CVE-2025-21991, CVE-2025-21999, CVE-2025-22004",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-090.html",
-          "publishedOn": "2025-04-29T20:32:00.000Z",
-          "wordCount": 549,
-          "title": "ALASKERNEL-5.10-2025-090 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-055.html",
           "author": null,
-          "description": "CVE-2025-30204",
+          "description": "CVE-2025-22871, CVE-2025-30204",
           "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-055.html",
           "publishedOn": "2025-04-29T20:31:00.000Z",
-          "wordCount": 301,
+          "wordCount": 361,
           "title": "ALASECS-2025-055 (important): docker",
           "imageUrl": null
         },
@@ -595,10 +595,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-058.html",
           "author": null,
-          "description": "CVE-2025-30204",
+          "description": "CVE-2025-22871, CVE-2025-30204",
           "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-058.html",
           "publishedOn": "2025-04-29T20:30:00.000Z",
-          "wordCount": 301,
+          "wordCount": 361,
           "title": "ALASDOCKER-2025-058 (important): docker",
           "imageUrl": null
         },
@@ -685,10 +685,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-054.html",
           "author": null,
-          "description": "CVE-2025-30204",
+          "description": "CVE-2025-22871, CVE-2025-30204",
           "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-054.html",
           "publishedOn": "2025-04-29T20:29:00.000Z",
-          "wordCount": 301,
+          "wordCount": 361,
           "title": "ALASNITRO-ENCLAVES-2025-054 (important): docker",
           "imageUrl": null
         },
@@ -759,6 +759,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 22 May 2025 21:34:45 GMT",
+          "author": null,
+          "description": "FortiConverter 7.2.1 B0732 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-05-22T21:34:45.000Z",
+          "wordCount": 3687,
+          "title": "FortiConverter 7.2.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 22 May 2025 17:24:03 GMT",
+          "author": null,
+          "description": "FortiNDR 7.6.2 B0645 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-05-22T17:24:03.000Z",
+          "wordCount": 3687,
+          "title": "FortiNDR 7.6.2",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 21 May 2025 23:31:21 GMT",
           "author": null,
@@ -997,56 +1017,6 @@
           "publishedOn": "2025-04-24T18:53:45.000Z",
           "wordCount": 3687,
           "title": "FortiTester 7.4.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 22 Apr 2025 21:51:07 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 7.6.3 B3492 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-22T21:51:07.000Z",
-          "wordCount": 3687,
-          "title": "FortiAnalyzer 7.6.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 22 Apr 2025 21:43:02 GMT",
-          "author": null,
-          "description": "FortiManager 7.6.3 B3492 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-22T21:43:02.000Z",
-          "wordCount": 3687,
-          "title": "FortiManager 7.6.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 22 Apr 2025 19:07:31 GMT",
-          "author": null,
-          "description": "FortiProxy 7.6.3 B1559 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-22T19:07:31.000Z",
-          "wordCount": 3687,
-          "title": "FortiProxy 7.6.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 22 Apr 2025 17:57:48 GMT",
-          "author": null,
-          "description": "FortiTelemetryAgentWindows 7.6.3 B0016 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-22T17:57:48.000Z",
-          "wordCount": 3687,
-          "title": "FortiTelemetryAgentWindows 7.6.3",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 22 Apr 2025 17:54:07 GMT",
-          "author": null,
-          "description": "FortiTelemetryAgent 7.6.3 B0024 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-04-22T17:54:07.000Z",
-          "wordCount": 3687,
-          "title": "FortiTelemetryAgent 7.6.3",
           "imageUrl": null
         }
       ]
