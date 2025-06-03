@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-02T00:59:51.041Z</id>
+    <id>urn:2025-06-03T00:58:13.308Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-02T00:59:51.041Z</updated>
+    <updated>2025-06-03T00:58:13.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-072 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html"/>
-        <updated>2025-05-29T19:19:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-21546, CVE-2022-48893, CVE-2023-52572, CVE-2023-52621, CVE-2023-52752, CVE-2023-52757, CVE-2024-26686, CVE-2024-26739, CVE-2024-35866, CVE-2024-35867, CVE-2024-36908, CVE-2024-38541, CVE-2024-46742, CVE-2024-46784, CVE-2024-50047, CVE-2024-50258, CVE-2024-50272, CVE-2024-50280, CVE-2024-53128, CVE-2024-56599, CVE-2024-56751, CVE-2025-21853, CVE-2025-21927]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASKERNEL-5.4-2025-101 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-101.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-101.html"/>
@@ -51,6 +41,16 @@
         <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-102.html"/>
         <updated>2025-05-29T19:19:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-21927]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASKERNEL-5.15-2025-072 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html"/>
+        <updated>2025-05-29T19:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-21546, CVE-2022-48893, CVE-2023-52572, CVE-2023-52621, CVE-2023-52752, CVE-2023-52757, CVE-2024-26686, CVE-2024-26739, CVE-2024-35866, CVE-2024-35867, CVE-2024-36908, CVE-2024-38541, CVE-2024-46742, CVE-2024-46784, CVE-2024-50047, CVE-2024-50258, CVE-2024-50272, CVE-2024-50280, CVE-2024-53128, CVE-2024-56599, CVE-2024-56751, CVE-2025-21853, CVE-2025-21927]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
