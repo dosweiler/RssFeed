@@ -33,22 +33,12 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html",
-          "author": null,
-          "description": "CVE-2022-21546, CVE-2022-48893, CVE-2023-52572, CVE-2023-52621, CVE-2023-52752, CVE-2023-52757, CVE-2024-26686, CVE-2024-26739, CVE-2024-35866, CVE-2024-35867, CVE-2024-36908, CVE-2024-38541, CVE-2024-46742, CVE-2024-46784, CVE-2024-50047, CVE-2024-50258, CVE-2024-50272, CVE-2024-50280, CVE-2024-53128, CVE-2024-56599, CVE-2024-56751, CVE-2025-21853, CVE-2025-21927",
-          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html",
-          "publishedOn": "2025-05-29T19:19:00.000Z",
-          "wordCount": 910,
-          "title": "ALASKERNEL-5.15-2025-072 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-101.html",
           "author": null,
           "description": "CVE-2022-49168, CVE-2022-49465",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-101.html",
           "publishedOn": "2025-05-29T19:19:00.000Z",
-          "wordCount": 284,
+          "wordCount": 285,
           "title": "ALASKERNEL-5.4-2025-101 (important): kernel",
           "imageUrl": null
         },
@@ -58,8 +48,18 @@
           "description": "CVE-2025-21927",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.4-2025-102.html",
           "publishedOn": "2025-05-29T19:19:00.000Z",
-          "wordCount": 261,
+          "wordCount": 262,
           "title": "ALASKERNEL-5.4-2025-102 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html",
+          "author": null,
+          "description": "CVE-2022-21546, CVE-2022-48893, CVE-2023-52572, CVE-2023-52621, CVE-2023-52752, CVE-2023-52757, CVE-2024-26686, CVE-2024-26739, CVE-2024-35866, CVE-2024-35867, CVE-2024-36908, CVE-2024-38541, CVE-2024-46742, CVE-2024-46784, CVE-2024-50047, CVE-2024-50258, CVE-2024-50272, CVE-2024-50280, CVE-2024-53128, CVE-2024-56599, CVE-2024-56751, CVE-2025-21853, CVE-2025-21927",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-072.html",
+          "publishedOn": "2025-05-29T19:19:00.000Z",
+          "wordCount": 911,
+          "title": "ALASKERNEL-5.15-2025-072 (important): kernel",
           "imageUrl": null
         },
         {
@@ -68,7 +68,7 @@
           "description": "CVE-2022-49063, CVE-2025-21927",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-093.html",
           "publishedOn": "2025-05-29T19:18:00.000Z",
-          "wordCount": 282,
+          "wordCount": 283,
           "title": "ALASKERNEL-5.10-2025-093 (important): kernel",
           "imageUrl": null
         },
@@ -78,7 +78,7 @@
           "description": "CVE-2025-29088, CVE-2025-4083, CVE-2025-4087, CVE-2025-4091, CVE-2025-4093",
           "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2025-038.html",
           "publishedOn": "2025-05-29T19:17:00.000Z",
-          "wordCount": 450,
+          "wordCount": 451,
           "title": "ALASFIREFOX-2025-038 (important): firefox",
           "imageUrl": null
         },
@@ -88,7 +88,7 @@
           "description": "CVE-2025-22871, CVE-2025-22872",
           "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-063.html",
           "publishedOn": "2025-05-29T19:15:00.000Z",
-          "wordCount": 331,
+          "wordCount": 332,
           "title": "ALASDOCKER-2025-063 (important): runfinch-finch",
           "imageUrl": null
         },
@@ -98,7 +98,7 @@
           "description": "CVE-2025-22871, CVE-2025-22872",
           "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-064.html",
           "publishedOn": "2025-05-29T19:15:00.000Z",
-          "wordCount": 331,
+          "wordCount": 332,
           "title": "ALASDOCKER-2025-064 (important): soci-snapshotter",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "CVE-2025-22871",
           "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-065.html",
           "publishedOn": "2025-05-29T19:15:00.000Z",
-          "wordCount": 260,
+          "wordCount": 261,
           "title": "ALASDOCKER-2025-065 (important): oci-add-hooks",
           "imageUrl": null
         },
@@ -118,7 +118,7 @@
           "description": "CVE-2024-40635",
           "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-066.html",
           "publishedOn": "2025-05-29T19:15:00.000Z",
-          "wordCount": 308,
+          "wordCount": 309,
           "title": "ALASDOCKER-2025-066 (medium): docker",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "CVE-2025-22871",
           "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-061.html",
           "publishedOn": "2025-05-29T19:12:00.000Z",
-          "wordCount": 260,
+          "wordCount": 261,
           "title": "ALASNITRO-ENCLAVES-2025-061 (important): oci-add-hooks",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "CVE-2024-40635",
           "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-062.html",
           "publishedOn": "2025-05-29T19:12:00.000Z",
-          "wordCount": 308,
+          "wordCount": 309,
           "title": "ALASNITRO-ENCLAVES-2025-062 (medium): docker",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "CVE-2025-31651",
           "link": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2025-018.html",
           "publishedOn": "2025-05-29T19:04:00.000Z",
-          "wordCount": 279,
+          "wordCount": 280,
           "title": "ALASTOMCAT9-2025-018 (medium): tomcat",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "CVE-2025-4207",
           "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL13-2025-011.html",
           "publishedOn": "2025-05-29T18:59:00.000Z",
-          "wordCount": 303,
+          "wordCount": 304,
           "title": "ALASPOSTGRESQL13-2025-011 (medium): postgresql",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "CVE-2023-52969, CVE-2023-52970",
           "link": "https://alas.aws.amazon.com/AL2/ALASMARIADB10.5-2025-007.html",
           "publishedOn": "2025-05-29T18:23:00.000Z",
-          "wordCount": 305,
+          "wordCount": 306,
           "title": "ALASMARIADB10.5-2025-007 (medium): mariadb",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "CVE-2025-21920",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-230.html",
           "publishedOn": "2025-05-29T18:20:00.000Z",
-          "wordCount": 184,
+          "wordCount": 185,
           "title": "ALASLIVEPATCH-2025-230 (important): kernel-livepatch-4.14.355-276.639",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "CVE-2025-21858",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-231.html",
           "publishedOn": "2025-05-29T18:20:00.000Z",
-          "wordCount": 185,
+          "wordCount": 186,
           "title": "ALASLIVEPATCH-2025-231 (important): kernel-livepatch-5.10.234-225.921",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "CVE-2025-21858, CVE-2025-21920",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-232.html",
           "publishedOn": "2025-05-29T18:20:00.000Z",
-          "wordCount": 201,
+          "wordCount": 202,
           "title": "ALASLIVEPATCH-2025-232 (important): kernel-livepatch-4.14.355-276.618",
           "imageUrl": null
         },
@@ -208,7 +208,7 @@
           "description": "CVE-2025-21858, CVE-2025-21920",
           "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-233.html",
           "publishedOn": "2025-05-29T18:20:00.000Z",
-          "wordCount": 201,
+          "wordCount": 202,
           "title": "ALASLIVEPATCH-2025-233 (important): kernel-livepatch-4.14.355-275.603",
           "imageUrl": null
         },
@@ -218,7 +218,7 @@
           "description": "CVE-2025-46727",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2856.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 408,
+          "wordCount": 409,
           "title": "ALAS-2025-2856 (important): pcs",
           "imageUrl": null
         },
@@ -228,7 +228,7 @@
           "description": "CVE-2025-43965",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2857.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 232,
+          "wordCount": 233,
           "title": "ALAS-2025-2857 (low): ImageMagick",
           "imageUrl": null
         },
@@ -238,7 +238,7 @@
           "description": "CVE-2022-45404, CVE-2025-2830, CVE-2025-29088, CVE-2025-3522, CVE-2025-3523, CVE-2025-4083, CVE-2025-4087, CVE-2025-4091, CVE-2025-4093",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2858.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 709,
+          "wordCount": 710,
           "title": "ALAS-2025-2858 (important): thunderbird",
           "imageUrl": null
         },
@@ -248,7 +248,7 @@
           "description": "CVE-2025-3875, CVE-2025-3877, CVE-2025-3909, CVE-2025-3932",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2859.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 517,
+          "wordCount": 518,
           "title": "ALAS-2025-2859 (important): thunderbird",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "CVE-2025-32414, CVE-2025-32415",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2860.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 294,
+          "wordCount": 295,
           "title": "ALAS-2025-2860 (medium): libxml2",
           "imageUrl": null
         },
@@ -268,7 +268,7 @@
           "description": "CVE-2025-3155",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2861.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 234,
+          "wordCount": 235,
           "title": "ALAS-2025-2861 (medium): yelp-xsl",
           "imageUrl": null
         },
@@ -278,7 +278,7 @@
           "description": "CVE-2025-3155",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2862.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 244,
+          "wordCount": 245,
           "title": "ALAS-2025-2862 (medium): yelp",
           "imageUrl": null
         },
@@ -288,7 +288,7 @@
           "description": "CVE-2025-22871, CVE-2025-22872",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2863.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 321,
+          "wordCount": 322,
           "title": "ALAS-2025-2863 (important): nerdctl",
           "imageUrl": null
         },
@@ -298,7 +298,7 @@
           "description": "CVE-2025-22247",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2864.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 239,
+          "wordCount": 240,
           "title": "ALAS-2025-2864 (medium): open-vm-tools",
           "imageUrl": null
         },
@@ -308,7 +308,7 @@
           "description": "CVE-2024-53173, CVE-2024-58083, CVE-2025-21722",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2865.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 291,
+          "wordCount": 292,
           "title": "ALAS-2025-2865 (important): kernel",
           "imageUrl": null
         },
@@ -318,7 +318,7 @@
           "description": "CVE-2025-1094",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2866.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 327,
+          "wordCount": 328,
           "title": "ALAS-2025-2866 (important): postgresql",
           "imageUrl": null
         },
@@ -328,7 +328,7 @@
           "description": "CVE-2024-58250",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2867.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 215,
+          "wordCount": 216,
           "title": "ALAS-2025-2867 (important): ppp",
           "imageUrl": null
         },
@@ -338,7 +338,7 @@
           "description": "CVE-2024-35195",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2868.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 264,
+          "wordCount": 265,
           "title": "ALAS-2025-2868 (medium): python-requests",
           "imageUrl": null
         },
@@ -348,7 +348,7 @@
           "description": "CVE-2024-23254, CVE-2024-23271, CVE-2024-27808, CVE-2024-27820, CVE-2024-27830, CVE-2024-27833, CVE-2024-27838, CVE-2024-27850, CVE-2024-27851, CVE-2024-27856, CVE-2024-40782, CVE-2024-40857, CVE-2024-40866, CVE-2024-44185, CVE-2024-44187, CVE-2024-44192, CVE-2024-44244, CVE-2024-44296, CVE-2024-44309, CVE-2024-54479, CVE-2024-54502, CVE-2024-54505, CVE-2024-54508, CVE-2024-54534, CVE-2024-54543, CVE-2024-54551, CVE-2024-54658, CVE-2025-24143, CVE-2025-24150, CVE-2025-24158, CVE-2025-24162, CVE-2025-24201, CVE-2025-24208, CVE-2025-24209, CVE-2025-24216, CVE-2025-24264, CVE-2025-30427",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2869.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 1868,
+          "wordCount": 1869,
           "title": "ALAS-2025-2869 (important): webkitgtk4",
           "imageUrl": null
         },
@@ -358,7 +358,7 @@
           "description": "CVE-2024-24790, CVE-2025-22871",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2870.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 280,
+          "wordCount": 281,
           "title": "ALAS-2025-2870 (important): cri-tools",
           "imageUrl": null
         },
@@ -368,7 +368,7 @@
           "description": "CVE-2021-28165",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2871.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 256,
+          "wordCount": 257,
           "title": "ALAS-2025-2871 (medium): jetty",
           "imageUrl": null
         },
@@ -378,7 +378,7 @@
           "description": "CVE-2024-28956, CVE-2024-45332, CVE-2025-20054, CVE-2025-20103",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2872.html",
           "publishedOn": "2025-05-29T16:17:00.000Z",
-          "wordCount": 316,
+          "wordCount": 317,
           "title": "ALAS-2025-2872 (medium): microcode_ctl",
           "imageUrl": null
         },
@@ -388,7 +388,7 @@
           "description": "CVE-2024-48423, CVE-2024-48424, CVE-2024-48425, CVE-2024-53425, CVE-2025-2151, CVE-2025-2152, CVE-2025-2592, CVE-2025-3015, CVE-2025-3016, CVE-2025-3159, CVE-2025-3160, CVE-2025-3196, CVE-2025-3548",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2848.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 991,
+          "wordCount": 992,
           "title": "ALAS-2025-2848 (medium): qt5-qt3d",
           "imageUrl": null
         },
@@ -398,7 +398,7 @@
           "description": "CVE-2025-32906, CVE-2025-32907, CVE-2025-32911, CVE-2025-32913, CVE-2025-32914",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2849.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 376,
+          "wordCount": 377,
           "title": "ALAS-2025-2849 (important): libsoup",
           "imageUrl": null
         },
@@ -408,7 +408,7 @@
           "description": "CVE-2025-21587, CVE-2025-30698",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2850.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 680,
+          "wordCount": 681,
           "title": "ALAS-2025-2850 (important): java-1.8.0-openjdk",
           "imageUrl": null
         },
@@ -418,7 +418,7 @@
           "description": "CVE-2025-22871, CVE-2025-29786, CVE-2025-30204",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2851.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 651,
+          "wordCount": 652,
           "title": "ALAS-2025-2851 (important): amazon-cloudwatch-agent",
           "imageUrl": null
         },
@@ -428,7 +428,7 @@
           "description": "CVE-2024-38797",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2852.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 246,
+          "wordCount": 247,
           "title": "ALAS-2025-2852 (medium): edk2",
           "imageUrl": null
         },
@@ -438,7 +438,7 @@
           "description": "CVE-2024-21510",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2853.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 284,
+          "wordCount": 285,
           "title": "ALAS-2025-2853 (medium): pcs",
           "imageUrl": null
         },
@@ -448,7 +448,7 @@
           "description": "CVE-2022-49168, CVE-2022-49413, CVE-2022-49465, CVE-2025-21920, CVE-2025-22004",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2854.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 325,
+          "wordCount": 326,
           "title": "ALAS-2025-2854 (important): kernel",
           "imageUrl": null
         },
@@ -458,7 +458,7 @@
           "description": "CVE-2021-34428",
           "link": "https://alas.aws.amazon.com/AL2/ALAS-2025-2855.html",
           "publishedOn": "2025-05-13T22:34:00.000Z",
-          "wordCount": 294,
+          "wordCount": 295,
           "title": "ALAS-2025-2855 (low): jetty",
           "imageUrl": null
         },
@@ -468,7 +468,7 @@
           "description": "CVE-2025-31650",
           "link": "https://alas.aws.amazon.com/AL2/ALASTOMCAT9-2025-017.html",
           "publishedOn": "2025-05-13T22:15:00.000Z",
-          "wordCount": 277,
+          "wordCount": 278,
           "title": "ALASTOMCAT9-2025-017 (important): tomcat",
           "imageUrl": null
         },
@@ -478,7 +478,7 @@
           "description": "CVE-2022-49168",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-071.html",
           "publishedOn": "2025-05-13T22:13:00.000Z",
-          "wordCount": 266,
+          "wordCount": 267,
           "title": "ALASKERNEL-5.15-2025-071 (important): kernel",
           "imageUrl": null
         },
@@ -488,7 +488,7 @@
           "description": "CVE-2022-49168, CVE-2024-35870, CVE-2024-53179",
           "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-091.html",
           "publishedOn": "2025-05-13T22:12:00.000Z",
-          "wordCount": 303,
+          "wordCount": 304,
           "title": "ALASKERNEL-5.10-2025-091 (important): kernel",
           "imageUrl": null
         },
@@ -498,7 +498,7 @@
           "description": "CVE-2020-14556, CVE-2020-14577, CVE-2020-14578, CVE-2020-14579, CVE-2020-14581, CVE-2020-14583, CVE-2020-14593, CVE-2020-14621, CVE-2020-14664",
           "link": "https://alas.aws.amazon.com/AL2/ALASCORRETTO8-2025-019.html",
           "publishedOn": "2025-05-13T22:09:00.000Z",
-          "wordCount": 1564,
+          "wordCount": 1565,
           "title": "ALASCORRETTO8-2025-019 (important): java-1.8.0-amazon-corretto",
           "imageUrl": null
         }
