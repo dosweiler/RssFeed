@@ -33,6 +33,136 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-018.html",
+          "author": null,
+          "description": "CVE-2025-4207",
+          "link": "https://alas.aws.amazon.com/AL2/ALASPOSTGRESQL14-2025-018.html",
+          "publishedOn": "2025-06-11T23:44:00.000Z",
+          "wordCount": 284,
+          "title": "ALASPOSTGRESQL14-2025-018 (medium): postgresql",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-234.html",
+          "author": null,
+          "description": "CVE-2025-21811",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-234.html",
+          "publishedOn": "2025-06-11T23:43:00.000Z",
+          "wordCount": 189,
+          "title": "ALASLIVEPATCH-2025-234 (important): kernel-livepatch-4.14.355-277.647",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-235.html",
+          "author": null,
+          "description": "CVE-2025-21811",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-235.html",
+          "publishedOn": "2025-06-11T23:43:00.000Z",
+          "wordCount": 189,
+          "title": "ALASLIVEPATCH-2025-235 (important): kernel-livepatch-4.14.355-277.643",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-236.html",
+          "author": null,
+          "description": "CVE-2025-21811",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-236.html",
+          "publishedOn": "2025-06-11T23:43:00.000Z",
+          "wordCount": 189,
+          "title": "ALASLIVEPATCH-2025-236 (important): kernel-livepatch-4.14.355-275.603",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-237.html",
+          "author": null,
+          "description": "CVE-2025-21811",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-237.html",
+          "publishedOn": "2025-06-11T23:43:00.000Z",
+          "wordCount": 189,
+          "title": "ALASLIVEPATCH-2025-237 (important): kernel-livepatch-4.14.355-276.639",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-238.html",
+          "author": null,
+          "description": "CVE-2025-21811",
+          "link": "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-238.html",
+          "publishedOn": "2025-06-11T23:43:00.000Z",
+          "wordCount": 189,
+          "title": "ALASLIVEPATCH-2025-238 (important): kernel-livepatch-4.14.355-276.618",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-074.html",
+          "author": null,
+          "description": "CVE-2025-22058",
+          "link": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-074.html",
+          "publishedOn": "2025-06-11T23:42:00.000Z",
+          "wordCount": 262,
+          "title": "ALASKERNEL-5.15-2025-074 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2025-039.html",
+          "author": null,
+          "description": "CVE-2025-4918, CVE-2025-4919, CVE-2025-5263, CVE-2025-5264, CVE-2025-5265, CVE-2025-5266, CVE-2025-5267, CVE-2025-5268, CVE-2025-5269, CVE-2025-5283",
+          "link": "https://alas.aws.amazon.com/AL2/ALASFIREFOX-2025-039.html",
+          "publishedOn": "2025-06-11T23:41:00.000Z",
+          "wordCount": 631,
+          "title": "ALASFIREFOX-2025-039 (important): firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-067.html",
+          "author": null,
+          "description": "CVE-2025-22871",
+          "link": "https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-067.html",
+          "publishedOn": "2025-06-11T23:40:00.000Z",
+          "wordCount": 263,
+          "title": "ALASDOCKER-2025-067 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-065.html",
+          "author": null,
+          "description": "CVE-2025-22872",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-065.html",
+          "publishedOn": "2025-06-11T23:40:00.000Z",
+          "wordCount": 336,
+          "title": "ALASECS-2025-065 (medium): ecs-init",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-066.html",
+          "author": null,
+          "description": "CVE-2024-40635",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-066.html",
+          "publishedOn": "2025-06-11T23:40:00.000Z",
+          "wordCount": 309,
+          "title": "ALASECS-2025-066 (medium): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASECS-2025-067.html",
+          "author": null,
+          "description": "CVE-2024-40635",
+          "link": "https://alas.aws.amazon.com/AL2/ALASECS-2025-067.html",
+          "publishedOn": "2025-06-11T23:40:00.000Z",
+          "wordCount": 307,
+          "title": "ALASECS-2025-067 (medium): ecs-init",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-063.html",
+          "author": null,
+          "description": "CVE-2025-22871",
+          "link": "https://alas.aws.amazon.com/AL2/ALASNITRO-ENCLAVES-2025-063.html",
+          "publishedOn": "2025-06-11T23:39:00.000Z",
+          "wordCount": 263,
+          "title": "ALASNITRO-ENCLAVES-2025-063 (important): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.15-2025-073.html",
           "author": null,
           "description": "CVE-2022-21546, CVE-2022-48893, CVE-2023-52572, CVE-2023-52621, CVE-2023-52752, CVE-2023-52757, CVE-2024-26686, CVE-2024-26739, CVE-2024-35866, CVE-2024-35867, CVE-2024-36908, CVE-2024-38541, CVE-2024-46742, CVE-2024-46784, CVE-2024-50047, CVE-2024-50258, CVE-2024-50272, CVE-2024-50280, CVE-2024-53128, CVE-2024-56599, CVE-2024-56751, CVE-2025-21853, CVE-2025-21927, CVE-2025-37914",
@@ -529,6 +659,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 11 Jun 2025 17:30:59 GMT",
+          "author": null,
+          "description": "FortiSIEM 7.4.0 B0435 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-06-11T17:30:59.000Z",
+          "wordCount": 3687,
+          "title": "FortiSIEM 7.4.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Wed, 11 Jun 2025 17:05:55 GMT",
+          "author": null,
+          "description": "FortiSIEM 6.7.10 B1764 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-06-11T17:05:55.000Z",
+          "wordCount": 3687,
+          "title": "FortiSIEM 6.7.10",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 10 Jun 2025 17:46:37 GMT",
           "author": null,
