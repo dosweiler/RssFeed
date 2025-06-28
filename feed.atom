@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-27T00:59:05.241Z</id>
+    <id>urn:2025-06-28T00:56:59.185Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T00:59:05.241Z</updated>
+    <updated>2025-06-28T00:56:59.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiNDR 7.4.9]]></title>
+        <id>Fri, 27 Jun 2025 21:38:53 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-06-27T21:38:53.000Z</updated>
+        <summary type="html"><![CDATA[FortiNDR 7.4.9 B0549 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiGuest 2.2.1]]></title>
+        <id>Fri, 27 Jun 2025 19:04:19 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-06-27T19:04:19.000Z</updated>
+        <summary type="html"><![CDATA[FortiGuest 2.2.1 B0317 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiWebManager 7.6.2]]></title>
         <id>Thu, 26 Jun 2025 22:43:26 GMT</id>
@@ -325,26 +345,6 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2025-068 (important): runc]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-068.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-068.html"/>
-        <updated>2025-06-23T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2025-069 (important): amazon-ecr-credential-helper]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-069.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-069.html"/>
-        <updated>2025-06-23T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASECS-2025-068 (important): runc]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASECS-2025-068.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-068.html"/>
@@ -368,6 +368,26 @@ UniFi Network application version]]></summary>
         <title type="html"><![CDATA[ALASECS-2025-070 (important): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASECS-2025-070.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-070.html"/>
+        <updated>2025-06-23T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2025-068 (important): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-068.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-068.html"/>
+        <updated>2025-06-23T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2025-069 (important): amazon-ecr-credential-helper]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-069.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-069.html"/>
         <updated>2025-06-23T22:44:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
         <author>
@@ -399,8 +419,15 @@ UniFi Network application version]]></summary>
         <id>d560c28b-8625-4535-938f-a50867597f3b</id>
         <link href="https://community.ui.com/releases/UniFi-Access-Point-all-U7-and-E7-models-8-0-49/d560c28b-8625-4535-938f-a50867597f3b"/>
         <updated>2025-06-23T20:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
+        <summary type="html"><![CDATA[Overview
+This release is promoted to Official/Stable release channel for these models:
 
+E7, E7-Campus, E7-Audience - June 26, 2025
+
+Firmware updates for other models will be rolled out gradually.
+Improvements
+
+Added Roaming Assistant support
 Enabled wireless meshing for U7/E7 (with MLO enabled) to Wi-Fi 6/5 APs.
 Improved AP stability.
 Improved client connectivity.
@@ -412,32 +439,7 @@ Improved 6GHz auto-channel selection algorithm.
 Improved AFC position acquisition stability and prevented intermittent failures.
 Improved Ethernet stability on E7/U7 10GbE devices.
 Updated regulatory information for Brazil.
-Updated regulatory for Indonesia.
-
-Bugfixes
-
-Fixed empty airtime scan results for the 6 GHz band when operating in 320 MHz bandwidth.
-Fixed corrupted packet capture data.
-Fixed increased CPU usage when SNMP monitoring is enabled.
-Fixed RADIUS authentication issues when multiple servers are configured.
-Fixed RADIUS CoA not working in some environments.
-Fixed Intel AX210 wireless authentication failures over 6GHz (WPA3) on Linux.
-Fixed an issue where the AP stopped broadcasting when channels 12–13 were set for the 2.4GHz band in the United Kingdom.
-Fixed an issue where Multicast and Broadcast Control did not properly block traffic between clients connected to the same AP and on the same band.
-Fixed IPv6 RA VLAN leak between clients on the same AP.
-Fixed IPv6 leakage between SSIDs in certain scenarios.
-Fixed regression in IPv6 address assignment via SLAAC.
-Fixed communication between non-MLO devices on MLO wireless networks.
-Fixed incorrect Ethernet statistics reporting on dual-port devices.
-Fixed various reporting issues.
-
-Additional information
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version
-UniFi Console Support File (as private attachment)]]></summary>
+Updated regulatory for Indon…]]></summary>
         <author>
             <name>UI-Edmundas</name>
         </author>
@@ -789,16 +791,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALASDOCKER-2025-067 (important): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-067.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-067.html"/>
-        <updated>2025-06-11T23:40:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALASECS-2025-065 (medium): ecs-init]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALASECS-2025-065.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-065.html"/>
@@ -824,6 +816,16 @@ UniFi Console Support File (as private attachment)]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALASECS-2025-067.html"/>
         <updated>2025-06-11T23:40:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-40635]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALASDOCKER-2025-067 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-067.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALASDOCKER-2025-067.html"/>
+        <updated>2025-06-11T23:40:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1314,26 +1316,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         <summary type="html"><![CDATA[CVE-2024-28956, CVE-2024-45332, CVE-2025-20054, CVE-2025-20103]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAnalyzer 7.4.7]]></title>
-        <id>Wed, 28 May 2025 18:54:53 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-05-28T18:54:53.000Z</updated>
-        <summary type="html"><![CDATA[FortiAnalyzer 7.4.7 B2685 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiManager 7.4.7]]></title>
-        <id>Wed, 28 May 2025 18:47:13 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-05-28T18:47:13.000Z</updated>
-        <summary type="html"><![CDATA[FortiManager 7.4.7 B2685 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
         </author>
     </entry>
 </feed>
