@@ -18,7 +18,7 @@
         {
           "id": "d560c28b-8625-4535-938f-a50867597f3b",
           "author": "UI-Edmundas",
-          "description": "Overview\nThis release is promoted to Official/Stable release channel for these models:\n\nE7, E7 Campus, E7 Audience - June 26, 2025\nU7 Outdoor, U7 Lite, U7 In-Wall - June 30, 2025\n\nFirmware updates for other models will be rolled out gradually.\nImprovements\n\nAdded Roaming Assistant support\nEnabled wireless meshing for U7/E7 (with MLO enabled) to Wi-Fi 6/5 APs.\nImproved AP stability.\nImproved client connectivity.\nImproved wireless client roaming.\nImproved meshing performance in dense environments.\nImproved airtime utilization on the 5 GHz band.\nImproved MLO throughput in specific scenarios.\nImproved 6GHz auto-channel selection algorithm.\nImproved AFC position acquisition stability and prevented intermittent failures.\nImproved Ethernet stability on E7/U7 10GbE devices.\nUpdated regulatory info…",
+          "description": "Overview\nThis release is promoted to Official/Stable release channel for these models:\n\nE7, E7 Campus, E7 Audience - June 26, 2025\nU7 Outdoor, U7 Lite, U7 In-Wall - June 30, 2025\nU7 Pro Max, U7 Pro XG, U7 Pro XGS - July 1, 2025\n\nFirmware updates for other models will be rolled out gradually.\nImprovements\n\nAdded Roaming Assistant support\nEnabled wireless meshing for U7/E7 (with MLO enabled) to Wi-Fi 6/5 APs.\nImproved AP stability.\nImproved client connectivity.\nImproved wireless client roaming.\nImproved meshing performance in dense environments.\nImproved airtime utilization on the 5 GHz band.\nImproved MLO throughput in specific scenarios.\nImproved 6GHz auto-channel selection algorithm.\nImproved AFC position acquisition stability and prevented intermittent failures.\nImproved Ethernet stabilit…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-all-U7-and-E7-models-8-0-49/d560c28b-8625-4535-938f-a50867597f3b",
           "publishedOn": "2025-06-23T20:48:42.000Z",
           "wordCount": 6,
@@ -253,16 +253,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html",
-          "author": null,
-          "description": "CVE-2022-21546, CVE-2023-52935, CVE-2024-38541, CVE-2025-37819, CVE-2025-37890, CVE-2025-37913, CVE-2025-37915, CVE-2025-37923, CVE-2025-37927, CVE-2025-37932, CVE-2025-37949, CVE-2025-37995, CVE-2025-37998, CVE-2025-38000, CVE-2025-38001, CVE-2025-38004",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html",
-          "publishedOn": "2025-06-23T22:46:00.000Z",
-          "wordCount": 660,
-          "title": "ALAS2KERNEL-5.4-2025-103 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-075.html",
           "author": null,
           "description": "CVE-2025-38000, CVE-2025-38004",
@@ -290,6 +280,16 @@
           "publishedOn": "2025-06-23T22:46:00.000Z",
           "wordCount": 286,
           "title": "ALAS2KERNEL-5.15-2025-077 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html",
+          "author": null,
+          "description": "CVE-2022-21546, CVE-2023-52935, CVE-2024-38541, CVE-2025-37819, CVE-2025-37890, CVE-2025-37913, CVE-2025-37915, CVE-2025-37923, CVE-2025-37927, CVE-2025-37932, CVE-2025-37949, CVE-2025-37995, CVE-2025-37998, CVE-2025-38000, CVE-2025-38001, CVE-2025-38004",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html",
+          "publishedOn": "2025-06-23T22:46:00.000Z",
+          "wordCount": 660,
+          "title": "ALAS2KERNEL-5.4-2025-103 (important): kernel",
           "imageUrl": null
         },
         {

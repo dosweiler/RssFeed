@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T01:05:26.086Z</id>
+    <id>urn:2025-07-02T00:58:52.933Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T01:05:26.086Z</updated>
+    <updated>2025-07-02T00:58:52.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -295,16 +295,6 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-103 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html"/>
-        <updated>2025-06-23T22:46:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-21546, CVE-2023-52935, CVE-2024-38541, CVE-2025-37819, CVE-2025-37890, CVE-2025-37913, CVE-2025-37915, CVE-2025-37923, CVE-2025-37927, CVE-2025-37932, CVE-2025-37949, CVE-2025-37995, CVE-2025-37998, CVE-2025-38000, CVE-2025-38001, CVE-2025-38004]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2KERNEL-5.15-2025-075 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-075.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-075.html"/>
@@ -330,6 +320,16 @@ UniFi Network application version]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-077.html"/>
         <updated>2025-06-23T22:46:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-46751, CVE-2025-22062]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-103 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-103.html"/>
+        <updated>2025-06-23T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-21546, CVE-2023-52935, CVE-2024-38541, CVE-2025-37819, CVE-2025-37890, CVE-2025-37913, CVE-2025-37915, CVE-2025-37923, CVE-2025-37927, CVE-2025-37932, CVE-2025-37949, CVE-2025-37995, CVE-2025-37998, CVE-2025-38000, CVE-2025-38001, CVE-2025-38004]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -424,6 +424,7 @@ This release is promoted to Official/Stable release channel for these models:
 
 E7, E7 Campus, E7 Audience - June 26, 2025
 U7 Outdoor, U7 Lite, U7 In-Wall - June 30, 2025
+U7 Pro Max, U7 Pro XG, U7 Pro XGS - July 1, 2025
 
 Firmware updates for other models will be rolled out gradually.
 Improvements
@@ -438,8 +439,7 @@ Improved airtime utilization on the 5 GHz band.
 Improved MLO throughput in specific scenarios.
 Improved 6GHz auto-channel selection algorithm.
 Improved AFC position acquisition stability and prevented intermittent failures.
-Improved Ethernet stability on E7/U7 10GbE devices.
-Updated regulatory info…]]></summary>
+Improved Ethernet stabilit…]]></summary>
         <author>
             <name>UI-Edmundas</name>
         </author>
