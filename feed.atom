@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-16T01:01:19.535Z</id>
+    <id>urn:2025-07-17T01:01:44.932Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T01:01:19.535Z</updated>
+    <updated>2025-07-17T01:01:44.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiWebManager 7.6.3]]></title>
+        <id>Wed, 16 Jul 2025 23:39:56 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-07-16T23:39:56.000Z</updated>
+        <summary type="html"><![CDATA[FortiWebManager 7.6.3 B0255 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiPAM 1.4.3]]></title>
+        <id>Wed, 16 Jul 2025 20:53:00 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-07-16T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[FortiPAM 1.4.3 B1146 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiSRA 1.4.3]]></title>
+        <id>Wed, 16 Jul 2025 20:24:07 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-07-16T20:24:07.000Z</updated>
+        <summary type="html"><![CDATA[FortiSRA 1.4.3 B1146 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiNAC-F 7.6.3]]></title>
         <id>Wed, 16 Jul 2025 00:02:01 GMT</id>
@@ -905,6 +935,26 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2025-068 (important): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-068.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-068.html"/>
+        <updated>2025-06-23T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2025-069 (important): amazon-ecr-credential-helper]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-069.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-069.html"/>
+        <updated>2025-06-23T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2ECS-2025-068 (important): runc]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-068.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-068.html"/>
@@ -928,26 +978,6 @@ UniFi Network application version]]></summary>
         <title type="html"><![CDATA[ALAS2ECS-2025-070 (important): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-070.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-070.html"/>
-        <updated>2025-06-23T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2025-068 (important): runc]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-068.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-068.html"/>
-        <updated>2025-06-23T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2025-069 (important): amazon-ecr-credential-helper]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-069.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-069.html"/>
         <updated>2025-06-23T22:44:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-22871]]></summary>
         <author>
@@ -1030,16 +1060,6 @@ Improved Ethernet stability on E7/U7 10…]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2025-06-17T22:51:18.000Z</updated>
         <summary type="html"><![CDATA[FortiDDoS-F 7.2.0 B0804 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSwitch 7.4.7]]></title>
-        <id>Tue, 17 Jun 2025 00:23:27 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-06-17T00:23:27.000Z</updated>
-        <summary type="html"><![CDATA[FortiSwitch 7.4.7 B0914 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
