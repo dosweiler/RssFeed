@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-08T01:03:24.586Z</id>
+    <id>urn:2025-08-09T00:57:45.147Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T01:03:24.586Z</updated>
+    <updated>2025-08-09T00:57:45.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiProxy 7.4.10]]></title>
+        <id>Fri, 8 Aug 2025 19:06:18 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-08T19:06:18.000Z</updated>
+        <summary type="html"><![CDATA[FortiProxy 7.4.10 B0676 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAuthenticator 6.6.6]]></title>
+        <id>Fri, 8 Aug 2025 18:48:30 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-08T18:48:30.000Z</updated>
+        <summary type="html"><![CDATA[FortiAuthenticator 6.6.6 B1824 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiSOAR 7.6.3]]></title>
+        <id>Fri, 8 Aug 2025 16:47:21 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-08T16:47:21.000Z</updated>
+        <summary type="html"><![CDATA[FortiSOAR 7.6.3 B5574 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSRA 1.7.0]]></title>
         <id>Wed, 6 Aug 2025 19:03:49 GMT</id>
@@ -866,6 +896,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-066 (medium): docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-066.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-066.html"/>
+        <updated>2025-07-10T19:26:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-067 (medium): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-067.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-067.html"/>
+        <updated>2025-07-10T19:26:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-068 (medium): runc]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-068.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-068.html"/>
+        <updated>2025-07-10T19:26:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-069 (medium): oci-add-hooks]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-069.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-069.html"/>
+        <updated>2025-07-10T19:26:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2DOCKER-2025-070 (medium): docker]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-070.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-070.html"/>
@@ -919,46 +989,6 @@
         <title type="html"><![CDATA[ALAS2DOCKER-2025-075 (medium): oci-add-hooks]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-075.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-075.html"/>
-        <updated>2025-07-10T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-066 (medium): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-066.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-066.html"/>
-        <updated>2025-07-10T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-067 (medium): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-067.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-067.html"/>
-        <updated>2025-07-10T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-068 (medium): runc]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-068.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-068.html"/>
-        <updated>2025-07-10T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-069 (medium): oci-add-hooks]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-069.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-069.html"/>
         <updated>2025-07-10T19:26:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-4673]]></summary>
         <author>
@@ -1183,16 +1213,6 @@
         <summary type="html"><![CDATA[CVE-2020-25659]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiData 7.6.1]]></title>
-        <id>Wed, 9 Jul 2025 16:11:02 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-07-09T16:11:02.000Z</updated>
-        <summary type="html"><![CDATA[FortiData 7.6.1 B0103 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
         </author>
     </entry>
 </feed>
