@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-26T00:55:54.637Z</id>
+    <id>urn:2025-08-27T00:54:19.624Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T00:55:54.637Z</updated>
+    <updated>2025-08-27T00:54:19.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiWeb 8.0.1]]></title>
+        <id>Tue, 26 Aug 2025 20:18:17 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-26T20:18:17.000Z</updated>
+        <summary type="html"><![CDATA[FortiWeb 8.0.1 B0047 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAnalyzer 7.6.4]]></title>
+        <id>Tue, 26 Aug 2025 20:11:20 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-26T20:11:20.000Z</updated>
+        <summary type="html"><![CDATA[FortiAnalyzer 7.6.4 B3579 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiManager 7.6.4]]></title>
+        <id>Tue, 26 Aug 2025 19:21:50 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-26T19:21:50.000Z</updated>
+        <summary type="html"><![CDATA[FortiManager 7.6.4 B3579 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiNAC-F 7.6.4]]></title>
+        <id>Tue, 26 Aug 2025 19:04:54 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-26T19:04:54.000Z</updated>
+        <summary type="html"><![CDATA[FortiNAC-F 7.6.4 B0782 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiSwitch 7.6.4]]></title>
+        <id>Tue, 26 Aug 2025 18:25:43 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-26T18:25:43.000Z</updated>
+        <summary type="html"><![CDATA[FortiSwitch 7.6.4 B1114 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiDDoS-F 7.2.1]]></title>
+        <id>Tue, 26 Aug 2025 17:53:38 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-08-26T17:53:38.000Z</updated>
+        <summary type="html"><![CDATA[FortiDDoS-F 7.2.1 B0818 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Access Point (U7-LR) 8.0.56]]></title>
+        <id>13046a90-2104-4f77-ad15-7a0572a04aaa</id>
+        <link href="https://community.ui.com/releases/UniFi-Access-Point-U7-LR-8-0-56/13046a90-2104-4f77-ad15-7a0572a04aaa"/>
+        <updated>2025-08-26T14:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Improvements
+
+Improved Airtime Scan. No client disconnects during scan.
+Improved MLO performance for some clients.
+Custom TX power for 2.4 GHz can now be set to 26dBm.
+Improved AP stability.
+
+Bugfixes
+
+Fixed an issue in which the AP would not respond to neighbor-report requests.
+Fixed an issue in which the AP could not wirelessly adopt E7-series devices.
+Fixed SSID does not broadcast sometimes after configuration changes.
+Fixed Min RSSI behavior with MLO clients.
+Fixed WiFi Speed Limit failure on MLO clients.
+Fixed Ethernet link going down when using 10/100Mbps full-duplex and auto-negotiation is off.
+
+Additional information
+Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate
+
+If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
+
+If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
+
+AP model(s)
+Previous AP release version
+UniFi Network application version]]></summary>
+        <author>
+            <name>UI-Edmundas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSwitchAXFixed 1.0.0]]></title>
         <id>Mon, 25 Aug 2025 23:18:03 GMT</id>
@@ -496,18 +591,18 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-105 (low): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-105.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-105.html"/>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2025-086 (low): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-086.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-086.html"/>
         <updated>2025-08-04T23:08:00.000Z</updated>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2025-086 (low): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-086.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-086.html"/>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-105 (low): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-105.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-105.html"/>
         <updated>2025-08-04T23:08:00.000Z</updated>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
