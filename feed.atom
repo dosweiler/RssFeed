@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-05T00:52:32.767Z</id>
+    <id>urn:2025-09-06T00:51:15.682Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-05T00:52:32.767Z</updated>
+    <updated>2025-09-06T00:51:15.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,26 @@
         <link href="https://alas.aws.amazon.com/AL2/ALAS2POSTGRESQL13-2025-012.html"/>
         <updated>2025-09-04T20:04:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-8713, CVE-2025-8714, CVE-2025-8715]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2MEMCACHED1.5-2025-001 (medium): memcached]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2MEMCACHED1.5-2025-001.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2MEMCACHED1.5-2025-001.html"/>
+        <updated>2025-09-04T20:03:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2021-37519]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2MOCK-2025-001 (medium): mock]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2MOCK-2025-001.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2MOCK-2025-001.html"/>
+        <updated>2025-09-04T20:03:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-6395]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -792,26 +812,6 @@ UniFi Network application version]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2025-08-08T16:47:21.000Z</updated>
         <summary type="html"><![CDATA[FortiSOAR 7.6.3 B5574 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSRA 1.7.0]]></title>
-        <id>Wed, 6 Aug 2025 19:03:49 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-08-06T19:03:49.000Z</updated>
-        <summary type="html"><![CDATA[FortiSRA 1.7.0 B1463 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiPAM 1.7.0]]></title>
-        <id>Wed, 6 Aug 2025 18:46:51 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-08-06T18:46:51.000Z</updated>
-        <summary type="html"><![CDATA[FortiPAM 1.7.0 B1463 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
