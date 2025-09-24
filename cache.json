@@ -6,6 +6,26 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "cff732bd-c6b2-4da3-9dbc-60613802196c",
+          "author": "UI-Edmundas",
+          "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded Channel AI support.\nAdded Roaming Assistant support.\nAdded Quick Airtime Scan support. No client disconnects during scan.\nImproved overall AP stability.\nImproved client connectivity performance.\nUpdated regulatory compliance for Brazil.\n\nBugfixes\n\nFixed NanoHD incorrectly selecting channel bandwidth after a DFS event.\nFixed U6+ reporting disconnect/reconnect events when clients roam between bands.\nFixed upgrade issue on U6+.\nFixed Proxy ARP issue when a station has multiple IP addresses.\nFixed RADIUS timeout issue when multiple servers are used.\nFixed RADIUS accounting issue with incorrect values.\nFixed RADIUS accounting issue where values were missing from STOP messages.\n\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U6-LR-U6-Lite-U6-and-more-6-7-31/cff732bd-c6b2-4da3-9dbc-60613802196c",
+          "publishedOn": "2025-09-23T16:18:11.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point for U6-LR, U6-Lite, U6+ & more 6.7.31",
+          "imageUrl": null
+        },
+        {
+          "id": "28fe2fb0-6a7d-4ffe-a03e-2b6432445963",
+          "author": "UI-Edmundas",
+          "description": "Improvements\n\nAdded Channel AI support.\nImproved Airtime Scan. No client disconnections during scan.\nImproved stability.\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U7-LR-8-0-61/28fe2fb0-6a7d-4ffe-a03e-2b6432445963",
+          "publishedOn": "2025-09-23T16:15:04.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point for U7-LR 8.0.61",
+          "imageUrl": null
+        },
+        {
           "id": "13046a90-2104-4f77-ad15-7a0572a04aaa",
           "author": "UI-Edmundas",
           "description": "Improvements\n\nImproved Airtime Scan. No client disconnects during scan.\nImproved MLO performance for some clients.\nCustom TX power for 2.4 GHz can now be set to 26dBm.\nImproved AP stability.\n\nBugfixes\n\nFixed an issue in which the AP would not respond to neighbor-report requests.\nFixed an issue in which the AP could not wirelessly adopt E7-series devices.\nFixed SSID does not broadcast sometimes after configuration changes.\nFixed Min RSSI behavior with MLO clients.\nFixed WiFi Speed Limit failure on MLO clients.\nFixed Ethernet link going down when using 10/100Mbps full-duplex and auto-negotiation is off.\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -83,16 +103,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-109.html",
-          "author": null,
-          "description": "CVE-2023-52572, CVE-2024-26958, CVE-2024-57996, CVE-2025-37798, CVE-2025-38095, CVE-2025-38177, CVE-2025-38193, CVE-2025-38375, CVE-2025-38474, CVE-2025-38477, CVE-2025-38494, CVE-2025-38495, CVE-2025-38499, CVE-2025-38553, CVE-2025-38572, CVE-2025-38617, CVE-2025-38618, CVE-2025-38622, CVE-2025-38650, CVE-2025-38668, CVE-2025-38695",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-109.html",
-          "publishedOn": "2025-09-16T21:27:00.000Z",
-          "wordCount": 665,
-          "title": "ALAS2KERNEL-5.4-2025-109 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-089.html",
           "author": null,
           "description": "CVE-2024-49861, CVE-2025-37750, CVE-2025-38477",
@@ -100,6 +110,16 @@
           "publishedOn": "2025-09-16T21:27:00.000Z",
           "wordCount": 310,
           "title": "ALAS2KERNEL-5.15-2025-089 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-109.html",
+          "author": null,
+          "description": "CVE-2023-52572, CVE-2024-26958, CVE-2024-57996, CVE-2025-37798, CVE-2025-38095, CVE-2025-38177, CVE-2025-38193, CVE-2025-38375, CVE-2025-38474, CVE-2025-38477, CVE-2025-38494, CVE-2025-38495, CVE-2025-38499, CVE-2025-38553, CVE-2025-38572, CVE-2025-38617, CVE-2025-38618, CVE-2025-38622, CVE-2025-38650, CVE-2025-38668, CVE-2025-38695",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-109.html",
+          "publishedOn": "2025-09-16T21:27:00.000Z",
+          "wordCount": 665,
+          "title": "ALAS2KERNEL-5.4-2025-109 (important): kernel",
           "imageUrl": null
         },
         {
@@ -303,16 +323,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-108.html",
-          "author": null,
-          "description": "CVE-2022-49935, CVE-2025-38215",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-108.html",
-          "publishedOn": "2025-09-04T20:01:00.000Z",
-          "wordCount": 291,
-          "title": "ALAS2KERNEL-5.4-2025-108 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-088.html",
           "author": null,
           "description": "CVE-2022-49935, CVE-2022-50070, CVE-2025-38162, CVE-2025-38215, CVE-2025-38236, CVE-2025-38248",
@@ -320,6 +330,16 @@
           "publishedOn": "2025-09-04T20:01:00.000Z",
           "wordCount": 380,
           "title": "ALAS2KERNEL-5.15-2025-088 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-108.html",
+          "author": null,
+          "description": "CVE-2022-49935, CVE-2025-38215",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-108.html",
+          "publishedOn": "2025-09-04T20:01:00.000Z",
+          "wordCount": 291,
+          "title": "ALAS2KERNEL-5.4-2025-108 (important): kernel",
           "imageUrl": null
         },
         {
