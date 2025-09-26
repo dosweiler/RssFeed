@@ -24,16 +24,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point for U7-LR 8.0.61",
           "imageUrl": null
-        },
-        {
-          "id": "13046a90-2104-4f77-ad15-7a0572a04aaa",
-          "author": "UI-Edmundas",
-          "description": "Improvements\n\nImproved Airtime Scan. No client disconnects during scan.\nImproved MLO performance for some clients.\nCustom TX power for 2.4 GHz can now be set to 26dBm.\nImproved AP stability.\n\nBugfixes\n\nFixed an issue in which the AP would not respond to neighbor-report requests.\nFixed an issue in which the AP could not wirelessly adopt E7-series devices.\nFixed SSID does not broadcast sometimes after configuration changes.\nFixed Min RSSI behavior with MLO clients.\nFixed WiFi Speed Limit failure on MLO clients.\nFixed Ethernet link going down when using 10/100Mbps full-duplex and auto-negotiation is off.\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-U7-LR-8-0-56/13046a90-2104-4f77-ad15-7a0572a04aaa",
-          "publishedOn": "2025-08-26T14:00:21.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point (U7-LR) 8.0.56",
-          "imageUrl": null
         }
       ]
     },
@@ -105,30 +95,30 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-109.html",
           "author": null,
-          "description": "CVE-2023-52572, CVE-2024-26958, CVE-2024-57996, CVE-2025-37798, CVE-2025-38095, CVE-2025-38177, CVE-2025-38193, CVE-2025-38375, CVE-2025-38474, CVE-2025-38477, CVE-2025-38494, CVE-2025-38495, CVE-2025-38499, CVE-2025-38553, CVE-2025-38572, CVE-2025-38617, CVE-2025-38618, CVE-2025-38622, CVE-2025-38650, CVE-2025-38668, CVE-2025-38695",
+          "description": "CVE-2022-50327, CVE-2023-52572, CVE-2024-26958, CVE-2024-57996, CVE-2025-37798, CVE-2025-38095, CVE-2025-38177, CVE-2025-38193, CVE-2025-38375, CVE-2025-38474, CVE-2025-38477, CVE-2025-38494, CVE-2025-38495, CVE-2025-38499, CVE-2025-38553, CVE-2025-38572, CVE-2025-38617, CVE-2025-38618, CVE-2025-38622, CVE-2025-38650, CVE-2025-38668, CVE-2025-38695, CVE-2025-38700, CVE-2025-38701, CVE-2025-38713, CVE-2025-38714, CVE-2025-38718, CVE-2025-38724, CVE-2025-39689, CVE-2025-39691, CVE-2025-39730, CVE-2025-39766, CVE-2025-39817, CVE-2025-39823, CVE-2025-39824",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-109.html",
           "publishedOn": "2025-09-16T21:27:00.000Z",
-          "wordCount": 665,
+          "wordCount": 1023,
           "title": "ALAS2KERNEL-5.4-2025-109 (important): kernel",
           "imageUrl": null
         },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-089.html",
           "author": null,
-          "description": "CVE-2024-49861, CVE-2025-37750, CVE-2025-38477",
+          "description": "CVE-2024-49861, CVE-2025-37750, CVE-2025-38477, CVE-2025-39773",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-089.html",
           "publishedOn": "2025-09-16T21:27:00.000Z",
-          "wordCount": 310,
+          "wordCount": 337,
           "title": "ALAS2KERNEL-5.15-2025-089 (important): kernel",
           "imageUrl": null
         },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-104.html",
           "author": null,
-          "description": "CVE-2021-46987, CVE-2021-47070, CVE-2021-47076, CVE-2021-47183, CVE-2021-47412, CVE-2021-47455, CVE-2021-47498, CVE-2025-37750, CVE-2025-38375, CVE-2025-38474, CVE-2025-38477, CVE-2025-38488, CVE-2025-38494, CVE-2025-38495, CVE-2025-38499, CVE-2025-38553, CVE-2025-38572, CVE-2025-38617, CVE-2025-38618, CVE-2025-38622, CVE-2025-38650, CVE-2025-38668",
+          "description": "CVE-2021-46987, CVE-2021-47070, CVE-2021-47076, CVE-2021-47183, CVE-2021-47412, CVE-2021-47455, CVE-2021-47498, CVE-2022-50327, CVE-2025-37750, CVE-2025-38375, CVE-2025-38474, CVE-2025-38477, CVE-2025-38488, CVE-2025-38494, CVE-2025-38495, CVE-2025-38499, CVE-2025-38553, CVE-2025-38572, CVE-2025-38617, CVE-2025-38618, CVE-2025-38622, CVE-2025-38650, CVE-2025-38668, CVE-2025-38683, CVE-2025-38684, CVE-2025-38695, CVE-2025-38700, CVE-2025-38701, CVE-2025-38713, CVE-2025-38714, CVE-2025-38718, CVE-2025-38724, CVE-2025-38732, CVE-2025-39683, CVE-2025-39689, CVE-2025-39691, CVE-2025-39697, CVE-2025-39730, CVE-2025-39766, CVE-2025-39817, CVE-2025-39823, CVE-2025-39824",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-104.html",
           "publishedOn": "2025-09-16T21:26:00.000Z",
-          "wordCount": 709,
+          "wordCount": 1230,
           "title": "ALAS2KERNEL-5.10-2025-104 (important): kernel",
           "imageUrl": null
         },
@@ -303,16 +293,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2MEMCACHED1.5-2025-001.html",
-          "author": null,
-          "description": "CVE-2021-37519",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2MEMCACHED1.5-2025-001.html",
-          "publishedOn": "2025-09-04T20:03:00.000Z",
-          "wordCount": 246,
-          "title": "ALAS2MEMCACHED1.5-2025-001 (medium): memcached",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2MOCK-2025-001.html",
           "author": null,
           "description": "CVE-2023-6395",
@@ -320,6 +300,16 @@
           "publishedOn": "2025-09-04T20:03:00.000Z",
           "wordCount": 338,
           "title": "ALAS2MOCK-2025-001 (medium): mock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2MEMCACHED1.5-2025-001.html",
+          "author": null,
+          "description": "CVE-2021-37519",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2MEMCACHED1.5-2025-001.html",
+          "publishedOn": "2025-09-04T20:03:00.000Z",
+          "wordCount": 246,
+          "title": "ALAS2MEMCACHED1.5-2025-001 (medium): memcached",
           "imageUrl": null
         },
         {
@@ -499,6 +489,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 25 Sep 2025 22:23:00 GMT",
+          "author": null,
+          "description": "FortiOS 7.4.9 B2829 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-09-25T22:23:00.000Z",
+          "wordCount": 3858,
+          "title": "FortiOS 7.4.9",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 22 Sep 2025 21:55:49 GMT",
           "author": null,
@@ -757,66 +757,6 @@
           "publishedOn": "2025-08-27T20:29:09.000Z",
           "wordCount": 3858,
           "title": "FortiTelemetryAgent 7.6.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 26 Aug 2025 20:18:17 GMT",
-          "author": null,
-          "description": "FortiWeb 8.0.1 B0047 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-08-26T20:18:17.000Z",
-          "wordCount": 3858,
-          "title": "FortiWeb 8.0.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 26 Aug 2025 20:11:20 GMT",
-          "author": null,
-          "description": "FortiAnalyzer 7.6.4 B3579 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-08-26T20:11:20.000Z",
-          "wordCount": 3858,
-          "title": "FortiAnalyzer 7.6.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 26 Aug 2025 19:21:50 GMT",
-          "author": null,
-          "description": "FortiManager 7.6.4 B3579 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-08-26T19:21:50.000Z",
-          "wordCount": 3858,
-          "title": "FortiManager 7.6.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 26 Aug 2025 19:04:54 GMT",
-          "author": null,
-          "description": "FortiNAC-F 7.6.4 B0782 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-08-26T19:04:54.000Z",
-          "wordCount": 3858,
-          "title": "FortiNAC-F 7.6.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 26 Aug 2025 18:25:43 GMT",
-          "author": null,
-          "description": "FortiSwitch 7.6.4 B1114 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-08-26T18:25:43.000Z",
-          "wordCount": 3858,
-          "title": "FortiSwitch 7.6.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 26 Aug 2025 17:53:38 GMT",
-          "author": null,
-          "description": "FortiDDoS-F 7.2.1 B0818 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-08-26T17:53:38.000Z",
-          "wordCount": 3858,
-          "title": "FortiDDoS-F 7.2.1",
           "imageUrl": null
         }
       ]
