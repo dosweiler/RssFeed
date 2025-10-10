@@ -6,6 +6,26 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "a5dac8ea-39c6-4366-bd6d-7edcd04d7962",
+          "author": "UI-Edmundas",
+          "description": "Overview\nThis release introduces several important improvements focused on real-world Wi-Fi reliability and smarter network management. It brings meaningful refinements that reduce network congestion, and streamline configuration workflows for UniFi deployments.\n\n\nChannel AI Optimization\nUses neighboring AP signals to optimize channel distribution. Designed for controlled, very high-density deployments where external interference is limited.\n\n\nProvides a visual channel map for quick insights.\n\n\nAutomated optimization ensures balanced channel usage.\n\n\nQuick-Scan Environment Analyzer\nAdds an instant RF scan feature that identifies nearby networks, interference sources, and active channels in seconds.\nQuick-Scan enables faster site evaluation, easier troubleshooting, and more informed deploym…",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U6-Pro-U6-Enterprise-U6-Mesh-and-more-6-7-32/a5dac8ea-39c6-4366-bd6d-7edcd04d7962",
+          "publishedOn": "2025-10-09T14:57:33.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point for U6-Pro, U6-Enterprise, U6-Mesh & more 6.7.32",
+          "imageUrl": null
+        },
+        {
+          "id": "68a86562-0d20-4f51-8e23-0e58122b65cf",
+          "author": "UI-Edmundas",
+          "description": "Overview\n\n\nThis release introduces several important improvements focused on real-world Wi-Fi reliability, seamless mobility, and smarter network management. It brings meaningful refinements that enhance roaming consistency, reduce network congestion, and streamline configuration workflows for UniFi deployments.\n\n\nImproved Client Roaming Experience\nOptimizes client handoff behavior on non-MLO (single-link) Wi-Fi networks to provide smoother transitions between access points. These improvements reduce latency and interruptions during roaming, especially for mobile, VoIP, and streaming devices that move frequently across coverage zones.\nThis enhancement ensures more stable connections and minimizes the temporary stalls or re-authentications that could previously occur during AP transitions.\n…",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-U7-and-E7-models-8-2-14/68a86562-0d20-4f51-8e23-0e58122b65cf",
+          "publishedOn": "2025-10-09T14:57:06.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point (U7 and E7 models) 8.2.14",
+          "imageUrl": null
+        },
+        {
           "id": "cff732bd-c6b2-4da3-9dbc-60613802196c",
           "author": "UI-Edmundas",
           "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded Channel AI support.\nAdded Roaming Assistant support.\nAdded Quick Airtime Scan support. No client disconnects during scan.\nImproved overall AP stability.\nImproved client connectivity performance.\nUpdated regulatory compliance for Brazil.\n\nBugfixes\n\nFixed NanoHD incorrectly selecting channel bandwidth after a DFS event.\nFixed U6+ reporting disconnect/reconnect events when clients roam between bands.\nFixed upgrade issue on U6+.\nFixed Proxy ARP issue when a station has multiple IP addresses.\nFixed RADIUS timeout issue when multiple servers are used.\nFixed RADIUS accounting issue with incorrect values.\nFixed RADIUS accounting issue where values were missing from STOP messages.\n\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
@@ -570,6 +590,46 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Thu, 9 Oct 2025 18:43:23 GMT",
+          "author": null,
+          "description": "FortiSandbox 4.4.8 B0412 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-10-09T18:43:23.000Z",
+          "wordCount": 3858,
+          "title": "FortiSandbox 4.4.8",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 9 Oct 2025 17:59:27 GMT",
+          "author": null,
+          "description": "FortiSIEM 7.2.7 B0285 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-10-09T17:59:27.000Z",
+          "wordCount": 3858,
+          "title": "FortiSIEM 7.2.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 9 Oct 2025 17:28:40 GMT",
+          "author": null,
+          "description": "FortiSIEM 7.4.2 B0453 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-10-09T17:28:40.000Z",
+          "wordCount": 3858,
+          "title": "FortiSIEM 7.4.2",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 9 Oct 2025 16:37:51 GMT",
+          "author": null,
+          "description": "FortiPortal 7.4.7 B2144 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-10-09T16:37:51.000Z",
+          "wordCount": 3858,
+          "title": "FortiPortal 7.4.7",
+          "imageUrl": null
+        },
+        {
           "id": "Wed, 8 Oct 2025 18:04:12 GMT",
           "author": null,
           "description": "FortiAnalyzer-BigData 7.6.1 B1425 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -927,66 +987,6 @@
           "publishedOn": "2025-09-10T18:22:24.000Z",
           "wordCount": 3858,
           "title": "FortiOS 7.2.12",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 9 Sep 2025 21:28:33 GMT",
-          "author": null,
-          "description": "FortiClientEMS 7.4.4 B2034 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-09-09T21:28:33.000Z",
-          "wordCount": 3858,
-          "title": "FortiClientEMS 7.4.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 9 Sep 2025 21:16:16 GMT",
-          "author": null,
-          "description": "FortiClientMac 7.4.4 B1831 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-09-09T21:16:16.000Z",
-          "wordCount": 3858,
-          "title": "FortiClientMac 7.4.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 9 Sep 2025 21:10:29 GMT",
-          "author": null,
-          "description": "FortiClientLinux 7.4.4 B1796 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-09-09T21:10:29.000Z",
-          "wordCount": 3858,
-          "title": "FortiClientLinux 7.4.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 9 Sep 2025 21:08:27 GMT",
-          "author": null,
-          "description": "FortiClient 7.4.4 B1887 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-09-09T21:08:27.000Z",
-          "wordCount": 3858,
-          "title": "FortiClient 7.4.4",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 9 Sep 2025 17:50:13 GMT",
-          "author": null,
-          "description": "FortiSRA 1.6.1 B1247 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-09-09T17:50:13.000Z",
-          "wordCount": 3858,
-          "title": "FortiSRA 1.6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 9 Sep 2025 17:43:35 GMT",
-          "author": null,
-          "description": "FortiPAM 1.6.1 B1247 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-09-09T17:43:35.000Z",
-          "wordCount": 3858,
-          "title": "FortiPAM 1.6.1",
           "imageUrl": null
         }
       ]
