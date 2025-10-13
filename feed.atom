@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-12T00:55:18.033Z</id>
+    <id>urn:2025-10-13T00:56:42.452Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T00:55:18.033Z</updated>
+    <updated>2025-10-13T00:56:42.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -296,6 +296,16 @@ This enhancement ensures more stable connections and minimizes the temporary sta
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-110 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-110.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-110.html"/>
+        <updated>2025-09-29T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-50053, CVE-2025-37992, CVE-2025-38022, CVE-2025-38665, CVE-2025-38683, CVE-2025-39677, CVE-2025-39702, CVE-2025-39841, CVE-2025-39847, CVE-2025-39853]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2LIVEPATCH-2025-264 (important): kernel-livepatch-5.10.242-239.961]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-264.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-264.html"/>
@@ -361,16 +371,6 @@ This enhancement ensures more stable connections and minimizes the temporary sta
         <link href="https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-270.html"/>
         <updated>2025-09-29T23:45:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-38527, CVE-2025-39677, CVE-2025-39691, CVE-2025-39730]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-110 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-110.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-110.html"/>
-        <updated>2025-09-29T23:45:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-50053, CVE-2025-37992, CVE-2025-38022, CVE-2025-38665, CVE-2025-38683, CVE-2025-39677, CVE-2025-39702, CVE-2025-39841, CVE-2025-39847, CVE-2025-39853]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
