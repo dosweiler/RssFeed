@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-22T00:56:07.826Z</id>
+    <id>urn:2025-10-23T00:54:37.311Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T00:56:07.826Z</updated>
+    <updated>2025-10-23T00:54:37.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -757,26 +757,6 @@ This enhancement ensures more stable connections and minimizes the temporary sta
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2025-105 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-105.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-105.html"/>
-        <updated>2025-09-29T23:44:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-38527, CVE-2025-38665, CVE-2025-39677, CVE-2025-39702, CVE-2025-39841, CVE-2025-39847, CVE-2025-39853, CVE-2025-39898, CVE-2025-39902, CVE-2025-40300]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2025-106 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-106.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-106.html"/>
-        <updated>2025-09-29T23:44:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-48827, CVE-2022-48828, CVE-2022-48829, CVE-2022-50345, CVE-2023-53241, CVE-2024-26629]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2KERNEL-5.15-2025-090 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-090.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-090.html"/>
@@ -792,6 +772,26 @@ This enhancement ensures more stable connections and minimizes the temporary sta
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-091.html"/>
         <updated>2025-09-29T23:44:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-38022, CVE-2025-38095, CVE-2025-38201, CVE-2025-38502, CVE-2025-38665, CVE-2025-39677, CVE-2025-39839, CVE-2025-39844, CVE-2025-39845, CVE-2025-39846, CVE-2025-39847, CVE-2025-39848, CVE-2025-39866, CVE-2025-39894, CVE-2025-39898, CVE-2025-39902, CVE-2025-40300]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2025-105 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-105.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-105.html"/>
+        <updated>2025-09-29T23:44:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-38527, CVE-2025-38665, CVE-2025-39677, CVE-2025-39702, CVE-2025-39841, CVE-2025-39847, CVE-2025-39853, CVE-2025-39898, CVE-2025-39902, CVE-2025-40300]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2025-106 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-106.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-106.html"/>
+        <updated>2025-09-29T23:44:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-48827, CVE-2022-48828, CVE-2022-48829, CVE-2022-50345, CVE-2023-53241, CVE-2024-26629]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1106,46 +1106,6 @@ Previous AP release version
 UniFi Network application version]]></summary>
         <author>
             <name>UI-Edmundas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiPAM 1.6.2]]></title>
-        <id>Mon, 22 Sep 2025 21:55:49 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-09-22T21:55:49.000Z</updated>
-        <summary type="html"><![CDATA[FortiPAM 1.6.2 B1248 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSIEM 7.4.1]]></title>
-        <id>Mon, 22 Sep 2025 21:44:35 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-09-22T21:44:35.000Z</updated>
-        <summary type="html"><![CDATA[FortiSIEM 7.4.1 B0452 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiExtender 7.6.4]]></title>
-        <id>Mon, 22 Sep 2025 18:14:45 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-09-22T18:14:45.000Z</updated>
-        <summary type="html"><![CDATA[FortiExtender 7.6.4 B0478 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiGuest 2.4.0]]></title>
-        <id>Mon, 22 Sep 2025 17:49:33 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-09-22T17:49:33.000Z</updated>
-        <summary type="html"><![CDATA[FortiGuest 2.4.0 B0418 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
         </author>
     </entry>
 </feed>
