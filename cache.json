@@ -44,26 +44,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point (U7 and E7 models) 8.2.14",
           "imageUrl": null
-        },
-        {
-          "id": "cff732bd-c6b2-4da3-9dbc-60613802196c",
-          "author": "UI-Edmundas",
-          "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded Channel AI support.\nAdded Roaming Assistant support.\nAdded Quick Airtime Scan support. No client disconnects during scan.\nImproved overall AP stability.\nImproved client connectivity performance.\nUpdated regulatory compliance for Brazil.\n\nBugfixes\n\nFixed NanoHD incorrectly selecting channel bandwidth after a DFS event.\nFixed U6+ reporting disconnect/reconnect events when clients roam between bands.\nFixed upgrade issue on U6+.\nFixed Proxy ARP issue when a station has multiple IP addresses.\nFixed RADIUS timeout issue when multiple servers are used.\nFixed RADIUS accounting issue with incorrect values.\nFixed RADIUS accounting issue where values were missing from STOP messages.\n\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U6-LR-U6-Lite-U6-and-more-6-7-31/cff732bd-c6b2-4da3-9dbc-60613802196c",
-          "publishedOn": "2025-09-23T16:18:11.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point for U6-LR, U6-Lite, U6+ & more 6.7.31",
-          "imageUrl": null
-        },
-        {
-          "id": "28fe2fb0-6a7d-4ffe-a03e-2b6432445963",
-          "author": "UI-Edmundas",
-          "description": "Improvements\n\nAdded Channel AI support.\nImproved Airtime Scan. No client disconnections during scan.\nImproved stability.\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U7-LR-8-0-61/28fe2fb0-6a7d-4ffe-a03e-2b6432445963",
-          "publishedOn": "2025-09-23T16:15:04.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point for U7-LR 8.0.61",
-          "imageUrl": null
         }
       ]
     },
@@ -453,26 +433,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-090.html",
-          "author": null,
-          "description": "CVE-2022-3646, CVE-2022-40768, CVE-2022-43945, CVE-2022-50235, CVE-2022-50241, CVE-2022-50243, CVE-2022-50257, CVE-2022-50271, CVE-2022-50299, CVE-2022-50314, CVE-2022-50328, CVE-2022-50344, CVE-2022-50345, CVE-2022-50348, CVE-2022-50379, CVE-2022-50397, CVE-2022-50409, CVE-2022-50410, CVE-2022-50422, CVE-2022-50435",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-090.html",
-          "publishedOn": "2025-09-29T23:44:00.000Z",
-          "wordCount": 793,
-          "title": "ALAS2KERNEL-5.15-2025-090 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-091.html",
-          "author": null,
-          "description": "CVE-2025-38022, CVE-2025-38095, CVE-2025-38201, CVE-2025-38502, CVE-2025-38665, CVE-2025-39677, CVE-2025-39839, CVE-2025-39844, CVE-2025-39845, CVE-2025-39846, CVE-2025-39847, CVE-2025-39848, CVE-2025-39866, CVE-2025-39894, CVE-2025-39898, CVE-2025-39902, CVE-2025-40300",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-091.html",
-          "publishedOn": "2025-09-29T23:44:00.000Z",
-          "wordCount": 750,
-          "title": "ALAS2KERNEL-5.15-2025-091 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-105.html",
           "author": null,
           "description": "CVE-2025-38527, CVE-2025-38665, CVE-2025-39677, CVE-2025-39702, CVE-2025-39841, CVE-2025-39847, CVE-2025-39853, CVE-2025-39898, CVE-2025-39902, CVE-2025-40300",
@@ -490,6 +450,26 @@
           "publishedOn": "2025-09-29T23:44:00.000Z",
           "wordCount": 357,
           "title": "ALAS2KERNEL-5.10-2025-106 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-090.html",
+          "author": null,
+          "description": "CVE-2022-3646, CVE-2022-40768, CVE-2022-43945, CVE-2022-50235, CVE-2022-50241, CVE-2022-50243, CVE-2022-50257, CVE-2022-50271, CVE-2022-50299, CVE-2022-50314, CVE-2022-50328, CVE-2022-50344, CVE-2022-50345, CVE-2022-50348, CVE-2022-50379, CVE-2022-50397, CVE-2022-50409, CVE-2022-50410, CVE-2022-50422, CVE-2022-50435",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-090.html",
+          "publishedOn": "2025-09-29T23:44:00.000Z",
+          "wordCount": 793,
+          "title": "ALAS2KERNEL-5.15-2025-090 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-091.html",
+          "author": null,
+          "description": "CVE-2025-38022, CVE-2025-38095, CVE-2025-38201, CVE-2025-38502, CVE-2025-38665, CVE-2025-39677, CVE-2025-39839, CVE-2025-39844, CVE-2025-39845, CVE-2025-39846, CVE-2025-39847, CVE-2025-39848, CVE-2025-39866, CVE-2025-39894, CVE-2025-39898, CVE-2025-39902, CVE-2025-40300",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-091.html",
+          "publishedOn": "2025-09-29T23:44:00.000Z",
+          "wordCount": 750,
+          "title": "ALAS2KERNEL-5.15-2025-091 (important): kernel",
           "imageUrl": null
         },
         {
@@ -659,6 +639,36 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Thu, 23 Oct 2025 20:11:44 GMT",
+          "author": null,
+          "description": "FortiAP 7.6.3 B1032 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-10-23T20:11:44.000Z",
+          "wordCount": 3858,
+          "title": "FortiAP 7.6.3",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 23 Oct 2025 17:07:01 GMT",
+          "author": null,
+          "description": "FortiFone 7.2.0 B0216 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-10-23T17:07:01.000Z",
+          "wordCount": 3858,
+          "title": "FortiFone 7.2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 23 Oct 2025 16:23:36 GMT",
+          "author": null,
+          "description": "FortiExtender 7.4.8 B0268 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-10-23T16:23:36.000Z",
+          "wordCount": 3858,
+          "title": "FortiExtender 7.4.8",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 20 Oct 2025 16:41:02 GMT",
           "author": null,
