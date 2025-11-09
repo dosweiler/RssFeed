@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-08T00:53:03.393Z</id>
+    <id>urn:2025-11-09T00:59:19.392Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T00:53:03.393Z</updated>
+    <updated>2025-11-09T00:59:19.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiNDR 7.4.10]]></title>
+        <id>Sat, 8 Nov 2025 01:24:17 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-11-08T01:24:17.000Z</updated>
+        <summary type="html"><![CDATA[FortiNDR 7.4.10 B0555 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSandbox 5.0.5]]></title>
         <id>Fri, 7 Nov 2025 16:00:13 GMT</id>
@@ -466,16 +476,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2025-093 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html"/>
-        <updated>2025-10-27T21:05:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-50500]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-112 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-112.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-112.html"/>
@@ -491,6 +491,16 @@
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-113.html"/>
         <updated>2025-10-27T21:05:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-50103, CVE-2022-50500, CVE-2023-53530, CVE-2025-38527, CVE-2025-39773]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2025-093 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html"/>
+        <updated>2025-10-27T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-50500]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1027,91 +1037,6 @@ This release introduces several important improvements focused on real-world Wi-
 
 Improved Client Roaming Experience
 Optimizes client handoff behavior on non-MLO (single-link) Wi-Fi networks to provide smoother transitions between access points. These improvements reduce latency and interruptions during roaming,…]]></summary>
-        <author>
-            <name>UI-Edmundas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSandbox 4.4.8]]></title>
-        <id>Thu, 9 Oct 2025 18:43:23 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-10-09T18:43:23.000Z</updated>
-        <summary type="html"><![CDATA[FortiSandbox 4.4.8 B0412 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSIEM 7.2.7]]></title>
-        <id>Thu, 9 Oct 2025 17:59:27 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-10-09T17:59:27.000Z</updated>
-        <summary type="html"><![CDATA[FortiSIEM 7.2.7 B0285 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiSIEM 7.4.2]]></title>
-        <id>Thu, 9 Oct 2025 17:28:40 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-10-09T17:28:40.000Z</updated>
-        <summary type="html"><![CDATA[FortiSIEM 7.4.2 B0453 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiPortal 7.4.7]]></title>
-        <id>Thu, 9 Oct 2025 16:37:51 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2025-10-09T16:37:51.000Z</updated>
-        <summary type="html"><![CDATA[FortiPortal 7.4.7 B2144 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point for U6-Pro, U6-Enterprise, U6-Mesh & more 6.7.32]]></title>
-        <id>a5dac8ea-39c6-4366-bd6d-7edcd04d7962</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-for-U6-Pro-U6-Enterprise-U6-Mesh-and-more-6-7-32/a5dac8ea-39c6-4366-bd6d-7edcd04d7962"/>
-        <updated>2025-10-09T14:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-This release introduces several important improvements focused on real-world Wi-Fi reliability and smarter network management. It brings meaningful refinements that reduce network congestion, and streamline configuration workflows for UniFi deployments.
-
-
-Channel AI Optimization
-Uses neighboring AP signals to optimize channel distribution. Designed for controlled, very high-density deployments where external interference is limited.
-
-
-Provides a visual channel map for quick insights.
-
-
-Automated optimization ensures balanced channel usage.
-
-
-Quick-Scan Environment Analyzer
-Adds an instant RF scan feature that identifies nearby networks, interference sources, and active channels in seconds.
-Quick-Scan enables faster site evaluation, easier troubleshooting, and more informed deploym…]]></summary>
-        <author>
-            <name>UI-Edmundas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point (U7 and E7 models) 8.2.14]]></title>
-        <id>68a86562-0d20-4f51-8e23-0e58122b65cf</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-U7-and-E7-models-8-2-14/68a86562-0d20-4f51-8e23-0e58122b65cf"/>
-        <updated>2025-10-09T14:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-
-
-This release introduces several important improvements focused on real-world Wi-Fi reliability, seamless mobility, and smarter network management. It brings meaningful refinements that enhance roaming consistency, reduce network congestion, and streamline configuration workflows for UniFi deployments.
-
-
-Improved Client Roaming Experience
-Optimizes client handoff behavior on non-MLO (single-link) Wi-Fi networks to provide smoother transitions between access points. These improvements reduce latency and interruptions during roaming, especially for mobile, VoIP, and streaming devices that move frequently across coverage zones.
-This enhancement ensures more stable connections and minimizes the temporary stalls or re-authentications that could previously occur during AP transitions.
-…]]></summary>
         <author>
             <name>UI-Edmundas</name>
         </author>

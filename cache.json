@@ -24,26 +24,6 @@
           "wordCount": 6,
           "title": "UniFi Access Point (U7 and E7 models) 8.2.17",
           "imageUrl": null
-        },
-        {
-          "id": "a5dac8ea-39c6-4366-bd6d-7edcd04d7962",
-          "author": "UI-Edmundas",
-          "description": "Overview\nThis release introduces several important improvements focused on real-world Wi-Fi reliability and smarter network management. It brings meaningful refinements that reduce network congestion, and streamline configuration workflows for UniFi deployments.\n\n\nChannel AI Optimization\nUses neighboring AP signals to optimize channel distribution. Designed for controlled, very high-density deployments where external interference is limited.\n\n\nProvides a visual channel map for quick insights.\n\n\nAutomated optimization ensures balanced channel usage.\n\n\nQuick-Scan Environment Analyzer\nAdds an instant RF scan feature that identifies nearby networks, interference sources, and active channels in seconds.\nQuick-Scan enables faster site evaluation, easier troubleshooting, and more informed deploym…",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U6-Pro-U6-Enterprise-U6-Mesh-and-more-6-7-32/a5dac8ea-39c6-4366-bd6d-7edcd04d7962",
-          "publishedOn": "2025-10-09T14:57:33.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point for U6-Pro, U6-Enterprise, U6-Mesh & more 6.7.32",
-          "imageUrl": null
-        },
-        {
-          "id": "68a86562-0d20-4f51-8e23-0e58122b65cf",
-          "author": "UI-Edmundas",
-          "description": "Overview\n\n\nThis release introduces several important improvements focused on real-world Wi-Fi reliability, seamless mobility, and smarter network management. It brings meaningful refinements that enhance roaming consistency, reduce network congestion, and streamline configuration workflows for UniFi deployments.\n\n\nImproved Client Roaming Experience\nOptimizes client handoff behavior on non-MLO (single-link) Wi-Fi networks to provide smoother transitions between access points. These improvements reduce latency and interruptions during roaming, especially for mobile, VoIP, and streaming devices that move frequently across coverage zones.\nThis enhancement ensures more stable connections and minimizes the temporary stalls or re-authentications that could previously occur during AP transitions.\n…",
-          "link": "https://community.ui.com/releases/UniFi-Access-Point-U7-and-E7-models-8-2-14/68a86562-0d20-4f51-8e23-0e58122b65cf",
-          "publishedOn": "2025-10-09T14:57:06.000Z",
-          "wordCount": 6,
-          "title": "UniFi Access Point (U7 and E7 models) 8.2.14",
-          "imageUrl": null
         }
       ]
     },
@@ -383,16 +363,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html",
-          "author": null,
-          "description": "CVE-2022-50500",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html",
-          "publishedOn": "2025-10-27T21:05:00.000Z",
-          "wordCount": 273,
-          "title": "ALAS2KERNEL-5.15-2025-093 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-112.html",
           "author": null,
           "description": "CVE-2023-31085, CVE-2023-34324, CVE-2023-42754, CVE-2023-42756, CVE-2023-52522, CVE-2023-52527, CVE-2023-52528, CVE-2023-52566, CVE-2023-52567, CVE-2023-52573, CVE-2023-52574, CVE-2023-52577, CVE-2023-52578, CVE-2023-53615",
@@ -410,6 +380,16 @@
           "publishedOn": "2025-10-27T21:05:00.000Z",
           "wordCount": 348,
           "title": "ALAS2KERNEL-5.4-2025-113 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html",
+          "author": null,
+          "description": "CVE-2022-50500",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html",
+          "publishedOn": "2025-10-27T21:05:00.000Z",
+          "wordCount": 273,
+          "title": "ALAS2KERNEL-5.15-2025-093 (important): kernel",
           "imageUrl": null
         },
         {
@@ -750,6 +730,16 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Sat, 8 Nov 2025 01:24:17 GMT",
+          "author": null,
+          "description": "FortiNDR 7.4.10 B0555 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-11-08T01:24:17.000Z",
+          "wordCount": 3882,
+          "title": "FortiNDR 7.4.10",
+          "imageUrl": null
+        },
+        {
           "id": "Fri, 7 Nov 2025 16:00:13 GMT",
           "author": null,
           "description": "FortiSandbox 5.0.5 B0141 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -1027,46 +1017,6 @@
           "publishedOn": "2025-10-14T16:42:40.000Z",
           "wordCount": 3882,
           "title": "FortiADCManager 7.6.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 9 Oct 2025 18:43:23 GMT",
-          "author": null,
-          "description": "FortiSandbox 4.4.8 B0412 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-10-09T18:43:23.000Z",
-          "wordCount": 3882,
-          "title": "FortiSandbox 4.4.8",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 9 Oct 2025 17:59:27 GMT",
-          "author": null,
-          "description": "FortiSIEM 7.2.7 B0285 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-10-09T17:59:27.000Z",
-          "wordCount": 3882,
-          "title": "FortiSIEM 7.2.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 9 Oct 2025 17:28:40 GMT",
-          "author": null,
-          "description": "FortiSIEM 7.4.2 B0453 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-10-09T17:28:40.000Z",
-          "wordCount": 3882,
-          "title": "FortiSIEM 7.4.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Thu, 9 Oct 2025 16:37:51 GMT",
-          "author": null,
-          "description": "FortiPortal 7.4.7 B2144 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-10-09T16:37:51.000Z",
-          "wordCount": 3882,
-          "title": "FortiPortal 7.4.7",
           "imageUrl": null
         }
       ]
