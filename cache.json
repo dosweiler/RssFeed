@@ -25,10 +25,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-114.html",
           "author": null,
-          "description": "CVE-2022-50516, CVE-2025-39998, CVE-2025-40001, CVE-2025-40018, CVE-2025-40019",
+          "description": "CVE-2022-50516, CVE-2025-39998, CVE-2025-40001, CVE-2025-40018, CVE-2025-40019, CVE-2025-40026, CVE-2025-40030, CVE-2025-40035, CVE-2025-40042, CVE-2025-40044, CVE-2025-40048, CVE-2025-40049, CVE-2025-40070, CVE-2025-40078, CVE-2025-40081, CVE-2025-40087, CVE-2025-40088, CVE-2025-40105",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-114.html",
           "publishedOn": "2025-11-10T23:31:00.000Z",
-          "wordCount": 351,
+          "wordCount": 608,
           "title": "ALAS2KERNEL-5.4-2025-114 (important): kernel",
           "imageUrl": null
         },
@@ -795,20 +795,20 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-113.html",
           "author": null,
-          "description": "CVE-2022-50103, CVE-2022-50500, CVE-2023-53530, CVE-2025-38527, CVE-2025-39773",
+          "description": "CVE-2022-50103, CVE-2022-50500, CVE-2023-53530, CVE-2025-38527, CVE-2025-39773, CVE-2025-39883, CVE-2025-39911, CVE-2025-39913, CVE-2025-39937, CVE-2025-39953, CVE-2025-39955, CVE-2025-39967, CVE-2025-39968, CVE-2025-39969, CVE-2025-39970, CVE-2025-39971, CVE-2025-39972, CVE-2025-39973",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-113.html",
           "publishedOn": "2025-10-27T21:05:00.000Z",
-          "wordCount": 348,
+          "wordCount": 598,
           "title": "ALAS2KERNEL-5.4-2025-113 (important): kernel",
           "imageUrl": null
         },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html",
           "author": null,
-          "description": "CVE-2022-50500",
+          "description": "CVE-2022-50500, CVE-2025-39880, CVE-2025-39883, CVE-2025-39913, CVE-2025-39953, CVE-2025-39955, CVE-2025-39964, CVE-2025-39967, CVE-2025-39980, CVE-2025-40021",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-093.html",
           "publishedOn": "2025-10-27T21:05:00.000Z",
-          "wordCount": 273,
+          "wordCount": 447,
           "title": "ALAS2KERNEL-5.15-2025-093 (important): kernel",
           "imageUrl": null
         },
@@ -825,10 +825,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-109.html",
           "author": null,
-          "description": "CVE-2022-50500, CVE-2023-53530, CVE-2025-39773, CVE-2025-39883, CVE-2025-39911, CVE-2025-39913, CVE-2025-39937, CVE-2025-39949, CVE-2025-39953, CVE-2025-39955, CVE-2025-39964, CVE-2025-39968, CVE-2025-39970, CVE-2025-39972, CVE-2025-39973",
+          "description": "CVE-2022-50500, CVE-2023-53530, CVE-2025-39773, CVE-2025-39883, CVE-2025-39911, CVE-2025-39913, CVE-2025-39937, CVE-2025-39949, CVE-2025-39953, CVE-2025-39955, CVE-2025-39964, CVE-2025-39967, CVE-2025-39968, CVE-2025-39969, CVE-2025-39970, CVE-2025-39971, CVE-2025-39972, CVE-2025-39973, CVE-2025-39980, CVE-2025-40021",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2025-109.html",
           "publishedOn": "2025-10-27T21:04:00.000Z",
-          "wordCount": 543,
+          "wordCount": 646,
           "title": "ALAS2KERNEL-5.10-2025-109 (important): kernel",
           "imageUrl": null
         },
@@ -869,6 +869,46 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Mon, 17 Nov 2025 21:09:08 GMT",
+          "author": null,
+          "description": "FortiSwitchNMS 1.13.1 B0920 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-11-17T21:09:08.000Z",
+          "wordCount": 3882,
+          "title": "FortiSwitchNMS 1.13.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 17 Nov 2025 20:34:26 GMT",
+          "author": null,
+          "description": "FortiADC 7.4.9 B0398 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-11-17T20:34:26.000Z",
+          "wordCount": 3882,
+          "title": "FortiADC 7.4.9",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 17 Nov 2025 19:11:12 GMT",
+          "author": null,
+          "description": "FortiADC 7.4.9 B0398 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-11-17T19:11:12.000Z",
+          "wordCount": 3882,
+          "title": "FortiADC 7.4.9",
+          "imageUrl": null
+        },
+        {
+          "id": "Mon, 17 Nov 2025 18:26:47 GMT",
+          "author": null,
+          "description": "FortiADC 7.4.9 B0398 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-11-17T18:26:47.000Z",
+          "wordCount": 3882,
+          "title": "FortiADC 7.4.9",
+          "imageUrl": null
+        },
         {
           "id": "Thu, 13 Nov 2025 19:16:37 GMT",
           "author": null,
