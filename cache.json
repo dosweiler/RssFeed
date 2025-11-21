@@ -8,7 +8,7 @@
         {
           "id": "ca886edb-cacc-4cea-a848-67751512c10d",
           "author": "UI-Edmundas",
-          "description": "Overview\nThis release applies for these models:\n\nUAP-AC-Lite/LR/Pro/M/M-PRO/IW/UK-Ultra\nUAP-HD/SHD/XG/BaseStationXG\nU6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW\n\nImprovements\n\nImproved AP stability.\n\n\nChanges for models upgrading from 6.6.77 version:\n\n\nAdded Roaming Assistant support.\nImproved the 5GHz auto-channel selection algorithm ensuring a less noisy channel selection.\nImproved wireless adoption of mesh/auto-link devices in dense environments.\nImproved adoption stability.\nImproved beacon conformity across platforms.\nImproved DHCP traffic monitoring.\nImproved dual RADIUS server failover connectivity.\nImproved client connectivity.\nImproved AP stability.\nUpdated regulatory information for Indonesia.\n\nBugfixes\n\nFixed an issue that caused IPTV to malfunction when the receiver was conn…",
+          "description": "Overview\nThis release is promoted to Official/Stable release channel for these models:\n\nU6-Mesh, U6-Enterprise, U6-IW, U6-Extender, U6-Enterprise-IW - November 20, 2025\n\n\nThis release applies for these models:\n\nUAP-AC-Lite/LR/Pro/M/M-PRO/IW/UK-Ultra\nUAP-HD/SHD/XG/BaseStationXG\nU6-Pro/Mesh/IW/Extender/Enterprise/Enterprise-IW\n\nImprovements\n\nImproved AP stability.\n\n\nChanges for models upgrading from 6.6.77 version:\n\n\nAdded Roaming Assistant support.\nImproved the 5GHz auto-channel selection algorithm ensuring a less noisy channel selection.\nImproved wireless adoption of mesh/auto-link devices in dense environments.\nImproved adoption stability.\nImproved beacon conformity across platforms.\nImproved DHCP traffic monitoring.\nImproved dual RADIUS server failover connectivity.\nImproved client conne…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U6-Pro-U6-Enterprise-U6-Mesh-and-more-6-7-35/ca886edb-cacc-4cea-a848-67751512c10d",
           "publishedOn": "2025-11-14T13:51:45.000Z",
           "wordCount": 6,
@@ -298,7 +298,7 @@
           "description": "CVE-2025-62813",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2-2025-3062.html",
           "publishedOn": "2025-11-10T21:19:00.000Z",
-          "wordCount": 249,
+          "wordCount": 237,
           "title": "ALAS2-2025-3062 (medium): lz4",
           "imageUrl": null
         },
@@ -318,7 +318,7 @@
           "description": "CVE-2025-62813",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2-2025-3064.html",
           "publishedOn": "2025-11-10T21:19:00.000Z",
-          "wordCount": 239,
+          "wordCount": 227,
           "title": "ALAS2-2025-3064 (medium): thunderbird",
           "imageUrl": null
         },
