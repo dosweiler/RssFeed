@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-24T01:00:37.338Z</id>
+    <id>urn:2025-11-25T00:56:10.241Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T01:00:37.338Z</updated>
+    <updated>2025-11-25T00:56:10.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiDDoS-F 7.2.2]]></title>
+        <id>Mon, 24 Nov 2025 22:01:21 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-11-24T22:01:21.000Z</updated>
+        <summary type="html"><![CDATA[FortiDDoS-F 7.2.2 B0836 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiTester 7.6.1]]></title>
         <id>Wed, 19 Nov 2025 02:01:20 GMT</id>
@@ -65,6 +75,7 @@ This release is promoted to Official/Stable release channel for these models:
 
 U6-Mesh, U6-Enterprise, U6-IW, U6-Extender, U6-Enterprise-IW - November 20, 2025
 U6-Pro - November 21, 2025
+UAP-AC-M, UAP-AC-M-PRO, UAP-AC-IW, UAP-HD - November 24, 2025
 
 
 This release applies for these models:
@@ -86,8 +97,7 @@ Improved the 5GHz auto-channel selection algorithm ensuring a less noisy channel
 Improved wireless adoption of mesh/auto-link devices in dense environments.
 Improved adoption stability.
 Improved beacon conformity across platforms.
-Improved DHCP traffic monitoring.
-Improved dual RADIUS server failover connecti…]]></summary>
+Improved DHCP tra…]]></summary>
         <author>
             <name>UI-Edmundas</name>
         </author>
