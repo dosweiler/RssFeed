@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "12f7d50a-092c-4f43-99d8-ba3064b53b1e",
+          "author": "UI-Edmundas",
+          "description": "Improvements\n\nAdded RADIUS over TLS (radsec) support.\n\nBugfixes\n\nFixed an issue where Mesh downlinks intermittently went Offline/Isolated when U7-LR was used as the uplink AP.\nFixed an issue where blocked channels could still be selected during Auto Channel Selection.\n\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U7-LR-8-0-62/12f7d50a-092c-4f43-99d8-ba3064b53b1e",
+          "publishedOn": "2025-12-18T09:31:20.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point for U7-LR 8.0.62",
+          "imageUrl": null
+        },
+        {
           "id": "16511e59-e4ef-4b3a-98bf-426f174733e7",
           "author": "UI-Edmundas",
           "description": "Overview\nThis release is promoted to Official/Stable release channel for these models:\n\nU7-Pro-Max, U7-Lite, U7-Outdoor, U7-Pro-Wall, U7-Pro-XG, U7-Pro-XGS - December 17, 2025\n\nImprovements\n\nImproved client connectivity in MLO mode.\nImproved RADIUS failover mechanism for enhanced reliability.\nImproved AP stability.\nAdded 6 GHz regulatory support for Ukraine.\nAdded 6 GHz regulatory support for Pakistan.\nUpdated 6 GHz regulatory compliance for South Korea.\n\n\nBugfixes\n\nFixed an issue where IPTV services did not function correctly when connected through U7-IW switch ports.\nFixed an Ethernet link negotiation issue occurring after device reboot or firmware upgrade on models with 10G ports.\nFixed an issue where Guest Portal clients were unable to obtain a DHCP IP address.\nFixed an issue where devices appears as offline when a large number of blocked clients were configured.\nFixed an issue where connectivity would fail on E7-Audience when MLO was used.\nFixed an issue where E7-Audience would stop broadcasting 6 GHz after configuration changes.\n\nAdditional information\nINFO: U7-LR model support will be added in upcoming releases.\n----\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Early Access.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nUniFi Console Support File (as private attachment)",
@@ -53,6 +63,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html",
+          "author": null,
+          "description": "CVE-2024-25621, CVE-2025-64329",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html",
+          "publishedOn": "2025-12-08T20:34:00.000Z",
+          "wordCount": 372,
+          "title": "ALAS2NITRO-ENCLAVES-2025-078 (medium): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2025-094.html",
           "author": null,
           "description": "CVE-2025-40105, CVE-2025-40167, CVE-2025-40173",
@@ -80,16 +100,6 @@
           "publishedOn": "2025-12-08T20:34:00.000Z",
           "wordCount": 270,
           "title": "ALAS2KERNEL-5.4-2025-115 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html",
-          "author": null,
-          "description": "CVE-2024-25621, CVE-2025-64329",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html",
-          "publishedOn": "2025-12-08T20:34:00.000Z",
-          "wordCount": 372,
-          "title": "ALAS2NITRO-ENCLAVES-2025-078 (medium): containerd",
           "imageUrl": null
         },
         {
@@ -299,6 +309,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 19 Dec 2025 00:14:33 GMT",
+          "author": null,
+          "description": "FortiVoice 7.4.0 B0675 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2025-12-19T00:14:33.000Z",
+          "wordCount": 3882,
+          "title": "FortiVoice 7.4.0",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 15 Dec 2025 22:35:42 GMT",
           "author": null,
@@ -587,16 +607,6 @@
           "publishedOn": "2025-11-24T22:01:21.000Z",
           "wordCount": 3882,
           "title": "FortiDDoS-F 7.2.2",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 19 Nov 2025 02:01:20 GMT",
-          "author": null,
-          "description": "FortiTester 7.6.1 B1247 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2025-11-19T02:01:20.000Z",
-          "wordCount": 3882,
-          "title": "FortiTester 7.6.1",
           "imageUrl": null
         }
       ]
