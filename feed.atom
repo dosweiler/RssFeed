@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-19T01:00:12.985Z</id>
+    <id>urn:2025-12-20T00:56:35.025Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T01:00:12.985Z</updated>
+    <updated>2025-12-20T00:56:35.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiVoiceUCDesktop 7.0.3]]></title>
+        <id>Fri, 19 Dec 2025 20:46:53 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-12-19T20:46:53.000Z</updated>
+        <summary type="html"><![CDATA[FortiVoiceUCDesktop 7.0.3 B0130 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiSwitch 7.6.6]]></title>
+        <id>Fri, 19 Dec 2025 19:59:30 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2025-12-19T19:59:30.000Z</updated>
+        <summary type="html"><![CDATA[FortiSwitch 7.6.6 B1137 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiVoice 7.4.0]]></title>
         <id>Fri, 19 Dec 2025 00:14:33 GMT</id>
@@ -117,7 +137,8 @@ UniFi Network application version]]></summary>
         <summary type="html"><![CDATA[Overview
 This release is promoted to Official/Stable release channel for these models:
 
-U7-Pro-Max, U7-Lite, U7-Outdoor, U7-Pro-Wall, U7-Pro-XG, U7-Pro-XGS - December 17, 2025
+U7-Pro-Max, U7-Lite, U7-Outdoor, U7-Pro-Wall, U7-Pro-XG, U7-Pro-XGS, U7-Pro-XG-Wall - December 17, 2025
+U7-Pro, U7-Pro-Outdoor, U7-In-Wall, E7, E7-Campus, E7-Audience - December 19, 2025
 
 Improvements
 
@@ -127,7 +148,6 @@ Improved AP stability.
 Added 6 GHz regulatory support for Ukraine.
 Added 6 GHz regulatory support for Pakistan.
 Updated 6 GHz regulatory compliance for South Korea.
-
 
 Bugfixes
 
@@ -276,11 +296,11 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-078 (medium): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html"/>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-115 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-115.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-115.html"/>
         <updated>2025-12-08T20:34:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-25621, CVE-2025-64329]]></summary>
+        <summary type="html"><![CDATA[CVE-2023-53680]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -306,11 +326,11 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2025-115 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-115.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-115.html"/>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2025-078 (medium): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2025-078.html"/>
         <updated>2025-12-08T20:34:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-53680]]></summary>
+        <summary type="html"><![CDATA[CVE-2024-25621, CVE-2025-64329]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -336,6 +356,16 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2025-086 (medium): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-086.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-086.html"/>
+        <updated>2025-12-08T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2024-25621, CVE-2025-64329]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2ECS-2025-083 (important): ecs-init]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-083.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-083.html"/>
@@ -349,16 +379,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         <title type="html"><![CDATA[ALAS2ECS-2025-084 (medium): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-084.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-084.html"/>
-        <updated>2025-12-08T20:32:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-25621, CVE-2025-64329]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2025-086 (medium): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-086.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-086.html"/>
         <updated>2025-12-08T20:32:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2024-25621, CVE-2025-64329]]></summary>
         <author>
