@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-16T01:02:45.857Z</id>
+    <id>urn:2026-01-17T00:59:52.494Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T01:02:45.857Z</updated>
+    <updated>2026-01-17T00:59:52.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -709,30 +709,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         <summary type="html"><![CDATA[FortiVoice 7.4.0 B0675 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point for U7-LR 8.0.62]]></title>
-        <id>12f7d50a-092c-4f43-99d8-ba3064b53b1e</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-for-U7-LR-8-0-62/12f7d50a-092c-4f43-99d8-ba3064b53b1e"/>
-        <updated>2025-12-18T09:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Improvements
-
-Added RADIUS over TLS (radsec) support.
-
-Bugfixes
-
-Fixed an issue where Mesh downlinks intermittently went Offline/Isolated when U7-LR was used as the uplink AP.
-Fixed an issue where blocked channels could still be selected during Auto Channel Selection.
-
-Additional information
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version]]></summary>
-        <author>
-            <name>UI-Edmundas</name>
         </author>
     </entry>
 </feed>
