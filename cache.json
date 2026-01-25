@@ -173,16 +173,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-116.html",
-          "author": null,
-          "description": "CVE-2023-20588, CVE-2023-53174, CVE-2023-53245, CVE-2023-53311, CVE-2023-53839, CVE-2023-53847",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-116.html",
-          "publishedOn": "2026-01-05T22:09:00.000Z",
-          "wordCount": 360,
-          "title": "ALAS2KERNEL-5.4-2025-116 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-283.html",
           "author": null,
           "description": "CVE-2025-40173",
@@ -190,6 +180,16 @@
           "publishedOn": "2026-01-05T22:09:00.000Z",
           "wordCount": 200,
           "title": "ALAS2LIVEPATCH-2025-283 (important): kernel-livepatch-5.10.245-241.976",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-116.html",
+          "author": null,
+          "description": "CVE-2023-20588, CVE-2023-53174, CVE-2023-53245, CVE-2023-53311, CVE-2023-53839, CVE-2023-53847",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2025-116.html",
+          "publishedOn": "2026-01-05T22:09:00.000Z",
+          "wordCount": 360,
+          "title": "ALAS2KERNEL-5.4-2025-116 (important): kernel",
           "imageUrl": null
         },
         {
@@ -273,86 +273,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-086.html",
-          "author": null,
-          "description": "CVE-2025-61727, CVE-2025-61729",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-086.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 319,
-          "title": "ALAS2ECS-2025-086 (medium): oci-add-hooks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-087.html",
-          "author": null,
-          "description": "CVE-2025-61727, CVE-2025-61729, CVE-2025-65637",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-087.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 404,
-          "title": "ALAS2ECS-2025-087 (important): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-088.html",
-          "author": null,
-          "description": "CVE-2025-61727, CVE-2025-61729",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-088.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 317,
-          "title": "ALAS2ECS-2025-088 (medium): ecs-init",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-089.html",
-          "author": null,
-          "description": "CVE-2025-61727, CVE-2025-61729",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-089.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 319,
-          "title": "ALAS2ECS-2025-089 (medium): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-090.html",
-          "author": null,
-          "description": "CVE-2025-47914, CVE-2025-58181, CVE-2025-61727, CVE-2025-61729",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-090.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 384,
-          "title": "ALAS2ECS-2025-090 (medium): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-091.html",
-          "author": null,
-          "description": "CVE-2025-47914, CVE-2025-58181, CVE-2025-61727, CVE-2025-61729",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-091.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 386,
-          "title": "ALAS2ECS-2025-091 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-092.html",
-          "author": null,
-          "description": "CVE-2025-65637",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-092.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 299,
-          "title": "ALAS2ECS-2025-092 (important): ecs-init",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-093.html",
-          "author": null,
-          "description": "CVE-2024-11407, CVE-2024-25176, CVE-2024-25177, CVE-2024-25178, CVE-2025-0725, CVE-2025-54588, CVE-2025-55162, CVE-2025-62409, CVE-2025-62504, CVE-2025-64527, CVE-2025-64763, CVE-2025-66220",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-093.html",
-          "publishedOn": "2026-01-05T22:06:00.000Z",
-          "wordCount": 1121,
-          "title": "ALAS2ECS-2025-093 (important): ecs-service-connect-agent",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2025-087.html",
           "author": null,
           "description": "CVE-2025-61727, CVE-2025-61729, CVE-2025-65637",
@@ -430,6 +350,86 @@
           "publishedOn": "2026-01-05T22:06:00.000Z",
           "wordCount": 268,
           "title": "ALAS2DOCKER-2025-094 (medium): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-086.html",
+          "author": null,
+          "description": "CVE-2025-61727, CVE-2025-61729",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-086.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 319,
+          "title": "ALAS2ECS-2025-086 (medium): oci-add-hooks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-087.html",
+          "author": null,
+          "description": "CVE-2025-61727, CVE-2025-61729, CVE-2025-65637",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-087.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 404,
+          "title": "ALAS2ECS-2025-087 (important): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-088.html",
+          "author": null,
+          "description": "CVE-2025-61727, CVE-2025-61729",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-088.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 317,
+          "title": "ALAS2ECS-2025-088 (medium): ecs-init",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-089.html",
+          "author": null,
+          "description": "CVE-2025-61727, CVE-2025-61729",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-089.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 319,
+          "title": "ALAS2ECS-2025-089 (medium): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-090.html",
+          "author": null,
+          "description": "CVE-2025-47914, CVE-2025-58181, CVE-2025-61727, CVE-2025-61729",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-090.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 384,
+          "title": "ALAS2ECS-2025-090 (medium): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-091.html",
+          "author": null,
+          "description": "CVE-2025-47914, CVE-2025-58181, CVE-2025-61727, CVE-2025-61729",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-091.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 386,
+          "title": "ALAS2ECS-2025-091 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-092.html",
+          "author": null,
+          "description": "CVE-2025-65637",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-092.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 299,
+          "title": "ALAS2ECS-2025-092 (important): ecs-init",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-093.html",
+          "author": null,
+          "description": "CVE-2024-11407, CVE-2024-25176, CVE-2024-25177, CVE-2024-25178, CVE-2025-0725, CVE-2025-54588, CVE-2025-55162, CVE-2025-62409, CVE-2025-62504, CVE-2025-64527, CVE-2025-64763, CVE-2025-66220",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2025-093.html",
+          "publishedOn": "2026-01-05T22:06:00.000Z",
+          "wordCount": 1121,
+          "title": "ALAS2ECS-2025-093 (important): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
