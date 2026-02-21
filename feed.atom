@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-20T01:13:19.332Z</id>
+    <id>urn:2026-02-21T01:11:08.239Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T01:13:19.332Z</updated>
+    <updated>2026-02-21T01:11:08.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSwitchAXFixed 1.0.2]]></title>
+        <id>Fri, 20 Feb 2026 17:35:26 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2026-02-20T17:35:26.000Z</updated>
+        <summary type="html"><![CDATA[FortiSwitchAXFixed 1.0.2 B1007 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-118 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-118.html</id>
@@ -21,6 +31,16 @@
         <link href="https://alas.aws.amazon.com/AL2/ALAS2NGINX1-2026-010.html"/>
         <updated>2026-02-19T04:08:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-1642]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2ECS-2026-096 (medium): oci-add-hooks]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-096.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-096.html"/>
+        <updated>2026-02-19T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-61726, CVE-2025-61728, CVE-2025-61730, CVE-2025-68121]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -81,36 +101,6 @@
         <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-092.html"/>
         <updated>2026-02-19T04:07:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-61731, CVE-2025-68119]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2ECS-2026-096 (medium): oci-add-hooks]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-096.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-096.html"/>
-        <updated>2026-02-19T04:07:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-61726, CVE-2025-61728, CVE-2025-61730, CVE-2025-68121]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-112 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-112.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-112.html"/>
-        <updated>2026-02-19T04:07:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-50822, CVE-2025-38678, CVE-2025-39866, CVE-2025-39998, CVE-2025-40001, CVE-2025-40018, CVE-2025-40019, CVE-2025-40026, CVE-2025-40030, CVE-2025-40035, CVE-2025-40042, CVE-2025-40044, CVE-2025-40048, CVE-2025-40049, CVE-2025-40070, CVE-2025-40078, CVE-2025-40081, CVE-2025-40083, CVE-2025-40087, CVE-2025-40088, CVE-2025-40105, CVE-2025-40109, CVE-2025-40115, CVE-2025-40125, CVE-2025-40134, CVE-2025-40140, CVE-2025-40153, CVE-2025-40167, CVE-2025-40173, CVE-2025-40178, CVE-2025-40183, CVE-2025-40187, CVE-2025-40190, CVE-2025-40194, CVE-2025-40197, CVE-2025-40198, CVE-2025-40200, CVE-2025-40204, CVE-2025-40205, CVE-2025-40211, CVE-2025-40219, CVE-2025-40220, CVE-2025-40231, CVE-2025-40240, CVE-2025-40243, CVE-2025-40244, CVE-2025-40248, CVE-2025-40254, CVE-2025-40257, CVE-2025-40258, CVE-2025-40259, CVE-2025-40271, CVE-2025-40273, CVE-2025-40280, CVE-2025-40281, CVE-2025-40304, CVE-2025-40319, CVE-2025-40322, CVE-2025-40324, CVE-2025-40331, CVE-2025-40345, CVE-2025-40346, CVE-2025-40349, CVE-2025-40351, CVE-2025-40363, CVE-2025-68177, CVE-2025-68185, CVE-2025-68191, CVE-2025-68192, CVE-2025-68227, CVE-2025-68229, CVE-2025-68241, CVE-2025-68245, CVE-2025-68285, CVE-2025-68288, CVE-2025-68295, CVE-2025-68312, CVE-2025-68331]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-113 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-113.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-113.html"/>
-        <updated>2026-02-19T04:07:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-38119, CVE-2025-38556, CVE-2025-40215, CVE-2025-68257, CVE-2025-68258, CVE-2025-68261, CVE-2025-68264, CVE-2025-68325, CVE-2025-68337, CVE-2025-68349, CVE-2025-68354, CVE-2025-68366, CVE-2025-68372, CVE-2025-68724, CVE-2025-68740, CVE-2025-68764, CVE-2025-68767, CVE-2025-68774, CVE-2025-68782, CVE-2025-68785, CVE-2025-68788, CVE-2025-68795, CVE-2025-68800, CVE-2025-68801, CVE-2025-68803, CVE-2025-68813, CVE-2025-68816, CVE-2025-68818, CVE-2025-68820, CVE-2025-71075, CVE-2025-71077, CVE-2025-71084, CVE-2025-71085, CVE-2025-71087, CVE-2025-71091, CVE-2025-71093, CVE-2025-71096, CVE-2025-71097, CVE-2025-71098, CVE-2025-71104, CVE-2025-71111, CVE-2025-71113, CVE-2025-71116, CVE-2025-71118, CVE-2025-71120, CVE-2025-71125, CVE-2025-71131, CVE-2025-71154, CVE-2026-22976, CVE-2026-22977, CVE-2026-22980, CVE-2026-22990, CVE-2026-22991, CVE-2026-23021, CVE-2026-23047]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -256,11 +246,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3175 (medium): openssh]]></title>
+        <title type="html"><![CDATA[ALAS2-2026-3175 (low): openssh]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3175.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3175.html"/>
         <updated>2026-02-19T04:07:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-32728, CVE-2025-61984]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-112 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-112.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-112.html"/>
+        <updated>2026-02-19T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-50822, CVE-2025-38678, CVE-2025-39866, CVE-2025-39998, CVE-2025-40001, CVE-2025-40018, CVE-2025-40019, CVE-2025-40026, CVE-2025-40030, CVE-2025-40035, CVE-2025-40042, CVE-2025-40044, CVE-2025-40048, CVE-2025-40049, CVE-2025-40070, CVE-2025-40078, CVE-2025-40081, CVE-2025-40083, CVE-2025-40087, CVE-2025-40088, CVE-2025-40105, CVE-2025-40109, CVE-2025-40115, CVE-2025-40125, CVE-2025-40134, CVE-2025-40140, CVE-2025-40153, CVE-2025-40167, CVE-2025-40173, CVE-2025-40178, CVE-2025-40183, CVE-2025-40187, CVE-2025-40190, CVE-2025-40194, CVE-2025-40197, CVE-2025-40198, CVE-2025-40200, CVE-2025-40204, CVE-2025-40205, CVE-2025-40211, CVE-2025-40219, CVE-2025-40220, CVE-2025-40231, CVE-2025-40240, CVE-2025-40243, CVE-2025-40244, CVE-2025-40248, CVE-2025-40254, CVE-2025-40257, CVE-2025-40258, CVE-2025-40259, CVE-2025-40271, CVE-2025-40273, CVE-2025-40280, CVE-2025-40281, CVE-2025-40304, CVE-2025-40319, CVE-2025-40322, CVE-2025-40324, CVE-2025-40331, CVE-2025-40345, CVE-2025-40346, CVE-2025-40349, CVE-2025-40351, CVE-2025-40363, CVE-2025-68177, CVE-2025-68185, CVE-2025-68191, CVE-2025-68192, CVE-2025-68227, CVE-2025-68229, CVE-2025-68241, CVE-2025-68245, CVE-2025-68285, CVE-2025-68288, CVE-2025-68295, CVE-2025-68312, CVE-2025-68331]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-113 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-113.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-113.html"/>
+        <updated>2026-02-19T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-38119, CVE-2025-38556, CVE-2025-40215, CVE-2025-68257, CVE-2025-68258, CVE-2025-68261, CVE-2025-68264, CVE-2025-68325, CVE-2025-68337, CVE-2025-68349, CVE-2025-68354, CVE-2025-68366, CVE-2025-68372, CVE-2025-68724, CVE-2025-68740, CVE-2025-68764, CVE-2025-68767, CVE-2025-68774, CVE-2025-68782, CVE-2025-68785, CVE-2025-68788, CVE-2025-68795, CVE-2025-68800, CVE-2025-68801, CVE-2025-68803, CVE-2025-68813, CVE-2025-68816, CVE-2025-68818, CVE-2025-68820, CVE-2025-71075, CVE-2025-71077, CVE-2025-71084, CVE-2025-71085, CVE-2025-71087, CVE-2025-71091, CVE-2025-71093, CVE-2025-71096, CVE-2025-71097, CVE-2025-71098, CVE-2025-71104, CVE-2025-71111, CVE-2025-71113, CVE-2025-71116, CVE-2025-71118, CVE-2025-71120, CVE-2025-71125, CVE-2025-71131, CVE-2025-71154, CVE-2026-22976, CVE-2026-22977, CVE-2026-22980, CVE-2026-22990, CVE-2026-22991, CVE-2026-23021, CVE-2026-23047]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1063,156 +1073,6 @@ UniFi Network application version]]></summary>
         <summary type="html"><![CDATA[FortiOS 7.4.11 B2878 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2PHP8.2-2026-009 (medium): php]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2PHP8.2-2026-009.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2PHP8.2-2026-009.html"/>
-        <updated>2026-01-22T00:49:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-14177, CVE-2025-14178, CVE-2025-14180]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2PHP8.1-2026-008 (medium): php]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2PHP8.1-2026-008.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2PHP8.1-2026-008.html"/>
-        <updated>2026-01-22T00:48:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-14177, CVE-2025-14178, CVE-2025-14180]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2GIMP-2026-010 (important): gimp]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-010.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-010.html"/>
-        <updated>2026-01-22T00:47:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-14422]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2ECS-2026-094 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-094.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-094.html"/>
-        <updated>2026-01-22T00:46:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-47914, CVE-2025-58181, CVE-2025-61727, CVE-2025-61729, CVE-2025-65637]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2026-095 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-095.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-095.html"/>
-        <updated>2026-01-22T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-61729, CVE-2025-65637]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-085 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-085.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-085.html"/>
-        <updated>2026-01-22T00:44:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-61729, CVE-2025-65637]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3122 (low): libxml2]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3122.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3122.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-8732]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3123 (medium): ImageMagick]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3123.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3123.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-68469, CVE-2025-68618, CVE-2025-68950, CVE-2025-69204]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3124 (important): net-snmp]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3124.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3124.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-68615]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3125 (important): gnupg2]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3125.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3125.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-68973]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3126 (medium): python-pip]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3126.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3126.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-66418, CVE-2025-66471]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3127 (medium): python3-urllib3]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3127.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3127.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-37891, CVE-2025-66418, CVE-2025-66471]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3128 (medium): python]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3128.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3128.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-12084]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3129 (important): sox]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3129.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3129.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-50798]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3130 (medium): libtiff]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3130.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3130.html"/>
-        <updated>2026-01-21T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-3598]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
         </author>
     </entry>
 </feed>
