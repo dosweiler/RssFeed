@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T01:17:53.028Z</id>
+    <id>urn:2026-03-26T01:23:33.394Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-25T01:17:53.028Z</updated>
+    <updated>2026-03-26T01:23:33.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiSOAR 7.5.3]]></title>
+        <id>Wed, 25 Mar 2026 16:49:44 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2026-03-25T16:49:44.000Z</updated>
+        <summary type="html"><![CDATA[FortiSOAR 7.5.3 B4131 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiAP 7.4.7]]></title>
+        <id>Wed, 25 Mar 2026 16:04:23 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2026-03-25T16:04:23.000Z</updated>
+        <summary type="html"><![CDATA[FortiAP 7.4.7 B0802 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSandbox 5.0.6]]></title>
         <id>Tue, 24 Mar 2026 21:22:41 GMT</id>
@@ -617,16 +637,6 @@ If you encounter any issues, please share setup details and a support file. When
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-098 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-098.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-098.html"/>
-        <updated>2026-03-06T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-50390, CVE-2023-53421, CVE-2023-53662, CVE-2025-38129, CVE-2025-38556, CVE-2025-38591, CVE-2025-40215, CVE-2025-68261, CVE-2025-68264, CVE-2025-68325, CVE-2025-68337, CVE-2025-68340, CVE-2025-68349, CVE-2025-68358, CVE-2025-68365, CVE-2025-68366, CVE-2025-68372, CVE-2025-68724, CVE-2025-68725, CVE-2025-68727, CVE-2025-68728, CVE-2025-68740, CVE-2025-68764, CVE-2025-68780, CVE-2025-68782, CVE-2025-68785, CVE-2025-68788, CVE-2025-68795, CVE-2025-68803, CVE-2025-68813, CVE-2025-68814, CVE-2025-68816, CVE-2025-68820, CVE-2025-68821, CVE-2025-71077, CVE-2025-71083, CVE-2025-71084, CVE-2025-71085, CVE-2025-71089, CVE-2025-71091, CVE-2025-71093, CVE-2025-71096, CVE-2025-71097, CVE-2025-71098, CVE-2025-71104, CVE-2025-71113, CVE-2025-71116, CVE-2025-71118, CVE-2025-71120, CVE-2025-71125, CVE-2025-71131, CVE-2025-71147, CVE-2025-71194, CVE-2026-22976, CVE-2026-22977, CVE-2026-22980, CVE-2026-22984, CVE-2026-22990, CVE-2026-22991, CVE-2026-22992, CVE-2026-22999, CVE-2026-23001, CVE-2026-23003, CVE-2026-23011, CVE-2026-23038, CVE-2026-23047, CVE-2026-23060, CVE-2026-23071, CVE-2026-23074, CVE-2026-23083, CVE-2026-23085, CVE-2026-23095, CVE-2026-23097, CVE-2026-23099, CVE-2026-23103, CVE-2026-23105, CVE-2026-23111, CVE-2026-23119, CVE-2026-23124, CVE-2026-23125, CVE-2026-23145, CVE-2026-23169, CVE-2026-23198, CVE-2026-23209, CVE-2026-23221]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2ECS-2026-097 (medium): ecs-init]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-097.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-097.html"/>
@@ -652,6 +662,16 @@ If you encounter any issues, please share setup details and a support file. When
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-099.html"/>
         <updated>2026-03-06T00:01:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2025-61726, CVE-2025-61728, CVE-2025-61730, CVE-2025-68121]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-098 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-098.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-098.html"/>
+        <updated>2026-03-06T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-50390, CVE-2023-53421, CVE-2023-53662, CVE-2025-38129, CVE-2025-38556, CVE-2025-38591, CVE-2025-40215, CVE-2025-68261, CVE-2025-68264, CVE-2025-68325, CVE-2025-68337, CVE-2025-68340, CVE-2025-68349, CVE-2025-68358, CVE-2025-68365, CVE-2025-68366, CVE-2025-68372, CVE-2025-68724, CVE-2025-68725, CVE-2025-68727, CVE-2025-68728, CVE-2025-68740, CVE-2025-68764, CVE-2025-68780, CVE-2025-68782, CVE-2025-68785, CVE-2025-68788, CVE-2025-68795, CVE-2025-68803, CVE-2025-68813, CVE-2025-68814, CVE-2025-68816, CVE-2025-68820, CVE-2025-68821, CVE-2025-71077, CVE-2025-71083, CVE-2025-71084, CVE-2025-71085, CVE-2025-71089, CVE-2025-71091, CVE-2025-71093, CVE-2025-71096, CVE-2025-71097, CVE-2025-71098, CVE-2025-71104, CVE-2025-71113, CVE-2025-71116, CVE-2025-71118, CVE-2025-71120, CVE-2025-71125, CVE-2025-71131, CVE-2025-71147, CVE-2025-71194, CVE-2026-22976, CVE-2026-22977, CVE-2026-22980, CVE-2026-22984, CVE-2026-22990, CVE-2026-22991, CVE-2026-22992, CVE-2026-22999, CVE-2026-23001, CVE-2026-23003, CVE-2026-23011, CVE-2026-23038, CVE-2026-23047, CVE-2026-23060, CVE-2026-23071, CVE-2026-23074, CVE-2026-23083, CVE-2026-23085, CVE-2026-23095, CVE-2026-23097, CVE-2026-23099, CVE-2026-23103, CVE-2026-23105, CVE-2026-23111, CVE-2026-23119, CVE-2026-23124, CVE-2026-23125, CVE-2026-23145, CVE-2026-23169, CVE-2026-23198, CVE-2026-23209, CVE-2026-23221]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -798,16 +818,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2026-02-26T17:40:28.000Z</updated>
         <summary type="html"><![CDATA[FortiRecorder 7.2.9 B0307 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiAIOps 3.2.1]]></title>
-        <id>Mon, 23 Feb 2026 18:00:38 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-02-23T18:00:38.000Z</updated>
-        <summary type="html"><![CDATA[FortiAIOps 3.2.1 B0158 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
