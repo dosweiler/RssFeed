@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-11T01:21:50.638Z</id>
+    <id>urn:2026-04-12T01:44:50.328Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T01:21:50.638Z</updated>
+    <updated>2026-04-12T01:44:50.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -470,6 +470,16 @@ If you encounter any issues, please share setup details and a support file. When
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2LIVEPATCH-2026-284 (important): kernel-livepatch-5.10.245-245.983]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2026-284.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2026-284.html"/>
+        <updated>2026-03-19T20:09:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-68192]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2-2026-3191 (medium): amazon-cloudwatch-agent]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3191.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3191.html"/>
@@ -640,11 +650,11 @@ If you encounter any issues, please share setup details and a support file. When
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2LIVEPATCH-2026-284 (important): kernel-livepatch-5.10.245-245.983]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2026-284.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2026-284.html"/>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-099 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-099.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-099.html"/>
         <updated>2026-03-19T20:09:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-68192]]></summary>
+        <summary type="html"><![CDATA[CVE-2025-71265, CVE-2025-71266, CVE-2025-71267]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -655,16 +665,6 @@ If you encounter any issues, please share setup details and a support file. When
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-114.html"/>
         <updated>2026-03-19T20:09:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2023-54207, CVE-2023-54321, CVE-2025-38591, CVE-2025-68211, CVE-2025-68725, CVE-2025-71194, CVE-2025-71232, CVE-2025-71235, CVE-2025-71236, CVE-2025-71237, CVE-2025-71238, CVE-2026-22999, CVE-2026-23001, CVE-2026-23003, CVE-2026-23011, CVE-2026-23038, CVE-2026-23060, CVE-2026-23071, CVE-2026-23074, CVE-2026-23083, CVE-2026-23085, CVE-2026-23095, CVE-2026-23097, CVE-2026-23101, CVE-2026-23103, CVE-2026-23105, CVE-2026-23110, CVE-2026-23119, CVE-2026-23125, CVE-2026-23145, CVE-2026-23164, CVE-2026-23193, CVE-2026-23198, CVE-2026-23209, CVE-2026-23216, CVE-2026-23229, CVE-2026-23238, CVE-2026-23256, CVE-2026-23257, CVE-2026-23258]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-099 (medium): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-099.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-099.html"/>
-        <updated>2026-03-19T20:09:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-71265, CVE-2025-71266, CVE-2025-71267]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -775,16 +775,6 @@ If you encounter any issues, please share setup details and a support file. When
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2026-03-16T17:32:44.000Z</updated>
         <summary type="html"><![CDATA[FortiExtender 7.4.9 B0275 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiPortal 7.4.9]]></title>
-        <id>Fri, 13 Mar 2026 00:06:50 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-03-13T00:06:50.000Z</updated>
-        <summary type="html"><![CDATA[FortiPortal 7.4.9 B2176 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
