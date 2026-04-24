@@ -183,6 +183,46 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-093.html",
+          "author": null,
+          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-093.html",
+          "publishedOn": "2026-04-14T04:25:00.000Z",
+          "wordCount": 356,
+          "title": "ALAS2NITRO-ENCLAVES-2026-093 (medium): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-094.html",
+          "author": null,
+          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142, CVE-2026-33186, CVE-2026-33997",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-094.html",
+          "publishedOn": "2026-04-14T04:25:00.000Z",
+          "wordCount": 687,
+          "title": "ALAS2NITRO-ENCLAVES-2026-094 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-095.html",
+          "author": null,
+          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-095.html",
+          "publishedOn": "2026-04-14T04:25:00.000Z",
+          "wordCount": 356,
+          "title": "ALAS2NITRO-ENCLAVES-2026-095 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-096.html",
+          "author": null,
+          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-096.html",
+          "publishedOn": "2026-04-14T04:25:00.000Z",
+          "wordCount": 356,
+          "title": "ALAS2NITRO-ENCLAVES-2026-096 (medium): oci-add-hooks",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3227.html",
           "author": null,
           "description": "CVE-2025-13462, CVE-2026-3479, CVE-2026-4519",
@@ -403,43 +443,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-093.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-119.html",
           "author": null,
-          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-093.html",
-          "publishedOn": "2026-04-14T04:25:00.000Z",
-          "wordCount": 356,
-          "title": "ALAS2NITRO-ENCLAVES-2026-093 (medium): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-094.html",
-          "author": null,
-          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142, CVE-2026-33186, CVE-2026-33997",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-094.html",
-          "publishedOn": "2026-04-14T04:25:00.000Z",
-          "wordCount": 687,
-          "title": "ALAS2NITRO-ENCLAVES-2026-094 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-095.html",
-          "author": null,
-          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-095.html",
-          "publishedOn": "2026-04-14T04:25:00.000Z",
-          "wordCount": 356,
-          "title": "ALAS2NITRO-ENCLAVES-2026-095 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-096.html",
-          "author": null,
-          "description": "CVE-2026-25679, CVE-2026-27139, CVE-2026-27142",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-096.html",
-          "publishedOn": "2026-04-14T04:25:00.000Z",
-          "wordCount": 356,
-          "title": "ALAS2NITRO-ENCLAVES-2026-096 (medium): oci-add-hooks",
+          "description": "CVE-2026-23066",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-119.html",
+          "publishedOn": "2026-04-08T01:08:00.000Z",
+          "wordCount": 267,
+          "title": "ALAS2KERNEL-5.4-2026-119 (important): kernel",
           "imageUrl": null
         },
         {
@@ -450,16 +460,6 @@
           "publishedOn": "2026-04-08T01:08:00.000Z",
           "wordCount": 252,
           "title": "ALAS2-2026-3237 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-119.html",
-          "author": null,
-          "description": "CVE-2026-23066",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-119.html",
-          "publishedOn": "2026-04-08T01:08:00.000Z",
-          "wordCount": 267,
-          "title": "ALAS2KERNEL-5.4-2026-119 (important): kernel",
           "imageUrl": null
         },
         {
@@ -680,6 +680,26 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Thu, 23 Apr 2026 18:56:49 GMT",
+          "author": null,
+          "description": "FortiRecorder 7.2.10 B0312 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-04-23T18:56:49.000Z",
+          "wordCount": 3898,
+          "title": "FortiRecorder 7.2.10",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 23 Apr 2026 18:25:42 GMT",
+          "author": null,
+          "description": "FortiCentral 7.4.0 B0139 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-04-23T18:25:42.000Z",
+          "wordCount": 3898,
+          "title": "FortiCentral 7.4.0",
+          "imageUrl": null
+        },
+        {
           "id": "Wed, 22 Apr 2026 23:12:20 GMT",
           "author": null,
           "description": "FortiNACAgent 7.6.4 B0050 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -877,26 +897,6 @@
           "publishedOn": "2026-03-25T16:04:23.000Z",
           "wordCount": 3898,
           "title": "FortiAP 7.4.7",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 24 Mar 2026 21:22:41 GMT",
-          "author": null,
-          "description": "FortiSandbox 5.0.6 B0155 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2026-03-24T21:22:41.000Z",
-          "wordCount": 3898,
-          "title": "FortiSandbox 5.0.6",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 24 Mar 2026 18:36:01 GMT",
-          "author": null,
-          "description": "FortiAIGate 8.0.0 B0024 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2026-03-24T18:36:01.000Z",
-          "wordCount": 3898,
-          "title": "FortiAIGate 8.0.0",
           "imageUrl": null
         }
       ]
