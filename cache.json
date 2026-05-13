@@ -93,16 +93,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-023.html",
-          "author": null,
-          "description": "CVE-2026-22007, CVE-2026-22016",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-023.html",
-          "publishedOn": "2026-05-09T13:32:00.000Z",
-          "wordCount": 596,
-          "title": "ALAS2CORRETTO8-2026-023 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-114.html",
           "author": null,
           "description": "CVE-2024-45806, CVE-2024-45808, CVE-2024-45809, CVE-2024-45810, CVE-2024-7264",
@@ -110,6 +100,16 @@
           "publishedOn": "2026-05-09T13:32:00.000Z",
           "wordCount": 816,
           "title": "ALAS2ECS-2026-114 (medium): ecs-service-connect-agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-023.html",
+          "author": null,
+          "description": "CVE-2026-22007, CVE-2026-22016",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-023.html",
+          "publishedOn": "2026-05-09T13:32:00.000Z",
+          "wordCount": 596,
+          "title": "ALAS2CORRETTO8-2026-023 (important): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -143,6 +143,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-118.html",
+          "author": null,
+          "description": "CVE-2026-43284",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-118.html",
+          "publishedOn": "2026-05-09T13:32:00.000Z",
+          "wordCount": 281,
+          "title": "ALAS2KERNEL-5.10-2026-118 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-102.html",
           "author": null,
           "description": "CVE-2026-43284",
@@ -153,13 +163,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-118.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-113.html",
           "author": null,
-          "description": "CVE-2026-43284",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-118.html",
-          "publishedOn": "2026-05-09T13:32:00.000Z",
-          "wordCount": 281,
-          "title": "ALAS2KERNEL-5.10-2026-118 (important): kernel",
+          "description": "CVE-2024-45806, CVE-2024-45808, CVE-2024-45809, CVE-2024-45810, CVE-2024-7264",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-113.html",
+          "publishedOn": "2026-05-05T10:19:00.000Z",
+          "wordCount": 816,
+          "title": "ALAS2ECS-2026-113 (medium): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
@@ -203,13 +213,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-113.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-116.html",
           "author": null,
-          "description": "CVE-2024-45806, CVE-2024-45808, CVE-2024-45809, CVE-2024-45810, CVE-2024-7264",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-113.html",
+          "description": "CVE-2026-31431, CVE-2026-43033",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-116.html",
           "publishedOn": "2026-05-05T10:19:00.000Z",
-          "wordCount": 816,
-          "title": "ALAS2ECS-2026-113 (medium): ecs-service-connect-agent",
+          "wordCount": 364,
+          "title": "ALAS2KERNEL-5.10-2026-116 (important): kernel",
           "imageUrl": null
         },
         {
@@ -230,16 +240,6 @@
           "publishedOn": "2026-05-05T10:19:00.000Z",
           "wordCount": 385,
           "title": "ALAS2KERNEL-5.4-2026-120 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-116.html",
-          "author": null,
-          "description": "CVE-2026-31431, CVE-2026-43033",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-116.html",
-          "publishedOn": "2026-05-05T10:19:00.000Z",
-          "wordCount": 364,
-          "title": "ALAS2KERNEL-5.10-2026-116 (important): kernel",
           "imageUrl": null
         },
         {
