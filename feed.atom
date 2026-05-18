@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-17T02:07:29.841Z</id>
+    <id>urn:2026-05-18T02:28:41.765Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T02:07:29.841Z</updated>
+    <updated>2026-05-18T02:28:41.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,9 +36,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-122 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-122.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-122.html"/>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-119 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-119.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-119.html"/>
         <updated>2026-05-15T20:03:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-46300]]></summary>
         <author>
@@ -46,9 +46,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-119 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-119.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-119.html"/>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-122 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-122.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-122.html"/>
         <updated>2026-05-15T20:03:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-46300]]></summary>
         <author>
@@ -176,16 +176,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-117 (medium): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-117.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-117.html"/>
-        <updated>2026-05-14T02:56:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2023-53188, CVE-2024-42322, CVE-2025-37749]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2ECS-2026-108 (important): docker]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-108.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-108.html"/>
@@ -231,6 +221,16 @@ UniFi Console Support File (as private attachment)]]></summary>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-112.html"/>
         <updated>2026-05-14T02:56:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-27143, CVE-2026-27144, CVE-2026-32280, CVE-2026-32281, CVE-2026-32282, CVE-2026-32283, CVE-2026-32288, CVE-2026-32289]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-117 (medium): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-117.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-117.html"/>
+        <updated>2026-05-14T02:56:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-53188, CVE-2024-42322, CVE-2025-37749]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -834,21 +834,21 @@ UniFi Console Support File (as private attachment)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-120 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-120.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-120.html"/>
-        <updated>2026-05-05T10:19:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-23060, CVE-2026-31431, CVE-2026-43033, CVE-2026-43077, CVE-2026-43078]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-116 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-116.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-116.html"/>
         <updated>2026-05-05T10:19:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-31431, CVE-2026-43033, CVE-2026-43077, CVE-2026-43078]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-120 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-120.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-120.html"/>
+        <updated>2026-05-05T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-23060, CVE-2026-31431, CVE-2026-43033, CVE-2026-43077, CVE-2026-43078]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1389,16 +1389,6 @@ UniFi Console Support File (as private attachment)]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2026-04-21T16:38:08.000Z</updated>
         <summary type="html"><![CDATA[FortiAuthenticator 8.0.3 B0099 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiWeb 8.0.5]]></title>
-        <id>Fri, 17 Apr 2026 17:05:20 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-04-17T17:05:20.000Z</updated>
-        <summary type="html"><![CDATA[FortiWeb 8.0.5 B0110 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
