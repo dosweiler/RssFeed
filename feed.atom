@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-15T01:25:23.564Z</id>
+    <id>urn:2026-07-16T01:45:36.598Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T01:25:23.564Z</updated>
+    <updated>2026-07-16T01:45:36.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiADCManager 8.0.1]]></title>
+        <id>Wed, 15 Jul 2026 17:49:32 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2026-07-15T17:49:32.000Z</updated>
+        <summary type="html"><![CDATA[FortiADCManager 8.0.1 B0015 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiSwitch 7.6.8]]></title>
         <id>Tue, 14 Jul 2026 23:06:07 GMT</id>
@@ -36,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-126 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-126.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-126.html"/>
+        <updated>2026-07-10T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-43499]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-109 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-109.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-109.html"/>
@@ -49,16 +69,6 @@
         <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-125 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-125.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-125.html"/>
-        <updated>2026-07-10T22:02:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-43499]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-126 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-126.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-126.html"/>
         <updated>2026-07-10T22:02:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-43499]]></summary>
         <author>
@@ -101,6 +111,26 @@
         <link href="https://alas.aws.amazon.com/AL2/ALAS2NGINX1-2026-014.html"/>
         <updated>2026-07-08T01:01:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-42055, CVE-2026-48142]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2026-134 (important): docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html"/>
+        <updated>2026-07-08T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-27145, CVE-2026-41567, CVE-2026-42504, CVE-2026-42507]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2026-135 (medium): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html"/>
+        <updated>2026-07-08T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-27145, CVE-2026-42504, CVE-2026-42507]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -338,26 +368,6 @@
         <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-114 (medium): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-114.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-114.html"/>
-        <updated>2026-07-08T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-27145, CVE-2026-42504, CVE-2026-42507]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2026-134 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html"/>
-        <updated>2026-07-08T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-27145, CVE-2026-41567, CVE-2026-42504, CVE-2026-42507]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2026-135 (medium): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html"/>
         <updated>2026-07-08T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-27145, CVE-2026-42504, CVE-2026-42507]]></summary>
         <author>
@@ -605,6 +615,16 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-125 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-125.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-125.html"/>
+        <updated>2026-06-22T19:54:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-46243]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2ECS-2026-122 (important): containerd]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-122.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-122.html"/>
@@ -685,11 +705,41 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.4-2026-125 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-125.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-125.html"/>
-        <updated>2026-06-22T19:54:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-46243]]></summary>
+        <title type="html"><![CDATA[ALAS2DOCKER-2026-130 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-130.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-130.html"/>
+        <updated>2026-06-22T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42506]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2026-131 (important): soci-snapshotter]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-131.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-131.html"/>
+        <updated>2026-06-22T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-27145, CVE-2026-39821, CVE-2026-42502, CVE-2026-42504, CVE-2026-42506, CVE-2026-42507]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2026-132 (important): runfinch-finch]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-132.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-132.html"/>
+        <updated>2026-06-22T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42504, CVE-2026-42506]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2DOCKER-2026-133 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-133.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-133.html"/>
+        <updated>2026-06-22T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-47262, CVE-2026-50195, CVE-2026-53488, CVE-2026-53489, CVE-2026-53492]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -1065,46 +1115,6 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2026-130 (important): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-130.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-130.html"/>
-        <updated>2026-06-22T19:53:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42506]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2026-131 (important): soci-snapshotter]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-131.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-131.html"/>
-        <updated>2026-06-22T19:53:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-27145, CVE-2026-39821, CVE-2026-42502, CVE-2026-42504, CVE-2026-42506, CVE-2026-42507]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2026-132 (important): runfinch-finch]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-132.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-132.html"/>
-        <updated>2026-06-22T19:53:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42504, CVE-2026-42506]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2DOCKER-2026-133 (important): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-133.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-133.html"/>
-        <updated>2026-06-22T19:53:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-47262, CVE-2026-50195, CVE-2026-53488, CVE-2026-53489, CVE-2026-53492]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2OPENSSL-SNAPSAFE-2026-011 (important): openssl-snapsafe]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2OPENSSL-SNAPSAFE-2026-011.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2OPENSSL-SNAPSAFE-2026-011.html"/>
@@ -1152,50 +1162,6 @@ UniFi Network application version]]></summary>
         <summary type="html"><![CDATA[FortiWeb 7.6.9 B1133 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi Access Point for U6-LR, U6-Lite, U6+ & more 6.7.54]]></title>
-        <id>758132b8-27dc-4a5f-ac6c-5b87aa80a777</id>
-        <link href="https://community.ui.com/releases/UniFi-Access-Point-for-U6-LR-U6-Lite-U6-and-more-6-7-54/758132b8-27dc-4a5f-ac6c-5b87aa80a777"/>
-        <updated>2026-06-15T18:08:41.000Z</updated>
-        <summary type="html"><![CDATA[Overview
-This release is only for these models:
-
-U6-LR/U6-Lite/U6+
-UAP-nanoHD/FlexHD/BeaconHD/IW-HD
-
-Improvements
-
-Improved client connectivity and roam event reporting.
-Improved Auto-Link compatibility.
-Improved stability.
-
-Bugfixes
-
-Fixed an issue where Auto Channel Selection on 2.4 GHz could select restricted channels.
-Fixed connectivity issues where UDB-IoT clients could not access the internet.
-Fixed an issue where UDB-IoT clients could not reach certain clients connected to UniFi APs.
-Fixed an issue where channel width was not synchronized on meshed APs.
-Fixed an issue causing clients to get stuck in a roaming loop between 2.4 GHz and 5 GHz.
-Fixed an issue where clients could not connect using OWE.
-Fixed an issue where clients were repeatedly rejected by the AP.
-Fixed an issue where AP configuration would not be saved properly.
-Fixed an issue where the AP would fail to broadcast beacons.
-
-Additional information
-Update your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.
-
-If you wish to go back to the Official release after the upgrade, change the release channel back to Official.
-
-----
-If you encounter any issues with this release, please provide us with some details on your setup and include the below information:
-
-AP model(s)
-Previous AP release version
-UniFi Network application version]]></summary>
-        <author>
-            <name>UI-Edmundas</name>
         </author>
     </entry>
 </feed>
