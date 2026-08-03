@@ -123,16 +123,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
-          "author": null,
-          "description": "CVE-2026-46680",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
-          "publishedOn": "2026-07-20T20:38:00.000Z",
-          "wordCount": 315,
-          "title": "ALAS2DOCKER-2026-136 (important): runfinch-finch",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-132.html",
           "author": null,
           "description": "CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42506",
@@ -140,6 +130,16 @@
           "publishedOn": "2026-07-20T20:38:00.000Z",
           "wordCount": 464,
           "title": "ALAS2ECS-2026-132 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
+          "author": null,
+          "description": "CVE-2026-46680",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
+          "publishedOn": "2026-07-20T20:38:00.000Z",
+          "wordCount": 315,
+          "title": "ALAS2DOCKER-2026-136 (important): runfinch-finch",
           "imageUrl": null
         },
         {
@@ -493,46 +493,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-41567, CVE-2026-42504, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html",
-          "publishedOn": "2026-07-08T01:00:00.000Z",
-          "wordCount": 480,
-          "title": "ALAS2DOCKER-2026-134 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-42504, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html",
-          "publishedOn": "2026-07-08T01:00:00.000Z",
-          "wordCount": 339,
-          "title": "ALAS2DOCKER-2026-135 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-112.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-41567, CVE-2026-42504, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-112.html",
-          "publishedOn": "2026-07-08T01:00:00.000Z",
-          "wordCount": 480,
-          "title": "ALAS2NITRO-ENCLAVES-2026-112 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-114.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-42504, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-114.html",
-          "publishedOn": "2026-07-08T01:00:00.000Z",
-          "wordCount": 339,
-          "title": "ALAS2NITRO-ENCLAVES-2026-114 (medium): containerd",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3492.html",
           "author": null,
           "description": "CVE-2026-10275",
@@ -723,6 +683,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-112.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-41567, CVE-2026-42504, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-112.html",
+          "publishedOn": "2026-07-08T01:00:00.000Z",
+          "wordCount": 480,
+          "title": "ALAS2NITRO-ENCLAVES-2026-112 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-114.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-42504, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-114.html",
+          "publishedOn": "2026-07-08T01:00:00.000Z",
+          "wordCount": 339,
+          "title": "ALAS2NITRO-ENCLAVES-2026-114 (medium): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-127.html",
           "author": null,
           "description": "CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-27145, CVE-2026-39821, CVE-2026-42502, CVE-2026-42504, CVE-2026-42506, CVE-2026-42507",
@@ -750,6 +730,26 @@
           "publishedOn": "2026-07-08T01:00:00.000Z",
           "wordCount": 480,
           "title": "ALAS2ECS-2026-131 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-41567, CVE-2026-42504, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-134.html",
+          "publishedOn": "2026-07-08T01:00:00.000Z",
+          "wordCount": 480,
+          "title": "ALAS2DOCKER-2026-134 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-42504, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-135.html",
+          "publishedOn": "2026-07-08T01:00:00.000Z",
+          "wordCount": 339,
+          "title": "ALAS2DOCKER-2026-135 (medium): containerd",
           "imageUrl": null
         },
         {
@@ -977,16 +977,6 @@
           "publishedOn": "2026-07-06T15:47:17.000Z",
           "wordCount": 3898,
           "title": "FortiPAM 1.9.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Fri, 3 Jul 2026 18:19:16 GMT",
-          "author": null,
-          "description": "FortiPAM 1.8.4 B1704 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2026-07-03T18:19:16.000Z",
-          "wordCount": 3898,
-          "title": "FortiPAM 1.8.4",
           "imageUrl": null
         }
       ]
