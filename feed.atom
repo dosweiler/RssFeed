@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T01:06:04.138Z</id>
+    <id>urn:2026-08-13T01:07:47.844Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T01:06:04.138Z</updated>
+    <updated>2026-08-13T01:07:47.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-115 (important): aws-nitro-enclaves-cli]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html"/>
-        <updated>2026-08-04T21:36:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-42327]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2CORRETTO8-2026-024 (important): java-1.8.0-amazon-corretto]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-024.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-024.html"/>
@@ -126,11 +116,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-128 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-128.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-128.html"/>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-115 (important): aws-nitro-enclaves-cli]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html"/>
         <updated>2026-08-04T21:36:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2025-40158, CVE-2026-43091, CVE-2026-52991, CVE-2026-53224]]></summary>
+        <summary type="html"><![CDATA[CVE-2026-42327]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -396,6 +386,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-128 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-128.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-128.html"/>
+        <updated>2026-08-04T21:36:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2025-40158, CVE-2026-43091, CVE-2026-52991, CVE-2026-53224]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2GIMP-2026-016 (important): gimp]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-016.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-016.html"/>
@@ -516,21 +516,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-111 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-111.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-111.html"/>
+        <title type="html"><![CDATA[ALAS2-2026-3835 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3835.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3835.html"/>
         <updated>2026-07-27T23:58:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-31451, CVE-2026-46331, CVE-2026-52909, CVE-2026-52928, CVE-2026-53167, CVE-2026-53359, CVE-2026-53381, CVE-2026-53385, CVE-2026-53388, CVE-2026-53391, CVE-2026-53397, CVE-2026-53398, CVE-2026-53403, CVE-2026-63794, CVE-2026-63800, CVE-2026-63807, CVE-2026-63808, CVE-2026-63809, CVE-2026-63823, CVE-2026-63824]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-112 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-112.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-112.html"/>
-        <updated>2026-07-27T23:58:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-64531, CVE-2026-64600]]></summary>
+        <summary type="html"><![CDATA[CVE-2026-64600]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -546,11 +536,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2-2026-3835 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3835.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3835.html"/>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-111 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-111.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-111.html"/>
         <updated>2026-07-27T23:58:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-64600]]></summary>
+        <summary type="html"><![CDATA[CVE-2026-31451, CVE-2026-46331, CVE-2026-52909, CVE-2026-52928, CVE-2026-53167, CVE-2026-53359, CVE-2026-53381, CVE-2026-53385, CVE-2026-53388, CVE-2026-53391, CVE-2026-53397, CVE-2026-53398, CVE-2026-53403, CVE-2026-63794, CVE-2026-63800, CVE-2026-63807, CVE-2026-63808, CVE-2026-63809, CVE-2026-63823, CVE-2026-63824, CVE-2026-63833]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-112 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-112.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-112.html"/>
+        <updated>2026-07-27T23:58:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-64531, CVE-2026-64600]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -646,21 +646,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-110 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html"/>
-        <updated>2026-07-20T20:38:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-31402, CVE-2026-31449, CVE-2026-31700, CVE-2026-31708, CVE-2026-31709, CVE-2026-43341, CVE-2026-43350, CVE-2026-43383, CVE-2026-43492, CVE-2026-45850, CVE-2026-45991, CVE-2026-46021, CVE-2026-46052, CVE-2026-46065, CVE-2026-46086, CVE-2026-46116, CVE-2026-46137, CVE-2026-46159, CVE-2026-46160, CVE-2026-46193, CVE-2026-46195, CVE-2026-46196, CVE-2026-46292, CVE-2026-46320, CVE-2026-46321, CVE-2026-46322, CVE-2026-52910, CVE-2026-52923, CVE-2026-52924, CVE-2026-52927, CVE-2026-52929, CVE-2026-52930, CVE-2026-52933, CVE-2026-52942, CVE-2026-52943, CVE-2026-52946, CVE-2026-53131, CVE-2026-53133, CVE-2026-53134, CVE-2026-53168, CVE-2026-53189, CVE-2026-53199, CVE-2026-53212, CVE-2026-53218, CVE-2026-53219, CVE-2026-53221, CVE-2026-53223, CVE-2026-53225, CVE-2026-53227, CVE-2026-53228, CVE-2026-53238, CVE-2026-53239, CVE-2026-53245, CVE-2026-53249, CVE-2026-53264, CVE-2026-53266, CVE-2026-53268, CVE-2026-53269, CVE-2026-53270, CVE-2026-53275, CVE-2026-53337, CVE-2026-53352, CVE-2026-53354, CVE-2026-53356, CVE-2026-63867, CVE-2026-63868, CVE-2026-63875, CVE-2026-63889, CVE-2026-63912, CVE-2026-63913, CVE-2026-63914, CVE-2026-63917, CVE-2026-63919, CVE-2026-63920, CVE-2026-63921, CVE-2026-63922, CVE-2026-63924, CVE-2026-63926, CVE-2026-63971, CVE-2026-63984, CVE-2026-63985, CVE-2026-63990, CVE-2026-63992, CVE-2026-63993, CVE-2026-63994, CVE-2026-64005, CVE-2026-64007, CVE-2026-64009, CVE-2026-64012, CVE-2026-64116, CVE-2026-64137]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2KERNEL-5.10-2026-126 (important): kernel]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-126.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-126.html"/>
         <updated>2026-07-20T20:38:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-31451, CVE-2026-31755, CVE-2026-46116, CVE-2026-46252, CVE-2026-46324, CVE-2026-46331, CVE-2026-52909, CVE-2026-53078, CVE-2026-53167, CVE-2026-53177, CVE-2026-53262, CVE-2026-53359, CVE-2026-53381, CVE-2026-53385, CVE-2026-53397, CVE-2026-53398, CVE-2026-53403, CVE-2026-63794, CVE-2026-63800, CVE-2026-63801, CVE-2026-63808, CVE-2026-63809, CVE-2026-63823, CVE-2026-63824, CVE-2026-64191]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-110 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html"/>
+        <updated>2026-07-20T20:38:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-31402, CVE-2026-31449, CVE-2026-31700, CVE-2026-31708, CVE-2026-31709, CVE-2026-43341, CVE-2026-43350, CVE-2026-43383, CVE-2026-43492, CVE-2026-45850, CVE-2026-45991, CVE-2026-46021, CVE-2026-46052, CVE-2026-46065, CVE-2026-46086, CVE-2026-46116, CVE-2026-46137, CVE-2026-46159, CVE-2026-46160, CVE-2026-46193, CVE-2026-46195, CVE-2026-46196, CVE-2026-46292, CVE-2026-46320, CVE-2026-46321, CVE-2026-46322, CVE-2026-52910, CVE-2026-52923, CVE-2026-52924, CVE-2026-52927, CVE-2026-52929, CVE-2026-52930, CVE-2026-52933, CVE-2026-52942, CVE-2026-52943, CVE-2026-52946, CVE-2026-53131, CVE-2026-53133, CVE-2026-53134, CVE-2026-53168, CVE-2026-53189, CVE-2026-53199, CVE-2026-53212, CVE-2026-53218, CVE-2026-53219, CVE-2026-53221, CVE-2026-53223, CVE-2026-53225, CVE-2026-53227, CVE-2026-53228, CVE-2026-53238, CVE-2026-53239, CVE-2026-53245, CVE-2026-53249, CVE-2026-53264, CVE-2026-53266, CVE-2026-53268, CVE-2026-53269, CVE-2026-53270, CVE-2026-53275, CVE-2026-53337, CVE-2026-53352, CVE-2026-53354, CVE-2026-53356, CVE-2026-63867, CVE-2026-63868, CVE-2026-63875, CVE-2026-63889, CVE-2026-63912, CVE-2026-63913, CVE-2026-63914, CVE-2026-63917, CVE-2026-63919, CVE-2026-63920, CVE-2026-63921, CVE-2026-63922, CVE-2026-63924, CVE-2026-63926, CVE-2026-63971, CVE-2026-63984, CVE-2026-63985, CVE-2026-63990, CVE-2026-63992, CVE-2026-63993, CVE-2026-63994, CVE-2026-64002, CVE-2026-64005, CVE-2026-64007, CVE-2026-64009, CVE-2026-64012, CVE-2026-64116, CVE-2026-64137]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -995,16 +995,6 @@ Ex…]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2026-07-14T17:28:56.000Z</updated>
         <summary type="html"><![CDATA[FortiWeb 8.0.6 B0116 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiDeceptor 6.3.0]]></title>
-        <id>Mon, 13 Jul 2026 22:20:32 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-07-13T22:20:32.000Z</updated>
-        <summary type="html"><![CDATA[FortiDeceptor 6.3.0 B0465 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
