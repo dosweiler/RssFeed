@@ -53,6 +53,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html",
+          "author": null,
+          "description": "CVE-2026-42327",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html",
+          "publishedOn": "2026-08-04T21:36:00.000Z",
+          "wordCount": 303,
+          "title": "ALAS2NITRO-ENCLAVES-2026-115 (important): aws-nitro-enclaves-cli",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-137.html",
           "author": null,
           "description": "CVE-2026-39822, CVE-2026-42505, CVE-2026-48702, CVE-2026-49478, CVE-2026-49835",
@@ -70,16 +80,6 @@
           "publishedOn": "2026-08-04T21:36:00.000Z",
           "wordCount": 1733,
           "title": "ALAS2CORRETTO8-2026-024 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html",
-          "author": null,
-          "description": "CVE-2026-42327",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html",
-          "publishedOn": "2026-08-04T21:36:00.000Z",
-          "wordCount": 303,
-          "title": "ALAS2NITRO-ENCLAVES-2026-115 (important): aws-nitro-enclaves-cli",
           "imageUrl": null
         },
         {
@@ -345,10 +345,10 @@
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-128.html",
           "author": null,
-          "description": "CVE-2025-40158, CVE-2026-43091, CVE-2026-52991, CVE-2026-53224",
+          "description": "CVE-2025-40158, CVE-2026-43091, CVE-2026-52991, CVE-2026-53224, CVE-2026-53246",
           "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-128.html",
           "publishedOn": "2026-08-04T21:36:00.000Z",
-          "wordCount": 334,
+          "wordCount": 356,
           "title": "ALAS2KERNEL-5.10-2026-128 (important): kernel",
           "imageUrl": null
         },
@@ -393,16 +393,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-127.html",
-          "author": null,
-          "description": "CVE-2026-64600",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-127.html",
-          "publishedOn": "2026-07-27T23:58:00.000Z",
-          "wordCount": 273,
-          "title": "ALAS2KERNEL-5.10-2026-127 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-111.html",
           "author": null,
           "description": "CVE-2026-31451, CVE-2026-46331, CVE-2026-52909, CVE-2026-52928, CVE-2026-53167, CVE-2026-53359, CVE-2026-53381, CVE-2026-53385, CVE-2026-53388, CVE-2026-53391, CVE-2026-53397, CVE-2026-53398, CVE-2026-53403, CVE-2026-63794, CVE-2026-63800, CVE-2026-63807, CVE-2026-63808, CVE-2026-63809, CVE-2026-63823, CVE-2026-63824, CVE-2026-63833",
@@ -420,6 +410,16 @@
           "publishedOn": "2026-07-27T23:58:00.000Z",
           "wordCount": 292,
           "title": "ALAS2KERNEL-5.15-2026-112 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-127.html",
+          "author": null,
+          "description": "CVE-2026-64600",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-127.html",
+          "publishedOn": "2026-07-27T23:58:00.000Z",
+          "wordCount": 273,
+          "title": "ALAS2KERNEL-5.10-2026-127 (important): kernel",
           "imageUrl": null
         },
         {
@@ -453,16 +453,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
-          "author": null,
-          "description": "CVE-2026-46680",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
-          "publishedOn": "2026-07-20T20:38:00.000Z",
-          "wordCount": 315,
-          "title": "ALAS2DOCKER-2026-136 (important): runfinch-finch",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-132.html",
           "author": null,
           "description": "CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42506",
@@ -473,6 +463,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
+          "author": null,
+          "description": "CVE-2026-46680",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-136.html",
+          "publishedOn": "2026-07-20T20:38:00.000Z",
+          "wordCount": 315,
+          "title": "ALAS2DOCKER-2026-136 (important): runfinch-finch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html",
+          "author": null,
+          "description": "CVE-2026-31402, CVE-2026-31449, CVE-2026-31700, CVE-2026-31708, CVE-2026-31709, CVE-2026-43341, CVE-2026-43350, CVE-2026-43383, CVE-2026-43492, CVE-2026-45850, CVE-2026-45991, CVE-2026-46021, CVE-2026-46052, CVE-2026-46065, CVE-2026-46086, CVE-2026-46116, CVE-2026-46137, CVE-2026-46159, CVE-2026-46160, CVE-2026-46193, CVE-2026-46195, CVE-2026-46196, CVE-2026-46292, CVE-2026-46320, CVE-2026-46321, CVE-2026-46322, CVE-2026-52910, CVE-2026-52923, CVE-2026-52924, CVE-2026-52927, CVE-2026-52929, CVE-2026-52930, CVE-2026-52933, CVE-2026-52942, CVE-2026-52943, CVE-2026-52946, CVE-2026-53131, CVE-2026-53133, CVE-2026-53134, CVE-2026-53168, CVE-2026-53189, CVE-2026-53199, CVE-2026-53212, CVE-2026-53218, CVE-2026-53219, CVE-2026-53221, CVE-2026-53223, CVE-2026-53225, CVE-2026-53227, CVE-2026-53228, CVE-2026-53238, CVE-2026-53239, CVE-2026-53245, CVE-2026-53249, CVE-2026-53264, CVE-2026-53266, CVE-2026-53268, CVE-2026-53269, CVE-2026-53270, CVE-2026-53275, CVE-2026-53337, CVE-2026-53352, CVE-2026-53354, CVE-2026-53356, CVE-2026-63867, CVE-2026-63868, CVE-2026-63875, CVE-2026-63887, CVE-2026-63888, CVE-2026-63889, CVE-2026-63912, CVE-2026-63913, CVE-2026-63914, CVE-2026-63917, CVE-2026-63919, CVE-2026-63920, CVE-2026-63921, CVE-2026-63922, CVE-2026-63924, CVE-2026-63926, CVE-2026-63971, CVE-2026-63984, CVE-2026-63985, CVE-2026-63990, CVE-2026-63992, CVE-2026-63993, CVE-2026-63994, CVE-2026-64002, CVE-2026-64005, CVE-2026-64007, CVE-2026-64009, CVE-2026-64012, CVE-2026-64116, CVE-2026-64137",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html",
+          "publishedOn": "2026-07-20T20:38:00.000Z",
+          "wordCount": 3310,
+          "title": "ALAS2KERNEL-5.15-2026-110 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-126.html",
           "author": null,
           "description": "CVE-2026-31451, CVE-2026-31755, CVE-2026-46116, CVE-2026-46252, CVE-2026-46324, CVE-2026-46331, CVE-2026-52909, CVE-2026-53078, CVE-2026-53167, CVE-2026-53177, CVE-2026-53262, CVE-2026-53359, CVE-2026-53381, CVE-2026-53385, CVE-2026-53397, CVE-2026-53398, CVE-2026-53403, CVE-2026-63794, CVE-2026-63800, CVE-2026-63801, CVE-2026-63808, CVE-2026-63809, CVE-2026-63823, CVE-2026-63824, CVE-2026-64191",
@@ -480,16 +490,6 @@
           "publishedOn": "2026-07-20T20:38:00.000Z",
           "wordCount": 1213,
           "title": "ALAS2KERNEL-5.10-2026-126 (important): kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html",
-          "author": null,
-          "description": "CVE-2026-31402, CVE-2026-31449, CVE-2026-31700, CVE-2026-31708, CVE-2026-31709, CVE-2026-43341, CVE-2026-43350, CVE-2026-43383, CVE-2026-43492, CVE-2026-45850, CVE-2026-45991, CVE-2026-46021, CVE-2026-46052, CVE-2026-46065, CVE-2026-46086, CVE-2026-46116, CVE-2026-46137, CVE-2026-46159, CVE-2026-46160, CVE-2026-46193, CVE-2026-46195, CVE-2026-46196, CVE-2026-46292, CVE-2026-46320, CVE-2026-46321, CVE-2026-46322, CVE-2026-52910, CVE-2026-52923, CVE-2026-52924, CVE-2026-52927, CVE-2026-52929, CVE-2026-52930, CVE-2026-52933, CVE-2026-52942, CVE-2026-52943, CVE-2026-52946, CVE-2026-53131, CVE-2026-53133, CVE-2026-53134, CVE-2026-53168, CVE-2026-53189, CVE-2026-53199, CVE-2026-53212, CVE-2026-53218, CVE-2026-53219, CVE-2026-53221, CVE-2026-53223, CVE-2026-53225, CVE-2026-53227, CVE-2026-53228, CVE-2026-53238, CVE-2026-53239, CVE-2026-53245, CVE-2026-53249, CVE-2026-53264, CVE-2026-53266, CVE-2026-53268, CVE-2026-53269, CVE-2026-53270, CVE-2026-53275, CVE-2026-53337, CVE-2026-53352, CVE-2026-53354, CVE-2026-53356, CVE-2026-63867, CVE-2026-63868, CVE-2026-63875, CVE-2026-63889, CVE-2026-63912, CVE-2026-63913, CVE-2026-63914, CVE-2026-63917, CVE-2026-63919, CVE-2026-63920, CVE-2026-63921, CVE-2026-63922, CVE-2026-63924, CVE-2026-63926, CVE-2026-63971, CVE-2026-63984, CVE-2026-63985, CVE-2026-63990, CVE-2026-63992, CVE-2026-63993, CVE-2026-63994, CVE-2026-64002, CVE-2026-64005, CVE-2026-64007, CVE-2026-64009, CVE-2026-64012, CVE-2026-64116, CVE-2026-64137",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-110.html",
-          "publishedOn": "2026-07-20T20:38:00.000Z",
-          "wordCount": 3268,
-          "title": "ALAS2KERNEL-5.15-2026-110 (important): kernel",
           "imageUrl": null
         },
         {
@@ -770,6 +770,36 @@
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
         {
+          "id": "Thu, 13 Aug 2026 22:09:56 GMT",
+          "author": null,
+          "description": "FortiSandbox 5.0.7 B0172 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-08-13T22:09:56.000Z",
+          "wordCount": 3898,
+          "title": "FortiSandbox 5.0.7",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 13 Aug 2026 19:34:05 GMT",
+          "author": null,
+          "description": "FortiSandbox 5.2.1 B0295 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-08-13T19:34:05.000Z",
+          "wordCount": 3898,
+          "title": "FortiSandbox 5.2.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Thu, 13 Aug 2026 17:16:52 GMT",
+          "author": null,
+          "description": "FortiWeb 7.6.10 B1142 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-08-13T17:16:52.000Z",
+          "wordCount": 3898,
+          "title": "FortiWeb 7.6.10",
+          "imageUrl": null
+        },
+        {
           "id": "Mon, 10 Aug 2026 23:40:15 GMT",
           "author": null,
           "description": "FortiClientEMS 7.2.15 B1293 and release notes are available for download from the Support site : https://support.fortinet.com",
@@ -967,26 +997,6 @@
           "publishedOn": "2026-07-15T17:49:32.000Z",
           "wordCount": 3898,
           "title": "FortiADCManager 8.0.1",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 14 Jul 2026 23:06:07 GMT",
-          "author": null,
-          "description": "FortiSwitch 7.6.8 B1164 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2026-07-14T23:06:07.000Z",
-          "wordCount": 3898,
-          "title": "FortiSwitch 7.6.8",
-          "imageUrl": null
-        },
-        {
-          "id": "Tue, 14 Jul 2026 17:28:56 GMT",
-          "author": null,
-          "description": "FortiWeb 8.0.6 B0116 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2026-07-14T17:28:56.000Z",
-          "wordCount": 3898,
-          "title": "FortiWeb 8.0.6",
           "imageUrl": null
         }
       ]
