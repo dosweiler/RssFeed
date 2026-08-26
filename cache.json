@@ -4,13 +4,44 @@
       "title": "UniFi Access Point | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "97000981-b2ee-4a8d-a783-ed251b8c04c1",
+          "author": "UI-Edmundas",
+          "description": "Overview\nThis release is only for these models:\n\nU6-LR/U6-Lite/U6+\nUAP-nanoHD/FlexHD/BeaconHD/IW-HD\n\nImprovements\n\nAdded Test & Confirm mode to automatically revert configuration changes if the device becomes unreachable or the test period expires without confirmation.\n\nBugfixes\n\nFixed clients failing to receive an IP address after changing an Enterprise WiFi network to Open.\nFixed certain 2.4 GHz IoT devices repeatedly reconnecting while appearing connected.\nFixed an issue where U6-LR could report unusually high channel utilization.\n\nAdditional information\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\n----\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U6-LR-U6-Lite-U6-and-more-6-7-57/97000981-b2ee-4a8d-a783-ed251b8c04c1",
+          "publishedOn": "2026-08-25T14:57:18.000Z",
+          "wordCount": 6,
+          "title": "UniFi Access Point for U6-LR, U6-Lite, U6+ & more 6.7.57",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-113.html",
+          "author": null,
+          "description": "CVE-2026-53392, CVE-2026-53393, CVE-2026-53400, CVE-2026-53402, CVE-2026-63806, CVE-2026-63810, CVE-2026-63829, CVE-2026-63830, CVE-2026-64187, CVE-2026-64189, CVE-2026-64266, CVE-2026-64279, CVE-2026-64296, CVE-2026-64298, CVE-2026-64299, CVE-2026-64306, CVE-2026-64312, CVE-2026-64313, CVE-2026-64317, CVE-2026-64322, CVE-2026-64323, CVE-2026-64324, CVE-2026-64352, CVE-2026-64355, CVE-2026-64364, CVE-2026-64370, CVE-2026-64371, CVE-2026-64372, CVE-2026-64373, CVE-2026-64374, CVE-2026-64375, CVE-2026-64380, CVE-2026-64381, CVE-2026-64411, CVE-2026-64412, CVE-2026-64413, CVE-2026-64422, CVE-2026-64423, CVE-2026-64425, CVE-2026-64432, CVE-2026-64435, CVE-2026-64436, CVE-2026-64448, CVE-2026-64456, CVE-2026-64465, CVE-2026-64475, CVE-2026-64514, CVE-2026-64530, CVE-2026-64532, CVE-2026-64533, …",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-113.html",
+          "publishedOn": "2026-08-25T23:41:00.000Z",
+          "wordCount": 3740,
+          "title": "ALAS2KERNEL-5.15-2026-113 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3877.html",
+          "author": null,
+          "description": "CVE-2026-11861, CVE-2026-13097",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3877.html",
+          "publishedOn": "2026-08-25T23:40:00.000Z",
+          "wordCount": 374,
+          "title": "ALAS2-2026-3877 (critical): ipa",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-138.html",
           "author": null,
@@ -269,16 +300,6 @@
           "publishedOn": "2026-08-04T21:37:00.000Z",
           "wordCount": 634,
           "title": "ALAS2NGINX1-2026-015 (important): nginx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-137.html",
-          "author": null,
-          "description": "CVE-2026-39822, CVE-2026-42505, CVE-2026-48702, CVE-2026-49478, CVE-2026-49835",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-137.html",
-          "publishedOn": "2026-08-04T21:36:00.000Z",
-          "wordCount": 530,
-          "title": "ALAS2DOCKER-2026-137 (important): runfinch-finch",
           "imageUrl": null
         },
         {
@@ -542,16 +563,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-024.html",
-          "author": null,
-          "description": "CVE-2026-46968, CVE-2026-47010, CVE-2026-47021, CVE-2026-47027, CVE-2026-47057, CVE-2026-47058, CVE-2026-47059, CVE-2026-47063, CVE-2026-60147",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-024.html",
-          "publishedOn": "2026-08-04T21:36:00.000Z",
-          "wordCount": 1733,
-          "title": "ALAS2CORRETTO8-2026-024 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-115.html",
           "author": null,
           "description": "CVE-2026-42327",
@@ -559,6 +570,26 @@
           "publishedOn": "2026-08-04T21:36:00.000Z",
           "wordCount": 303,
           "title": "ALAS2NITRO-ENCLAVES-2026-115 (important): aws-nitro-enclaves-cli",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-137.html",
+          "author": null,
+          "description": "CVE-2026-39822, CVE-2026-42505, CVE-2026-48702, CVE-2026-49478, CVE-2026-49835",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-137.html",
+          "publishedOn": "2026-08-04T21:36:00.000Z",
+          "wordCount": 530,
+          "title": "ALAS2DOCKER-2026-137 (important): runfinch-finch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-024.html",
+          "author": null,
+          "description": "CVE-2026-46968, CVE-2026-47010, CVE-2026-47021, CVE-2026-47027, CVE-2026-47057, CVE-2026-47058, CVE-2026-47059, CVE-2026-47063, CVE-2026-60147",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-024.html",
+          "publishedOn": "2026-08-04T21:36:00.000Z",
+          "wordCount": 1733,
+          "title": "ALAS2CORRETTO8-2026-024 (important): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -592,16 +623,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-133.html",
-          "author": null,
-          "description": "CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42506",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-133.html",
-          "publishedOn": "2026-07-27T23:58:00.000Z",
-          "wordCount": 462,
-          "title": "ALAS2ECS-2026-133 (important): docker",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3835.html",
           "author": null,
           "description": "CVE-2026-64600",
@@ -609,6 +630,16 @@
           "publishedOn": "2026-07-27T23:58:00.000Z",
           "wordCount": 256,
           "title": "ALAS2-2026-3835 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-133.html",
+          "author": null,
+          "description": "CVE-2026-25680, CVE-2026-25681, CVE-2026-27136, CVE-2026-39821, CVE-2026-42502, CVE-2026-42506",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-133.html",
+          "publishedOn": "2026-07-27T23:58:00.000Z",
+          "wordCount": 462,
+          "title": "ALAS2ECS-2026-133 (important): docker",
           "imageUrl": null
         },
         {
@@ -648,6 +679,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Tue, 25 Aug 2026 18:11:44 GMT",
+          "author": null,
+          "description": "FortiPAM 1.9.2 B1762 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-08-25T18:11:44.000Z",
+          "wordCount": 3898,
+          "title": "FortiPAM 1.9.2",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 21 Aug 2026 21:33:45 GMT",
           "author": null,
