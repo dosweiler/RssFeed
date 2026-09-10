@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-09T02:11:41.167Z</id>
+    <id>urn:2026-09-10T02:09:27.275Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T02:11:41.167Z</updated>
+    <updated>2026-09-10T02:09:27.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FortiADC 8.0.4]]></title>
+        <id>Wed, 9 Sep 2026 23:33:58 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2026-09-09T23:33:58.000Z</updated>
+        <summary type="html"><![CDATA[FortiADC 8.0.4 B0136 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiVoice 7.4.2]]></title>
+        <id>Wed, 9 Sep 2026 18:02:00 GMT</id>
+        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
+        <updated>2026-09-09T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[FortiVoice 7.4.2 B0707 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
+        <author>
+            <name>Fortinet Firmware Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2-2026-3909 (critical): 389-ds-base]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3909.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3909.html"/>
+        <updated>2026-09-08T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-18922]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2-2026-3916 (critical): ipa]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3916.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3916.html"/>
+        <updated>2026-09-08T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-76578]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortiNDR 7.6.5]]></title>
         <id>Thu, 3 Sep 2026 19:55:43 GMT</id>
@@ -70,7 +110,7 @@
         <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-130.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-130.html"/>
         <updated>2026-08-31T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2024-58240, CVE-2025-37920, CVE-2026-46119, CVE-2026-53090, CVE-2026-64320, CVE-2026-64543, CVE-2026-64562, CVE-2026-64563, CVE-2026-64564, CVE-2026-64567, CVE-2026-64572, CVE-2026-64579, CVE-2026-64581, CVE-2026-64582, CVE-2026-68117, CVE-2026-68121, CVE-2026-68123, CVE-2026-68127, CVE-2026-68131, CVE-2026-68138, CVE-2026-68142, CVE-2026-68143, CVE-2026-68153, CVE-2026-68154, CVE-2026-68155, CVE-2026-68156, CVE-2026-68157, CVE-2026-68158, CVE-2026-68160, CVE-2026-68184, CVE-2026-68186, CVE-2026-68284, CVE-2026-68297, CVE-2026-68299, CVE-2026-68300, CVE-2026-68313, CVE-2026-68315, CVE-2026-68320, CVE-2026-68322, CVE-2026-68325, CVE-2026-68335, CVE-2026-68338, CVE-2026-68365, CVE-2026-68376, CVE-2026-68377, CVE-2026-68388, CVE-2026-68398, CVE-2026-68399, CVE-2026-68425, CVE-2026-68428, CVE-2026-68432, CVE-2026-68433, CVE-2026-68480, CVE-2026-72019, CVE-2026-72051, CVE-2026-72053, CVE-2026-72066, CVE-2026-72113, CVE-2026-72114, CVE-2026-72115, CVE-2026-72116, CVE-2026-72117, CVE-2026-72118, CVE-2026-72119, CVE-2026-72121, CVE-2026-72123, CVE-2026-72392, CVE-2026-74281, CVE-2026-74464, CVE-2026-74465, CVE-2026-74469, CVE-2026-74471, CVE-2026-74473, CVE-2026-74475, CVE-2026-74480, CVE-2026-74481, CVE-2026-74482, CVE-2026-74485, CVE-2026-74490, CVE-2026-74492, CVE-2026-74495, CVE-2026-74512, CVE-2026-74518, CVE-2026-74519, CVE-2026-74523, CVE-2026-74547, CVE-2026-74549, CVE-2026-74556, CVE-2026-74557, CVE-2026-74563, CVE-2026-74564, CVE-2026-74566, CVE-2026-74567, CVE-2026-74569, CVE-2026-74577, CVE-2026-74579, CVE-2026-74580, CVE-2026-74581, CVE-2026-74583, CVE-2026-74625, CVE-2026-74654, CVE-2026-74658, CVE-2026-74664, CVE-2026-74697, CVE-2026-74705, CVE-2026-74720]]></summary>
+        <summary type="html"><![CDATA[CVE-2025-37920, CVE-2026-46119, CVE-2026-64320, CVE-2026-64564, CVE-2026-64581, CVE-2026-68131, CVE-2026-68138, CVE-2026-68155, CVE-2026-68160, CVE-2026-68299, CVE-2026-68335, CVE-2026-68338, CVE-2026-68398, CVE-2026-68399, CVE-2026-72051, CVE-2026-72053, CVE-2026-74281]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -81,6 +121,46 @@
         <link href="https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-019.html"/>
         <updated>2026-08-31T21:40:00.000Z</updated>
         <summary type="html"><![CDATA[CVE-2026-59088, CVE-2026-59090]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html"/>
+        <updated>2026-08-31T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-60589, CVE-2026-61308, CVE-2026-70907]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2ECS-2026-134 (important): docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-134.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-134.html"/>
+        <updated>2026-08-31T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2ECS-2026-135 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-135.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-135.html"/>
+        <updated>2026-08-31T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-114 (important): kernel]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-114.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-114.html"/>
+        <updated>2026-08-31T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-74580]]></summary>
         <author>
             <name>Amazon Linux AMI Security Bulletins</name>
         </author>
@@ -396,46 +476,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2ECS-2026-134 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-134.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-134.html"/>
-        <updated>2026-08-31T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2ECS-2026-135 (important): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-135.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-135.html"/>
-        <updated>2026-08-31T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html"/>
-        <updated>2026-08-31T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-60589, CVE-2026-61308, CVE-2026-70907]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2KERNEL-5.15-2026-114 (important): kernel]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-114.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-114.html"/>
-        <updated>2026-08-31T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-68480, CVE-2026-74580]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ALAS2FIREFOX-2026-064 (important): firefox]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2FIREFOX-2026-064.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2FIREFOX-2026-064.html"/>
@@ -680,6 +720,26 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-116 (important): docker]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-116.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-116.html"/>
+        <updated>2026-08-17T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-117 (important): containerd]]></title>
+        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-117.html</id>
+        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-117.html"/>
+        <updated>2026-08-17T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
+        <author>
+            <name>Amazon Linux AMI Security Bulletins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ALAS2-2026-3855 (important): perl-Net-DNS]]></title>
         <id>https://alas.aws.amazon.com/AL2/ALAS2-2026-3855.html</id>
         <link href="https://alas.aws.amazon.com/AL2/ALAS2-2026-3855.html"/>
@@ -820,26 +880,6 @@ UniFi Network application version]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-116 (important): docker]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-116.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-116.html"/>
-        <updated>2026-08-17T23:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALAS2NITRO-ENCLAVES-2026-117 (important): containerd]]></title>
-        <id>https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-117.html</id>
-        <link href="https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-117.html"/>
-        <updated>2026-08-17T23:11:00.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-56852]]></summary>
-        <author>
-            <name>Amazon Linux AMI Security Bulletins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FortiProxy 7.6.7]]></title>
         <id>Mon, 17 Aug 2026 17:03:42 GMT</id>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
@@ -885,46 +925,6 @@ UniFi Network application version]]></summary>
         <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
         <updated>2026-08-13T17:16:52.000Z</updated>
         <summary type="html"><![CDATA[FortiWeb 7.6.10 B1142 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClientEMS 7.2.15]]></title>
-        <id>Mon, 10 Aug 2026 23:40:15 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-08-10T23:40:15.000Z</updated>
-        <summary type="html"><![CDATA[FortiClientEMS 7.2.15 B1293 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClientLinux 7.2.15]]></title>
-        <id>Mon, 10 Aug 2026 23:40:04 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-08-10T23:40:04.000Z</updated>
-        <summary type="html"><![CDATA[FortiClientLinux 7.2.15 B1053 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClientMac 7.2.15]]></title>
-        <id>Mon, 10 Aug 2026 23:39:50 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-08-10T23:39:50.000Z</updated>
-        <summary type="html"><![CDATA[FortiClientMac 7.2.15 B1144 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
-        <author>
-            <name>Fortinet Firmware Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiClient 7.2.15]]></title>
-        <id>Mon, 10 Aug 2026 23:39:36 GMT</id>
-        <link href="https://support.fortinet.com/EndUser/FirmwareImages.aspx"/>
-        <updated>2026-08-10T23:39:36.000Z</updated>
-        <summary type="html"><![CDATA[FortiClient 7.2.15 B1309 and release notes are available for download from the Support site : https://support.fortinet.com]]></summary>
         <author>
             <name>Fortinet Firmware Updates</name>
         </author>
