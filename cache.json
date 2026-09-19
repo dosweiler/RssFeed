@@ -33,6 +33,46 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-130.html",
+          "author": null,
+          "description": "CVE-2026-68121, CVE-2026-74469, CVE-2026-80844, CVE-2026-81000",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-130.html",
+          "publishedOn": "2026-09-18T21:38:00.000Z",
+          "wordCount": 320,
+          "title": "ALAS2KERNEL-5.4-2026-130 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3929.html",
+          "author": null,
+          "description": "CVE-2026-68121, CVE-2026-74469, CVE-2026-80844, CVE-2026-81000",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3929.html",
+          "publishedOn": "2026-09-18T21:37:00.000Z",
+          "wordCount": 305,
+          "title": "ALAS2-2026-3929 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2UNBOUND-1.17-2026-010.html",
+          "author": null,
+          "description": "CVE-2026-81642",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2UNBOUND-1.17-2026-010.html",
+          "publishedOn": "2026-09-17T23:02:00.000Z",
+          "wordCount": 304,
+          "title": "ALAS2UNBOUND-1.17-2026-010 (critical): unbound",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3928.html",
+          "author": null,
+          "description": "CVE-2026-81642",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3928.html",
+          "publishedOn": "2026-09-17T23:00:00.000Z",
+          "wordCount": 294,
+          "title": "ALAS2-2026-3928 (critical): unbound",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2LIBREOFFICE-2026-009.html",
           "author": null,
           "description": "CVE-2026-6039, CVE-2026-6045, CVE-2026-8356, CVE-2026-8357, CVE-2026-8358",
@@ -50,6 +90,16 @@
           "publishedOn": "2026-09-14T20:44:00.000Z",
           "wordCount": 620,
           "title": "ALAS2ECS-2026-137 (important): ecs-service-connect-agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
+          "publishedOn": "2026-09-14T20:44:00.000Z",
+          "wordCount": 484,
+          "title": "ALAS2NITRO-ENCLAVES-2026-119 (medium): runc",
           "imageUrl": null
         },
         {
@@ -233,16 +283,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 484,
-          "title": "ALAS2NITRO-ENCLAVES-2026-119 (medium): runc",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
           "author": null,
           "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
@@ -390,16 +430,6 @@
           "publishedOn": "2026-08-31T21:39:00.000Z",
           "wordCount": 234,
           "title": "ALAS2ECS-2026-135 (important): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
-          "author": null,
-          "description": "CVE-2026-60589, CVE-2026-61308, CVE-2026-70907",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
-          "publishedOn": "2026-08-31T21:39:00.000Z",
-          "wordCount": 720,
-          "title": "ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -713,6 +743,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
+          "author": null,
+          "description": "CVE-2026-60589, CVE-2026-61308, CVE-2026-70907",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
+          "publishedOn": "2026-08-31T21:39:00.000Z",
+          "wordCount": 720,
+          "title": "ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-114.html",
           "author": null,
           "description": "CVE-2026-68480, CVE-2026-74580",
@@ -759,6 +799,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 18 Sep 2026 17:32:30 GMT",
+          "author": null,
+          "description": "FortiSwitchAXChassis 1.1.2 B0135 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-09-18T17:32:30.000Z",
+          "wordCount": 3898,
+          "title": "FortiSwitchAXChassis 1.1.2",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 16 Sep 2026 22:43:42 GMT",
           "author": null,
@@ -927,16 +977,6 @@
           "publishedOn": "2026-08-20T19:07:09.000Z",
           "wordCount": 3898,
           "title": "FortiIsolator 2.4.9",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 19 Aug 2026 19:55:32 GMT",
-          "author": null,
-          "description": "FortiSOAR 7.5.4 B4167 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2026-08-19T19:55:32.000Z",
-          "wordCount": 3898,
-          "title": "FortiSOAR 7.5.4",
           "imageUrl": null
         }
       ]
