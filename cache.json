@@ -33,6 +33,26 @@
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-131.html",
+          "author": null,
+          "description": "CVE-2026-80844, CVE-2026-81000",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-131.html",
+          "publishedOn": "2026-09-24T00:50:00.000Z",
+          "wordCount": 286,
+          "title": "ALAS2KERNEL-5.10-2026-131 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-115.html",
+          "author": null,
+          "description": "CVE-2026-81000",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-115.html",
+          "publishedOn": "2026-09-24T00:50:00.000Z",
+          "wordCount": 268,
+          "title": "ALAS2KERNEL-5.15-2026-115 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-130.html",
           "author": null,
           "description": "CVE-2026-68121, CVE-2026-74469, CVE-2026-80844, CVE-2026-81000",
@@ -273,16 +293,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 484,
-          "title": "ALAS2NITRO-ENCLAVES-2026-119 (medium): runc",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
           "author": null,
           "description": "CVE-2026-48521, CVE-2026-50572, CVE-2026-73511, CVE-2026-73512, CVE-2026-73513, CVE-2026-73546, CVE-2026-73547, CVE-2026-73548, CVE-2026-73549, CVE-2026-73550, CVE-2026-73551, CVE-2026-73552, CVE-2026-73553",
@@ -290,6 +300,16 @@
           "publishedOn": "2026-09-14T20:44:00.000Z",
           "wordCount": 620,
           "title": "ALAS2ECS-2026-137 (important): ecs-service-connect-agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
+          "publishedOn": "2026-09-14T20:44:00.000Z",
+          "wordCount": 484,
+          "title": "ALAS2NITRO-ENCLAVES-2026-119 (medium): runc",
           "imageUrl": null
         },
         {
@@ -323,16 +343,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
-          "author": null,
-          "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
-          "publishedOn": "2026-09-10T02:27:00.000Z",
-          "wordCount": 390,
-          "title": "ALAS2NITRO-ENCLAVES-2026-118 (important): containerd",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-136.html",
           "author": null,
           "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
@@ -340,6 +350,16 @@
           "publishedOn": "2026-09-10T02:27:00.000Z",
           "wordCount": 390,
           "title": "ALAS2ECS-2026-136 (important): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
+          "author": null,
+          "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
+          "publishedOn": "2026-09-10T02:27:00.000Z",
+          "wordCount": 390,
+          "title": "ALAS2NITRO-ENCLAVES-2026-118 (important): containerd",
           "imageUrl": null
         },
         {
@@ -410,6 +430,16 @@
           "publishedOn": "2026-08-31T21:40:00.000Z",
           "wordCount": 366,
           "title": "ALAS2GIMP-2026-019 (important): gimp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
+          "author": null,
+          "description": "CVE-2026-60589, CVE-2026-61308, CVE-2026-70907",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
+          "publishedOn": "2026-08-31T21:39:00.000Z",
+          "wordCount": 720,
+          "title": "ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -723,16 +753,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
-          "author": null,
-          "description": "CVE-2026-60589, CVE-2026-61308, CVE-2026-70907",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
-          "publishedOn": "2026-08-31T21:39:00.000Z",
-          "wordCount": 720,
-          "title": "ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-134.html",
           "author": null,
           "description": "CVE-2026-56852",
@@ -799,6 +819,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 23 Sep 2026 18:38:29 GMT",
+          "author": null,
+          "description": "FortiPortal 7.4.12 B2264 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-09-23T18:38:29.000Z",
+          "wordCount": 3898,
+          "title": "FortiPortal 7.4.12",
+          "imageUrl": null
+        },
         {
           "id": "Mon, 21 Sep 2026 19:10:50 GMT",
           "author": null,
