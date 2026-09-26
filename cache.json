@@ -93,6 +93,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
+          "publishedOn": "2026-09-14T20:44:00.000Z",
+          "wordCount": 484,
+          "title": "ALAS2DOCKER-2026-141 (medium): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
+          "publishedOn": "2026-09-14T20:44:00.000Z",
+          "wordCount": 484,
+          "title": "ALAS2NITRO-ENCLAVES-2026-119 (medium): runc",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
           "author": null,
           "description": "CVE-2026-48521, CVE-2026-50572, CVE-2026-73511, CVE-2026-73512, CVE-2026-73513, CVE-2026-73546, CVE-2026-73547, CVE-2026-73548, CVE-2026-73549, CVE-2026-73550, CVE-2026-73551, CVE-2026-73552, CVE-2026-73553",
@@ -283,26 +303,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 484,
-          "title": "ALAS2NITRO-ENCLAVES-2026-119 (medium): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 484,
-          "title": "ALAS2DOCKER-2026-141 (medium): runc",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-020.html",
           "author": null,
           "description": "CVE-2026-18301, CVE-2026-18303, CVE-2026-18305, CVE-2026-80101, CVE-2026-82328, CVE-2026-82343",
@@ -323,13 +323,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-136.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-140.html",
           "author": null,
           "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-136.html",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-140.html",
           "publishedOn": "2026-09-10T02:27:00.000Z",
           "wordCount": 390,
-          "title": "ALAS2ECS-2026-136 (important): containerd",
+          "title": "ALAS2DOCKER-2026-140 (important): containerd",
           "imageUrl": null
         },
         {
@@ -343,13 +343,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-140.html",
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-136.html",
           "author": null,
           "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-140.html",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-136.html",
           "publishedOn": "2026-09-10T02:27:00.000Z",
           "wordCount": 390,
-          "title": "ALAS2DOCKER-2026-140 (important): containerd",
+          "title": "ALAS2ECS-2026-136 (important): containerd",
           "imageUrl": null
         },
         {
@@ -420,6 +420,16 @@
           "publishedOn": "2026-08-31T21:40:00.000Z",
           "wordCount": 366,
           "title": "ALAS2GIMP-2026-019 (important): gimp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
+          "author": null,
+          "description": "CVE-2026-60589, CVE-2026-61308, CVE-2026-70907",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
+          "publishedOn": "2026-08-31T21:39:00.000Z",
+          "wordCount": 720,
+          "title": "ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto",
           "imageUrl": null
         },
         {
@@ -753,16 +763,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
-          "author": null,
-          "description": "CVE-2026-60589, CVE-2026-61308, CVE-2026-70907",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2CORRETTO8-2026-025.html",
-          "publishedOn": "2026-08-31T21:39:00.000Z",
-          "wordCount": 720,
-          "title": "ALAS2CORRETTO8-2026-025 (medium): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-114.html",
           "author": null,
           "description": "CVE-2026-68480, CVE-2026-74580",
@@ -789,6 +789,26 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 25 Sep 2026 21:06:26 GMT",
+          "author": null,
+          "description": "FortiRecorder 7.6.1 B0398 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-09-25T21:06:26.000Z",
+          "wordCount": 3898,
+          "title": "FortiRecorder 7.6.1",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 25 Sep 2026 16:50:15 GMT",
+          "author": null,
+          "description": "FortiRecorder 7.2.12 B0323 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-09-25T16:50:15.000Z",
+          "wordCount": 3898,
+          "title": "FortiRecorder 7.2.12",
+          "imageUrl": null
+        },
         {
           "id": "Wed, 23 Sep 2026 18:38:29 GMT",
           "author": null,
