@@ -4,7 +4,18 @@
       "title": "UniFi Access Point | Releases | Ubiquiti Community",
       "feedUrl": "https://community.ui.com/rss/releases/UniFi-Access-Point-Switch/9fc3b2fa-9e73-449a-924f-470e79884470",
       "siteUrl": "https://community.ui.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "43d9ee85-eb78-4c21-92f8-5f3d7bcb6677",
+          "author": "UI-Edmundas",
+          "description": "Improvements\n\nAdded Multi-Link Operation support for Virtual Network Override.\nAdded support for RADIUS servers specified by FQDN.\nImproved access point stability.\n\nBugfixes\n\nFixed missing interference data in RF scan results.\nFixed incorrect EHT rate reporting in the Network application.\nFixed multicast traffic statistics showing zero in the Network application.\nFixed wireless uplink failing to reconnect after receiving a deauthentication.\nFixed MLO clients losing internet connectivity when using Dynamic VLANs.\nFixed 160 MHz channel support in India.\nFixed WiFi networks failing to broadcast after applying a WiFi network to all access points.\nFixed clients disconnecting when changing their IP address using Network Override.\nFixed WPA3-Enterprise Transition Mode preventing WPA2-Enterprise clients from connecting.\nFixed several Proxy ARP connectivity issues, including with PPSK networks.\nFixed transmit power settings not being honored by TPC.\nFixed 2.4 GHz DTIM settings not being applied correctly.\nFixed channel width and spatial stream settings not synchronizing with the uplink access point.\n\nAdditional information\nUpdate your devices by changing the Device Firmware Release Channel in the UniFi Network application to Release Candidate.\n\nIf you wish to go back to the Official release after the upgrade, change the release channel back to Official.\n\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nUniFi Console Support File (as private attachment)\nAP Support File (as private attachment)",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-for-U7-LR-8-0-77/43d9ee85-eb78-4c21-92f8-5f3d7bcb6677",
+          "publishedOn": "2026-10-02T13:59:21.000Z",
+          "wordCount": 8,
+          "title": "UniFi Access Point for U7-LR 8.0.77",
+          "imageUrl": "https://community.ui.com/images/og-image-2.jpg"
+        }
+      ]
     },
     {
       "title": "Amazon Linux AMI Security Bulletins",
@@ -82,16 +93,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-116.html",
-          "author": null,
-          "description": "CVE-2024-58240, CVE-2026-52977, CVE-2026-53089, CVE-2026-53090, CVE-2026-64192, CVE-2026-64294, CVE-2026-64562, CVE-2026-64563, CVE-2026-64564, CVE-2026-64567, CVE-2026-64572, CVE-2026-64576, CVE-2026-64579, CVE-2026-64581, CVE-2026-68082, CVE-2026-68096, CVE-2026-68123, CVE-2026-68127, CVE-2026-68131, CVE-2026-68132, CVE-2026-68138, CVE-2026-68142, CVE-2026-68146, CVE-2026-68153, CVE-2026-68154, CVE-2026-68155, CVE-2026-68156, CVE-2026-68157, CVE-2026-68158, CVE-2026-68159, CVE-2026-68160, CVE-2026-68162, CVE-2026-68184, CVE-2026-68186, CVE-2026-68243, CVE-2026-68244, CVE-2026-68248, CVE-2026-68253, CVE-2026-68254, CVE-2026-68277, CVE-2026-68278, CVE-2026-68279, CVE-2026-68284, CVE-2026-68299, CVE-2026-68300, CVE-2026-68315, CVE-2026-68320, CVE-2026-68322, CVE-2026-68325, CVE-2026-68335, …",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-116.html",
-          "publishedOn": "2026-09-28T21:45:00.000Z",
-          "wordCount": 4254,
-          "title": "ALAS2KERNEL-5.15-2026-116 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-132.html",
           "author": null,
           "description": "CVE-2026-64098, CVE-2026-64192, CVE-2026-64279, CVE-2026-68082, CVE-2026-68096, CVE-2026-68132, CVE-2026-68136, CVE-2026-68146, CVE-2026-68159, CVE-2026-68162, CVE-2026-68255, CVE-2026-68277, CVE-2026-68278, CVE-2026-68279, CVE-2026-72073, CVE-2026-72084, CVE-2026-72087, CVE-2026-72096, CVE-2026-72099, CVE-2026-72225, CVE-2026-72242, CVE-2026-72252, CVE-2026-72253, CVE-2026-72255, CVE-2026-72288, CVE-2026-72299, CVE-2026-72308, CVE-2026-72398, CVE-2026-72413, CVE-2026-72416, CVE-2026-72464, CVE-2026-74378, CVE-2026-74405, CVE-2026-74470, CVE-2026-74479, CVE-2026-74487, CVE-2026-74565, CVE-2026-74582, CVE-2026-74594, CVE-2026-74601, CVE-2026-74620, CVE-2026-74632, CVE-2026-74637, CVE-2026-74657, CVE-2026-74662, CVE-2026-74663, CVE-2026-74666, CVE-2026-74668, CVE-2026-74684, CVE-2026-74700, CVE-2026-74746, CVE-2026-74748, CVE-2026-80527, CVE-2026-80528, CVE-2026-80534, CVE-2026-80536, CVE-2026-80557, CVE-2026-80558, CVE-2026-80561, CVE-2026-80586, CVE-2026-80590, CVE-2026-80737, CVE-2026-80742, CVE-2026-80744, CVE-2026-80756, CVE-2026-80757, CVE-2026-80765, CVE-2026-80781, CVE-2026-80792, CVE-2026-80793, CVE-2026-80805, CVE-2026-80808, CVE-2026-80814, CVE-2026-80906, CVE-2026-80913, CVE-2026-80918",
@@ -99,6 +100,16 @@
           "publishedOn": "2026-09-28T21:45:00.000Z",
           "wordCount": 1942,
           "title": "ALAS2KERNEL-5.10-2026-132 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-116.html",
+          "author": null,
+          "description": "CVE-2024-58240, CVE-2026-52977, CVE-2026-53089, CVE-2026-53090, CVE-2026-64192, CVE-2026-64294, CVE-2026-64562, CVE-2026-64563, CVE-2026-64564, CVE-2026-64567, CVE-2026-64572, CVE-2026-64576, CVE-2026-64579, CVE-2026-64581, CVE-2026-68082, CVE-2026-68096, CVE-2026-68123, CVE-2026-68127, CVE-2026-68131, CVE-2026-68132, CVE-2026-68138, CVE-2026-68142, CVE-2026-68146, CVE-2026-68153, CVE-2026-68154, CVE-2026-68155, CVE-2026-68156, CVE-2026-68157, CVE-2026-68158, CVE-2026-68159, CVE-2026-68160, CVE-2026-68162, CVE-2026-68184, CVE-2026-68186, CVE-2026-68243, CVE-2026-68244, CVE-2026-68248, CVE-2026-68253, CVE-2026-68254, CVE-2026-68277, CVE-2026-68278, CVE-2026-68279, CVE-2026-68284, CVE-2026-68299, CVE-2026-68300, CVE-2026-68315, CVE-2026-68320, CVE-2026-68322, CVE-2026-68325, CVE-2026-68335, …",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-116.html",
+          "publishedOn": "2026-09-28T21:45:00.000Z",
+          "wordCount": 4254,
+          "title": "ALAS2KERNEL-5.15-2026-116 (important): kernel",
           "imageUrl": null
         },
         {
@@ -482,16 +493,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-115.html",
-          "author": null,
-          "description": "CVE-2026-81000",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-115.html",
-          "publishedOn": "2026-09-24T00:50:00.000Z",
-          "wordCount": 268,
-          "title": "ALAS2KERNEL-5.15-2026-115 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-131.html",
           "author": null,
           "description": "CVE-2026-80844, CVE-2026-81000",
@@ -499,6 +500,16 @@
           "publishedOn": "2026-09-24T00:50:00.000Z",
           "wordCount": 286,
           "title": "ALAS2KERNEL-5.10-2026-131 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-115.html",
+          "author": null,
+          "description": "CVE-2026-81000",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-115.html",
+          "publishedOn": "2026-09-24T00:50:00.000Z",
+          "wordCount": 268,
+          "title": "ALAS2KERNEL-5.15-2026-115 (important): kernel",
           "imageUrl": null
         },
         {
@@ -549,26 +560,6 @@
           "publishedOn": "2026-09-14T20:45:00.000Z",
           "wordCount": 901,
           "title": "ALAS2LIBREOFFICE-2026-009 (medium): libreoffice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 484,
-          "title": "ALAS2DOCKER-2026-141 (medium): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
-          "author": null,
-          "description": "CVE-2026-48521, CVE-2026-50572, CVE-2026-73511, CVE-2026-73512, CVE-2026-73513, CVE-2026-73546, CVE-2026-73547, CVE-2026-73548, CVE-2026-73549, CVE-2026-73550, CVE-2026-73551, CVE-2026-73552, CVE-2026-73553",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 620,
-          "title": "ALAS2ECS-2026-137 (important): ecs-service-connect-agent",
           "imageUrl": null
         },
         {
@@ -762,6 +753,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
+          "author": null,
+          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
+          "publishedOn": "2026-09-14T20:44:00.000Z",
+          "wordCount": 484,
+          "title": "ALAS2DOCKER-2026-141 (medium): runc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
+          "author": null,
+          "description": "CVE-2026-48521, CVE-2026-50572, CVE-2026-73511, CVE-2026-73512, CVE-2026-73513, CVE-2026-73546, CVE-2026-73547, CVE-2026-73548, CVE-2026-73549, CVE-2026-73550, CVE-2026-73551, CVE-2026-73552, CVE-2026-73553",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
+          "publishedOn": "2026-09-14T20:44:00.000Z",
+          "wordCount": 620,
+          "title": "ALAS2ECS-2026-137 (important): ecs-service-connect-agent",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-020.html",
           "author": null,
           "description": "CVE-2026-18301, CVE-2026-18303, CVE-2026-18305, CVE-2026-80101, CVE-2026-82328, CVE-2026-82343",
@@ -782,6 +793,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
+          "author": null,
+          "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
+          "publishedOn": "2026-09-10T02:27:00.000Z",
+          "wordCount": 390,
+          "title": "ALAS2NITRO-ENCLAVES-2026-118 (important): containerd",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-140.html",
           "author": null,
           "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
@@ -799,16 +820,6 @@
           "publishedOn": "2026-09-10T02:27:00.000Z",
           "wordCount": 390,
           "title": "ALAS2ECS-2026-136 (important): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
-          "author": null,
-          "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-118.html",
-          "publishedOn": "2026-09-10T02:27:00.000Z",
-          "wordCount": 390,
-          "title": "ALAS2NITRO-ENCLAVES-2026-118 (important): containerd",
           "imageUrl": null
         },
         {
@@ -838,6 +849,36 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Fri, 2 Oct 2026 23:04:33 GMT",
+          "author": null,
+          "description": "FortiAuthenticator 8.0.4 B0187 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-10-02T23:04:33.000Z",
+          "wordCount": 3898,
+          "title": "FortiAuthenticator 8.0.4",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 2 Oct 2026 23:00:13 GMT",
+          "author": null,
+          "description": "FortiNACAgent 7.6.5 B0062 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-10-02T23:00:13.000Z",
+          "wordCount": 3898,
+          "title": "FortiNACAgent 7.6.5",
+          "imageUrl": null
+        },
+        {
+          "id": "Fri, 2 Oct 2026 19:45:32 GMT",
+          "author": null,
+          "description": "FortiSandbox 5.2.2 B0319 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-10-02T19:45:32.000Z",
+          "wordCount": 3898,
+          "title": "FortiSandbox 5.2.2",
+          "imageUrl": null
+        },
         {
           "id": "Fri, 25 Sep 2026 21:06:26 GMT",
           "author": null,
@@ -986,16 +1027,6 @@
           "publishedOn": "2026-09-03T19:55:43.000Z",
           "wordCount": 3898,
           "title": "FortiNDR 7.6.5",
-          "imageUrl": null
-        },
-        {
-          "id": "Wed, 2 Sep 2026 21:20:24 GMT",
-          "author": null,
-          "description": "FortiSIEMWindowsAgent 7.6.0 B0918 and release notes are available for download from the Support site : https://support.fortinet.com",
-          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
-          "publishedOn": "2026-09-02T21:20:24.000Z",
-          "wordCount": 3898,
-          "title": "FortiSIEMWindowsAgent 7.6.0",
           "imageUrl": null
         }
       ]
