@@ -6,6 +6,16 @@
       "siteUrl": "https://community.ui.com",
       "articles": [
         {
+          "id": "b094108a-0606-49f3-9c28-cf0a7bc56347",
+          "author": "UI-Edmundas",
+          "description": "Overview\n\n\nU6 is joining the same software feature track as U7. Going forward, U6 devices will receive the same applicable software features, improvements, and fixes, while hardware-specific capabilities remain dependent on the AP model.\n\n\nNew Features:\nU7 access points now support mesh links using 5 GHz and 6 GHz Multi-Link Operation (MLO) STR.\n\n\n\n\n\nAdded Multicast Suppression for WiFi networks.\n\nImprovements\n\nAdded Mesh Uplink Roaming - mesh access points now seamlessly switch to a better uplink.\nAdded support for RADIUS servers specified by FQDN.\nImproved background neighbor scanning to reduce client latency spikes.\nImproved firmware update and boot reliability.\nUpdated 6 GHz regulatory for Australia, Bangladesh, Bermuda, Iraq, Nigeria, North Macedonia, Paraguay and South Korea.\nImprove…",
+          "link": "https://community.ui.com/releases/UniFi-Access-Point-and-Wireless-Bridge-8-8-11/b094108a-0606-49f3-9c28-cf0a7bc56347",
+          "publishedOn": "2026-10-14T16:29:12.000Z",
+          "wordCount": 8,
+          "title": "UniFi Access Point & Wireless Bridge 8.8.11",
+          "imageUrl": "https://community.ui.com/images/og-image.png"
+        },
+        {
           "id": "2dd402b1-3510-41fb-98fe-28a7ffe71ff8",
           "author": "UI-Edmundas",
           "description": "Overview\nThis is initial release for U7 Industrial.\nAdditional information\nIf you encounter any issues with this release, please provide us with some details on your setup and include the below information:\n\nAP model(s)\nPrevious AP release version\nUniFi Network application version\nUniFi Console Support File (as private attachment)\nAP Support File (as private attachment)",
@@ -32,6 +42,56 @@
       "feedUrl": "https://alas.aws.amazon.com/AL2/alas.rss",
       "siteUrl": "https://alas.aws.amazon.com",
       "articles": [
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2UNBOUND-1.17-2026-012.html",
+          "author": null,
+          "description": "",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2UNBOUND-1.17-2026-012.html",
+          "publishedOn": "2026-10-14T02:47:00.000Z",
+          "wordCount": 338,
+          "title": "ALAS2UNBOUND-1.17-2026-012 (important): unbound",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2DNSMASQ-2026-005.html",
+          "author": null,
+          "description": "",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2DNSMASQ-2026-005.html",
+          "publishedOn": "2026-10-14T02:46:00.000Z",
+          "wordCount": 328,
+          "title": "ALAS2DNSMASQ-2026-005 (important): dnsmasq",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-4000.html",
+          "author": null,
+          "description": "",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-4000.html",
+          "publishedOn": "2026-10-14T02:45:00.000Z",
+          "wordCount": 328,
+          "title": "ALAS2-2026-4000 (important): unbound",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-4001.html",
+          "author": null,
+          "description": "",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-4001.html",
+          "publishedOn": "2026-10-14T02:45:00.000Z",
+          "wordCount": 359,
+          "title": "ALAS2-2026-4001 (important): bind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-4002.html",
+          "author": null,
+          "description": "",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-4002.html",
+          "publishedOn": "2026-10-14T02:45:00.000Z",
+          "wordCount": 319,
+          "title": "ALAS2-2026-4002 (important): dnsmasq",
+          "imageUrl": null
+        },
         {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2PHP8.2-2026-014.html",
           "author": null,
@@ -200,6 +260,46 @@
           "publishedOn": "2026-10-12T23:31:00.000Z",
           "wordCount": 292,
           "title": "ALAS2MOCK2-2026-002 (important): rpm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-120.html",
+          "author": null,
+          "description": "CVE-2026-53495",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-120.html",
+          "publishedOn": "2026-10-12T23:30:00.000Z",
+          "wordCount": 348,
+          "title": "ALAS2NITRO-ENCLAVES-2026-120 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-121.html",
+          "author": null,
+          "description": "CVE-2026-39822, CVE-2026-42505",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-121.html",
+          "publishedOn": "2026-10-12T23:30:00.000Z",
+          "wordCount": 303,
+          "title": "ALAS2NITRO-ENCLAVES-2026-121 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-122.html",
+          "author": null,
+          "description": "CVE-2026-39822, CVE-2026-42505",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-122.html",
+          "publishedOn": "2026-10-12T23:30:00.000Z",
+          "wordCount": 303,
+          "title": "ALAS2NITRO-ENCLAVES-2026-122 (medium): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-123.html",
+          "author": null,
+          "description": "CVE-2026-39822, CVE-2026-42505",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-123.html",
+          "publishedOn": "2026-10-12T23:30:00.000Z",
+          "wordCount": 303,
+          "title": "ALAS2NITRO-ENCLAVES-2026-123 (medium): oci-add-hooks",
           "imageUrl": null
         },
         {
@@ -540,46 +640,6 @@
           "publishedOn": "2026-10-12T23:30:00.000Z",
           "wordCount": 525,
           "title": "ALAS2-2026-3998 (important): libsoup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-120.html",
-          "author": null,
-          "description": "CVE-2026-53495",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-120.html",
-          "publishedOn": "2026-10-12T23:30:00.000Z",
-          "wordCount": 348,
-          "title": "ALAS2NITRO-ENCLAVES-2026-120 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-121.html",
-          "author": null,
-          "description": "CVE-2026-39822, CVE-2026-42505",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-121.html",
-          "publishedOn": "2026-10-12T23:30:00.000Z",
-          "wordCount": 303,
-          "title": "ALAS2NITRO-ENCLAVES-2026-121 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-122.html",
-          "author": null,
-          "description": "CVE-2026-39822, CVE-2026-42505",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-122.html",
-          "publishedOn": "2026-10-12T23:30:00.000Z",
-          "wordCount": 303,
-          "title": "ALAS2NITRO-ENCLAVES-2026-122 (medium): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-123.html",
-          "author": null,
-          "description": "CVE-2026-39822, CVE-2026-42505",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-123.html",
-          "publishedOn": "2026-10-12T23:30:00.000Z",
-          "wordCount": 303,
-          "title": "ALAS2NITRO-ENCLAVES-2026-123 (medium): oci-add-hooks",
           "imageUrl": null
         },
         {
@@ -1121,246 +1181,6 @@
           "wordCount": 294,
           "title": "ALAS2-2026-3928 (critical): unbound",
           "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2LIBREOFFICE-2026-009.html",
-          "author": null,
-          "description": "CVE-2026-6039, CVE-2026-6045, CVE-2026-8356, CVE-2026-8357, CVE-2026-8358",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2LIBREOFFICE-2026-009.html",
-          "publishedOn": "2026-09-14T20:45:00.000Z",
-          "wordCount": 901,
-          "title": "ALAS2LIBREOFFICE-2026-009 (medium): libreoffice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
-          "author": null,
-          "description": "CVE-2026-48521, CVE-2026-50572, CVE-2026-73511, CVE-2026-73512, CVE-2026-73513, CVE-2026-73546, CVE-2026-73547, CVE-2026-73548, CVE-2026-73549, CVE-2026-73550, CVE-2026-73551, CVE-2026-73552, CVE-2026-73553",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2ECS-2026-137.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 620,
-          "title": "ALAS2ECS-2026-137 (important): ecs-service-connect-agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3901.html",
-          "author": null,
-          "description": "CVE-2026-64612",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3901.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 275,
-          "title": "ALAS2-2026-3901 (medium): cups-filters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3902.html",
-          "author": null,
-          "description": "CVE-2026-63383, CVE-2026-63384",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3902.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 366,
-          "title": "ALAS2-2026-3902 (important): libevent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3903.html",
-          "author": null,
-          "description": "CVE-2026-10722, CVE-2026-39822, CVE-2026-42505, CVE-2026-47262",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3903.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 379,
-          "title": "ALAS2-2026-3903 (medium): nerdctl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3904.html",
-          "author": null,
-          "description": "CVE-2026-78002",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3904.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 313,
-          "title": "ALAS2-2026-3904 (important): rsyslog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3905.html",
-          "author": null,
-          "description": "CVE-2026-76879, CVE-2026-76886",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3905.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 249,
-          "title": "ALAS2-2026-3905 (important): wireshark",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3906.html",
-          "author": null,
-          "description": "CVE-2026-63652",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3906.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 307,
-          "title": "ALAS2-2026-3906 (medium): freerdp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3907.html",
-          "author": null,
-          "description": "CVE-2026-54874, CVE-2026-63072",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3907.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 815,
-          "title": "ALAS2-2026-3907 (important): openssl11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3908.html",
-          "author": null,
-          "description": "CVE-2026-54874, CVE-2026-63072",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3908.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 807,
-          "title": "ALAS2-2026-3908 (important): edk2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3910.html",
-          "author": null,
-          "description": "CVE-2026-18917",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3910.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 359,
-          "title": "ALAS2-2026-3910 (important): libvirt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3911.html",
-          "author": null,
-          "description": "CVE-2026-18300",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3911.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 307,
-          "title": "ALAS2-2026-3911 (important): gegl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3912.html",
-          "author": null,
-          "description": "CVE-2026-18298",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3912.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 308,
-          "title": "ALAS2-2026-3912 (important): gstreamer1-plugins-good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3913.html",
-          "author": null,
-          "description": "CVE-2026-18296",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3913.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 306,
-          "title": "ALAS2-2026-3913 (important): gstreamer-plugins-good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3917.html",
-          "author": null,
-          "description": "CVE-2026-64715, CVE-2026-64779, CVE-2026-64780, CVE-2026-64784, CVE-2026-65331, CVE-2026-65333, CVE-2026-65334, CVE-2026-65335, CVE-2026-65336, CVE-2026-65337, CVE-2026-65338, CVE-2026-65340, CVE-2026-65341, CVE-2026-78376, CVE-2026-83596",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3917.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 823,
-          "title": "ALAS2-2026-3917 (important): webkitgtk4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3918.html",
-          "author": null,
-          "description": "CVE-2026-63676",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3918.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 212,
-          "title": "ALAS2-2026-3918 (important): perl-YAML",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3919.html",
-          "author": null,
-          "description": "CVE-2026-54874, CVE-2026-63072",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3919.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 818,
-          "title": "ALAS2-2026-3919 (important): openssl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3920.html",
-          "author": null,
-          "description": "CVE-2026-54789",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3920.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 303,
-          "title": "ALAS2-2026-3920 (important): mod_auth_openidc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3921.html",
-          "author": null,
-          "description": "CVE-2026-52490, CVE-2026-52491, CVE-2026-52492",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3921.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 293,
-          "title": "ALAS2-2026-3921 (important): libtiff",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3922.html",
-          "author": null,
-          "description": "CVE-2026-18297",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3922.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 311,
-          "title": "ALAS2-2026-3922 (important): gstreamer1-plugins-base",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-119.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 484,
-          "title": "ALAS2NITRO-ENCLAVES-2026-119 (medium): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
-          "author": null,
-          "description": "CVE-2026-27145, CVE-2026-39822, CVE-2026-41579, CVE-2026-42504, CVE-2026-42505, CVE-2026-42507",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-141.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 484,
-          "title": "ALAS2DOCKER-2026-141 (medium): runc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-020.html",
-          "author": null,
-          "description": "CVE-2026-18301, CVE-2026-18303, CVE-2026-18305, CVE-2026-80101, CVE-2026-82328, CVE-2026-82343",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2GIMP-2026-020.html",
-          "publishedOn": "2026-09-14T20:44:00.000Z",
-          "wordCount": 741,
-          "title": "ALAS2GIMP-2026-020 (important): gimp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2OPENSSL-SNAPSAFE-2026-012.html",
-          "author": null,
-          "description": "CVE-2026-54874, CVE-2026-63072",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2OPENSSL-SNAPSAFE-2026-012.html",
-          "publishedOn": "2026-09-14T20:43:00.000Z",
-          "wordCount": 830,
-          "title": "ALAS2OPENSSL-SNAPSAFE-2026-012 (important): openssl-snapsafe",
-          "imageUrl": null
         }
       ]
     },
@@ -1369,6 +1189,16 @@
       "feedUrl": "https://pub.kb.fortinet.com/rss/firmware.xml",
       "siteUrl": "http://support.fortinet.com/",
       "articles": [
+        {
+          "id": "Wed, 14 Oct 2026 22:58:17 GMT",
+          "author": null,
+          "description": "FortiIsolator 3.0.2 B0168 and release notes are available for download from the Support site : https://support.fortinet.com",
+          "link": "https://support.fortinet.com/EndUser/FirmwareImages.aspx",
+          "publishedOn": "2026-10-14T22:58:17.000Z",
+          "wordCount": 3898,
+          "title": "FortiIsolator 3.0.2",
+          "imageUrl": null
+        },
         {
           "id": "Tue, 13 Oct 2026 16:45:04 GMT",
           "author": null,
