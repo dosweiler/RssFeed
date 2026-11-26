@@ -11,9 +11,9 @@
           "description": "Overview\nThis release is promoted to Official/Stable release channel for these models:\n\n\nU7-Lite, U7-In-Wall, U7-Mesh, U7-Industrial, UDB-Switch, AirWire, U6-Mesh, U6-Mesh-Pro, U6-Enterprise-IW, U6-IW - November 12, 2026\n\nU7-Pro, U7-Pro-Max, U7-Pro-Wall, U7-Pro-XG, U7-Pro-XGS, U7-Pro-XG-Wall, U7-Outdoor, U7-Pro-Outdoor, E7, E7-Campus, E7-Audience - November 18, 2026\n\n\nU6 is joining the same software feature track as U7. Going forward, U6 devices will receive the same applicable software features, improvements, and fixes, while hardware-specific capabilities remain dependent on the AP model.\n\n\nNew Features:\nU7 access points now support mesh links using 5 GHz and 6 GHz Multi-Link Operation (MLO) STR.\n\n\n\n\n\nAdded Multicast Suppression for WiFi networks.\n\nImprovements\n\nAdded Mesh Uplink Roaming…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-and-Wireless-Bridge-8-8-14/10247e29-044d-48b2-9e83-e7c5fb17305a",
           "publishedOn": "2026-11-03T16:43:39.000Z",
-          "wordCount": 8,
+          "wordCount": 6,
           "title": "UniFi Access Point & Wireless Bridge 8.8.14",
-          "imageUrl": "https://community.ui.com/images/og-image.png"
+          "imageUrl": null
         },
         {
           "id": "35a517b8-0a2d-4c7f-8e60-cdf5936b9f2d",
@@ -21,9 +21,9 @@
           "description": "Overview\n\n\nU6 is joining the same software feature track as U7. Going forward, U6 devices will receive the same applicable software features, improvements, and fixes, while hardware-specific capabilities remain dependent on the AP model.\n\n\nNew Features:\nU7 access points now support mesh links using 5 GHz and 6 GHz Multi-Link Operation (MLO) STR.\n\n\n\n\n\nAdded Multicast Suppression for WiFi networks.\n\nImprovements\n\nAdded Mesh Uplink Roaming - mesh access points now seamlessly switch to a better uplink.\nAdded support for RADIUS servers specified by FQDN.\nImproved background neighbor scanning to reduce client latency spikes.\nImproved firmware update and boot reliability.\nUpdated 6 GHz regulatory for Australia, Bangladesh, Bermuda, Iraq, Nigeria, North Macedonia, Paraguay and South Korea.\nImprove…",
           "link": "https://community.ui.com/releases/UniFi-Access-Point-and-Wireless-Bridge-8-8-13/35a517b8-0a2d-4c7f-8e60-cdf5936b9f2d",
           "publishedOn": "2026-10-28T12:22:11.000Z",
-          "wordCount": 8,
+          "wordCount": 6,
           "title": "UniFi Access Point & Wireless Bridge 8.8.13",
-          "imageUrl": "https://community.ui.com/images/og-image.png"
+          "imageUrl": null
         }
       ]
     },
@@ -100,6 +100,16 @@
           "publishedOn": "2026-11-19T16:04:00.000Z",
           "wordCount": 542,
           "title": "ALAS2LIBREOFFICE-2026-011 (important): libreoffice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-136.html",
+          "author": null,
+          "description": "CVE-2026-93599, CVE-2026-93657",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-136.html",
+          "publishedOn": "2026-11-19T16:03:00.000Z",
+          "wordCount": 411,
+          "title": "ALAS2NITRO-ENCLAVES-2026-136 (important): aws-nitro-enclaves-cli",
           "imageUrl": null
         },
         {
@@ -293,16 +303,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-136.html",
-          "author": null,
-          "description": "CVE-2026-93599, CVE-2026-93657",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-136.html",
-          "publishedOn": "2026-11-19T16:03:00.000Z",
-          "wordCount": 411,
-          "title": "ALAS2NITRO-ENCLAVES-2026-136 (important): aws-nitro-enclaves-cli",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2NGINX1-2026-018.html",
           "author": null,
           "description": "CVE-2026-113425, CVE-2026-118899, CVE-2026-120967, CVE-2026-121810, CVE-2026-123007, CVE-2026-123633, CVE-2026-123634, CVE-2026-123640, CVE-2026-125283",
@@ -370,6 +370,26 @@
           "publishedOn": "2026-11-17T23:09:00.000Z",
           "wordCount": 610,
           "title": "ALAS2KERNEL-5.4-2026-138 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-134.html",
+          "author": null,
+          "description": "CVE-2026-116591, CVE-2026-121520, CVE-2026-61711, CVE-2026-61712, CVE-2026-75593",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-134.html",
+          "publishedOn": "2026-11-17T23:08:00.000Z",
+          "wordCount": 621,
+          "title": "ALAS2NITRO-ENCLAVES-2026-134 (important): docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-135.html",
+          "author": null,
+          "description": "CVE-2026-116585, CVE-2026-116586, CVE-2026-116587, CVE-2026-116591, CVE-2026-78661, CVE-2026-97045",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-135.html",
+          "publishedOn": "2026-11-17T23:08:00.000Z",
+          "wordCount": 759,
+          "title": "ALAS2NITRO-ENCLAVES-2026-135 (important): containerd",
           "imageUrl": null
         },
         {
@@ -480,26 +500,6 @@
           "publishedOn": "2026-11-17T23:08:00.000Z",
           "wordCount": 803,
           "title": "ALAS2-2026-4127 (important): nerdctl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-134.html",
-          "author": null,
-          "description": "CVE-2026-116591, CVE-2026-121520, CVE-2026-61711, CVE-2026-61712, CVE-2026-75593",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-134.html",
-          "publishedOn": "2026-11-17T23:08:00.000Z",
-          "wordCount": 621,
-          "title": "ALAS2NITRO-ENCLAVES-2026-134 (important): docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-135.html",
-          "author": null,
-          "description": "CVE-2026-116585, CVE-2026-116586, CVE-2026-116587, CVE-2026-116591, CVE-2026-78661, CVE-2026-97045",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-135.html",
-          "publishedOn": "2026-11-17T23:08:00.000Z",
-          "wordCount": 759,
-          "title": "ALAS2NITRO-ENCLAVES-2026-135 (important): containerd",
           "imageUrl": null
         },
         {
@@ -833,16 +833,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-138.html",
-          "author": null,
-          "description": "CVE-2026-72318, CVE-2026-74752, CVE-2026-89530, CVE-2026-89633, CVE-2026-89659, CVE-2026-89912, CVE-2026-90036, CVE-2026-97563, CVE-2026-98167, CVE-2026-98365, CVE-2026-98454, CVE-2026-98715, CVE-2026-98805, CVE-2026-98846, CVE-2026-99053, CVE-2026-99082, CVE-2026-99284",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-138.html",
-          "publishedOn": "2026-11-09T22:34:00.000Z",
-          "wordCount": 610,
-          "title": "ALAS2KERNEL-5.10-2026-138 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-136.html",
           "author": null,
           "description": "CVE-2026-72435, CVE-2026-99284",
@@ -850,6 +840,16 @@
           "publishedOn": "2026-11-09T22:34:00.000Z",
           "wordCount": 296,
           "title": "ALAS2KERNEL-5.4-2026-136 (medium): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-138.html",
+          "author": null,
+          "description": "CVE-2026-72318, CVE-2026-74752, CVE-2026-89530, CVE-2026-89633, CVE-2026-89659, CVE-2026-89912, CVE-2026-90036, CVE-2026-97563, CVE-2026-98167, CVE-2026-98365, CVE-2026-98454, CVE-2026-98715, CVE-2026-98805, CVE-2026-98846, CVE-2026-99053, CVE-2026-99082, CVE-2026-99284",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-138.html",
+          "publishedOn": "2026-11-09T22:34:00.000Z",
+          "wordCount": 610,
+          "title": "ALAS2KERNEL-5.10-2026-138 (important): kernel",
           "imageUrl": null
         },
         {
@@ -880,6 +880,16 @@
           "publishedOn": "2026-11-09T22:34:00.000Z",
           "wordCount": 345,
           "title": "ALAS2MOCK2-2026-004 (important): compat-rpm-411",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-133.html",
+          "author": null,
+          "description": "CVE-2026-71482, CVE-2026-78661, CVE-2026-93318, CVE-2026-97045",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-133.html",
+          "publishedOn": "2026-11-09T22:33:00.000Z",
+          "wordCount": 567,
+          "title": "ALAS2NITRO-ENCLAVES-2026-133 (important): docker",
           "imageUrl": null
         },
         {
@@ -1113,16 +1123,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-133.html",
-          "author": null,
-          "description": "CVE-2026-71482, CVE-2026-78661, CVE-2026-93318, CVE-2026-97045",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-133.html",
-          "publishedOn": "2026-11-09T22:33:00.000Z",
-          "wordCount": 567,
-          "title": "ALAS2NITRO-ENCLAVES-2026-133 (important): docker",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2DOCKER-2026-156.html",
           "author": null,
           "description": "CVE-2026-111943",
@@ -1223,16 +1223,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-137.html",
-          "author": null,
-          "description": "CVE-2026-98432",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-137.html",
-          "publishedOn": "2026-10-30T23:20:00.000Z",
-          "wordCount": 273,
-          "title": "ALAS2KERNEL-5.10-2026-137 (important): kernel",
-          "imageUrl": null
-        },
-        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.4-2026-135.html",
           "author": null,
           "description": "CVE-2026-98432",
@@ -1243,6 +1233,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-137.html",
+          "author": null,
+          "description": "CVE-2026-98432",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.10-2026-137.html",
+          "publishedOn": "2026-10-30T23:20:00.000Z",
+          "wordCount": 273,
+          "title": "ALAS2KERNEL-5.10-2026-137 (important): kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://alas.aws.amazon.com/AL2/ALAS2KERNEL-5.15-2026-120.html",
           "author": null,
           "description": "CVE-2026-98432",
@@ -1250,6 +1250,36 @@
           "publishedOn": "2026-10-30T23:20:00.000Z",
           "wordCount": 273,
           "title": "ALAS2KERNEL-5.15-2026-120 (important): kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-130.html",
+          "author": null,
+          "description": "CVE-2026-111943",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-130.html",
+          "publishedOn": "2026-10-30T23:19:00.000Z",
+          "wordCount": 339,
+          "title": "ALAS2NITRO-ENCLAVES-2026-130 (medium): containerd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-131.html",
+          "author": null,
+          "description": "CVE-2026-111943",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-131.html",
+          "publishedOn": "2026-10-30T23:19:00.000Z",
+          "wordCount": 337,
+          "title": "ALAS2NITRO-ENCLAVES-2026-131 (medium): amazon-ecr-credential-helper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-132.html",
+          "author": null,
+          "description": "CVE-2026-111943",
+          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-132.html",
+          "publishedOn": "2026-10-30T23:19:00.000Z",
+          "wordCount": 337,
+          "title": "ALAS2NITRO-ENCLAVES-2026-132 (medium): oci-add-hooks",
           "imageUrl": null
         },
         {
@@ -1490,36 +1520,6 @@
           "publishedOn": "2026-10-30T23:19:00.000Z",
           "wordCount": 429,
           "title": "ALAS2CORRETTO8-2026-027 (important): java-1.8.0-amazon-corretto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-130.html",
-          "author": null,
-          "description": "CVE-2026-111943",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-130.html",
-          "publishedOn": "2026-10-30T23:19:00.000Z",
-          "wordCount": 339,
-          "title": "ALAS2NITRO-ENCLAVES-2026-130 (medium): containerd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-131.html",
-          "author": null,
-          "description": "CVE-2026-111943",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-131.html",
-          "publishedOn": "2026-10-30T23:19:00.000Z",
-          "wordCount": 337,
-          "title": "ALAS2NITRO-ENCLAVES-2026-131 (medium): amazon-ecr-credential-helper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-132.html",
-          "author": null,
-          "description": "CVE-2026-111943",
-          "link": "https://alas.aws.amazon.com/AL2/ALAS2NITRO-ENCLAVES-2026-132.html",
-          "publishedOn": "2026-10-30T23:19:00.000Z",
-          "wordCount": 337,
-          "title": "ALAS2NITRO-ENCLAVES-2026-132 (medium): oci-add-hooks",
           "imageUrl": null
         },
         {
